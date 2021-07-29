@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace API_Football.SDK.Models
+﻿namespace API_Football.SDK.Models
 {
     public class Coverage
     {
@@ -15,6 +11,5 @@ namespace API_Football.SDK.Models
         public bool Injuries { get; set; }
         public bool Predictions { get; set; }
         public bool Odds { get; set; }
-
     }
 }

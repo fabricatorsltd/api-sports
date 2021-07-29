@@ -13,12 +13,7 @@ namespace API_Football.SDK
         public Dictionary<string, string> Parameters { get; set; }
         public Dictionary<string, string> Errors { get; set; }
         public uint Results { get; set; }
+        public Models.Paging Paging { get; set; }
         public List<T> Response { get; set; }
-    }
-
-    public class Paging
-    {
-        public ushort Current { get; set; }
-        public ushort Total { get; set; }
     }
 }

@@ -1,6 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace API_Football.SDK.Models
 {
@@ -19,20 +17,5 @@ namespace API_Football.SDK.Models
         public StandingStatistics Away { get; set; }
 
         public DateTime Update { get; set; }
-    }
-
-    public class StandingStatistics
-    {
-        public ushort Played { get; set; }
-        public ushort Win { get; set; }
-        public ushort Draw { get; set; }
-        public ushort Lose { get; set; }
-        public StandingGoals Goals { get; set; }
-    }
-
-    public class StandingGoals
-    {
-        public ushort For { get; set; }
-        public ushort Agains { get; set; }
     }
 }

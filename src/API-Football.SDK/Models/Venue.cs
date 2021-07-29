@@ -1,5 +1,4 @@
-﻿
-namespace API_Football.SDK.Models
+﻿namespace API_Football.SDK.Models
 {
     public class Venue
     {
