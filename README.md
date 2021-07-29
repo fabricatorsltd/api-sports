@@ -10,5 +10,5 @@ Our [official website](https://fabricators.ltd/?ref=github)
 API Football [official website](https://api-football.com/?ref=fabricatorsltd)
 
 ## Currently supported SDK(s)
-[*] API Football
-[] API Formula 1
+- [x] API Football
+- [ ] API Formula 1
