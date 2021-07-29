@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31424.327
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API-Football.SDK", "API-Football.SDK\API-Football.SDK.csproj", "{F52C4375-9439-4DE3-A88F-0E9282D60F7B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "API-Football.SDK", "API-Football.SDK\API-Football.SDK.csproj", "{F52C4375-9439-4DE3-A88F-0E9282D60F7B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
