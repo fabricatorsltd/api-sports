@@ -1,7 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.Net;
-using System.Text;
 
 namespace API_Football.SDK
 {
@@ -14,7 +12,13 @@ namespace API_Football.SDK
         public string Get { get; set; }
         public Dictionary<string, string> Parameters { get; set; }
         public Dictionary<string, string> Errors { get; set; }
-        public int Results { get; set; }
+        public uint Results { get; set; }
         public List<T> Response { get; set; }
+    }
+
+    public class Paging
+    {
+        public ushort Current { get; set; }
+        public ushort Total { get; set; }
     }
 }

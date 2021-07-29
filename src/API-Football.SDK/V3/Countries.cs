@@ -1,17 +1,14 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+﻿using System.Collections.Generic;
 
 namespace API_Football.SDK.V3
 {
-    public class Countries
+    public static class Countries
     {
         private const string BasePath = "countries";
-        private readonly Client _client = new Client();
 
-        public ApiResponse<List<Models.Country>> Get()
+        public static ApiResponse<List<Models.Country>> GetCountries(this Instance instance)
         {
-            return _client.Get<List<Models.Country>>(BasePath);
+            return instance.DoCall<List<Models.Country>>(BasePath);
         }
     }
 }

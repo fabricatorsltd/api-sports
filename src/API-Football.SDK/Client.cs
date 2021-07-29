@@ -4,7 +4,7 @@ using System.Net;
 
 namespace API_Football.SDK
 {
-    public class Client
+    internal class Client
     {
         public ApiResponse<T> Get<T>(string endpoint)
         {
