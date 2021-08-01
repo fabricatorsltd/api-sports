@@ -5,7 +5,12 @@ namespace API_Football.SDK.V3
     public class Instance
     {
         private const string BasePath = "status";
-        private readonly Client _client = new Client();
+        private readonly Client _client;
+
+        public Instance(string apiKey)
+        {
+            _client = new Client(apiKey);
+        }
 
         internal ApiResponse<T> DoCall<T>(string path)
         {

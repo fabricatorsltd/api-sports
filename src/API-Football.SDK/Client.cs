@@ -6,6 +6,11 @@ namespace API_Football.SDK
 {
     internal class Client
     {
+        public Client(string apiKey)
+        {
+            Globals.ApiKey = apiKey;
+        }
+
         public ApiResponse<T> Get<T>(string endpoint)
         {
             using var client = new WebClient();
