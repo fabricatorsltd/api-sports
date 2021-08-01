@@ -2,7 +2,7 @@
 {
     public class Player
     {
-        public ushort Id { get; set; }
+        public uint? Id { get; set; }
         public string Name { get; set; }
         public string Photo { get; set; }
         public string Type { get; set; }
