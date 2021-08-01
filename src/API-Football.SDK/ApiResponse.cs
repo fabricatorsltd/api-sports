@@ -1,4 +1,5 @@
-﻿using System.Collections.Generic;
+﻿using Newtonsoft.Json;
+using System.Collections.Generic;
 using System.Net;
 
 namespace API_Football.SDK
@@ -10,10 +11,12 @@ namespace API_Football.SDK
         public string Message { get; set; } = "OK";
 
         public string Get { get; set; }
+        [JsonConverter(typeof(ApiTypeConverter))]
         public Dictionary<string, string> Parameters { get; set; }
+        [JsonConverter(typeof(ApiTypeConverter))]
         public Dictionary<string, string> Errors { get; set; }
         public uint Results { get; set; }
         public Models.Paging Paging { get; set; }
-        public List<T> Response { get; set; }
+        public T Response { get; set; }
     }
 }
