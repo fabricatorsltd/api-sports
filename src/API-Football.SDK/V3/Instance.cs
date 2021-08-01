@@ -11,6 +11,10 @@ namespace API_Football.SDK.V3
         {
             _client = new Client(apiKey);
         }
+        public Instance(string apiKey, string timezone)
+        {
+            _client = new Client(apiKey, timezone);
+        }
 
         internal ApiResponse<T> DoCall<T>(string path)
         {
