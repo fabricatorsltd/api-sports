@@ -1,9 +1,11 @@
-﻿namespace API_Football.SDK.Models
+﻿using Newtonsoft.Json;
+
+namespace API_Football.SDK.Models
 {
     public class Requests
     {
-        public string FirstName { get; set; }
-        public string LastName { get; set; }
-        public string Email { get; set; }
+        public uint Current { get; set; }
+        [JsonProperty("limit_day")]
+        public uint LimitDay { get; set; }
     }
 }
