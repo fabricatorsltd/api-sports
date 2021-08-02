@@ -41,7 +41,6 @@ namespace API_Football.SDK
                 }
                 else
                 {
-
                     if (counter == 0)
                         first = (T)conv.ConvertFrom(property.Value.ToString());
                     else if (counter == 1)
@@ -85,7 +84,6 @@ namespace API_Football.SDK
 
             foreach (var property in (jObject).Properties())
             {
-
                 if (reader.TokenType == JsonToken.EndObject)
                 {
                     if (counter == 0)
