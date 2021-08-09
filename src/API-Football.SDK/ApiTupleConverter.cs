@@ -1,6 +1,7 @@
 ﻿using Newtonsoft.Json;
 using System;
 using System.ComponentModel;
+using System.Globalization;
 
 namespace API_Football.SDK
 {
@@ -24,27 +25,29 @@ namespace API_Football.SDK
             T first = default;
             T second = default;
 
-            int counter = 0;
-
+            var counter = 0;
+            var tIsString = typeof(T) == typeof(string);
+            
             foreach (var property in (jObject).Properties())
             {
-                TypeConverter conv = TypeDescriptor.GetConverter(typeof(T));
-
+                object stringValue = property.Value.ToString();
+                
+                var conv = TypeDescriptor.GetConverter(typeof(T));
                 if (reader.TokenType == JsonToken.EndObject)
                 {
                     if (counter == 0)
-                        first = JsonConvert.DeserializeObject<T>(property.Value.ToString());
+                        first = (T) (tIsString ? stringValue : JsonConvert.DeserializeObject<T>(property.Value.ToString()) ?? default(T));
                     else if (counter == 1)
-                        second = JsonConvert.DeserializeObject<T>(property.Value.ToString());
+                        second = (T) (tIsString ? stringValue : JsonConvert.DeserializeObject<T>(property.Value.ToString()) ?? default(T));
                     else
                         break;
                 }
                 else
                 {
                     if (counter == 0)
-                        first = (T)conv.ConvertFrom(property.Value.ToString());
+                        first = (T)conv.ConvertFrom(stringValue);
                     else if (counter == 1)
-                        second = (T)conv.ConvertFrom(property.Value.ToString());
+                        second = (T)conv.ConvertFrom(stringValue);
                     else
                         break;
                 }
