@@ -6,6 +6,7 @@ namespace API_Football.SDK.Models
     {
         [JsonProperty("team")]
         public Team Team { get; set; }
+        
         [JsonProperty("venue")]
         public Venue Venue { get; set; }
     }

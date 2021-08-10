@@ -11,7 +11,7 @@ namespace API_Football.SDK.Models
         [JsonProperty("referee")]
         public string Referee { get; set; }
         
-        [JsonProperty("rimezone")]
+        [JsonProperty("timezone")]
         public string Timezone { get; set; }
         
         [JsonProperty("date")]

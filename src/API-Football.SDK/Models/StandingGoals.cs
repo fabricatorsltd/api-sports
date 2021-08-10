@@ -1,8 +1,13 @@
-﻿namespace API_Football.SDK.Models
+﻿using Newtonsoft.Json;
+
+namespace API_Football.SDK.Models
 {
     public class StandingGoals
     {
+        [JsonProperty("for")]
         public ushort For { get; set; }
-        public ushort Agains { get; set; }
+        
+        [JsonProperty("against")]
+        public ushort Against { get; set; }
     }
 }
