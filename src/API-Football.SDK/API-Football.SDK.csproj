@@ -11,9 +11,17 @@
     <BuildNumber Condition=" '$(BuildNumber)' == '' ">0</BuildNumber>
     <VersionSuffix Condition="'$(Configuration)'=='Debug'">-dev</VersionSuffix>
     <FileVersion>1.0.0.0</FileVersion>
-    <Version>1.0.0$(VersionSuffix)</Version>
-    <AssemblyVersion>1.0.0</AssemblyVersion>
+    <Version>0.0.1$(VersionSuffix)</Version>
+    <AssemblyVersion>0.0.1</AssemblyVersion>
     <Configurations>Debug;Release</Configurations>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+    <PackageId>Fabricators.APISports.Football</PackageId>
+    <PackageTags>SDK;API Sports;Football;Football SDK</PackageTags>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Title>API Sports Football SDK</Title>
+    <Description>This library wraps the Football APIs provided by API Sports</Description>
+    <PackageProjectUrl>https://github.com/fabricatorsltd/api-sports</PackageProjectUrl>
   </PropertyGroup>
 
   <ItemGroup>
