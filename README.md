@@ -3,8 +3,10 @@ This is an unofficial repository and no partnership is currently made with API S
 For any doubt or question about the project itself open an issue.
 
 ## Badges
-[![CodeFactor](https://www.codefactor.io/repository/github/fabricatorsltd/api-sports/badge)](https://www.codefactor.io/repository/github/fabricatorsltd/api-sports) 
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/fabricatorsltd/api-sports/blob/master/LICENSE) 
+[![license](https://img.shields.io/badge/license-MIT-orange.svg?style=flat-square)](https://github.com/fabricatorsltd/api-sports/blob/master/LICENSE) 
+[![CodeFactor](https://img.shields.io/codefactor/grade/github/fabricatorsltd/api-sports?logo=codefactor&style=flat-square)](https://www.codefactor.io/repository/github/fabricatorsltd/api-sports) 
+[![.NET](https://img.shields.io/badge/Standard-blue.svg?logo=.net&style=flat-square)](https://docs.microsoft.com/it-it/dotnet/standard/net-standard) 
+[![Nuget (prelease)](https://img.shields.io/nuget/vpre/Fabricators.APISports.Football?label=%20&logo=nuget&style=flat-square)](https://www.nuget.org/packages/Fabricators.APISports.Football/) 
 
 ## Links
 Our [official website](https://fabricators.ltd/?ref=github)\
