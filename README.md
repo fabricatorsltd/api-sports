@@ -4,9 +4,10 @@ For any doubt or question about the project itself open an issue.
 
 ## Badges
 [![license](https://img.shields.io/badge/license-MIT-orange.svg?style=flat-square)](https://github.com/fabricatorsltd/api-sports/blob/master/LICENSE) 
-[![CodeFactor](https://img.shields.io/codefactor/grade/github/fabricatorsltd/api-sports?logo=codefactor&style=flat-square)](https://www.codefactor.io/repository/github/fabricatorsltd/api-sports) 
 [![.NET](https://img.shields.io/badge/Standard-blue.svg?logo=.net&style=flat-square)](https://docs.microsoft.com/it-it/dotnet/standard/net-standard) 
-[![Nuget (prelease)](https://img.shields.io/nuget/vpre/Fabricators.APISports.Football?label=%20&logo=nuget&style=flat-square)](https://www.nuget.org/packages/Fabricators.APISports.Football/) 
+[![CodeFactor](https://img.shields.io/codefactor/grade/github/fabricatorsltd/api-sports?logo=codefactor&style=flat-square)](https://www.codefactor.io/repository/github/fabricatorsltd/api-sports) \
+[![Nuget](https://img.shields.io/nuget/v/Fabricators.APISports.Football?label=%20&logo=nuget&style=flat-square)](https://www.nuget.org/packages/Fabricators.APISports.Football/) \
+[![Discord](https://img.shields.io/discord/678544016333078560?label=Discord&logo=discord&logoColor=white&style=flat-square)](https://ds.unifiedban.solutions/) 
 
 ## Links
 Our [official website](https://fabricators.ltd/?ref=github)\
