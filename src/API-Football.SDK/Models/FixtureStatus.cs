@@ -11,6 +11,6 @@ namespace API_Football.SDK.Models
         public string Short { get; set; }
         
         [JsonProperty("elapsed")]
-        public ushort Elapsed { get; set; }
+        public ushort? Elapsed { get; set; }
     }
 }
