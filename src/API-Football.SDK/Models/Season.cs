@@ -5,7 +5,7 @@ namespace API_Football.SDK.Models
 {
     public class Season
     {
-        [JsonProperty("current")]
+        [JsonProperty("year")]
         public ushort Year { get; set; }
         
         [JsonProperty("start")]
