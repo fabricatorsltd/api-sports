@@ -5,10 +5,20 @@ namespace API_Football.SDK.V3
     public static class Teams
     {
         #region " teams "
-        public static ApiResponse<List<ushort>> GetTeams(this Instance instance,
+        public static ApiResponse<List<Models.ApiTeamResponse>> GetTeams(this Instance instance,
             ushort season)
         {
-            return instance.DoCall<List<ushort>>($"teams?season{season}");
+            return instance.DoCall<List<Models.ApiTeamResponse>>($"teams?season={season}");
+        }
+        public static ApiResponse<List<Models.ApiTeamResponse>> GetTeams(this Instance instance,
+            string country)
+        {
+            return instance.DoCall<List<Models.ApiTeamResponse>>($"teams?country={country}");
+        }
+        public static ApiResponse<List<ushort>> GetTeamSeasons(this Instance instance,
+            ushort teamId)
+        {
+            return instance.DoCall<List<ushort>>($"teams/seasons?team={teamId}");
         }
         public static ApiResponse<List<Models.ApiTeamResponse>> GetTeams(this Instance instance,
             ushort season,

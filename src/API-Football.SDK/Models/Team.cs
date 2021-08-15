@@ -14,7 +14,7 @@ namespace API_Football.SDK.Models
         public string Country { get; set; }
         
         [JsonProperty("founded")]
-        public ushort Founded { get; set; }
+        public ushort? Founded { get; set; }
         
         [JsonProperty("national")]
         public bool National { get; set; }
