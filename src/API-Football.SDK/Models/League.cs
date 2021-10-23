@@ -1,4 +1,5 @@
-﻿using Newtonsoft.Json;
+﻿using System.Collections.Generic;
+using Newtonsoft.Json;
 
 namespace API_Football.SDK.Models
 {
@@ -27,5 +28,8 @@ namespace API_Football.SDK.Models
         
         [JsonProperty("round")]
         public string Round { get; set; }
+        
+        [JsonProperty("standings")]
+        public List<List<Standing>> Standings { get; set; }
     }
 }

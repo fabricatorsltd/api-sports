@@ -15,7 +15,7 @@ namespace API_Football.SDK.Models
         public ushort Points { get; set; }
         
         [JsonProperty("goalsDiff")]
-        public ushort GoalsDiff { get; set; }
+        public short GoalsDiff { get; set; }
         
         [JsonProperty("group")]
         public string Group { get; set; }
