@@ -9,10 +9,10 @@ namespace API_Football.SDK.Models
         public ushort Year { get; set; }
         
         [JsonProperty("start")]
-        public DateTime Start { get; set; }
+        public DateTime? Start { get; set; }
         
         [JsonProperty("end")]
-        public DateTime End { get; set; }
+        public DateTime? End { get; set; }
         
         [JsonProperty("current")]
         public bool Current { get; set; }
