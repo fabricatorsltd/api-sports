@@ -10,9 +10,9 @@
     <RepositoryType>GIT</RepositoryType>
     <BuildNumber Condition=" '$(BuildNumber)' == '' ">0</BuildNumber>
     <VersionSuffix Condition="'$(Configuration)'=='Debug'">-dev</VersionSuffix>
-    <FileVersion>0.0.10.1</FileVersion>
-    <Version>0.0.10$(VersionSuffix)</Version>
-    <AssemblyVersion>0.0.10</AssemblyVersion>
+    <FileVersion>0.0.11.1</FileVersion>
+    <Version>0.0.11$(VersionSuffix)</Version>
+    <AssemblyVersion>0.0.11</AssemblyVersion>
     <Configurations>Debug;Release</Configurations>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
