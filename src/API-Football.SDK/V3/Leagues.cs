@@ -8,6 +8,11 @@ namespace API_Football.SDK.V3
         {
             return instance.DoCall<List<Models.ApiLeagueResponse>>("leagues");
         }
+        public static ApiResponse<List<Models.ApiLeagueResponse>> GetLeagues(this Instance instance,
+            ushort season)
+        {
+            return instance.DoCall<List<Models.ApiLeagueResponse>>($"leagues?season={season}");
+        }
         public static ApiResponse<List<ushort>> GetLeagueSeasons(this Instance instance)
         {
             return instance.DoCall<List<ushort>>("leagues/seasons");
