@@ -6,11 +6,6 @@ namespace API_Football.SDK.V3
     {
         #region " teams "
         public static ApiResponse<List<Models.ApiTeamResponse>> GetTeams(this Instance instance,
-            ushort season)
-        {
-            return instance.DoCall<List<Models.ApiTeamResponse>>($"teams?season={season}");
-        }
-        public static ApiResponse<List<Models.ApiTeamResponse>> GetTeams(this Instance instance,
             string country)
         {
             return instance.DoCall<List<Models.ApiTeamResponse>>($"teams?country={country}");
