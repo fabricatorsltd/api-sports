@@ -17,5 +17,9 @@ namespace API_Football.SDK.V3
         {
             return instance.DoCall<List<ushort>>("leagues/seasons");
         }
+        public static ApiResponse<List<ushort>> GetCurrent(this Instance instance)
+        {
+            return instance.DoCall<List<ushort>>("leagues?current=true");
+        }
     }
 }
