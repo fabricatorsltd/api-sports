@@ -30,6 +30,6 @@ namespace API_Football.SDK.Models
         public string Round { get; set; }
         
         [JsonProperty("standings")]
-        public List<List<Standing>> Standings { get; set; }
+        public bool Standings { get; set; }
     }
 }
