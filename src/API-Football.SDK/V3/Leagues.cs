@@ -1,4 +1,5 @@
 ﻿using System.Collections.Generic;
+using API_Football.SDK.Models;
 
 namespace API_Football.SDK.V3
 {
@@ -17,9 +18,9 @@ namespace API_Football.SDK.V3
         {
             return instance.DoCall<List<ushort>>("leagues/seasons");
         }
-        public static ApiResponse<List<ushort>> GetCurrent(this Instance instance)
+        public static ApiResponse<List<ApiLeagueResponse>> GetCurrent(this Instance instance)
         {
-            return instance.DoCall<List<ushort>>("leagues?current=true");
+            return instance.DoCall<List<ApiLeagueResponse>>("leagues?current=true");
         }
     }
 }

@@ -24,9 +24,17 @@ namespace API_Football.SDK
             if (!string.IsNullOrWhiteSpace(Globals.Timezone))
                 endpoint += $"&timezone={Globals.Timezone}";
 
-                try
+            try
             {
                 var json = client.DownloadString(Globals.BaseUrlV3 + endpoint);
+                if (client.ResponseHeaders.Get("X-RateLimit-Limit") != null)
+                {
+                    Globals.CurrentLimits.RateLimit = uint.Parse(client.ResponseHeaders.Get("X-RateLimit-Limit"));
+                    Globals.CurrentLimits.RateLimitRemaining = uint.Parse(client.ResponseHeaders.Get("X-RateLimit-Remaining"));
+                    Globals.CurrentLimits.DailyLimit = uint.Parse(client.ResponseHeaders.Get("x-ratelimit-requests-limit"));
+                    Globals.CurrentLimits.DailyLimitRemaining = uint.Parse(client.ResponseHeaders.Get("x-ratelimit-requests-remaining"));
+                    Globals.CurrentLimits.LastRatesUpdate = DateTime.UtcNow;
+                }
                 return JsonConvert.DeserializeObject<ApiResponse<T>>(json);
             }
             catch(WebException webEx)
