@@ -1,0 +1,4484 @@
+{
+  "get": "venues",
+  "parameters": {
+    "country": "italy"
+  },
+  "errors": [],
+  "results": 447,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "id": 910,
+      "name": "Stadio Olimpico",
+      "address": "Viale dei Gladiatori, 2 / Via del Foro Italico",
+      "city": "Roma",
+      "country": "Italy",
+      "capacity": 68530,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/910.png"
+    },
+    {
+      "id": 935,
+      "name": "MAPEI Stadium - Città del Tricolore",
+      "address": "Piazza Azzuri d&apos;Italia, 1",
+      "city": "Reggio Emilia",
+      "country": "Italy",
+      "capacity": 23717,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/935.png"
+    },
+    {
+      "id": 907,
+      "name": "Stadio Giuseppe Meazza",
+      "address": "Via Piccolomini 5",
+      "city": "Milano",
+      "country": "Italy",
+      "capacity": 80018,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/907.png"
+    },
+    {
+      "id": 12275,
+      "name": "Unipol Domus",
+      "address": "Via Raimondo Carta Raspi",
+      "city": "Cagliari",
+      "country": "Italy",
+      "capacity": 16416,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/12275.png"
+    },
+    {
+      "id": 890,
+      "name": "Stadio Marc'Antonio Bentegodi",
+      "address": "Piazzale Olimpia",
+      "city": "Verona",
+      "country": "Italy",
+      "capacity": 39211,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/890.png"
+    },
+    {
+      "id": 11904,
+      "name": "Stadio Diego Armando Maradona",
+      "address": "Pizzale Vincenzo Tecchio",
+      "city": "Napoli",
+      "country": "Italy",
+      "capacity": 60240,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/11904.png"
+    },
+    {
+      "id": 938,
+      "name": "Stadio Paolo Mazza",
+      "address": "Corso Piave, 28",
+      "city": "Ferrara",
+      "country": "Italy",
+      "capacity": 16134,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/938.png"
+    },
+    {
+      "id": 20416,
+      "name": "Bluenergy Stadium",
+      "address": "Piazza le Repubblica Argentina, 3",
+      "city": "Udine",
+      "country": "Italy",
+      "capacity": 25952,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/20416.png"
+    },
+    {
+      "id": 905,
+      "name": "Stadio Comunale Luigi Ferraris",
+      "address": "Via Giovanni De Prà, 1",
+      "city": "Genova",
+      "country": "Italy",
+      "capacity": 36703,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/905.png"
+    },
+    {
+      "id": 909,
+      "name": "Allianz Stadium",
+      "address": "Strada Comunale di Altessano 131",
+      "city": "Torino",
+      "country": "Italy",
+      "capacity": 45666,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/909.png"
+    },
+    {
+      "id": 879,
+      "name": "Gewiss Stadium",
+      "address": "Viale Giulio Cesare 18",
+      "city": "Bergamo",
+      "country": "Italy",
+      "capacity": 21300,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/879.png"
+    },
+    {
+      "id": 881,
+      "name": "Stadio Renato Dall'Ara",
+      "address": "Via Andrea Costa, 174",
+      "city": "Bologna",
+      "country": "Italy",
+      "capacity": 39279,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/881.png"
+    },
+    {
+      "id": 895,
+      "name": "Stadio Ezio Scida",
+      "address": "Via Cutro",
+      "city": "Crotone",
+      "country": "Italy",
+      "capacity": 16108,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/895.png"
+    },
+    {
+      "id": 902,
+      "name": "Stadio Artemio Franchi",
+      "address": "Viale Manfredo Fanti 14",
+      "city": "Firenze",
+      "country": "Italy",
+      "capacity": 43147,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/902.png"
+    },
+    {
+      "id": 943,
+      "name": "Stadio Olimpico Grande Torino",
+      "address": "Corso Sebastopoli 123, Santa Rita",
+      "city": "Torino",
+      "country": "Italy",
+      "capacity": 27958,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/943.png"
+    },
+    {
+      "id": 880,
+      "name": "Stadio Ciro Vigorito",
+      "address": "Piazzale degli Atleti",
+      "city": "Benevento",
+      "country": "Italy",
+      "capacity": 17554,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/880.png"
+    },
+    {
+      "id": 876,
+      "name": "Stadio Cino e Lillo Del Duca",
+      "address": "Via delle Zeppelle, 1",
+      "city": "Ascoli Piceno",
+      "country": "Italy",
+      "capacity": 20853,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/876.png"
+    },
+    {
+      "id": 2763,
+      "name": "Stadio Comunale San Nicola",
+      "address": "Strada Provinciale Modugno-Carbonara",
+      "city": "Bari",
+      "country": "Italy",
+      "capacity": 58270,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/2763.png"
+    },
+    {
+      "id": 2758,
+      "name": "Orogel Stadium-Dino Manuzzi",
+      "address": "Via dello Stadio, 124",
+      "city": "Cesena",
+      "country": "Italy",
+      "capacity": 23860,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/2758.png"
+    },
+    {
+      "id": 891,
+      "name": "Stadio Pier Cesare Tombolato",
+      "address": "Viale dello Sport, 7",
+      "city": "Cittadella",
+      "country": "Italy",
+      "capacity": 7623,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/891.png"
+    },
+    {
+      "id": 20109,
+      "name": "Stadio Carlo Castellani – Computer Gross Arena",
+      "address": "Viale delle Olimpiadi",
+      "city": "Empoli",
+      "country": "Italy",
+      "capacity": 16284,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/20109.png"
+    },
+    {
+      "id": 904,
+      "name": "Stadio Benito Stirpe",
+      "address": "Viale Olimpia",
+      "city": "Frosinone",
+      "country": "Italy",
+      "capacity": 16310,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/904.png"
+    },
+    {
+      "id": 917,
+      "name": "Stadio Comunale Silvio Piola",
+      "address": "Viale Kennedy, 8",
+      "city": "Novara",
+      "country": "Italy",
+      "capacity": 17875,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/917.png"
+    },
+    {
+      "id": 933,
+      "name": "Stadio Arechi",
+      "address": "Via Salvador Allende",
+      "city": "Salerno",
+      "country": "Italy",
+      "capacity": 37245,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/933.png"
+    },
+    {
+      "id": 939,
+      "name": "Stadio Alberto Picco",
+      "address": "Via Nicolò Fieschi, 18",
+      "city": "La Spezia",
+      "country": "Italy",
+      "capacity": 11767,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/939.png"
+    },
+    {
+      "id": 942,
+      "name": "Stadio Libero Liberati",
+      "address": "Viale dello Stadio",
+      "city": "Terni",
+      "country": "Italy",
+      "capacity": 17460,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/942.png"
+    },
+    {
+      "id": 948,
+      "name": "Stadio Pierluigi Penzo",
+      "address": "Isola di Sant&apos;Elena",
+      "city": "Venezia",
+      "country": "Italy",
+      "capacity": 11150,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/948.png"
+    },
+    {
+      "id": 882,
+      "name": "Stadio Mario Rigamonti",
+      "address": "Via Giovanni Novagani, 8",
+      "city": "Brescia",
+      "country": "Italy",
+      "capacity": 27547,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/882.png"
+    },
+    {
+      "id": 884,
+      "name": "Stadio Sandro Cabassi",
+      "address": "Via Carlo Marx, 26",
+      "city": "Carpi",
+      "country": "Italy",
+      "capacity": 5584,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/884.png"
+    },
+    {
+      "id": 894,
+      "name": "Stadio Giovanni Zini",
+      "address": "Via Persico, 19",
+      "city": "Cremona",
+      "country": "Italy",
+      "capacity": 20034,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/894.png"
+    },
+    {
+      "id": 903,
+      "name": "Stadio Comunale Pino Zaccheria",
+      "address": "Via Vincenzo Gioberti",
+      "city": "Foggia",
+      "country": "Italy",
+      "capacity": 25085,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/903.png"
+    },
+    {
+      "id": 920,
+      "name": "Stadio Renzo Barbera",
+      "address": "Viale del Fante, 11",
+      "city": "Palermo",
+      "country": "Italy",
+      "capacity": 36349,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/920.png"
+    },
+    {
+      "id": 921,
+      "name": "Stadio Ennio Tardini",
+      "address": "Via Partigiani d&apos;Italia, 1",
+      "city": "Parma",
+      "country": "Italy",
+      "capacity": 22885,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/921.png"
+    },
+    {
+      "id": 922,
+      "name": "Stadio Renato Curi",
+      "address": "Via Pietro Conti",
+      "city": "Perugia",
+      "country": "Italy",
+      "capacity": 23625,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/922.png"
+    },
+    {
+      "id": 923,
+      "name": "Stadio Adriatico-Giovanni Cornacchia",
+      "address": "Via Pepe",
+      "city": "Pescara",
+      "country": "Italy",
+      "capacity": 20476,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/923.png"
+    },
+    {
+      "id": 930,
+      "name": "Stadio Silvio Piola",
+      "address": "Via Massaua, 5",
+      "city": "Vercelli",
+      "country": "Italy",
+      "capacity": 5500,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/930.png"
+    },
+    {
+      "id": 872,
+      "name": "Stadio Comunale Chiavari",
+      "address": "Via Aldo Gastaldi, 22",
+      "city": "Chiavari",
+      "country": "Italy",
+      "capacity": 6113,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/872.png"
+    },
+    {
+      "id": 2756,
+      "name": "Stadio Partenio-Adriano Lombardi",
+      "address": "Contrada Zoccolari, 1",
+      "city": "Avellino",
+      "country": "Italy",
+      "capacity": 26308,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/2756.png"
+    },
+    {
+      "id": 925,
+      "name": "Arena Garibaldi - Stadio Romeo Anconetani",
+      "address": "Via di Gello, 25",
+      "city": "Pisa",
+      "country": "Italy",
+      "capacity": 17500,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/925.png"
+    },
+    {
+      "id": 878,
+      "name": "Stadio Polisportivo Provinciale",
+      "address": "Via Giuseppe Cesarò, Casa Santa di Erice",
+      "city": "Trapani",
+      "country": "Italy",
+      "capacity": 7787,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/878.png"
+    },
+    {
+      "id": 2768,
+      "name": "Stadio Comunale Domenico Francioni",
+      "address": "Piazzale Prampolini 1",
+      "city": "Latina",
+      "country": "Italy",
+      "capacity": 11200,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/2768.png"
+    },
+    {
+      "id": 19210,
+      "name": "Stadio Comunale Omero Tognon",
+      "address": "Viale dello Sport 11/A",
+      "city": "Fontanafredda",
+      "country": "Italy",
+      "capacity": 5000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/19210.png"
+    },
+    {
+      "id": 908,
+      "name": "Stadio Comunale Romeo Menti",
+      "address": "Via G. Cosenza, 283",
+      "city": "Castellammare di Stabia",
+      "country": "Italy",
+      "capacity": 7642,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/908.png"
+    },
+    {
+      "id": 893,
+      "name": "Stadio San Vito-Luigi Marulla",
+      "address": "Via degli Stadio",
+      "city": "Cosenza",
+      "country": "Italy",
+      "capacity": 24209,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/893.png"
+    },
+    {
+      "id": 873,
+      "name": "Stadio Comunale",
+      "address": "Via Milano 23",
+      "city": "Gorgonzola",
+      "country": "Italy",
+      "capacity": 3766,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/873.png"
+    },
+    {
+      "id": 906,
+      "name": "Stadio Pietro Barbetti",
+      "address": "Via Parruccini",
+      "city": "Gubbio",
+      "country": "Italy",
+      "capacity": 4939,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/906.png"
+    },
+    {
+      "id": 911,
+      "name": "Stadio Comunale Via del Mare",
+      "address": "Viale dello Stadio",
+      "city": "Lecce",
+      "country": "Italy",
+      "capacity": 33876,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/911.png"
+    },
+    {
+      "id": 912,
+      "name": "Stadio Armando Picchi",
+      "address": "Piazzale Montello 14",
+      "city": "Livorno",
+      "country": "Italy",
+      "capacity": 19238,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/912.png"
+    },
+    {
+      "id": 898,
+      "name": "Stadio XXI Settembre-Franco Salerno",
+      "address": "Via Guiseppe Saragat, 46",
+      "city": "Matera",
+      "country": "Italy",
+      "capacity": 7490,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/898.png"
+    },
+    {
+      "id": 2764,
+      "name": "Stadio Comunale Euganeo",
+      "address": "Via Nereo Rocco, 60",
+      "city": "Padova",
+      "country": "Italy",
+      "capacity": 32420,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/2764.png"
+    },
+    {
+      "id": 934,
+      "name": "Stadio Riviera delle Palme",
+      "address": "Viale Dello Sport 62",
+      "city": "San Benedetto del Tronto",
+      "country": "Italy",
+      "capacity": 22000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/934.png"
+    },
+    {
+      "id": 924,
+      "name": "Stadio Leonardo Garilli",
+      "address": "Via Egidio Gorra, 25",
+      "city": "Piacenza",
+      "country": "Italy",
+      "capacity": 21668,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/924.png"
+    },
+    {
+      "id": 1856,
+      "name": "Stadio Giovanni Paolo II",
+      "address": "Via Suor Antonietta Zullino, 6, Strada provinciale, 26 km 0.5",
+      "city": "Francavilla Fontana",
+      "country": "Italy",
+      "capacity": 3360,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/1856.png"
+    },
+    {
+      "id": 2761,
+      "name": "Centro Sportivo Vittorio Bachelet",
+      "address": "Via Vitellia, 50",
+      "city": "Roma",
+      "country": "Italy",
+      "capacity": 1000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/2761.png"
+    },
+    {
+      "id": 22267,
+      "name": "Stadio Mino Favini",
+      "address": "Via Privata Icmesa",
+      "city": "Meda",
+      "country": "Italy",
+      "capacity": 3000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/22267.png"
+    },
+    {
+      "id": 875,
+      "name": "Stadio Città di Arezzo",
+      "address": "Viale Antonio Gramsci",
+      "city": "Arezzo",
+      "country": "Italy",
+      "capacity": 13128,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/875.png"
+    },
+    {
+      "id": 944,
+      "name": "Stadio Nereo Rocco",
+      "address": "Via dei Macelli, 5",
+      "city": "Trieste",
+      "country": "Italy",
+      "capacity": 32454,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/944.png"
+    },
+    {
+      "id": 874,
+      "name": "Stadio Giuseppe Moccagatta",
+      "address": "Via Spalto Rovereto, 28",
+      "city": "Alessandria",
+      "country": "Italy",
+      "capacity": 7694,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/874.png"
+    },
+    {
+      "id": 2757,
+      "name": "Stadio Rino Mercante",
+      "address": "Via Piave, 27",
+      "city": "Bassano del Grappa",
+      "country": "Italy",
+      "capacity": 2952,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/2757.png"
+    },
+    {
+      "id": 22269,
+      "name": "Stadio Comunale",
+      "address": "Via Po",
+      "city": "Guidonia Montecelio",
+      "country": "Italy",
+      "capacity": 2900,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/22269.png"
+    },
+    {
+      "id": 2766,
+      "name": "Stadio Comunale",
+      "address": "Viale Giuseppe Mazzini",
+      "city": "Mazzano",
+      "country": "Italy",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/2766.png"
+    },
+    {
+      "id": 886,
+      "name": "Stadio Comunale Alberto Pinto",
+      "address": "Viale Medaglie d&apos;Oro",
+      "city": "Caserta",
+      "country": "Italy",
+      "capacity": 6017,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/886.png"
+    },
+    {
+      "id": 1804,
+      "name": "Stadio Comunale Marco Lorenzon",
+      "address": "Via Fratelli Bandiera",
+      "city": "Rende",
+      "country": "Italy",
+      "capacity": 5000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/1804.png"
+    },
+    {
+      "id": 2762,
+      "name": "Stadio Franco Ossola",
+      "address": "Via Bolchini, Masnago",
+      "city": "Varese",
+      "country": "Italy",
+      "capacity": 8146,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/2762.png"
+    },
+    {
+      "id": 1805,
+      "name": "Centro Sportivo Giovanni Paolo II",
+      "address": "Via Guido Rossa",
+      "city": "Matelica",
+      "country": "Italy",
+      "capacity": 2000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/1805.png"
+    },
+    {
+      "id": 913,
+      "name": "Stadio Porta Elisa",
+      "address": "Via dello Stadio",
+      "city": "Lucca",
+      "country": "Italy",
+      "capacity": 7386,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/913.png"
+    },
+    {
+      "id": 919,
+      "name": "Stadio Marcello Torre",
+      "address": "Via Cesare Sportelli",
+      "city": "Pagani",
+      "country": "Italy",
+      "capacity": 5093,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/919.png"
+    },
+    {
+      "id": 2759,
+      "name": "Stadio degli Oliveti",
+      "address": "Via dello Sport",
+      "city": "Massa",
+      "country": "Italy",
+      "capacity": 8900,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/2759.png"
+    },
+    {
+      "id": 1803,
+      "name": "Stadio Romeo Galli",
+      "address": "via Romeo Galli 1",
+      "city": "Imola",
+      "country": "Italy",
+      "capacity": 3809,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/1803.png"
+    },
+    {
+      "id": 937,
+      "name": "Stadio Nicola de Simone",
+      "address": "Piazza Luigi Leone Cuella, 1",
+      "city": "Siracusa",
+      "country": "Italy",
+      "capacity": 4980,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/937.png"
+    },
+    {
+      "id": 892,
+      "name": "Stadio Giuseppe Sinigaglia",
+      "address": "Via Giuseppe Sinigaglia, 3",
+      "city": "Como",
+      "country": "Italy",
+      "capacity": 13602,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/892.png"
+    },
+    {
+      "id": 2772,
+      "name": "Stadio Ferrucio",
+      "address": "Via Avogadro",
+      "city": "Seregno",
+      "country": "Italy",
+      "capacity": 3700,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/2772.png"
+    },
+    {
+      "id": 2773,
+      "name": "Stadio del Conero",
+      "address": "Frazione Varano, Località Passo Varano",
+      "city": "Ancona",
+      "country": "Italy",
+      "capacity": 23983,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/2773.png"
+    },
+    {
+      "id": 2770,
+      "name": "Stadio Comunale Franco Scoglio",
+      "address": "Via Comunale, San Filippo",
+      "city": "Messina",
+      "country": "Italy",
+      "capacity": 37895,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/2770.png"
+    },
+    {
+      "id": 2771,
+      "name": "Stadio Alberto Braglia",
+      "address": "Viale Monte Kosica, 128/134",
+      "city": "Modena",
+      "country": "Italy",
+      "capacity": 21151,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/2771.png"
+    },
+    {
+      "id": 2769,
+      "name": "Stadio Helvia Recina",
+      "address": "Via dei Velini, 50",
+      "city": "Macerata",
+      "country": "Italy",
+      "capacity": 9000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/2769.png"
+    },
+    {
+      "id": 940,
+      "name": "Stadio Marco Druso",
+      "address": "Viale Trieste / Trieststraße 29",
+      "city": "Bozen",
+      "country": "Italy",
+      "capacity": 5600,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/940.png"
+    },
+    {
+      "id": 12086,
+      "name": "U-Power Stadium",
+      "address": "Via Franco Tognini",
+      "city": "Monza",
+      "country": "Italy",
+      "capacity": 18568,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/12086.png"
+    },
+    {
+      "id": 887,
+      "name": "Stadio Angelo Massimino",
+      "address": "Piazza Vincenzo Spedini",
+      "city": "Catania",
+      "country": "Italy",
+      "capacity": 20104,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/887.png"
+    },
+    {
+      "id": 885,
+      "name": "Stadio dei Marmi",
+      "address": "Piazza Vittorio Veneto, 8",
+      "city": "Carrara",
+      "country": "Italy",
+      "capacity": 4975,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/885.png"
+    },
+    {
+      "id": 914,
+      "name": "Stadio Vito Simone Veneziani",
+      "address": "Via Palmiro Togliatti, 23",
+      "city": "Monopoli",
+      "country": "Italy",
+      "capacity": 6880,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/914.png"
+    },
+    {
+      "id": 936,
+      "name": "Stadio Comunale Artemio Franchi - Montepaschi Arena",
+      "address": "Via Mille, 3",
+      "city": "Siena",
+      "country": "Italy",
+      "capacity": 15373,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/936.png"
+    },
+    {
+      "id": 2767,
+      "name": "Stadio Romeo Menti",
+      "address": "Via Schio, 21",
+      "city": "Vicenza",
+      "country": "Italy",
+      "capacity": 20920,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/2767.png"
+    },
+    {
+      "id": 1849,
+      "name": "Stadio Enrico Rocchi",
+      "address": "Via della Palazzina",
+      "city": "Viterbo",
+      "country": "Italy",
+      "capacity": 5526,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/1849.png"
+    },
+    {
+      "id": 1855,
+      "name": "Stadio Pio XII",
+      "address": "Via Orti Pompei",
+      "city": "Albano Laziale",
+      "country": "Italy",
+      "capacity": 4000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/1855.png"
+    },
+    {
+      "id": 19789,
+      "name": "Stadio Comunale Donato Curcio",
+      "address": "Via XXV Aprile, 69",
+      "city": "Picerno",
+      "country": "Italy",
+      "capacity": 3000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/19789.png"
+    },
+    {
+      "id": 1914,
+      "name": "Centro Sportivo Comunale Rezzato",
+      "address": "Via Milano 14",
+      "city": "Rezzato",
+      "country": "Italy",
+      "capacity": 4000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/1914.png"
+    },
+    {
+      "id": 926,
+      "name": "Stadio Marcello Melani",
+      "address": "Via dello Stadio 8",
+      "city": "Pistoia",
+      "country": "Italy",
+      "capacity": 13195,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/926.png"
+    },
+    {
+      "id": 1892,
+      "name": "Stadio Comunale Angelino Nobile",
+      "address": "Via dello Stadio 37",
+      "city": "Lentini",
+      "country": "Italy",
+      "capacity": 3500,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/1892.png"
+    },
+    {
+      "id": 945,
+      "name": "Stadio Ettore Mannucci",
+      "address": "Via Vittorio Veneto",
+      "city": "Pontedera",
+      "country": "Italy",
+      "capacity": 4014,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/945.png"
+    },
+    {
+      "id": 1854,
+      "name": "Centro Sportivo Il Gabbiano",
+      "address": "Via Olmo, 16",
+      "city": "Campodarsego",
+      "country": "Italy",
+      "capacity": 2000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/1854.png"
+    },
+    {
+      "id": 946,
+      "name": "Stadio Comunale Luigi Cichero",
+      "address": "Via Giuseppe Mazzini, 15",
+      "city": "Sanremo",
+      "country": "Italy",
+      "capacity": 4850,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/946.png"
+    },
+    {
+      "id": 877,
+      "name": "Stadio Piero de Paoli",
+      "address": "Strada San Silvestro",
+      "city": "Chieri",
+      "country": "Italy",
+      "capacity": 4000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/877.png"
+    },
+    {
+      "id": 20254,
+      "name": "Stadio Lungobisenzio",
+      "address": "Via Firenze, 5",
+      "city": "Prato",
+      "country": "Italy",
+      "capacity": 6750,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/20254.png"
+    },
+    {
+      "id": 949,
+      "name": "Stadio Luigi Razza",
+      "address": "Via Piazza d&apos;Armi",
+      "city": "Vibo Valentia",
+      "country": "Italy",
+      "capacity": 6000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/949.png"
+    },
+    {
+      "id": 897,
+      "name": "Stadio Raffaele Mancini",
+      "address": "Via Metauro",
+      "city": "Fano",
+      "country": "Italy",
+      "capacity": 8800,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/897.png"
+    },
+    {
+      "id": 941,
+      "name": "Stadio Gaetano Bonolis",
+      "address": "Viale Amerigo Vespucci, Piano d&apos;Accio",
+      "city": "Teramo",
+      "country": "Italy",
+      "capacity": 8840,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/941.png"
+    },
+    {
+      "id": 7328,
+      "name": "Stadio Esseneto",
+      "address": "Via Petrarca",
+      "city": "Agrigento",
+      "country": "Italy",
+      "capacity": 12000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/7328.png"
+    },
+    {
+      "id": 7322,
+      "name": "Stadio Montefiore",
+      "address": "Via dell’Arenatura 27",
+      "city": "Rocca Priora",
+      "country": "Italy",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/7322.png"
+    },
+    {
+      "id": 6589,
+      "name": "Stadio Leporaia",
+      "address": "Via N. Sauro, Ponte a Egola",
+      "city": "San Miniato",
+      "country": "Italy",
+      "capacity": 600,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/6589.png"
+    },
+    {
+      "id": 888,
+      "name": "Stadio Nicola Ceravolo",
+      "address": "Via Francesco Paglia",
+      "city": "Catanzaro",
+      "country": "Italy",
+      "capacity": 14650,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/888.png"
+    },
+    {
+      "id": 6575,
+      "name": "Stadio Tullo Morgagni",
+      "address": "Viale Roma 128/B",
+      "city": "Forlì",
+      "country": "Italy",
+      "capacity": 3466,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/6575.png"
+    },
+    {
+      "id": 7324,
+      "name": "Nuovo Stadio Comunale",
+      "address": "Via Magante, 14",
+      "city": "Lumezzane",
+      "country": "Italy",
+      "capacity": 4004,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/7324.png"
+    },
+    {
+      "id": 7327,
+      "name": "Stadio Arturo Valerio",
+      "address": "Contrada Sant&apos;Abbruzzese 12",
+      "city": "Melfi",
+      "country": "Italy",
+      "capacity": 4100,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/7327.png"
+    },
+    {
+      "id": 7326,
+      "name": "Stadio Domenico Purificato",
+      "address": "Via Arnale Rosso",
+      "city": "Fondi",
+      "country": "Italy",
+      "capacity": 2500,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/7326.png"
+    },
+    {
+      "id": 2760,
+      "name": "Stadio Oreste Granillo",
+      "address": "Via Galileo Galilei",
+      "city": "Reggio Calabria",
+      "country": "Italy",
+      "capacity": 25314,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/2760.png"
+    },
+    {
+      "id": 4185,
+      "name": "Stadio Danilo Martelli",
+      "address": "Viale Te, 7-9",
+      "city": "Mantova",
+      "country": "Italy",
+      "capacity": 14854,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/4185.png"
+    },
+    {
+      "id": 7325,
+      "name": "Stadio Valentino Mazzola",
+      "address": "Via della Resistenza, 5",
+      "city": "Santarcangelo di Romagna",
+      "country": "Italy",
+      "capacity": 3000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/7325.png"
+    },
+    {
+      "id": 6632,
+      "name": "Stadio Degli Ulivi",
+      "address": "Piazzale della Repubblica",
+      "city": "Andria",
+      "country": "Italy",
+      "capacity": 9141,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/6632.png"
+    },
+    {
+      "id": 6635,
+      "name": "Stadio Comunale Erasmo Iacovone",
+      "address": "Via Lago di Como, Rione Salinella",
+      "city": "Taranto",
+      "country": "Italy",
+      "capacity": 26384,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/6635.png"
+    },
+    {
+      "id": 918,
+      "name": "Stadio Bruno Nespoli",
+      "address": "Via Ungheria, 9",
+      "city": "Olbia",
+      "country": "Italy",
+      "capacity": 4000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/918.png"
+    },
+    {
+      "id": 7323,
+      "name": "Stadio Casal del Marmo",
+      "address": "Via Giuseppe Barellai",
+      "city": "Roma",
+      "country": "Italy",
+      "capacity": 2250,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/7323.png"
+    },
+    {
+      "id": 6588,
+      "name": "Stadio Romeo Malservisi",
+      "address": "Via Rodolfo Morandi, 2",
+      "city": "Bagno di Gavorrano",
+      "country": "Italy",
+      "capacity": 2000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/6588.png"
+    },
+    {
+      "id": 870,
+      "name": "Stadio Fratelli Paschiero",
+      "address": "Corso Monviso 21",
+      "city": "Cuneo",
+      "country": "Italy",
+      "capacity": 4000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/870.png"
+    },
+    {
+      "id": 901,
+      "name": "Stadio Bruno Recchioni",
+      "address": "Viale Trento, 13",
+      "city": "Fermo",
+      "country": "Italy",
+      "capacity": 11150,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/901.png"
+    },
+    {
+      "id": 927,
+      "name": "Stadio Biagio Pirina",
+      "address": "Viale Paulo Delton",
+      "city": "Arzachena",
+      "country": "Italy",
+      "capacity": 3100,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/927.png"
+    },
+    {
+      "id": 1766,
+      "name": "Stadio Gustavo Ventura",
+      "address": "Via Carrara Salsello, 30",
+      "city": "Bisceglie",
+      "country": "Italy",
+      "capacity": 8000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/1766.png"
+    },
+    {
+      "id": 6557,
+      "name": "Stadio Francesco Baracca",
+      "address": "Via Francesco Baracca, 19",
+      "city": "Mestre",
+      "country": "Italy",
+      "capacity": 8074,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/6557.png"
+    },
+    {
+      "id": 931,
+      "name": "Stadio Comunale Bruno Benelli",
+      "address": "Via Punta Stilo, 29",
+      "city": "Ravenna",
+      "country": "Italy",
+      "capacity": 12020,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/931.png"
+    },
+    {
+      "id": 929,
+      "name": "Stadio Carlo Speroni",
+      "address": "Via Cà Bianca, 42",
+      "city": "Busto Arsizio",
+      "country": "Italy",
+      "capacity": 4504,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/929.png"
+    },
+    {
+      "id": 947,
+      "name": "Stadio Comunale Gavagnin-Nocini",
+      "address": "Via Montorio 112",
+      "city": "Verona",
+      "country": "Italy",
+      "capacity": 1421,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/947.png"
+    },
+    {
+      "id": 950,
+      "name": "Stadio Tonino Benelli",
+      "address": "Via dei Campo Sportivo",
+      "city": "Pesaro",
+      "country": "Italy",
+      "capacity": 4898,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/950.png"
+    },
+    {
+      "id": 932,
+      "name": "Stadio Romeo Neri",
+      "address": "Viale 9 Febbraio 1849",
+      "city": "Rimini",
+      "country": "Italy",
+      "capacity": 9798,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/932.png"
+    },
+    {
+      "id": 1832,
+      "name": "Stadio Comunale Alfredo Viviani",
+      "address": "Viale Guglielmo Marconi",
+      "city": "Potenza",
+      "country": "Italy",
+      "capacity": 5500,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/1832.png"
+    },
+    {
+      "id": 899,
+      "name": "Stadio Centro d'Italia - Manlio Scopigno",
+      "address": "Piazza Veterani dello Sport",
+      "city": "Rieti",
+      "country": "Italy",
+      "capacity": 9980,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/899.png"
+    },
+    {
+      "id": 889,
+      "name": "Stadio Comunale Simonetta Lamberti",
+      "address": "Corso Mazzini, 1",
+      "city": "Cava de&apos; Tirreni",
+      "country": "Italy",
+      "capacity": 15200,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/889.png"
+    },
+    {
+      "id": 1740,
+      "name": "Stadio Alfredo D'Albertas",
+      "address": "Via Madonna Luzzara",
+      "city": "Gozzano",
+      "country": "Italy",
+      "capacity": 4000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/1740.png"
+    },
+    {
+      "id": 560,
+      "name": "Stadium MK",
+      "address": "Stadium Way West",
+      "city": "Milton Keynes, Buckinghamshire",
+      "country": "Italy",
+      "capacity": 30500,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/560.png"
+    },
+    {
+      "id": 21855,
+      "name": "Stadio Tre Fontane",
+      "address": "Via delle Tre Fontane 5",
+      "city": "Roma",
+      "country": "Italy",
+      "capacity": 4000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/21855.png"
+    },
+    {
+      "id": 4186,
+      "name": "Stadio Luigi Bettinazzi",
+      "address": "Via Bettinazzi 1",
+      "city": "Adria",
+      "country": "Italy",
+      "capacity": 5000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/4186.png"
+    },
+    {
+      "id": 4187,
+      "name": "Stadio Comunale Vito Curlo",
+      "address": null,
+      "city": "Fasano",
+      "country": "Italy",
+      "capacity": 3000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/4187.png"
+    },
+    {
+      "id": 4188,
+      "name": "Stadio Dossenina",
+      "address": "Viale Pavia, 24",
+      "city": "Lodi",
+      "country": "Italy",
+      "capacity": 2184,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/4188.png"
+    },
+    {
+      "id": 4189,
+      "name": "Campo Comunale Lixius Lanusei",
+      "address": "Via Circonvallazione Sud, Lixius",
+      "city": "Lanusei",
+      "country": "Italy",
+      "capacity": 600,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/4189.png"
+    },
+    {
+      "id": 4190,
+      "name": "Stadio Comunale",
+      "address": null,
+      "city": "Ponsacco",
+      "country": "Italy",
+      "capacity": 3220,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/4190.png"
+    },
+    {
+      "id": 4191,
+      "name": "Stadio Amerigo Liguori",
+      "address": "Viale Ungheria, 38",
+      "city": "Torre del Greco",
+      "country": "Italy",
+      "capacity": 5300,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/4191.png"
+    },
+    {
+      "id": 12420,
+      "name": "Stadio Tommaso Dal Molin",
+      "address": "Via Consolini",
+      "city": "Arzignano",
+      "country": "Italy",
+      "capacity": 2000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/12420.png"
+    },
+    {
+      "id": 4705,
+      "name": "Stadio Rigamonti Ceppi",
+      "address": "Via Don Pozzi, 6",
+      "city": "Lecco",
+      "country": "Italy",
+      "capacity": 4997,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/4705.png"
+    },
+    {
+      "id": 4706,
+      "name": "Stadio Giuseppe Voltini",
+      "address": "Viale Alcide de Gasperi, 67",
+      "city": "Crema",
+      "country": "Italy",
+      "capacity": 4095,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/4706.png"
+    },
+    {
+      "id": 12423,
+      "name": "Stadio Comunale",
+      "address": "Via Fratelli Rosselli 1",
+      "city": "Piancastagnaio",
+      "country": "Italy",
+      "capacity": 1500,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/12423.png"
+    },
+    {
+      "id": 20278,
+      "name": "Arena Civica Gianni Brera",
+      "address": "Via Giorgio Byron 2, Parco Sempione",
+      "city": "Milano",
+      "country": "Italy",
+      "capacity": 18000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/20278.png"
+    },
+    {
+      "id": 22554,
+      "name": "Centro Sportivo Bortolotti 1",
+      "address": "Corso Europa 46",
+      "city": "Zingonia Ciserano",
+      "country": "Italy",
+      "capacity": 1500,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/22554.png"
+    },
+    {
+      "id": 21164,
+      "name": "KONAMI Youth Development Centre in Memory of Giacinto Facchetti",
+      "address": "Via Sbarbaro 5/7",
+      "city": "Milano",
+      "country": "Italy",
+      "capacity": 3000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/21164.png"
+    },
+    {
+      "id": 22331,
+      "name": "Juventus Training Center",
+      "address": "Via Stupinigi 182",
+      "city": "Vinovo",
+      "country": "Italy",
+      "capacity": 600,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/22331.png"
+    },
+    {
+      "id": 5703,
+      "name": "Centro Sportivo Sant'Antimo",
+      "address": "Via G. Marconi, 117",
+      "city": "Sant&apos;Antimo",
+      "country": "Italy",
+      "capacity": 2500,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/5703.png"
+    },
+    {
+      "id": 21166,
+      "name": "Centro Sportivo Fulvio Bernardini",
+      "address": "Via di Trigoria km. 3,600",
+      "city": "Trigoria Alta",
+      "country": "Italy",
+      "capacity": 1500,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/21166.png"
+    },
+    {
+      "id": 6524,
+      "name": "Stadio Comunale",
+      "address": "Via Marconi",
+      "city": "Borgosesia",
+      "country": "Italy",
+      "capacity": 2500,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/6524.png"
+    },
+    {
+      "id": 6525,
+      "name": "Stadio Comunale Attilio Bravi",
+      "address": "Via Madonna dei Fiori, 91",
+      "city": "Bra",
+      "country": "Italy",
+      "capacity": 1230,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/6525.png"
+    },
+    {
+      "id": 6526,
+      "name": "Campo Sportivo Comunale",
+      "address": "Corso della Vittoria 698",
+      "city": "Caronno Pertusella",
+      "country": "Italy",
+      "capacity": 1000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/6526.png"
+    },
+    {
+      "id": 6527,
+      "name": "Stadio Natale Palli",
+      "address": "Via Bruno Buozzi",
+      "city": "Casale Monferrato",
+      "country": "Italy",
+      "capacity": 6035,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/6527.png"
+    },
+    {
+      "id": 6528,
+      "name": "Stadio Miro Luperi",
+      "address": "Via Villefranche de Rouergue 1",
+      "city": "Sarzana",
+      "country": "Italy",
+      "capacity": 4500,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/6528.png"
+    },
+    {
+      "id": 6529,
+      "name": "Stadio Angelo Pochissimo",
+      "address": "Corso Trento, 53",
+      "city": "Fossano",
+      "country": "Italy",
+      "capacity": 1500,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/6529.png"
+    },
+    {
+      "id": 21132,
+      "name": "Stadio Comunale Carraia",
+      "address": "Via Lima",
+      "city": "Coreglia Antelminelli",
+      "country": "Italy",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/21132.png"
+    },
+    {
+      "id": 6531,
+      "name": "Stadio Edoardo Riboli",
+      "address": "Via Edoardo Riboli",
+      "city": "Lavagna",
+      "country": "Italy",
+      "capacity": 800,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/6531.png"
+    },
+    {
+      "id": 6532,
+      "name": "Campo Sportivo Ligorna",
+      "address": "Via Solimano, Serino",
+      "city": "Genova",
+      "country": "Italy",
+      "capacity": 1500,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/6532.png"
+    },
+    {
+      "id": 6533,
+      "name": "Stadio Comunale Carlo Necchi",
+      "address": "Via XX Settembre 91",
+      "city": "Forte dei Marmi",
+      "country": "Italy",
+      "capacity": 3000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/6533.png"
+    },
+    {
+      "id": 6534,
+      "name": "Stadio Valerio Bacigalupo",
+      "address": "Via Luigi Cadorna, 5",
+      "city": "Savona",
+      "country": "Italy",
+      "capacity": 3999,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/6534.png"
+    },
+    {
+      "id": 6535,
+      "name": "Stadio Comunale Buon Riposo",
+      "address": "Via del Campo",
+      "city": "Pozzi Seravezza",
+      "country": "Italy",
+      "capacity": 3000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/6535.png"
+    },
+    {
+      "id": 6536,
+      "name": "Stadio Ferruccio Chittolina",
+      "address": "Via Diaz 33, Vallegia-Quiliano",
+      "city": "Valleggia",
+      "country": "Italy",
+      "capacity": 2000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/6536.png"
+    },
+    {
+      "id": 6537,
+      "name": "Stadio Carlo Pedroli",
+      "address": "Via Arturo Farinelli, 10",
+      "city": "Verbania",
+      "country": "Italy",
+      "capacity": 3000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/6537.png"
+    },
+    {
+      "id": 6540,
+      "name": "Centro Sportivo Comunale Roberto Battaglia",
+      "address": "Via Benvenuto Cellini, 42",
+      "city": "Busto Garolfo",
+      "country": "Italy",
+      "capacity": 2000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/6540.png"
+    },
+    {
+      "id": 6539,
+      "name": "Campo Sportivo Comunale Brusaporto",
+      "address": "Via Belvedere",
+      "city": "Brusaporto",
+      "country": "Italy",
+      "capacity": 1500,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/6539.png"
+    },
+    {
+      "id": 6541,
+      "name": "Stadio Comunale",
+      "address": "Via Olimpia",
+      "city": "Caravaggio",
+      "country": "Italy",
+      "capacity": 2180,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/6541.png"
+    },
+    {
+      "id": 12414,
+      "name": "Stadio Comunale Giovanni Provasi",
+      "address": "Via Generale Luigi Cadorna, 11",
+      "city": "Castellanza",
+      "country": "Italy",
+      "capacity": 2500,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/12414.png"
+    },
+    {
+      "id": 6543,
+      "name": "Stadio Comunale Dro",
+      "address": "Via Capitelli",
+      "city": "Dro",
+      "country": "Italy",
+      "capacity": 500,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/6543.png"
+    },
+    {
+      "id": 6544,
+      "name": "Stadio XXV Aprile",
+      "address": "Via XXV Aprile, 13",
+      "city": "Carate Brianza",
+      "country": "Italy",
+      "capacity": 3000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/6544.png"
+    },
+    {
+      "id": 6545,
+      "name": "Centro Sportivo Comunale",
+      "address": "Via Lazzaretto 13",
+      "city": "Inveruno",
+      "country": "Italy",
+      "capacity": 3000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/6545.png"
+    },
+    {
+      "id": 6546,
+      "name": "Stadio Comunale Giovanni Mari",
+      "address": "Via Carlo Pisacane",
+      "city": "Legnano",
+      "country": "Italy",
+      "capacity": 6700,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/6546.png"
+    },
+    {
+      "id": 6547,
+      "name": "Stadio Comunale",
+      "address": "Viale Lido",
+      "city": "Levico Terme",
+      "country": "Italy",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/6547.png"
+    },
+    {
+      "id": 6548,
+      "name": "Stadio Comunale Al Bersaglio",
+      "address": "Loc.Bersaglio Via P. de Coubertin",
+      "city": "Oggiono",
+      "country": "Italy",
+      "capacity": 2000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/6548.png"
+    },
+    {
+      "id": 6549,
+      "name": "Stadio Matteo Legler",
+      "address": "Via Trento e Trieste, 12",
+      "city": "Ponte San Pietro",
+      "country": "Italy",
+      "capacity": 2000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/6549.png"
+    },
+    {
+      "id": 6550,
+      "name": "Stadio Ernesto Breda",
+      "address": "Via XX Settembre, 162",
+      "city": "Sesto San Giovanni",
+      "country": "Italy",
+      "capacity": 4475,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/6550.png"
+    },
+    {
+      "id": 6551,
+      "name": "Stadio Comunale Unione Sportiva Scanzorosciate",
+      "address": "Via Polcarezzo 11",
+      "city": "Scanzorosciate",
+      "country": "Italy",
+      "capacity": 3000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/6551.png"
+    },
+    {
+      "id": 6552,
+      "name": "Stadio Coni Castellina",
+      "address": "Via Valeriana 33",
+      "city": "Sondrio",
+      "country": "Italy",
+      "capacity": 1300,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/6552.png"
+    },
+    {
+      "id": 6553,
+      "name": "Stadio Comunale La Rocca",
+      "address": "Via Rocca, 19",
+      "city": "Trezzo sull&apos;Adda",
+      "country": "Italy",
+      "capacity": 3000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/6553.png"
+    },
+    {
+      "id": 6554,
+      "name": "Campo Sportivo Comunale Villa D'Almè",
+      "address": "Via Ronco Basso 15",
+      "city": "Villa D&apos;Almè",
+      "country": "Italy",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/6554.png"
+    },
+    {
+      "id": 6555,
+      "name": "Campo Calcio Righi",
+      "address": "Via Luigi Cadorna, 25 (Cadornastrasse 25)",
+      "city": "Bozen",
+      "country": "Italy",
+      "capacity": 1000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/6555.png"
+    },
+    {
+      "id": 6556,
+      "name": "Stadio Carlo Rossoni",
+      "address": "Via Mazzini 13",
+      "city": "Ciserano",
+      "country": "Italy",
+      "capacity": 1000,
+      "surface": null,
+      "image": "https://media.api-sports.io/football/venues/6556.png"
+    },
+    {
+      "id": 6558,
+      "name": "Stadio Montindon",
+      "address": "Via Alessandro Volta",
+      "city": "Sant&apos;ambrogio Di Valpolicella",
+      "country": "Italy",
+      "capacity": 2000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/6558.png"
+    },
+    {
+      "id": 6559,
+      "name": "Stadio Comunale Polisportivo",
+      "address": "Piazzale Resistenza 27",
+      "city": "Belluno",
+      "country": "Italy",
+      "capacity": 2585,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/6559.png"
+    },
+    {
+      "id": 6560,
+      "name": "Stadio Comunale di Caldiero",
+      "address": "Via Santi, 54",
+      "city": "Caldiero",
+      "country": "Italy",
+      "capacity": 3500,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/6560.png"
+    },
+    {
+      "id": 6561,
+      "name": "Stadio Fair Play di Cartigliano",
+      "address": "Viale Lungo Brenta",
+      "city": "Cartigliano",
+      "country": "Italy",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/6561.png"
+    },
+    {
+      "id": 6562,
+      "name": "Stadio Comunale Francesco Tesolin",
+      "address": "Via Garibaldi",
+      "city": "Chions",
+      "country": "Italy",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/6562.png"
+    },
+    {
+      "id": 6563,
+      "name": "Stadio Via Rizzolo",
+      "address": "Via Rizzolo",
+      "city": "Carlino",
+      "country": "Italy",
+      "capacity": 2000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/6563.png"
+    },
+    {
+      "id": 6564,
+      "name": "Stadio Aldo e Dino Ballarin",
+      "address": "Via Stazione, 30",
+      "city": "Chioggia",
+      "country": "Italy",
+      "capacity": 3622,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/6564.png"
+    },
+    {
+      "id": 6565,
+      "name": "Stadio Comunale Umberto Cavallari",
+      "address": "Via Tangenziale, 10",
+      "city": "Porto Tolle",
+      "country": "Italy",
+      "capacity": 3000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/6565.png"
+    },
+    {
+      "id": 6566,
+      "name": "Nuovo Stadio Comunale",
+      "address": "Via Monte Cero 81",
+      "city": "Este",
+      "country": "Italy",
+      "capacity": 1200,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/6566.png"
+    },
+    {
+      "id": 6567,
+      "name": "Stadio Mario Sandrini",
+      "address": "Via Olimpia",
+      "city": "Legnago",
+      "country": "Italy",
+      "capacity": 2152,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/6567.png"
+    },
+    {
+      "id": 6568,
+      "name": "Stadio Comunale Gianni Casée",
+      "address": "Via Leonardo da Vinci, 7",
+      "city": "San Martino di Lupari",
+      "country": "Italy",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/6568.png"
+    },
+    {
+      "id": 6569,
+      "name": "Stadio San Vigilio",
+      "address": "Via Piave",
+      "city": "Montebelluna",
+      "country": "Italy",
+      "capacity": 1900,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/6569.png"
+    },
+    {
+      "id": 6570,
+      "name": "Stadio Comunale Via Felluga",
+      "address": "Via Felluga Umberto, 58",
+      "city": "Trieste",
+      "country": "Italy",
+      "capacity": 1000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/6570.png"
+    },
+    {
+      "id": 6571,
+      "name": "Stadio Comunale di Tamai",
+      "address": "Via Giovanni XXIII 41",
+      "city": "Tamai",
+      "country": "Italy",
+      "capacity": 1140,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/6571.png"
+    },
+    {
+      "id": 6572,
+      "name": "Stadio Zugni Tauro",
+      "address": "Via Bagnols Sur Cèzè, 1",
+      "city": "Feltre",
+      "country": "Italy",
+      "capacity": 5000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/6572.png"
+    },
+    {
+      "id": 22403,
+      "name": "Stadio Comunale di Vigasio",
+      "address": "Via Alzeri",
+      "city": "Vigasio",
+      "country": "Italy",
+      "capacity": 5000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/22403.png"
+    },
+    {
+      "id": 6576,
+      "name": "Stadio Comunale Brigata Cremona",
+      "address": "Piazza Generale Clemente Primieri, 9",
+      "city": "Alfonsine",
+      "country": "Italy",
+      "capacity": 1500,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/6576.png"
+    },
+    {
+      "id": 6577,
+      "name": "Campo Sportivo Comunale Tassara",
+      "address": "Viale Italia",
+      "city": "Breno",
+      "country": "Italy",
+      "capacity": 2000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/6577.png"
+    },
+    {
+      "id": 6578,
+      "name": "Stadio Comunal Mundial ‘82",
+      "address": "Via Giovanni Verga",
+      "city": "Carpenedolo",
+      "country": "Italy",
+      "capacity": 2500,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/6578.png"
+    },
+    {
+      "id": 22405,
+      "name": "Stadio Comunale Walter Borelli",
+      "address": "Via Fazzano 4",
+      "city": "Correggio",
+      "country": "Italy",
+      "capacity": 2000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/22405.png"
+    },
+    {
+      "id": 6580,
+      "name": "Stadio Comunale",
+      "address": "Via Campo Sportivo 1",
+      "city": "Fiorenzuola d&apos;Arda",
+      "country": "Italy",
+      "capacity": 4000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/6580.png"
+    },
+    {
+      "id": 6581,
+      "name": "Campo Sportivo Comunale Maselli",
+      "address": "Via Tullio Dandolo, 57",
+      "city": "Adro",
+      "country": "Italy",
+      "capacity": 1500,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/6581.png"
+    },
+    {
+      "id": 22406,
+      "name": "Immergas Stadium - Levantini",
+      "address": "Via Bacchi Mellini 22",
+      "city": "Lentigione",
+      "country": "Italy",
+      "capacity": 1500,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/22406.png"
+    },
+    {
+      "id": 6583,
+      "name": "Stadio Pietro Zucchini",
+      "address": "Piazzale della Gioventù",
+      "city": "Budrio",
+      "country": "Italy",
+      "capacity": 1300,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/6583.png"
+    },
+    {
+      "id": 6584,
+      "name": "Campo Da Calcio Macrelli",
+      "address": "Via Monti 1",
+      "city": "San Mauro Pascoli",
+      "country": "Italy",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/6584.png"
+    },
+    {
+      "id": 6585,
+      "name": "Centro Sportivo Enrico Filippetti",
+      "address": "Via Gesso, 26, Riale",
+      "city": "Zola Predosa",
+      "country": "Italy",
+      "capacity": 1000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/6585.png"
+    },
+    {
+      "id": 6586,
+      "name": "Stadio Giuseppe Capanni",
+      "address": "Via della Resistenza",
+      "city": "Savignano sul Rubicone",
+      "country": "Italy",
+      "capacity": 2500,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/6586.png"
+    },
+    {
+      "id": 6587,
+      "name": "Stadio Carpaneto Piacentino",
+      "address": "Via S. Lazzaro 1",
+      "city": "Carpaneto Piacentino",
+      "country": "Italy",
+      "capacity": 2000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/6587.png"
+    },
+    {
+      "id": 6590,
+      "name": "Stadio Comunale Germano Bellucci",
+      "address": "Via Giovannella, 1",
+      "city": "Agliana",
+      "country": "Italy",
+      "capacity": 2582,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/6590.png"
+    },
+    {
+      "id": 6591,
+      "name": "Stadio Comunale",
+      "address": "Piazza Bakunin 1",
+      "city": "Bastia Umbra",
+      "country": "Italy",
+      "capacity": 1500,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/6591.png"
+    },
+    {
+      "id": 6592,
+      "name": "Stadio Comunale Spoletini",
+      "address": "Via Assisi",
+      "city": "Cannara",
+      "country": "Italy",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/6592.png"
+    },
+    {
+      "id": 6593,
+      "name": "Stadio Enzo Blasone",
+      "address": "Via Monte Cucco, Santo Pietro",
+      "city": "Foligno",
+      "country": "Italy",
+      "capacity": 5650,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/6593.png"
+    },
+    {
+      "id": 6594,
+      "name": "Stadio Turiddu Madami",
+      "address": "Via Enrico Minio",
+      "city": "Civita Castellana",
+      "country": "Italy",
+      "capacity": 1300,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/6594.png"
+    },
+    {
+      "id": 6595,
+      "name": "Stadio di Grassina",
+      "address": "Via Abebe Bikila, Grassina",
+      "city": "Bagno a Ripoli",
+      "country": "Italy",
+      "capacity": 1500,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/6595.png"
+    },
+    {
+      "id": 4707,
+      "name": "Stadio Olimpico Carlo Zecchini",
+      "address": "Via Veterani dello Sport, 6",
+      "city": "Grosseto",
+      "country": "Italy",
+      "capacity": 9779,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/4707.png"
+    },
+    {
+      "id": 6596,
+      "name": "Stadio Gastone Brilli Peri",
+      "address": "Via Gramsci",
+      "city": "Montevarchi",
+      "country": "Italy",
+      "capacity": 7200,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/6596.png"
+    },
+    {
+      "id": 6597,
+      "name": "Stadio Comunale",
+      "address": "Via Giuseppe Saragat",
+      "city": "Pomezia",
+      "country": "Italy",
+      "capacity": 2500,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/6597.png"
+    },
+    {
+      "id": 12424,
+      "name": "Stadio Comunale Pianigiani",
+      "address": "via Cassia 25",
+      "city": "Tavarnelle Val di Pesa",
+      "country": "Italy",
+      "capacity": 1500,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/12424.png"
+    },
+    {
+      "id": 6599,
+      "name": "Stadio Virgilio Fedini",
+      "address": "Via Bruno Buozzi",
+      "city": "San Giovanni Valdarno",
+      "country": "Italy",
+      "capacity": 3400,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/6599.png"
+    },
+    {
+      "id": 6600,
+      "name": "Stadio Turri",
+      "address": "Via Rialdoli",
+      "city": "Firenze",
+      "country": "Italy",
+      "capacity": 1800,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/6600.png"
+    },
+    {
+      "id": 12425,
+      "name": "Stadio Lorenzo Casini",
+      "address": "Via G. Bretagna 3 / Via Raffaello Lambruschini",
+      "city": "Trestina",
+      "country": "Italy",
+      "capacity": 666,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/12425.png"
+    },
+    {
+      "id": 12430,
+      "name": "Stadio Comunale",
+      "address": "Viale dello Sport",
+      "city": "Fiuggi",
+      "country": "Italy",
+      "capacity": 3500,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/12430.png"
+    },
+    {
+      "id": 6603,
+      "name": "Stadio dei Marsi",
+      "address": "Via Ferrara",
+      "city": "Avezzano",
+      "country": "Italy",
+      "capacity": 3692,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/6603.png"
+    },
+    {
+      "id": 6604,
+      "name": "Stadio Giorgio Calbi",
+      "address": "Via del Partigiano 4",
+      "city": "Cattolica",
+      "country": "Italy",
+      "capacity": 3000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/6604.png"
+    },
+    {
+      "id": 6605,
+      "name": "Stadio Guido Angelini",
+      "address": "Viale Abruzzo, Chieti Scalo",
+      "city": "Chieti",
+      "country": "Italy",
+      "capacity": 12750,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/6605.png"
+    },
+    {
+      "id": 20850,
+      "name": "Avicor Stadium Selvapiana",
+      "address": "Contrada Fontana Vecchia",
+      "city": "Campobasso",
+      "country": "Italy",
+      "capacity": 21800,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/20850.png"
+    },
+    {
+      "id": 6607,
+      "name": "Stadio Comunale P. Carotti",
+      "address": "Viale Cavallotti",
+      "city": "Jesi",
+      "country": "Italy",
+      "capacity": 5000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/6607.png"
+    },
+    {
+      "id": 6608,
+      "name": "Stadio Comunale Pianarelle Tamburrini",
+      "address": "Contrada Pianarelle",
+      "city": "Montegiorgio",
+      "country": "Italy",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/6608.png"
+    },
+    {
+      "id": 6609,
+      "name": "Stadio Comunale Civitelle",
+      "address": "Viale Castelnuovo",
+      "city": "Agnone",
+      "country": "Italy",
+      "capacity": 5000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/6609.png"
+    },
+    {
+      "id": 6610,
+      "name": "Stadio Comunale Mimmo Pavone",
+      "address": "Strada Provinciale Pineto-Atri",
+      "city": "Pineto",
+      "country": "Italy",
+      "capacity": 5000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/6610.png"
+    },
+    {
+      "id": 6611,
+      "name": "Stadio Ferranti",
+      "address": "Via Della Liberazione",
+      "city": "Porto Sant&apos;elpidio",
+      "country": "Italy",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/6611.png"
+    },
+    {
+      "id": 6612,
+      "name": "Stadio Rubens Fadini",
+      "address": "Via Migliori, 13",
+      "city": "Giulianova",
+      "country": "Italy",
+      "capacity": 5625,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/6612.png"
+    },
+    {
+      "id": 6613,
+      "name": "Stadio Nicola Tubaldi",
+      "address": "Via Aldo Moro",
+      "city": "Recanati",
+      "country": "Italy",
+      "capacity": 2000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/6613.png"
+    },
+    {
+      "id": 6614,
+      "name": "Stadio Comunale Vincenzo Savini",
+      "address": "Via Fosse Ardeatine",
+      "city": "Notaresco",
+      "country": "Italy",
+      "capacity": 2000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/6614.png"
+    },
+    {
+      "id": 6615,
+      "name": "Stadio Comunale Villa San Filippo",
+      "address": "Via Magellano Monte, Villa San Filippo",
+      "city": "Monte San Giusto",
+      "country": "Italy",
+      "capacity": 3000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/6615.png"
+    },
+    {
+      "id": 6616,
+      "name": "Campo Sportivo della Vittoria Tolentino",
+      "address": "Via Arnaldo Lucentini, 3",
+      "city": "Tolentino",
+      "country": "Italy",
+      "capacity": 2500,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/6616.png"
+    },
+    {
+      "id": 6617,
+      "name": "Stadio Comunale Aragona",
+      "address": "Via San Michele, 52",
+      "city": "Vasto",
+      "country": "Italy",
+      "capacity": 5374,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/6617.png"
+    },
+    {
+      "id": 12431,
+      "name": "Stadio Comunale Vastogirardi",
+      "address": "Viale Raffaello Sanzio",
+      "city": "Vastogirardi",
+      "country": "Italy",
+      "capacity": 1200,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/12431.png"
+    },
+    {
+      "id": 6619,
+      "name": "Stadio Quinto Ricci",
+      "address": "Via Donato Bardi, 6",
+      "city": "Aprilia",
+      "country": "Italy",
+      "capacity": 2504,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/6619.png"
+    },
+    {
+      "id": 6620,
+      "name": "Stadio Comunale San Teodoro",
+      "address": "Via Donat Cattin",
+      "city": "San Teodoro",
+      "country": "Italy",
+      "capacity": 1500,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/6620.png"
+    },
+    {
+      "id": 6621,
+      "name": "Stadio Comunale Gino Salvetti",
+      "address": "Via Appia Nuova",
+      "city": "Cassino",
+      "country": "Italy",
+      "capacity": 5000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/6621.png"
+    },
+    {
+      "id": 6622,
+      "name": "Campo Sportivo Caslini Andrea",
+      "address": "Via Francesco Berni",
+      "city": "Colleferro",
+      "country": "Italy",
+      "capacity": 2500,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/6622.png"
+    },
+    {
+      "id": 6623,
+      "name": "Stadio Angelo Sale",
+      "address": "Via Lazzari, Loc. Campi Vaccina",
+      "city": "Ladispoli",
+      "country": "Italy",
+      "capacity": 3000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/6623.png"
+    },
+    {
+      "id": 6624,
+      "name": "Stadio Comunale Latte Dolce",
+      "address": "Via Leoncavallo 6",
+      "city": "Sassari",
+      "country": "Italy",
+      "capacity": 1500,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/6624.png"
+    },
+    {
+      "id": 6625,
+      "name": "Campo Sportivo di Muravera",
+      "address": "Via Roma",
+      "city": "Muravera",
+      "country": "Italy",
+      "capacity": 2500,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/6625.png"
+    },
+    {
+      "id": 6626,
+      "name": "Stadio Anco Marzio",
+      "address": "Via Giovanni Amenduni, 15",
+      "city": "Lido di Ostia",
+      "country": "Italy",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/6626.png"
+    },
+    {
+      "id": 6627,
+      "name": "Stadio San Ciro",
+      "address": "Via Farina",
+      "city": "Portici",
+      "country": "Italy",
+      "capacity": 7000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/6627.png"
+    },
+    {
+      "id": 6628,
+      "name": "Stadio Giorgio Castelli",
+      "address": "Via Felice De Andreis, 29/31",
+      "city": "Roma",
+      "country": "Italy",
+      "capacity": 3000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/6628.png"
+    },
+    {
+      "id": 6629,
+      "name": "Stadio Marco Mazzucchi",
+      "address": "Via Rieti",
+      "city": "Ardea",
+      "country": "Italy",
+      "capacity": 1500,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/6629.png"
+    },
+    {
+      "id": 6630,
+      "name": "Stadio Vanni Sanna",
+      "address": "Via Coradduzza, 2",
+      "city": "Sassari",
+      "country": "Italy",
+      "capacity": 7480,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/6630.png"
+    },
+    {
+      "id": 6631,
+      "name": "Stadio Comunale (Sintex)",
+      "address": "Via Guglielmo Marconi 52",
+      "city": "Artena",
+      "country": "Italy",
+      "capacity": 1000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/6631.png"
+    },
+    {
+      "id": 21133,
+      "name": "Heffort Sport Village",
+      "address": "SP361 km 16, 630",
+      "city": "Parabita",
+      "country": "Italy",
+      "capacity": 1500,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/21133.png"
+    },
+    {
+      "id": 6636,
+      "name": "Stadio Raffaele Guariglia",
+      "address": "Via San Pio X",
+      "city": "Agropoli",
+      "country": "Italy",
+      "capacity": 5000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/6636.png"
+    },
+    {
+      "id": 6637,
+      "name": "Campo Comunale Domenico Monterisi",
+      "address": "Via Napoli",
+      "city": "Cerignola",
+      "country": "Italy",
+      "capacity": 5000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/6637.png"
+    },
+    {
+      "id": 6638,
+      "name": "Campo Sportivo Comunale Città degli Ulivi",
+      "address": null,
+      "city": "Bitonto",
+      "country": "Italy",
+      "capacity": 5000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/6638.png"
+    },
+    {
+      "id": 6639,
+      "name": "Stadio Franco Fanuzzi",
+      "address": "Via Santa Maria del Casale",
+      "city": "Brindisi",
+      "country": "Italy",
+      "capacity": 7600,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/6639.png"
+    },
+    {
+      "id": 6640,
+      "name": "Stadio Giuseppe Capozza",
+      "address": "Via Matino",
+      "city": "Casarano",
+      "country": "Italy",
+      "capacity": 6200,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/6640.png"
+    },
+    {
+      "id": 6641,
+      "name": "Stadio Nunzio Fittipaldi",
+      "address": "Via Luigi Ciminelli, 128",
+      "city": "Francavilla in Sinni",
+      "country": "Italy",
+      "capacity": 1200,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/6641.png"
+    },
+    {
+      "id": 6643,
+      "name": "Stadio Mario Piccirillo",
+      "address": "Via Martiri del Dissenso",
+      "city": "Santa Maria Capua Vetere",
+      "country": "Italy",
+      "capacity": 4000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/6643.png"
+    },
+    {
+      "id": 6644,
+      "name": "Stadio Comunale Stefano Vicino",
+      "address": "Via Fazzatoia, 9",
+      "city": "Gravina in Puglia",
+      "country": "Italy",
+      "capacity": 6000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/6644.png"
+    },
+    {
+      "id": 6645,
+      "name": "Stadio Comunale Villa D'Agri C11",
+      "address": "Via Grumentina",
+      "city": "Marsicovetere",
+      "country": "Italy",
+      "capacity": 1000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/6645.png"
+    },
+    {
+      "id": 6646,
+      "name": "Stadio San Francesco",
+      "address": "Viale San Francesco",
+      "city": "Nocera Inferiore",
+      "country": "Italy",
+      "capacity": 9998,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/6646.png"
+    },
+    {
+      "id": 6647,
+      "name": "Stadio Comunale Tonino D'Angelo",
+      "address": "Via Mura Megalitiche, 61",
+      "city": "Altamura",
+      "country": "Italy",
+      "capacity": 8000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/6647.png"
+    },
+    {
+      "id": 6648,
+      "name": "Stadio Tupparello",
+      "address": "Via dello Stadio",
+      "city": "Acireale",
+      "country": "Italy",
+      "capacity": 12000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/6648.png"
+    },
+    {
+      "id": 6649,
+      "name": "Stadio Orazio Raiti",
+      "address": "Via Giacomo Matteotti, 74",
+      "city": "Biancavilla",
+      "country": "Italy",
+      "capacity": 1000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/6649.png"
+    },
+    {
+      "id": 6650,
+      "name": "Stadio Comunale Castrovillari Mimmo Rende",
+      "address": "Via Veterani dello Sport",
+      "city": "Castrovillari",
+      "country": "Italy",
+      "capacity": 4000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/6650.png"
+    },
+    {
+      "id": 6651,
+      "name": "Stadio Comunale Cittanova",
+      "address": "Viale A. Moro, Loc. S. Maria",
+      "city": "Cittanova",
+      "country": "Italy",
+      "capacity": 1000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/6651.png"
+    },
+    {
+      "id": 6652,
+      "name": "Stadio Comunale di Corigliano",
+      "address": "Strada Provinciale 196",
+      "city": "Corigliano Calabro",
+      "country": "Italy",
+      "capacity": 3500,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/6652.png"
+    },
+    {
+      "id": 12435,
+      "name": "Stadio Comunale Alberto De Cristofaro",
+      "address": "Via Epitaffio",
+      "city": "Giugliano in Campania",
+      "country": "Italy",
+      "capacity": 6044,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/12435.png"
+    },
+    {
+      "id": 20325,
+      "name": "Stadio Comunale Saraceno",
+      "address": "Via Olimpica",
+      "city": "Ravanusa",
+      "country": "Italy",
+      "capacity": 1000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/20325.png"
+    },
+    {
+      "id": 6656,
+      "name": "Stadio Aldo Campo",
+      "address": "Via Avvocato Giovanni Alberto Cartia, Contrada Selvaggio",
+      "city": "Ragusa",
+      "country": "Italy",
+      "capacity": 3500,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/6656.png"
+    },
+    {
+      "id": 6657,
+      "name": "Stadio Antonio Lombardo Angotta",
+      "address": "Via Olimpia",
+      "city": "Marsala",
+      "country": "Italy",
+      "capacity": 13500,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/6657.png"
+    },
+    {
+      "id": 6658,
+      "name": "Stadio Sporting Club",
+      "address": "Via Seminario",
+      "city": "Nola",
+      "country": "Italy",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/6658.png"
+    },
+    {
+      "id": 6659,
+      "name": "Stadio Giuseppe Lopresti",
+      "address": "Via del Tracciolino",
+      "city": "Palmi",
+      "country": "Italy",
+      "capacity": 4000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/6659.png"
+    },
+    {
+      "id": 6660,
+      "name": "Stadio Comunale Ninetto Muscolo",
+      "address": "Viale degli Ulivi",
+      "city": "Roccella Ionica",
+      "country": "Italy",
+      "capacity": 2000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/6660.png"
+    },
+    {
+      "id": 6661,
+      "name": "Stadio Alfredo Giraud",
+      "address": "Piazzale Gargiulo, 2",
+      "city": "Torre Annunziata",
+      "country": "Italy",
+      "capacity": 10750,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/6661.png"
+    },
+    {
+      "id": 12444,
+      "name": "Stadio Comunale Gagliano Castelferrato",
+      "address": "Via Regione Siciliana, Zona Stadio 17",
+      "city": "Gagliano Castelferrato",
+      "country": "Italy",
+      "capacity": 1000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/12444.png"
+    },
+    {
+      "id": 341,
+      "name": "Estadio Elías Figueroa Brander",
+      "address": "Avenida Guillermo González de Hontaneda, Playa Ancha",
+      "city": "Valparaíso",
+      "country": "Italy",
+      "capacity": 21113,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/341.png"
+    },
+    {
+      "id": 19110,
+      "name": "Stadio Comunale",
+      "address": "Via Arnaldo Porta 12",
+      "city": "Villafranca di Verona",
+      "country": "Italy",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/19110.png"
+    },
+    {
+      "id": 4011,
+      "name": "Campo Sportivo di Acquaviva",
+      "address": "Via Nitella",
+      "city": "Acquaviva",
+      "country": "Italy",
+      "capacity": 1500,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/4011.png"
+    },
+    {
+      "id": 18540,
+      "name": "Stadio Comunale Progresso",
+      "address": "Via Lirone, 44",
+      "city": "Castel Maggiore",
+      "country": "Italy",
+      "capacity": 2000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/18540.png"
+    },
+    {
+      "id": 20912,
+      "name": "Centro Sportivo Città di Ascoli",
+      "address": "Via della Bonifica, 1",
+      "city": "Ascoli Piceno",
+      "country": "Italy",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/20912.png"
+    },
+    {
+      "id": 20913,
+      "name": "Antistadio Carmelo Imbriani",
+      "address": "Piazzale degli Atleti",
+      "city": "Benevento",
+      "country": "Italy",
+      "capacity": 300,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/20913.png"
+    },
+    {
+      "id": 19054,
+      "name": "Centro Sportivo Biavato",
+      "address": null,
+      "city": "Bologna",
+      "country": "Italy",
+      "capacity": 1500,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/19054.png"
+    },
+    {
+      "id": 20914,
+      "name": "Centro Sportivo San Filippo",
+      "address": "Via L. Bazoli, 6",
+      "city": "Brescia",
+      "country": "Italy",
+      "capacity": 1500,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/20914.png"
+    },
+    {
+      "id": 21167,
+      "name": "Campioni d'Italia 1969/70 Asseminello",
+      "address": "Via Gibilene, Assemini",
+      "city": "Cagliari",
+      "country": "Italy",
+      "capacity": 1000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/21167.png"
+    },
+    {
+      "id": 20915,
+      "name": "Antistadio Tombolato",
+      "address": "Via Gabrielli 7",
+      "city": "Cittadella",
+      "country": "Italy",
+      "capacity": 1000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/20915.png"
+    },
+    {
+      "id": 20916,
+      "name": "Centro Sportivo Giovanni Arvedi",
+      "address": "Via Postumia / Via Corte",
+      "city": "Cremona",
+      "country": "Italy",
+      "capacity": 1500,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/20916.png"
+    },
+    {
+      "id": 20917,
+      "name": "Campo Sant’Antonio",
+      "address": "Sant’Antonio",
+      "city": "Isola di Capo Rizzuto",
+      "country": "Italy",
+      "capacity": 1000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/20917.png"
+    },
+    {
+      "id": 20918,
+      "name": "Centro Sportivo Monteboro",
+      "address": "Via di Pianezzoli",
+      "city": "Empoli",
+      "country": "Italy",
+      "capacity": 1000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/20918.png"
+    },
+    {
+      "id": 21168,
+      "name": "Stadio Curva Fiesole - Viola Park",
+      "address": "Via Pian di Ripoli 5",
+      "city": "Bagno a Ripoli",
+      "country": "Italy",
+      "capacity": 3000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/21168.png"
+    },
+    {
+      "id": 20919,
+      "name": "Campo Comunale Selvotta",
+      "address": null,
+      "city": "Supino",
+      "country": "Italy",
+      "capacity": 1500,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/20919.png"
+    },
+    {
+      "id": 20920,
+      "name": "Campo Sportivo Begato 9",
+      "address": "Via Felice Maritano",
+      "city": "Genova",
+      "country": "Italy",
+      "capacity": 3000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/20920.png"
+    },
+    {
+      "id": 21169,
+      "name": "Stadio Mirko Fersini",
+      "address": "Via di Santa Cornelia 1000",
+      "city": "Formello",
+      "country": "Italy",
+      "capacity": 3000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/21169.png"
+    },
+    {
+      "id": 21170,
+      "name": "Campo Sportivo San Pietro in Lama",
+      "address": "Via Vicinale Loiori",
+      "city": "San Pietro in Lama",
+      "country": "Italy",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/21170.png"
+    },
+    {
+      "id": 21171,
+      "name": "Centro Sportivo Vismara Campo F",
+      "address": "Via dei Missaglia, 117",
+      "city": "Milano",
+      "country": "Italy",
+      "capacity": 1000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/21171.png"
+    },
+    {
+      "id": 21172,
+      "name": "Centro Sportivo Luigi Berlusconi",
+      "address": "Via Ragazzi del &apos;99, 14",
+      "city": "Monza",
+      "country": "Italy",
+      "capacity": 1000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/21172.png"
+    },
+    {
+      "id": 20921,
+      "name": "Centro Sportivo Parma FC",
+      "address": "Via Nazionale Est",
+      "city": "Collecchio",
+      "country": "Italy",
+      "capacity": 1200,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/20921.png"
+    },
+    {
+      "id": 20922,
+      "name": "Centro Sportivo Prosport A. De Cecco",
+      "address": "Contrada Moscaiola",
+      "city": "Città Sant&apos;Angelo",
+      "country": "Italy",
+      "capacity": 2000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/20922.png"
+    },
+    {
+      "id": 20923,
+      "name": "Campo Sportivo Piero Masoni",
+      "address": "Via Circonvallazione",
+      "city": "Fornacette, Calcinaia",
+      "country": "Italy",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/20923.png"
+    },
+    {
+      "id": 20924,
+      "name": "Stadio Comunale Mirabello",
+      "address": "Via Giacomo Matteotti, 80",
+      "city": "Reggio Emilia",
+      "country": "Italy",
+      "capacity": 4400,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/20924.png"
+    },
+    {
+      "id": 20925,
+      "name": "Stadio Comunale Benito Villani",
+      "address": "Masi San Giacomo",
+      "city": "Masi Torello",
+      "country": "Italy",
+      "capacity": 500,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/20925.png"
+    },
+    {
+      "id": 20926,
+      "name": "Stadio José Guimarães Dirceu",
+      "address": "Via Serracapilli",
+      "city": "Eboli",
+      "country": "Italy",
+      "capacity": 9500,
+      "surface": null,
+      "image": "https://media.api-sports.io/football/venues/20926.png"
+    },
+    {
+      "id": 21173,
+      "name": "Campo Sportivo Tre Campanili",
+      "address": "Via Modena, 1",
+      "city": "Bogliasco",
+      "country": "Italy",
+      "capacity": 1000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/21173.png"
+    },
+    {
+      "id": 21174,
+      "name": "Campo Sportivo Adriana Spazzoli",
+      "address": "Via Regina Pacis, 130",
+      "city": "Sassuolo",
+      "country": "Italy",
+      "capacity": 1500,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/21174.png"
+    },
+    {
+      "id": 20928,
+      "name": "Intels Training Center Ferdeghini",
+      "address": "Via Melara",
+      "city": "La Spezia",
+      "country": "Italy",
+      "capacity": 1000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/20928.png"
+    },
+    {
+      "id": 21175,
+      "name": "Stadio Valentino Mazzola",
+      "address": "Via Guglielmo Marconi, 15",
+      "city": "Orbassano",
+      "country": "Italy",
+      "capacity": 1200,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/21175.png"
+    },
+    {
+      "id": 21176,
+      "name": "Stadio Germano Mian",
+      "address": "Viale Fanti Del Torino, 4B",
+      "city": "Cormons",
+      "country": "Italy",
+      "capacity": 3000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/21176.png"
+    },
+    {
+      "id": 20931,
+      "name": "Stadio Comunale M. Biotto",
+      "address": "Via Stadio",
+      "city": "Campagnia Lupia",
+      "country": "Italy",
+      "capacity": 2000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/20931.png"
+    },
+    {
+      "id": 21177,
+      "name": "Sinergy Stadium",
+      "address": "Via Sogare 9C, Zona Impianti Sport",
+      "city": "Verona",
+      "country": "Italy",
+      "capacity": 3000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/21177.png"
+    },
+    {
+      "id": 20933,
+      "name": "Stadio Comunale Ferruccio Bertoldi",
+      "address": "Via Rizzardini",
+      "city": "Piovene Rocchette",
+      "country": "Italy",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/20933.png"
+    },
+    {
+      "id": 12034,
+      "name": "Stadio Daniele Mariotti",
+      "address": "Via di Maratona, 16",
+      "city": "Montecatini Terme",
+      "country": "Italy",
+      "capacity": 3500,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/12034.png"
+    },
+    {
+      "id": 12053,
+      "name": "Campo Sportivo Comunale Libico",
+      "address": "Via Don Pietro Belotti, 53",
+      "city": "Grumello del Monte",
+      "country": "Italy",
+      "capacity": 1500,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/12053.png"
+    },
+    {
+      "id": 12059,
+      "name": "Stadio Briamasco",
+      "address": "Via R. da Sanseverino 41",
+      "city": "Trento",
+      "country": "Italy",
+      "capacity": 4227,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/12059.png"
+    },
+    {
+      "id": 12415,
+      "name": "Stadio Comunale",
+      "address": "Via dell&apos;Industria 33",
+      "city": "Olginate",
+      "country": "Italy",
+      "capacity": 1050,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/12415.png"
+    },
+    {
+      "id": 12530,
+      "name": "Stadio Domenico Conte",
+      "address": "Prima Traversa Via Virgilio",
+      "city": "Pozzuoli",
+      "country": "Italy",
+      "capacity": 5000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/12530.png"
+    },
+    {
+      "id": 12534,
+      "name": "Stadio Buitoni",
+      "address": "Via del Campo Sportivo 1",
+      "city": "Sansepolcro",
+      "country": "Italy",
+      "capacity": 2000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/12534.png"
+    },
+    {
+      "id": 12416,
+      "name": "Campo Sportivo Comunale n.2",
+      "address": "Via Alessandro Volta",
+      "city": "Casatenovo",
+      "country": "Italy",
+      "capacity": 1500,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/12416.png"
+    },
+    {
+      "id": 20934,
+      "name": "Centro Sportivo Alberto Rognoni",
+      "address": "Via Settecrociari",
+      "city": "Villa Silvia di Lizzano",
+      "country": "Italy",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/20934.png"
+    },
+    {
+      "id": 20935,
+      "name": "Campo Sportivo D. Bruga",
+      "address": "Via Santa Margherita, 1‎",
+      "city": "Bizzarone",
+      "country": "Italy",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/20935.png"
+    },
+    {
+      "id": 20936,
+      "name": "Centro Sportivo Paolo Rossi Campo 2",
+      "address": null,
+      "city": "Perugia",
+      "country": "Italy",
+      "capacity": 1000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/20936.png"
+    },
+    {
+      "id": 20937,
+      "name": "Campo Terni Est",
+      "address": "Via Vulcano",
+      "city": "Terni",
+      "country": "Italy",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/20937.png"
+    },
+    {
+      "id": 12408,
+      "name": "Stadio Vincenzo Cesin Bosia",
+      "address": "Via Ugo Foscolo 19",
+      "city": "Asti",
+      "country": "Italy",
+      "capacity": 6000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/12408.png"
+    },
+    {
+      "id": 12409,
+      "name": "Stadio Fausto Coppi",
+      "address": "Viale della Libertá",
+      "city": "Tortona",
+      "country": "Italy",
+      "capacity": 5000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/12409.png"
+    },
+    {
+      "id": 12410,
+      "name": "Stadio Nino Ciccione",
+      "address": "Strada Vivinale Costamagna",
+      "city": "Imperia",
+      "country": "Italy",
+      "capacity": 3900,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/12410.png"
+    },
+    {
+      "id": 20255,
+      "name": "Campo Sportivo E. Brunod",
+      "address": "Via Italo Mus",
+      "city": "Chatillon",
+      "country": "Italy",
+      "capacity": 3000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/20255.png"
+    },
+    {
+      "id": 12640,
+      "name": "Campo Sportivo Romentino",
+      "address": "Via del Tintoretto, 9",
+      "city": "Romentino",
+      "country": "Italy",
+      "capacity": 3000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/12640.png"
+    },
+    {
+      "id": 12412,
+      "name": "Stadio Amedeo Damiano",
+      "address": "Via della Croce",
+      "city": "Saluzzo",
+      "country": "Italy",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/12412.png"
+    },
+    {
+      "id": 12413,
+      "name": "Stadio Giuseppe Sivori",
+      "address": "Via per Santa Vittoria, 5",
+      "city": "Sestri Levante",
+      "country": "Italy",
+      "capacity": 1800,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/12413.png"
+    },
+    {
+      "id": 12417,
+      "name": "Stadio Tre Stelle",
+      "address": "Via Giotto, 104",
+      "city": "Desenzano del Garda",
+      "country": "Italy",
+      "capacity": 3000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/12417.png"
+    },
+    {
+      "id": 22407,
+      "name": "Campo Sportivo Comunale Zivido",
+      "address": "Via Fratelli Ruffini",
+      "city": "San Giuliano Milanese",
+      "country": "Italy",
+      "capacity": 1500,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/22407.png"
+    },
+    {
+      "id": 12418,
+      "name": "Stadio Comunale Sona",
+      "address": "Via Casella, 22",
+      "city": "Sona",
+      "country": "Italy",
+      "capacity": 1500,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/12418.png"
+    },
+    {
+      "id": 12419,
+      "name": "Centro sportivo comunale Stefano Borgonovo",
+      "address": "Largo Donatori di Sangue, 3",
+      "city": "Giussano",
+      "country": "Italy",
+      "capacity": 1500,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/12419.png"
+    },
+    {
+      "id": 12641,
+      "name": "Campo San Martino Buon Albergo",
+      "address": null,
+      "city": "San Martino Buon Albergo",
+      "country": "Italy",
+      "capacity": 1500,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/12641.png"
+    },
+    {
+      "id": 12642,
+      "name": "Stadio Comunale Salvador Allende",
+      "address": "Viale Sanremo, 63",
+      "city": "Spinea",
+      "country": "Italy",
+      "capacity": 2000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/12642.png"
+    },
+    {
+      "id": 22408,
+      "name": "Centro Sportivo G.Carbonchi",
+      "address": "Via Cà De Testi 2",
+      "city": "Sasso Marconi",
+      "country": "Italy",
+      "capacity": 2000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/22408.png"
+    },
+    {
+      "id": 19261,
+      "name": "Campo Comunale Kennedy",
+      "address": "Via Alessio Olivieri, 13",
+      "city": "Milano",
+      "country": "Italy",
+      "capacity": 1000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/19261.png"
+    },
+    {
+      "id": 12422,
+      "name": "Stadio Fratelli Campari",
+      "address": "Via Olimpia 4",
+      "city": "Bagnolo in Piano",
+      "country": "Italy",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/12422.png"
+    },
+    {
+      "id": 12644,
+      "name": "Stadio Dario Ballotta",
+      "address": "Via Palmiro Togliatti",
+      "city": "Fidenza",
+      "country": "Italy",
+      "capacity": 2400,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/12644.png"
+    },
+    {
+      "id": 12645,
+      "name": "Stadio Redini",
+      "address": "Piazza Ferrari, 5",
+      "city": "Cascina",
+      "country": "Italy",
+      "capacity": 2000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/12645.png"
+    },
+    {
+      "id": 12426,
+      "name": "Stadio Mauro Nannotti",
+      "address": "Via Palmiro Togliatti 2, Badesse",
+      "city": "Monteriggioni",
+      "country": "Italy",
+      "capacity": 1500,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/12426.png"
+    },
+    {
+      "id": 12427,
+      "name": "Campo Sportivo Montespaccato",
+      "address": "Via Stefano Vaj, 41",
+      "city": "Roma",
+      "country": "Italy",
+      "capacity": 2000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/12427.png"
+    },
+    {
+      "id": 12428,
+      "name": "Stadio Stefano Lotti",
+      "address": "Viale Marconi, 105",
+      "city": "Poggibonsi",
+      "country": "Italy",
+      "capacity": 3621,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/12428.png"
+    },
+    {
+      "id": 12429,
+      "name": "Stadio Banditella",
+      "address": "Via Sommati Pier Donato, 2",
+      "city": "Livorno",
+      "country": "Italy",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/12429.png"
+    },
+    {
+      "id": 6601,
+      "name": "Stadio Comunale C. Bernicchi",
+      "address": "Viale Europa 5",
+      "city": "Citta di Castello",
+      "country": "Italy",
+      "capacity": 4000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/6601.png"
+    },
+    {
+      "id": 12646,
+      "name": "Stadio Franco Maniscalco",
+      "address": "Piazzale Aldo Moro",
+      "city": "Pomezia",
+      "country": "Italy",
+      "capacity": 1500,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/12646.png"
+    },
+    {
+      "id": 12647,
+      "name": "Campo Sportivo di Capriati a Volturno",
+      "address": null,
+      "city": "Capriati a Volturno",
+      "country": "Italy",
+      "capacity": 1000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/12647.png"
+    },
+    {
+      "id": 12432,
+      "name": "Nuovo Stadio Comunale G.Mancini",
+      "address": "Via dello Sport",
+      "city": "Castelfidardo",
+      "country": "Italy",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/12432.png"
+    },
+    {
+      "id": 12433,
+      "name": "Campo Comunale",
+      "address": "Via Napoli",
+      "city": "Castelnuovo Vomano",
+      "country": "Italy",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/12433.png"
+    },
+    {
+      "id": 12434,
+      "name": "Stadio Comunale P. Ferrante",
+      "address": "Via Limate, 11",
+      "city": "Piedimonte Matese",
+      "country": "Italy",
+      "capacity": 1000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/12434.png"
+    },
+    {
+      "id": 12648,
+      "name": "Stadio Comunale di Nereto",
+      "address": "Via Vibrata",
+      "city": "Nereto",
+      "country": "Italy",
+      "capacity": 3000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/12648.png"
+    },
+    {
+      "id": 12649,
+      "name": "Campo Ciarrocchi",
+      "address": "Via Martiri di Marzabotto",
+      "city": "San Benedetto del Tronto",
+      "country": "Italy",
+      "capacity": 1000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/12649.png"
+    },
+    {
+      "id": 20326,
+      "name": "Stadio Comunale Domenico Iorio",
+      "address": "Via Caudio, 7",
+      "city": "Casalnuovo",
+      "country": "Italy",
+      "capacity": 2000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/20326.png"
+    },
+    {
+      "id": 12650,
+      "name": "Campo Comunale Uri",
+      "address": "Via L. Tolstoj, 40",
+      "city": "Uri",
+      "country": "Italy",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/12650.png"
+    },
+    {
+      "id": 12437,
+      "name": "Stadio Carlo Zoboli",
+      "address": "Via della Stazione, 19",
+      "city": "Carbonia",
+      "country": "Italy",
+      "capacity": 2500,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/12437.png"
+    },
+    {
+      "id": 12438,
+      "name": "Stadio Comunale",
+      "address": "Via Sicilia 27",
+      "city": "Genzano di Roma",
+      "country": "Italy",
+      "capacity": 6500,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/12438.png"
+    },
+    {
+      "id": 12439,
+      "name": "Stadio Comunale di Formia",
+      "address": "Via della Fontana",
+      "city": "Formia",
+      "country": "Italy",
+      "capacity": 5000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/12439.png"
+    },
+    {
+      "id": 12651,
+      "name": "Stadio Ottavio Pierangeli",
+      "address": null,
+      "city": "Monterotondo",
+      "country": "Italy",
+      "capacity": 1000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/12651.png"
+    },
+    {
+      "id": 12441,
+      "name": "Stadio Franco Pisicchio",
+      "address": null,
+      "city": "Lavello",
+      "country": "Italy",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/12441.png"
+    },
+    {
+      "id": 12652,
+      "name": "Stadio Comunale di Marigliano",
+      "address": "Via Europa, 18",
+      "city": "Marigliano",
+      "country": "Italy",
+      "capacity": 1000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/12652.png"
+    },
+    {
+      "id": 12442,
+      "name": "Stadio Comunale Paolo Poli",
+      "address": "Via Don Pietro Pappagallo",
+      "city": "Molfetta",
+      "country": "Italy",
+      "capacity": 5000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/12442.png"
+    },
+    {
+      "id": 12443,
+      "name": "Campo sportivo Nicola Vulcano",
+      "address": "Forcelle",
+      "city": "Castelluccio Inferiore",
+      "country": "Italy",
+      "capacity": 1000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/12443.png"
+    },
+    {
+      "id": 12653,
+      "name": "Stadio Comunale Rafaele Paudice",
+      "address": "Via Sandriana",
+      "city": "San Giorgio a Cremano",
+      "country": "Italy",
+      "capacity": 800,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/12653.png"
+    },
+    {
+      "id": 12654,
+      "name": "Stadio Comunale Via Del Mare",
+      "address": "Via Olimpia, 36",
+      "city": "Matino",
+      "country": "Italy",
+      "capacity": 1000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/12654.png"
+    },
+    {
+      "id": 12445,
+      "name": "Stadio Proto-Morreale",
+      "address": "Via Fausto Coppi",
+      "city": "Melicucco",
+      "country": "Italy",
+      "capacity": 3000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/12445.png"
+    },
+    {
+      "id": 12446,
+      "name": "Campo da Calcio di Sant'Agata di Militello",
+      "address": null,
+      "city": "Sant&apos;Agata di Militello",
+      "country": "Italy",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/12446.png"
+    },
+    {
+      "id": 12655,
+      "name": "Stadio Regionale Giarre",
+      "address": "Via Olimpia",
+      "city": "Giarre",
+      "country": "Italy",
+      "capacity": 3000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/12655.png"
+    },
+    {
+      "id": 12632,
+      "name": "Stadio Guido D'Ippolito",
+      "address": "Via Guglielmo Marconi",
+      "city": "Lamezia Terme",
+      "country": "Italy",
+      "capacity": 3878,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/12632.png"
+    },
+    {
+      "id": 12447,
+      "name": "Stadio Falcone-Borsellino",
+      "address": "Via dello Stadio",
+      "city": "Paternò",
+      "country": "Italy",
+      "capacity": 4000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/12447.png"
+    },
+    {
+      "id": 12448,
+      "name": "Stadio Augusto Bisceglia",
+      "address": "Via Enrico Caruso, San Lorenzo",
+      "city": "Aversa",
+      "country": "Italy",
+      "capacity": 2565,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/12448.png"
+    },
+    {
+      "id": 12449,
+      "name": "Stadio San Luca",
+      "address": null,
+      "city": "Vorea",
+      "country": "Italy",
+      "capacity": 2500,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/12449.png"
+    },
+    {
+      "id": 12450,
+      "name": "Stadio Valentino Mazzola",
+      "address": "Via Trieste",
+      "city": "San Cataldo",
+      "country": "Italy",
+      "capacity": 3000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/12450.png"
+    },
+    {
+      "id": 12451,
+      "name": "Campo Sportivo Antonio Carrano",
+      "address": "Strada Statale 267",
+      "city": "Santa Maria di Castellabate",
+      "country": "Italy",
+      "capacity": 3000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/12451.png"
+    },
+    {
+      "id": 12637,
+      "name": "Campo Comunale",
+      "address": "Via Monte Nero",
+      "city": "Venegono Superiore",
+      "country": "Italy",
+      "capacity": 1200,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/12637.png"
+    },
+    {
+      "id": 18733,
+      "name": "Stadio Romeo Menti",
+      "address": "Via Schio, 21",
+      "city": "Vicenza",
+      "country": "Italy",
+      "capacity": 20920,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/18733.png"
+    },
+    {
+      "id": 19268,
+      "name": "Stadio William Venturelli",
+      "address": "Via Costituzione, 11",
+      "city": "Castelvetro di Modena",
+      "country": "Italy",
+      "capacity": 2000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/19268.png"
+    },
+    {
+      "id": 19271,
+      "name": "Stadio Pincelli",
+      "address": "Via J. Barozzi",
+      "city": "Formigine",
+      "country": "Italy",
+      "capacity": 1500,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/19271.png"
+    },
+    {
+      "id": 20938,
+      "name": "Campo Sportivo Comunale",
+      "address": "Via Portico",
+      "city": "Bagnatica",
+      "country": "Italy",
+      "capacity": 1000,
+      "surface": null,
+      "image": "https://media.api-sports.io/football/venues/20938.png"
+    },
+    {
+      "id": 20939,
+      "name": "Campo Sportivo Comunale B. Pola",
+      "address": "Via Molino Vecchio",
+      "city": "Borgosatollo, Brescia",
+      "country": "Italy",
+      "capacity": 500,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/20939.png"
+    },
+    {
+      "id": 20940,
+      "name": "Centro Sportivo Tommaso Carrieri",
+      "address": "Via Procaccia",
+      "city": "Monopoli",
+      "country": "Italy",
+      "capacity": 1500,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/20940.png"
+    },
+    {
+      "id": 20941,
+      "name": "Stadio Silvio Appiani",
+      "address": "Via Carducci 3, Prato della Valle",
+      "city": "Padova",
+      "country": "Italy",
+      "capacity": 24000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/20941.png"
+    },
+    {
+      "id": 20259,
+      "name": "Stadio Pasquale Novi",
+      "address": "Piazzale Novi",
+      "city": "Angri",
+      "country": "Italy",
+      "capacity": 3100,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/20259.png"
+    },
+    {
+      "id": 19053,
+      "name": "Stadio Cosimo Puttilli",
+      "address": "Via Vittorio Veneto",
+      "city": "Barletta",
+      "country": "Italy",
+      "capacity": 9000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/19053.png"
+    },
+    {
+      "id": 20146,
+      "name": "Campo Dino Marola",
+      "address": "Via del Castello, 3",
+      "city": "Vinovo",
+      "country": "Italy",
+      "capacity": 3000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/20146.png"
+    },
+    {
+      "id": 21135,
+      "name": "Stadio Salvatore Zichina",
+      "address": "Località Giardinelli, Zona Ricciolina",
+      "city": "La Maddalena",
+      "country": "Italy",
+      "capacity": 2500,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/21135.png"
+    },
+    {
+      "id": 19055,
+      "name": "Stadio Comunale Locri",
+      "address": "Via Angelo Cusmano, 10",
+      "city": "Locri",
+      "country": "Italy",
+      "capacity": 2000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/19055.png"
+    },
+    {
+      "id": 19056,
+      "name": "Stadio Gian Domenico Tursi",
+      "address": "Via Sanita, 5",
+      "city": "Martina Franca",
+      "country": "Italy",
+      "capacity": 3976,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/19056.png"
+    },
+    {
+      "id": 19057,
+      "name": "Stadio G. Corsaro",
+      "address": "Via del Vigo 11",
+      "city": "Montecchio Maggiore",
+      "country": "Italy",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/19057.png"
+    },
+    {
+      "id": 19058,
+      "name": "Stadio Luigi Muzi",
+      "address": "Via della Svolta, 12",
+      "city": "Orvieto",
+      "country": "Italy",
+      "capacity": 3500,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/19058.png"
+    },
+    {
+      "id": 19059,
+      "name": "Stadio Luigi Barbieri",
+      "address": "Viale Piazza d&apos;Armi 6",
+      "city": "Pinerolo",
+      "country": "Italy",
+      "capacity": 2000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/19059.png"
+    },
+    {
+      "id": 19060,
+      "name": "Stadio Pier Giovanni Mecchia",
+      "address": "Viale Luigi Cadorna",
+      "city": "Portogruaro",
+      "country": "Italy",
+      "capacity": 3335,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/19060.png"
+    },
+    {
+      "id": 19061,
+      "name": "Stadio Comunale Italo Nicoletti",
+      "address": "Via Forlimpopoli 15",
+      "city": "Riccione",
+      "country": "Italy",
+      "capacity": 3370,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/19061.png"
+    },
+    {
+      "id": 20256,
+      "name": "Stadio Nicola Urban",
+      "address": "Via del Campo Sportivo",
+      "city": "Riano",
+      "country": "Italy",
+      "capacity": 1000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/20256.png"
+    },
+    {
+      "id": 19111,
+      "name": "Stadio C. Francani",
+      "address": "Viale Crispi, 27",
+      "city": "Salsomaggiore Terme",
+      "country": "Italy",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/19111.png"
+    },
+    {
+      "id": 19062,
+      "name": "Stadio Carlo Chiesa",
+      "address": "Via Fratelli Cortese",
+      "city": "Sant&apos;Angelo Lodigiano",
+      "country": "Italy",
+      "capacity": 4100,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/19062.png"
+    },
+    {
+      "id": 20279,
+      "name": "Campo Sportivo Is Arranas",
+      "address": "Via Is Arranas",
+      "city": "Tertenia",
+      "country": "Italy",
+      "capacity": 1500,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/20279.png"
+    },
+    {
+      "id": 19063,
+      "name": "Stadio Comunale Luigi Forlano",
+      "address": "via Fiume",
+      "city": "Stresa",
+      "country": "Italy",
+      "capacity": 2000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/19063.png"
+    },
+    {
+      "id": 20201,
+      "name": "Stadio Comunale Altopascio",
+      "address": "Via Casali / Via F.lli Rosselli",
+      "city": "Altopascio",
+      "country": "Italy",
+      "capacity": 1500,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/20201.png"
+    },
+    {
+      "id": 19064,
+      "name": "Stadio Gino Cannarsa",
+      "address": "Via dello Sport",
+      "city": "Termoli",
+      "country": "Italy",
+      "capacity": 3300,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/19064.png"
+    },
+    {
+      "id": 19279,
+      "name": "Stadio Comunale Mario Matteini",
+      "address": "Piazza Generale Coralli, 6",
+      "city": "Terranuova Bracciolini",
+      "country": "Italy",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/19279.png"
+    },
+    {
+      "id": 20280,
+      "name": "Stadio Olindo Galli",
+      "address": "Strada Provinciale 33a",
+      "city": "Tivoli",
+      "country": "Italy",
+      "capacity": 3500,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/20280.png"
+    },
+    {
+      "id": 19109,
+      "name": "Stadio Beppino Tonello",
+      "address": "Via Fornelli di Sotto",
+      "city": "Torviscosa",
+      "country": "Italy",
+      "capacity": 1500,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/19109.png"
+    },
+    {
+      "id": 21136,
+      "name": "Stadio Comunale Di Palma Campania",
+      "address": "Via Querce",
+      "city": "Palma Campania",
+      "country": "Italy",
+      "capacity": 1500,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/21136.png"
+    },
+    {
+      "id": 19280,
+      "name": "Stadio Comunale Goffredo Bianchelli",
+      "address": "Via Montenegro, 21",
+      "city": "Senigallia",
+      "country": "Italy",
+      "capacity": 4000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/19280.png"
+    },
+    {
+      "id": 21137,
+      "name": "Stadio Comunale Riccione Via Arezzo",
+      "address": "Via Arezzo 28",
+      "city": "Riccione",
+      "country": "Italy",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/21137.png"
+    },
+    {
+      "id": 20205,
+      "name": "Stadio Goffredo Del Buffa",
+      "address": "Piazza della libertà, 1",
+      "city": "Figline Valdarno",
+      "country": "Italy",
+      "capacity": 1500,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/20205.png"
+    },
+    {
+      "id": 21184,
+      "name": "Stadio Annibale Riva",
+      "address": "Viale Olimpia, 1",
+      "city": "Albenga",
+      "country": "Italy",
+      "capacity": 3000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/21184.png"
+    },
+    {
+      "id": 20262,
+      "name": "Stadio Massimo Bruschini",
+      "address": "Via Olimpica",
+      "city": "Anzio",
+      "country": "Italy",
+      "capacity": 3000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/20262.png"
+    },
+    {
+      "id": 21138,
+      "name": "Stadio Don Mauro Bartolini",
+      "address": "Via dei Frassini, 11",
+      "city": "Ascoli Piceno",
+      "country": "Italy",
+      "capacity": 1500,
+      "surface": null,
+      "image": "https://media.api-sports.io/football/venues/21138.png"
+    },
+    {
+      "id": 21139,
+      "name": "Vista Vision Stadium",
+      "address": "Via Papa Giovanni XXIII, 8",
+      "city": "Pero",
+      "country": "Italy",
+      "capacity": 2000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/21139.png"
+    },
+    {
+      "id": 22411,
+      "name": "Stadio Comunale Fossombrone",
+      "address": "Strada Provinciale Flaminia",
+      "city": "Fossombrone",
+      "country": "Italy",
+      "capacity": 3000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/22411.png"
+    },
+    {
+      "id": 20263,
+      "name": "Stadio Comunale Antonio Bianco",
+      "address": "Lungomare Lido San Giovanni",
+      "city": "Gallipoli",
+      "country": "Italy",
+      "capacity": 4368,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/20263.png"
+    },
+    {
+      "id": 20264,
+      "name": "Stadio Carlo Stagno d'Alcontres",
+      "address": "Via Dello Stadio",
+      "city": "Barcellona Pozzo di Gotto",
+      "country": "Italy",
+      "capacity": 5000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/20264.png"
+    },
+    {
+      "id": 20265,
+      "name": "Stadio Comunale Vincenzo Mazzella",
+      "address": "Via Fondobosso 16",
+      "city": "Ischia",
+      "country": "Italy",
+      "capacity": 5428,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/20265.png"
+    },
+    {
+      "id": 20266,
+      "name": "Stadio Gran Sasso d'Italia",
+      "address": "Via della Crocetta, Acquasanta",
+      "city": "L’Aquila",
+      "country": "Italy",
+      "capacity": 6763,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/20266.png"
+    },
+    {
+      "id": 20267,
+      "name": "Stadio Miramare",
+      "address": "Via San Giovanni Bosco",
+      "city": "Manfredonia",
+      "country": "Italy",
+      "capacity": 4076,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/20267.png"
+    },
+    {
+      "id": 20268,
+      "name": "Stadio Comunale",
+      "address": null,
+      "city": "Mori Trento",
+      "country": "Italy",
+      "capacity": 500,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/20268.png"
+    },
+    {
+      "id": 21140,
+      "name": "Academy Sport Center",
+      "address": "Via di Settebagni, 340",
+      "city": "Roma",
+      "country": "Italy",
+      "capacity": 2000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/21140.png"
+    },
+    {
+      "id": 20270,
+      "name": "Stadio Claudio Tomei",
+      "address": "Via Sferracavallo, 1",
+      "city": "Sora",
+      "country": "Italy",
+      "capacity": 6500,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/20270.png"
+    },
+    {
+      "id": 20271,
+      "name": "Stadio Omobono Tenni",
+      "address": "Via Ugo Foscolo, 3",
+      "city": "Treviso",
+      "country": "Italy",
+      "capacity": 9435,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/20271.png"
+    },
+    {
+      "id": 20272,
+      "name": "Stadio Comunale Giovanni Parisi",
+      "address": "Via Facchinetti 4",
+      "city": "Voghera",
+      "country": "Italy",
+      "capacity": 4000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/20272.png"
+    },
+    {
+      "id": 22409,
+      "name": "Stadio Comunale",
+      "address": "Via Brescia, 10",
+      "city": "Palazzolo sull&apos;Oglio",
+      "country": "Italy",
+      "capacity": 4000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/22409.png"
+    },
+    {
+      "id": 20942,
+      "name": "Stadio Antonio Antonucci",
+      "address": "Via Marconi",
+      "city": "Bitetto",
+      "country": "Italy",
+      "capacity": 1000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/20942.png"
+    },
+    {
+      "id": 20943,
+      "name": "Campo Pasqualino",
+      "address": null,
+      "city": "Carini",
+      "country": "Italy",
+      "capacity": 2000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/20943.png"
+    },
+    {
+      "id": 20944,
+      "name": "Stadio Mario Riboldi",
+      "address": "Via XXV Aprile",
+      "city": "Renate",
+      "country": "Italy",
+      "capacity": 1400,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/20944.png"
+    },
+    {
+      "id": 20945,
+      "name": "Campo Maso Ronco",
+      "address": "Via Monticolo 37",
+      "city": "Appiano",
+      "country": "Italy",
+      "capacity": 2000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/20945.png"
+    },
+    {
+      "id": 21683,
+      "name": "Campo Cit Turin LDE",
+      "address": "C.so Francesco Ferrucci, 63A",
+      "city": "Torino",
+      "country": "Italy",
+      "capacity": 1000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/21683.png"
+    },
+    {
+      "id": 20805,
+      "name": "Stadio Comunale",
+      "address": "Via Puccini 4",
+      "city": "Castel Goffredo",
+      "country": "Italy",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/20805.png"
+    },
+    {
+      "id": 21141,
+      "name": "Stadio Walgter Righi",
+      "address": "Via Santa Cristina 16",
+      "city": "Borgaro Torinese TO",
+      "country": "Italy",
+      "capacity": 5000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/21141.png"
+    },
+    {
+      "id": 12087,
+      "name": "Stadio Guido Teghil",
+      "address": "Via della Vigna, 19",
+      "city": "Lignano Sabbiadoro",
+      "country": "Italy",
+      "capacity": 5000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/12087.png"
+    },
+    {
+      "id": 22401,
+      "name": "Stadio Cesare Brin",
+      "address": "Via della Repubblica",
+      "city": "Cairo Montenotte",
+      "country": "Italy",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/22401.png"
+    },
+    {
+      "id": 22404,
+      "name": "Stadio Comunale \"Azzurri d'Italia\"",
+      "address": "Via dei Tigli, 12",
+      "city": "Noale",
+      "country": "Italy",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/22404.png"
+    },
+    {
+      "id": 22410,
+      "name": "Allegretti Campo A",
+      "address": "Via Scartazzetta, 53",
+      "city": "San Damaso",
+      "country": "Italy",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/22410.png"
+    },
+    {
+      "id": 21143,
+      "name": "Stadio Mario Lancelotta",
+      "address": "Contrada Tremolicci",
+      "city": "Isernia",
+      "country": "Italy",
+      "capacity": 5000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/21143.png"
+    },
+    {
+      "id": 21144,
+      "name": "Polisportivo Comunale",
+      "address": "Corso Garibaldi",
+      "city": "Civitanova Marche",
+      "country": "Italy",
+      "capacity": 6000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/21144.png"
+    },
+    {
+      "id": 22412,
+      "name": "Stadio Generale Gaeta",
+      "address": "Via Murgano, 43",
+      "city": "Enna",
+      "country": "Italy",
+      "capacity": 5000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/22412.png"
+    },
+    {
+      "id": 21145,
+      "name": "Stadio Marco Tomaselli",
+      "address": "Viale Stefano Candura, 83",
+      "city": "Caltanissetta",
+      "country": "Italy",
+      "capacity": 15000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/21145.png"
+    },
+    {
+      "id": 20260,
+      "name": "Stadio Felice Squitieri",
+      "address": "Traversa Campo Sportivo",
+      "city": "Sarno",
+      "country": "Italy",
+      "capacity": 7000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/20260.png"
+    },
+    {
+      "id": 21146,
+      "name": "Stadio Comunale 28 settembre 1943",
+      "address": "via Domenico Catalano",
+      "city": "Scafati",
+      "country": "Italy",
+      "capacity": 2605,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/21146.png"
+    },
+    {
+      "id": 21147,
+      "name": "Stadio Mario Colavolpe",
+      "address": "Via Ceccaccio",
+      "city": "Terracina",
+      "country": "Italy",
+      "capacity": 3000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/21147.png"
+    },
+    {
+      "id": 22327,
+      "name": "Stadio Carillo Pesenti Pigna",
+      "address": "Via Europa, 50",
+      "city": "Alzano Lombardo",
+      "country": "Italy",
+      "capacity": 1900,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/22327.png"
+    },
+    {
+      "id": 21178,
+      "name": "Centro Sportivo Crespellano",
+      "address": "Via Giuseppe Verdi, 93",
+      "city": "Crespellano",
+      "country": "Italy",
+      "capacity": 1000,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/21178.png"
+    },
+    {
+      "id": 21179,
+      "name": "Centro Sportivo Romagna Centro",
+      "address": "Via Calcinaro 1165",
+      "city": "Martorano di Cesena",
+      "country": "Italy",
+      "capacity": 1500,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/21179.png"
+    },
+    {
+      "id": 22328,
+      "name": "Stadio Davide Astori",
+      "address": "Via Pian di Ripoli 5",
+      "city": "Bagno a Ripoli",
+      "country": "Italy",
+      "capacity": 1500,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/22328.png"
+    },
+    {
+      "id": 22329,
+      "name": "Stadio La Sciorba",
+      "address": "Via Adamoli 57",
+      "city": "Genova",
+      "country": "Italy",
+      "capacity": 7000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/22329.png"
+    },
+    {
+      "id": 22330,
+      "name": "Stadio Enzo Ricci",
+      "address": "Piazza Risorgimento",
+      "city": "Sassuolo",
+      "country": "Italy",
+      "capacity": 4008,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/22330.png"
+    },
+    {
+      "id": 22413,
+      "name": "Stadio Comunale Giovanni Bruccoleri",
+      "address": "Via dello Sport, 1",
+      "city": "Favara",
+      "country": "Italy",
+      "capacity": 2000,
+      "surface": "artificial turf",
+      "image": "https://media.api-sports.io/football/venues/22413.png"
+    },
+    {
+      "id": 22414,
+      "name": "Stadio Vincenzo Presti",
+      "address": "Via Niscemi",
+      "city": "Gela",
+      "country": "Italy",
+      "capacity": 4200,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/22414.png"
+    },
+    {
+      "id": 22402,
+      "name": "Stadio Comunale",
+      "address": null,
+      "city": null,
+      "country": "Italy",
+      "capacity": 2200,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/22402.png"
+    },
+    {
+      "id": 22415,
+      "name": "Stadio Grotta Polifemo",
+      "address": "Via delle Ninfe",
+      "city": "Milazzo",
+      "country": "Italy",
+      "capacity": 2500,
+      "surface": "grass",
+      "image": "https://media.api-sports.io/football/venues/22415.png"
+    }
+  ]
+}

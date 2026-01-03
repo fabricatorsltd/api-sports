@@ -18,4 +18,14 @@ public class LeaguesClient(ApiSportsHttpClient http)
             LeaguesJsonContext.Default.ApiResponseApiLeagueResponseArray,
             cancellationToken);
     }
+    
+    public Task<ApiResponse<int[]>> GetSeasonsAsync(
+        CancellationToken cancellationToken = default)
+    {
+        return http.GetAsync(
+            "/leagues/seasons",
+            null,
+            LeaguesJsonContext.Default.ApiResponseInt32Array,
+            cancellationToken);
+    }
 }

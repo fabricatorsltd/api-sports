@@ -18,4 +18,26 @@ public class TeamsClient(ApiSportsHttpClient http)
             TeamsJsonContext.Default.ApiResponseApiTeamResponseArray,
             cancellationToken);
     }
+    
+    public Task<ApiResponse<ApiTeamResponse[]>> GetStatisticsAsync(
+        TeamsStatisticsQuery query,
+        CancellationToken cancellationToken = default)
+    {
+        return http.GetAsync(
+            "/teams/statistics",
+            query,
+            //TeamsJsonContext.Default.ApiResponseApiTeamResponseArray,
+            cancellationToken);
+    }
+    
+    public Task<ApiResponse<int[]>> GetSeasonsAsync(
+        TeamsSeasonsQuery query,
+        CancellationToken cancellationToken = default)
+    {
+        return http.GetAsync(
+            "/teams/statistics",
+            query,
+            TeamsJsonContext.Default.ApiResponseInt32Array,
+            cancellationToken);
+    }
 }
