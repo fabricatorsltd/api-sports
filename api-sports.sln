@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiSports.Sdk.Core", "src\ApiSports.Sdk.Core\ApiSports.Sdk.Core.csproj", "{5D47AF11-4A16-454D-A4FC-8CEE86DC2F86}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiSports.Sdk.Abstractions", "src\ApiSports.Sdk.Abstractions\ApiSports.Sdk.Abstractions.csproj", "{EF225AC7-18F7-4AD2-B105-41CC22135E04}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{D5EC93CF-71DC-45B0-A8E6-88A69D0301E6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "samples", "samples", "{1CE83C2B-30DA-4CF3-A2A3-BEA553755465}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleConsole", "samples\SampleConsole\SampleConsole.csproj", "{66F6B684-3A00-4B86-AD28-9E4D722BF369}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiSports.Sdk.Football", "src\ApiSports.Sdk.Football\ApiSports.Sdk.Football.csproj", "{476903F1-9010-4CFA-957C-397A466D2A89}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D47AF11-4A16-454D-A4FC-8CEE86DC2F86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D47AF11-4A16-454D-A4FC-8CEE86DC2F86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D47AF11-4A16-454D-A4FC-8CEE86DC2F86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D47AF11-4A16-454D-A4FC-8CEE86DC2F86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF225AC7-18F7-4AD2-B105-41CC22135E04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF225AC7-18F7-4AD2-B105-41CC22135E04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF225AC7-18F7-4AD2-B105-41CC22135E04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF225AC7-18F7-4AD2-B105-41CC22135E04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66F6B684-3A00-4B86-AD28-9E4D722BF369}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66F6B684-3A00-4B86-AD28-9E4D722BF369}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66F6B684-3A00-4B86-AD28-9E4D722BF369}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66F6B684-3A00-4B86-AD28-9E4D722BF369}.Release|Any CPU.Build.0 = Release|Any CPU
+		{476903F1-9010-4CFA-957C-397A466D2A89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{476903F1-9010-4CFA-957C-397A466D2A89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{476903F1-9010-4CFA-957C-397A466D2A89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{476903F1-9010-4CFA-957C-397A466D2A89}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{5D47AF11-4A16-454D-A4FC-8CEE86DC2F86} = {D5EC93CF-71DC-45B0-A8E6-88A69D0301E6}
+		{EF225AC7-18F7-4AD2-B105-41CC22135E04} = {D5EC93CF-71DC-45B0-A8E6-88A69D0301E6}
+		{66F6B684-3A00-4B86-AD28-9E4D722BF369} = {1CE83C2B-30DA-4CF3-A2A3-BEA553755465}
+		{476903F1-9010-4CFA-957C-397A466D2A89} = {D5EC93CF-71DC-45B0-A8E6-88A69D0301E6}
+	EndGlobalSection
+EndGlobal

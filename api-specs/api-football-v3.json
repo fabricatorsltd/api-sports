@@ -1,0 +1,1175 @@
+{
+  "openapi": "3.0.0",
+  "info": {
+    "title": "api-football.com",
+    "version": "1.0.0",
+    "description": ""
+  },
+  "servers": [
+    {
+      "url": "{{baseUrl}}"
+    }
+  ],
+  "paths": {
+    "/leagues": {
+      "get": {
+        "summary": "Leagues",
+        "parameters": [
+          {
+            "name": "season",
+            "in": "query",
+            "schema": {
+              "type": "integer"
+            },
+            "example": "2023"
+          },
+          {
+            "name": "current",
+            "in": "query",
+            "schema": {
+              "type": "boolean"
+            },
+            "example": "true"
+          }
+        ],
+        "responses": {},
+        "tags": [
+          "Leagues"
+        ]
+      }
+    },
+    "/leagues/seasons": {
+      "get": {
+        "summary": "Seasons",
+        "responses": {},
+        "tags": [
+          "Leagues"
+        ]
+      }
+    },
+    "/teams": {
+      "get": {
+        "summary": "Teams",
+        "parameters": [
+          {
+            "name": "id",
+            "in": "query",
+            "schema": {
+              "type": "integer"
+            },
+            "example": "490"
+          },
+          {
+            "name": "name",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "country",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            },
+            "example": "italy"
+          },
+          {
+            "name": "search",
+            "in": "query",
+            "description": ">= 3 characters The name or the country name of the team",
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "season",
+            "in": "query",
+            "schema": {
+              "type": "integer"
+            },
+            "example": "2025"
+          },
+          {
+            "name": "league",
+            "in": "query",
+            "required": false,
+            "deprecated": false,
+            "schema": {},
+            "example": "135"
+          }
+        ],
+        "responses": {},
+        "tags": [
+          "Teams"
+        ]
+      }
+    },
+    "/teams/statistics": {
+      "get": {
+        "summary": "Teams Statistics",
+        "parameters": [
+          {
+            "name": "season",
+            "in": "query",
+            "schema": {
+              "type": "integer"
+            },
+            "example": "2021"
+          },
+          {
+            "name": "league",
+            "in": "query",
+            "schema": {
+              "type": "integer"
+            },
+            "example": "135"
+          },
+          {
+            "name": "team",
+            "in": "query",
+            "schema": {
+              "type": "integer"
+            },
+            "example": "490"
+          }
+        ],
+        "responses": {},
+        "tags": [
+          "Teams"
+        ]
+      }
+    },
+    "/teams/seasons": {
+      "get": {
+        "summary": "Teams Seasons",
+        "parameters": [
+          {
+            "name": "team",
+            "in": "query",
+            "schema": {
+              "type": "integer"
+            },
+            "example": "490"
+          }
+        ],
+        "responses": {},
+        "tags": [
+          "Teams"
+        ]
+      }
+    },
+    "/fixtures/rounds": {
+      "get": {
+        "summary": "Rounds",
+        "parameters": [
+          {
+            "name": "current",
+            "in": "query",
+            "description": "The current round only",
+            "schema": {
+              "type": "boolean"
+            },
+            "example": "true"
+          },
+          {
+            "name": "league",
+            "in": "query",
+            "schema": {
+              "type": "integer"
+            },
+            "example": "32"
+          },
+          {
+            "name": "season",
+            "in": "query",
+            "schema": {
+              "type": "integer"
+            },
+            "example": "2021"
+          }
+        ],
+        "responses": {},
+        "tags": [
+          "Fixtures"
+        ]
+      }
+    },
+    "/fixtures": {
+      "get": {
+        "summary": "Fixtures",
+        "parameters": [
+          {
+            "name": "id",
+            "in": "query",
+            "schema": {
+              "type": "integer"
+            },
+            "example": "0"
+          },
+          {
+            "name": "date",
+            "in": "query",
+            "description": "YYY-MM-DD",
+            "schema": {
+              "type": "string"
+            },
+            "example": "2021-01-30"
+          },
+          {
+            "name": "team",
+            "in": "query",
+            "schema": {
+              "type": "integer"
+            },
+            "example": "490"
+          },
+          {
+            "name": "last",
+            "in": "query",
+            "description": "For the X last fixtures - <= 2 characters",
+            "schema": {
+              "type": "integer"
+            },
+            "example": "20"
+          },
+          {
+            "name": "next",
+            "in": "query",
+            "description": "For the X next fixtures - <= 2 characters",
+            "schema": {
+              "type": "integer"
+            },
+            "example": "20"
+          },
+          {
+            "name": "from",
+            "in": "query",
+            "description": "YYYY-MM-DD",
+            "schema": {
+              "type": "string"
+            },
+            "example": "2202-01-15"
+          },
+          {
+            "name": "to",
+            "in": "query",
+            "description": "YYY-MM-DD",
+            "schema": {
+              "type": "string"
+            },
+            "example": "2021-01-30"
+          },
+          {
+            "name": "round",
+            "in": "query",
+            "description": "The round of the fixture",
+            "schema": {
+              "type": "integer"
+            },
+            "example": "1"
+          },
+          {
+            "name": "status",
+            "in": "query",
+            "description": "The status short of the fixture",
+            "schema": {
+              "type": "string"
+            },
+            "example": "TBD"
+          },
+          {
+            "name": "live",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            },
+            "example": "135-136"
+          },
+          {
+            "name": "season",
+            "in": "query",
+            "schema": {
+              "type": "integer"
+            },
+            "example": "2025"
+          },
+          {
+            "name": "league",
+            "in": "query",
+            "required": false,
+            "deprecated": false,
+            "schema": {},
+            "example": "135"
+          }
+        ],
+        "responses": {},
+        "tags": [
+          "Fixtures"
+        ]
+      }
+    },
+    "/fixtures/headtohead": {
+      "get": {
+        "summary": "Head To Head",
+        "parameters": [
+          {
+            "name": "h2h",
+            "in": "query",
+            "description": "id-id of the teams\n",
+            "schema": {
+              "type": "string"
+            },
+            "example": "490-491"
+          },
+          {
+            "name": "date",
+            "in": "query",
+            "description": "YYYY-MM-DD",
+            "schema": {
+              "type": "string"
+            },
+            "example": "2021-01-30"
+          },
+          {
+            "name": "league",
+            "in": "query",
+            "schema": {
+              "type": "integer"
+            },
+            "example": "135"
+          },
+          {
+            "name": "season",
+            "in": "query",
+            "schema": {
+              "type": "integer"
+            },
+            "example": "2025"
+          },
+          {
+            "name": "last",
+            "in": "query",
+            "schema": {
+              "type": "integer"
+            },
+            "example": "2"
+          },
+          {
+            "name": "next",
+            "in": "query",
+            "schema": {
+              "type": "integer"
+            },
+            "example": "2"
+          },
+          {
+            "name": "from",
+            "in": "query",
+            "description": "YYY-MM-DD",
+            "schema": {
+              "type": "string"
+            },
+            "example": "2021-01-15"
+          },
+          {
+            "name": "to",
+            "in": "query",
+            "description": "YYY-MM-DD",
+            "schema": {
+              "type": "string"
+            },
+            "example": "2021-01-30"
+          },
+          {
+            "name": "status",
+            "in": "query",
+            "description": "The status short of the fixture",
+            "schema": {
+              "type": "string"
+            },
+            "example": "TBD"
+          },
+          {
+            "name": "timezone",
+            "in": "query",
+            "description": "A valid timezone from the endpoint Timezone",
+            "schema": {
+              "type": "string"
+            },
+            "example": "Europe/Rome"
+          }
+        ],
+        "responses": {},
+        "tags": [
+          "Fixtures"
+        ]
+      }
+    },
+    "/fixtures/statistics": {
+      "get": {
+        "summary": "Statistics",
+        "parameters": [
+          {
+            "name": "fixture",
+            "in": "query",
+            "schema": {
+              "type": "integer"
+            },
+            "example": "215662"
+          },
+          {
+            "name": "team",
+            "in": "query",
+            "schema": {
+              "type": "integer"
+            },
+            "example": "463"
+          },
+          {
+            "name": "type",
+            "in": "query",
+            "description": "The type of statistics",
+            "schema": {
+              "type": "boolean"
+            },
+            "example": "true"
+          }
+        ],
+        "responses": {},
+        "tags": [
+          "Fixtures"
+        ]
+      }
+    },
+    "/fixtures/events": {
+      "get": {
+        "summary": "Events",
+        "parameters": [
+          {
+            "name": "fixture",
+            "in": "query",
+            "schema": {
+              "type": "integer"
+            },
+            "example": "215662"
+          },
+          {
+            "name": "team",
+            "in": "query",
+            "schema": {
+              "type": "integer"
+            },
+            "example": "463"
+          },
+          {
+            "name": "player",
+            "in": "query",
+            "description": "The id of the player",
+            "schema": {
+              "type": "integer"
+            },
+            "example": "1"
+          },
+          {
+            "name": "type",
+            "in": "query",
+            "description": "The type of statistics",
+            "schema": {
+              "type": "boolean"
+            },
+            "example": "true"
+          }
+        ],
+        "responses": {},
+        "tags": [
+          "Fixtures"
+        ]
+      }
+    },
+    "/fixtures/lineups": {
+      "get": {
+        "summary": "Lineups",
+        "parameters": [
+          {
+            "name": "fixture",
+            "in": "query",
+            "schema": {
+              "type": "integer"
+            },
+            "example": "215662"
+          },
+          {
+            "name": "team",
+            "in": "query",
+            "schema": {
+              "type": "integer"
+            },
+            "example": "463"
+          },
+          {
+            "name": "player",
+            "in": "query",
+            "description": "The id of the player",
+            "schema": {
+              "type": "integer"
+            },
+            "example": "1"
+          },
+          {
+            "name": "type",
+            "in": "query",
+            "description": "The type of statistics",
+            "schema": {
+              "type": "boolean"
+            },
+            "example": "true"
+          }
+        ],
+        "responses": {},
+        "tags": [
+          "Fixtures"
+        ]
+      }
+    },
+    "/fixtures/players": {
+      "get": {
+        "summary": "Players statistics",
+        "parameters": [
+          {
+            "name": "fixture",
+            "in": "query",
+            "schema": {
+              "type": "integer"
+            },
+            "example": "215662"
+          },
+          {
+            "name": "team",
+            "in": "query",
+            "schema": {
+              "type": "integer"
+            },
+            "example": "463"
+          }
+        ],
+        "responses": {},
+        "tags": [
+          "Fixtures"
+        ]
+      }
+    },
+    "/players/seasons": {
+      "get": {
+        "summary": "Seasons",
+        "parameters": [
+          {
+            "name": "player",
+            "in": "query",
+            "schema": {
+              "type": "integer"
+            },
+            "example": "1"
+          }
+        ],
+        "responses": {},
+        "tags": [
+          "Players"
+        ]
+      }
+    },
+    "/players": {
+      "get": {
+        "summary": "Players",
+        "parameters": [
+          {
+            "name": "id",
+            "in": "query",
+            "schema": {
+              "type": "integer"
+            },
+            "example": "1"
+          },
+          {
+            "name": "team",
+            "in": "query",
+            "schema": {
+              "type": "integer"
+            },
+            "example": "490"
+          },
+          {
+            "name": "league",
+            "in": "query",
+            "schema": {
+              "type": "integer"
+            },
+            "example": "135"
+          },
+          {
+            "name": "season",
+            "in": "query",
+            "description": "integer 4 characters YYYY | Requires the fields Id, League or Team..",
+            "schema": {
+              "type": "integer"
+            },
+            "example": "2021"
+          },
+          {
+            "name": "search",
+            "in": "query",
+            "description": "string >= 4 characters Requires the fields League or Team",
+            "schema": {
+              "type": "string"
+            },
+            "example": "donnarumma"
+          },
+          {
+            "name": "page",
+            "in": "query",
+            "schema": {
+              "type": "integer"
+            },
+            "example": "1"
+          }
+        ],
+        "responses": {},
+        "tags": [
+          "Players"
+        ]
+      }
+    },
+    "/players/squads": {
+      "get": {
+        "summary": "Squads",
+        "parameters": [
+          {
+            "name": "team",
+            "in": "query",
+            "schema": {
+              "type": "integer"
+            },
+            "example": "490"
+          },
+          {
+            "name": "player",
+            "in": "query",
+            "schema": {
+              "type": "integer"
+            },
+            "example": "1"
+          }
+        ],
+        "responses": {},
+        "tags": [
+          "Players"
+        ]
+      }
+    },
+    "/players/topscorers": {
+      "get": {
+        "summary": "Top Scorers",
+        "parameters": [
+          {
+            "name": "league",
+            "in": "query",
+            "schema": {
+              "type": "integer"
+            },
+            "example": "135"
+          },
+          {
+            "name": "season",
+            "in": "query",
+            "schema": {
+              "type": "integer"
+            },
+            "example": "2021"
+          }
+        ],
+        "responses": {},
+        "tags": [
+          "Players"
+        ]
+      }
+    },
+    "/players/topassists": {
+      "get": {
+        "summary": "Top Assists",
+        "parameters": [
+          {
+            "name": "league",
+            "in": "query",
+            "schema": {
+              "type": "integer"
+            },
+            "example": "135"
+          },
+          {
+            "name": "season",
+            "in": "query",
+            "schema": {
+              "type": "integer"
+            },
+            "example": "2021"
+          }
+        ],
+        "responses": {},
+        "tags": [
+          "Players"
+        ]
+      }
+    },
+    "/players/topyellowcards": {
+      "get": {
+        "summary": "Top Yellow Cards",
+        "parameters": [
+          {
+            "name": "league",
+            "in": "query",
+            "schema": {
+              "type": "integer"
+            },
+            "example": "135"
+          },
+          {
+            "name": "season",
+            "in": "query",
+            "schema": {
+              "type": "integer"
+            },
+            "example": "2021"
+          }
+        ],
+        "responses": {},
+        "tags": [
+          "Players"
+        ]
+      }
+    },
+    "/players/topredcards": {
+      "get": {
+        "summary": "Top Red Cards",
+        "parameters": [
+          {
+            "name": "league",
+            "in": "query",
+            "schema": {
+              "type": "integer"
+            },
+            "example": "135"
+          },
+          {
+            "name": "season",
+            "in": "query",
+            "schema": {
+              "type": "integer"
+            },
+            "example": "2021"
+          }
+        ],
+        "responses": {},
+        "tags": [
+          "Players"
+        ]
+      }
+    },
+    "/odds": {
+      "get": {
+        "summary": "Odds",
+        "parameters": [
+          {
+            "name": "fixture",
+            "in": "query",
+            "schema": {
+              "type": "integer"
+            },
+            "example": "1052267"
+          },
+          {
+            "name": "league",
+            "in": "query",
+            "schema": {
+              "type": "integer"
+            },
+            "example": "5"
+          },
+          {
+            "name": "season",
+            "in": "query",
+            "schema": {
+              "type": "integer"
+            },
+            "example": "2022"
+          },
+          {
+            "name": "date",
+            "in": "query",
+            "description": "YYYY-MM-DD",
+            "schema": {
+              "type": "string"
+            },
+            "example": "2021-01-30"
+          },
+          {
+            "name": "timezone",
+            "in": "query",
+            "description": "A valid timezone from the endpoint Timezone",
+            "schema": {
+              "type": "string"
+            },
+            "example": "Europe/Rome"
+          },
+          {
+            "name": "page",
+            "in": "query",
+            "schema": {
+              "type": "integer"
+            },
+            "example": "1"
+          },
+          {
+            "name": "bookmaker",
+            "in": "query",
+            "description": "The id of the bookmaker",
+            "schema": {
+              "type": "integer"
+            },
+            "example": "1"
+          },
+          {
+            "name": "bet",
+            "in": "query",
+            "description": "The id of the bet",
+            "schema": {
+              "type": "integer"
+            },
+            "example": "1"
+          }
+        ],
+        "responses": {},
+        "tags": [
+          "Odds"
+        ]
+      }
+    },
+    "/odds/mapping": {
+      "get": {
+        "summary": "Mapping",
+        "parameters": [
+          {
+            "name": "page",
+            "in": "query",
+            "schema": {
+              "type": "integer"
+            },
+            "example": "1"
+          }
+        ],
+        "responses": {},
+        "tags": [
+          "Odds"
+        ]
+      }
+    },
+    "/odds/bookmakers": {
+      "get": {
+        "summary": "Bookmakers",
+        "parameters": [
+          {
+            "name": "id",
+            "in": "query",
+            "description": "The id of the bookmaker",
+            "schema": {
+              "type": "integer"
+            },
+            "example": "1"
+          },
+          {
+            "name": "search",
+            "in": "query",
+            "description": "string 3 characters - The name of the bookmaker",
+            "schema": {
+              "type": "string"
+            },
+            "example": "eab"
+          }
+        ],
+        "responses": {},
+        "tags": [
+          "Odds"
+        ]
+      }
+    },
+    "/odds/bets": {
+      "get": {
+        "summary": "Bets",
+        "parameters": [
+          {
+            "name": "id",
+            "in": "query",
+            "description": "string - The id of the bet name",
+            "schema": {
+              "type": "integer"
+            },
+            "example": "1"
+          },
+          {
+            "name": "search",
+            "in": "query",
+            "description": "string 3 characters - The name of the bet",
+            "schema": {
+              "type": "string"
+            },
+            "example": "eab"
+          }
+        ],
+        "responses": {},
+        "tags": [
+          "Odds"
+        ]
+      }
+    },
+    "/countries": {
+      "get": {
+        "summary": "Countries",
+        "responses": {}
+      }
+    },
+    "/venues": {
+      "get": {
+        "summary": "Venues",
+        "responses": {}
+      }
+    },
+    "/standings": {
+      "get": {
+        "summary": "Standings",
+        "parameters": [
+          {
+            "name": "season",
+            "in": "query",
+            "schema": {
+              "type": "integer"
+            },
+            "example": "2021"
+          },
+          {
+            "name": "league",
+            "in": "query",
+            "schema": {
+              "type": "integer"
+            },
+            "example": "39"
+          },
+          {
+            "name": "team",
+            "in": "query",
+            "schema": {
+              "type": "integer"
+            },
+            "example": "41"
+          }
+        ],
+        "responses": {}
+      }
+    },
+    "/injuries": {
+      "get": {
+        "summary": "Injuries",
+        "parameters": [
+          {
+            "name": "league",
+            "in": "query",
+            "schema": {
+              "type": "integer"
+            },
+            "example": "135"
+          },
+          {
+            "name": "season",
+            "in": "query",
+            "schema": {
+              "type": "integer"
+            },
+            "example": "2021"
+          },
+          {
+            "name": "fixture",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "team",
+            "in": "query",
+            "schema": {
+              "type": "integer"
+            },
+            "example": "490"
+          },
+          {
+            "name": "player",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "date",
+            "in": "query",
+            "description": "YYY-MM-DD",
+            "schema": {
+              "type": "string"
+            },
+            "example": "2021-01-30"
+          },
+          {
+            "name": "timezone",
+            "in": "query",
+            "description": "A valid timezone from the endpoint Timezone",
+            "schema": {
+              "type": "string"
+            },
+            "example": "Europe/Rome"
+          }
+        ],
+        "responses": {}
+      }
+    },
+    "/predictions": {
+      "get": {
+        "summary": "Predictions",
+        "parameters": [
+          {
+            "name": "fixture",
+            "in": "query",
+            "schema": {
+              "type": "integer"
+            },
+            "example": "198772"
+          }
+        ],
+        "responses": {}
+      }
+    },
+    "/coachs": {
+      "get": {
+        "summary": "Coachs",
+        "parameters": [
+          {
+            "name": "id",
+            "in": "query",
+            "schema": {
+              "type": "integer"
+            },
+            "example": "1"
+          },
+          {
+            "name": "team",
+            "in": "query",
+            "schema": {
+              "type": "integer"
+            },
+            "example": "135"
+          },
+          {
+            "name": "search",
+            "in": "query",
+            "description": "The name of the coach",
+            "schema": {
+              "type": "string"
+            },
+            "example": "giorgio"
+          }
+        ],
+        "responses": {}
+      }
+    },
+    "/transfers": {
+      "get": {
+        "summary": "Transfers",
+        "parameters": [
+          {
+            "name": "player",
+            "in": "query",
+            "schema": {
+              "type": "integer"
+            },
+            "example": "1"
+          },
+          {
+            "name": "team",
+            "in": "query",
+            "schema": {
+              "type": "integer"
+            },
+            "example": "135"
+          }
+        ],
+        "responses": {}
+      }
+    },
+    "/trophies": {
+      "get": {
+        "summary": "Trophies",
+        "parameters": [
+          {
+            "name": "player",
+            "in": "query",
+            "schema": {
+              "type": "integer"
+            },
+            "example": "1"
+          },
+          {
+            "name": "coach",
+            "in": "query",
+            "schema": {
+              "type": "integer"
+            },
+            "example": "2"
+          }
+        ],
+        "responses": {}
+      }
+    },
+    "/sidelined": {
+      "get": {
+        "summary": "Sidelined",
+        "parameters": [
+          {
+            "name": "player",
+            "in": "query",
+            "schema": {
+              "type": "integer"
+            },
+            "example": "1"
+          },
+          {
+            "name": "coach",
+            "in": "query",
+            "schema": {
+              "type": "integer"
+            },
+            "example": "2"
+          }
+        ],
+        "responses": {}
+      }
+    },
+    "/status": {
+      "get": {
+        "summary": "Status",
+        "responses": {}
+      }
+    },
+    "/timezone": {
+      "get": {
+        "summary": "Timezone",
+        "responses": {}
+      }
+    }
+  }
+}
