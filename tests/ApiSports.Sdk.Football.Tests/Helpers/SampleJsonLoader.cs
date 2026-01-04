@@ -1,5 +1,3 @@
-using System.IO;
-
 namespace ApiSports.Sdk.Football.Tests.Helpers;
 
 public static class SampleJsonLoader

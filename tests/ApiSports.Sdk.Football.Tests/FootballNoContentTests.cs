@@ -1,8 +1,4 @@
-using System;
 using System.Net;
-using System.Net.Http;
-using System.Threading;
-using System.Threading.Tasks;
 using ApiSports.Sdk.Abstractions;
 using ApiSports.Sdk.Core;
 using ApiSports.Sdk.Football.Clients;
@@ -32,7 +28,7 @@ public sealed class FootballNoContentTests
         var apiClient = new ApiSportsHttpClient(httpClient);
         var statusClient = new StatusClient(apiClient);
 
-        ApiResponse<ApiSports.Sdk.Football.Models.Status> result = await statusClient.GetAsync(CancellationToken.None);
+        ApiResponse<Models.Status> result = await statusClient.GetAsync(CancellationToken.None);
 
         Assert.NotNull(result);
         Assert.Equal(0, result.Results);

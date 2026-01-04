@@ -4,7 +4,7 @@ namespace ApiSports.Sdk.Core;
 
 public sealed class InMemoryRateLimitStateStore : IRateLimitStateStore
 {
-    private readonly object _gate = new object();
+    private readonly object _gate = new();
     private readonly Dictionary<RateLimitScope, RateLimitSnapshot> _map = new();
 
     public ValueTask<RateLimitSnapshot?> GetAsync(RateLimitScope scope, CancellationToken ct)

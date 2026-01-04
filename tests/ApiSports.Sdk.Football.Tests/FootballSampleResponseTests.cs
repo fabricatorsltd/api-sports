@@ -1,6 +1,3 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
 using System.Text.Json;
 using System.Text.Json.Serialization.Metadata;
 using ApiSports.Sdk.Abstractions;
@@ -78,12 +75,9 @@ public sealed class FootballSampleResponseTests
     private static EndpointDefinition GetDefinition(Type clientType, string methodName)
     {
         MethodKey key = new(clientType, methodName);
-        if (!FootballEndpointCatalog.EndpointByMethod.TryGetValue(key, out EndpointDefinition? definition))
-        {
-            throw new InvalidOperationException($"Missing endpoint definition for {clientType.Name}.{methodName}.");
-        }
-
-        return definition;
+        return !FootballEndpointCatalog.EndpointByMethod.TryGetValue(key, out EndpointDefinition? definition) ? 
+            throw new InvalidOperationException($"Missing endpoint definition for {clientType.Name}.{methodName}.") : 
+            definition;
     }
 
     private static void AssertEnvelope<TResponse>(string json, JsonTypeInfo<ApiResponse<TResponse>> typeInfo)
@@ -118,23 +112,20 @@ public sealed class FootballSampleResponseTests
         }
 
         JsonElement element = errors.Value;
-        if (element.ValueKind == JsonValueKind.Array)
+        switch (element.ValueKind)
         {
-            return element.GetArrayLength() > 0;
+            case JsonValueKind.Array:
+                return element.GetArrayLength() > 0;
+            case JsonValueKind.Object:
+                return element.EnumerateObject().Any();
+            case JsonValueKind.String:
+                {
+                    string? value = element.GetString();
+                    return !string.IsNullOrWhiteSpace(value);
+                }
+            default:
+                return false;
         }
-
-        if (element.ValueKind == JsonValueKind.Object)
-        {
-            return element.EnumerateObject().Any();
-        }
-
-        if (element.ValueKind == JsonValueKind.String)
-        {
-            string? value = element.GetString();
-            return !string.IsNullOrWhiteSpace(value);
-        }
-
-        return false;
     }
 
     public interface ISampleEndpoint
@@ -144,21 +135,16 @@ public sealed class FootballSampleResponseTests
         void AssertSample(string json);
     }
 
-    private sealed class SampleEndpoint<TResponse> : ISampleEndpoint
+    private sealed class SampleEndpoint<TResponse>(
+        EndpointDefinition definition,
+        JsonTypeInfo<ApiResponse<TResponse>> typeInfo)
+        : ISampleEndpoint
     {
-        private readonly JsonTypeInfo<ApiResponse<TResponse>> _typeInfo;
-
-        public SampleEndpoint(EndpointDefinition definition, JsonTypeInfo<ApiResponse<TResponse>> typeInfo)
-        {
-            Definition = definition;
-            _typeInfo = typeInfo;
-        }
-
-        public EndpointDefinition Definition { get; }
+        public EndpointDefinition Definition { get; } = definition;
 
         public void AssertSample(string json)
         {
-            AssertEnvelope(json, _typeInfo);
+            AssertEnvelope(json, typeInfo);
         }
     }
 }
