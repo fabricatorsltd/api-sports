@@ -14,7 +14,7 @@ public class FixturesRoundsQuery : IQueryString
     {
         return new Dictionary<string, string?>
         {
-            ["current"] = Current?.ToString().ToLowerInvariant(),
+            ["current"] = Current?.ToString()?.ToLowerInvariant(),
             ["league"] = League.ToString(),
             ["season"] = Season.ToString(),
             ["dates"] = Dates?.ToString().ToLowerInvariant(),

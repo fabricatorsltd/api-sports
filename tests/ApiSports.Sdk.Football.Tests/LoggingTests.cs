@@ -14,7 +14,7 @@ public sealed class LoggingTests
     [Fact]
     public async Task NullLoggerDoesNotChangeBehavior()
     {
-        var handler = new FakeHttpMessageHandler((_, _) =>
+        using var handler = new FakeHttpMessageHandler((_, _) =>
         {
             HttpResponseMessage response = new(HttpStatusCode.NoContent)
             {
@@ -105,7 +105,7 @@ public sealed class LoggingTests
     [Fact]
     public async Task LoggerObservesNoContentResponse()
     {
-        var handler = new FakeHttpMessageHandler((_, _) =>
+        using var handler = new FakeHttpMessageHandler((_, _) =>
         {
             HttpResponseMessage response = new(HttpStatusCode.NoContent)
             {

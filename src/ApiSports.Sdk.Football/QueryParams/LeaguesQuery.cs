@@ -26,7 +26,7 @@ public sealed class LeaguesQuery : IQueryString
             ["season"] = Season?.ToString(),
             ["team"] = Team?.ToString(),
             ["type"] = Type,
-            ["current"] = Current?.ToString().ToLowerInvariant(),
+            ["current"] = Current?.ToString()?.ToLowerInvariant(),
             ["search"] = Search,
             ["last"] = Last?.ToString()
         };

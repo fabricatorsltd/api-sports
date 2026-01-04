@@ -12,7 +12,7 @@ public sealed class FootballNoContentTests
     [Fact]
     public async Task NoContentResponseDoesNotThrow()
     {
-        var handler = new FakeHttpMessageHandler((_, _) =>
+        using var handler = new FakeHttpMessageHandler((_, _) =>
         {
             HttpResponseMessage response = new(HttpStatusCode.NoContent)
             {
