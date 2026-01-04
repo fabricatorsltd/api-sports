@@ -152,7 +152,7 @@ Some choices intentionally trade short-term convenience for long-term clarity:
 
 * no dynamic query building
 * no runtime schema discovery
-* no automatic retries or throttling
+* no hidden retries or throttling
 
 The goal is not to surprise the user,
 but to make the SDK **boringly predictable** in production.
@@ -255,6 +255,31 @@ Each domain client:
 * explicitly registers the response root types it supports
 
 There is no shared global context and no reflection-based discovery.
+
+---
+
+### Rate limiting
+
+The SDK enforces a **pacing-based limiter** per host + sport to avoid bursts and guarantee
+steady request rates under concurrency.
+
+By default, the SDK resolves the requests-per-minute limit from `GET /status` once per client
+and caches it. If the status call fails or the plan is unknown, the SDK falls back to a
+conservative limit (`RateLimitOptions.FallbackRequestsPerMinute`, default 10/min).
+
+You can override the limit and skip the status call:
+
+```csharp
+ApiSportsSdk sdk = ApiSportsSdk.Create("API_KEY", configure: options =>
+{
+    options.RateLimit.ResolutionMode = RateLimitResolutionMode.Custom;
+    options.RateLimit.CustomRequestsPerMinute = 300;
+});
+```
+
+To control how long the status-derived plan is cached, set `RateLimitOptions.StatusCacheDuration`.
+In AOT builds, the `/status` response type is registered in a source-generated JSON context
+to avoid reflection-based fallbacks.
 
 ---
 
@@ -384,7 +409,8 @@ Non-success HTTP responses result in an `ApiSportsApiException`, including:
 * endpoint URL
 * API error payload (when available)
 
-No retries or backoff logic are applied.
+No automatic retries are applied unless you enable the optional single retry on 429 responses
+(`RateLimitOptions.RetryOn429Once`).
 
 ---
 
@@ -414,8 +440,8 @@ All operations:
 
 The SDK intentionally does **not**:
 
-* retry requests
-* throttle calls
+* retry requests beyond the optional single 429 retry
+* apply adaptive or hidden throttling
 * hide transient failures
 * convert errors into default values
 

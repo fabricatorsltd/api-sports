@@ -7,9 +7,15 @@ using ApiSports.Sdk.Abstractions;
 
 namespace ApiSports.Sdk.Core;
 
-public sealed class ApiSportsHttpClient(HttpClient http, IApiSportsLogger? logger = null)
+public sealed class ApiSportsHttpClient(
+    HttpClient http,
+    IApiSportsLogger? logger = null,
+    IApiSportsRateLimiter? rateLimiter = null,
+    ApiSportsRequestContext? requestContext = null)
 {
     private readonly IApiSportsLogger _logger = logger ?? NullApiSportsLogger.Instance;
+    private readonly IApiSportsRateLimiter? _rateLimiter = rateLimiter;
+    private readonly ApiSportsRequestContext? _requestContext = requestContext;
 
     public async Task<ApiResponse<TResponse>> GetAsync<TResponse>(
         string relativePath,
@@ -17,6 +23,14 @@ public sealed class ApiSportsHttpClient(HttpClient http, IApiSportsLogger? logge
         JsonTypeInfo<ApiResponse<TResponse>> responseTypeInfo,
         CancellationToken ct)
     {
+        if (_rateLimiter is not null)
+        {
+            ApiSportsRequestContext requestContext = _requestContext
+                ?? throw new InvalidOperationException("Request context must be provided when rate limiting is enabled.");
+
+            await _rateLimiter.WaitAsync(requestContext, ct).ConfigureAwait(false);
+        }
+
         bool debugEnabled = _logger.IsEnabled(ApiSportsLogLevel.Debug);
         bool infoEnabled = _logger.IsEnabled(ApiSportsLogLevel.Information);
         bool warningEnabled = _logger.IsEnabled(ApiSportsLogLevel.Warning);

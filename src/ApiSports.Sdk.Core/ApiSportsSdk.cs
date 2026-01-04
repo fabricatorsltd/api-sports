@@ -39,7 +39,8 @@ public sealed class ApiSportsSdk(
             ApiKey = options.ApiKey,
             BaseUri = baseUri,
             Timeout = options.Timeout,
-            RateLimit = options.RateLimit
+            RateLimit = options.RateLimit,
+            Sport = sport
         };
 
         return ApiSportsClientFactory.Create(sportOptions, store, logger: _logger);

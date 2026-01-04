@@ -5,6 +5,8 @@ public sealed class ApiSportsClientOptions
     public required string ApiKey { get; init; }
 
     public Uri BaseUri { get; init; } = new("https://v3.football.api-sports.io/");
+
+    public ApiSportsSport Sport { get; init; } = ApiSportsSport.Football;
     
     public TimeSpan Timeout { get; set; } = TimeSpan.FromSeconds(30);
 

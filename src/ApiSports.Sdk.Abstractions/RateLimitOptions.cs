@@ -3,6 +3,27 @@
 public sealed class RateLimitOptions
 {
     /// <summary>
+    /// Determines how the requests-per-minute limit is resolved.
+    /// </summary>
+    public RateLimitResolutionMode ResolutionMode { get; set; } = RateLimitResolutionMode.AutoFromStatus;
+
+    /// <summary>
+    /// When <see cref="ResolutionMode"/> is <see cref="RateLimitResolutionMode.Custom"/>,
+    /// specifies the requests per minute to enforce.
+    /// </summary>
+    public int? CustomRequestsPerMinute { get; set; }
+
+    /// <summary>
+    /// When status resolution fails or returns an unknown plan, use this conservative fallback.
+    /// </summary>
+    public int FallbackRequestsPerMinute { get; set; } = 10;
+
+    /// <summary>
+    /// Optional cache duration for the resolved status plan. When null, cache for the lifetime of the client.
+    /// </summary>
+    public TimeSpan? StatusCacheDuration { get; set; }
+
+    /// <summary>
     /// If true, the client tries to not exceed the limits using the info read from the headers.
     /// </summary>
     public bool EnableClientSideThrottling { get; set; } = true;
