@@ -1,0 +1,35 @@
+{
+    "get": "circuits",
+    "parameters": {
+        "id": "16"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+        {
+            "id": 16,
+            "name": "Autodromo Nazionale Monza",
+            "image": "https://media.api-sports.io/formula-1/circuits/16.png",
+            "competition": {
+                "id": 16,
+                "name": "Italy Grand Prix",
+                "location": {
+                    "country": "Italy",
+                    "city": "Monza"
+                }
+            },
+            "first_grand_prix": 1950,
+            "laps": 53,
+            "length": "5.793 Kms",
+            "race_distance": "306.72 kms",
+            "lap_record": {
+                "time": "1:21.046",
+                "driver": "Rubens Barrichello",
+                "year": "2004"
+            },
+            "capacity": 113860,
+            "opened": 1922,
+            "owner": "Comune di Monza & Milano"
+        }
+    ]
+}

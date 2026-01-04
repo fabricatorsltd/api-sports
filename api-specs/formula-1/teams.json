@@ -1,0 +1,30 @@
+{
+    "get": "teams",
+    "parameters": {
+        "search": "Red bull"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+        {
+            "id": 1,
+            "name": "Red Bull Racing",
+            "logo": "https://media.api-sports.io/formula-1/teams/1.png",
+            "base": "Milton Keynes, United Kingdom",
+            "first_team_entry": 1997,
+            "world_championships": 6,
+            "highest_race_finish": {
+                "position": 1,
+                "number": 128
+            },
+            "pole_positions": 110,
+            "fastest_laps": 100,
+            "president": "Dietrich Mateschitz",
+            "director": "Laurent Mekies",
+            "technical_manager": "Pierre Waché",
+            "chassis": "RB21",
+            "engine": "Honda RBPT",
+            "tyres": "Pirelli"
+        }
+    ]
+}

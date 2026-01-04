@@ -21,7 +21,73 @@
     </ItemGroup>
 
     <ItemGroup>
-        <Content Include="samples\**\*">
+        <Content Include="..\..\api-specs\formula-1\formula1-v1.yaml">
+            <Link>samples\formula1-v1.yaml</Link>
+            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        </Content>
+        
+        <Content Include="..\..\api-specs\formula-1\circuits.json">
+            <Link>samples\circuits.json</Link>
+            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        </Content>
+
+        <Content Include="..\..\api-specs\formula-1\competitions.json">
+            <Link>samples\competitions.json</Link>
+            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        </Content>
+
+        <Content Include="..\..\api-specs\formula-1\drivers.json">
+            <Link>samples\drivers.json</Link>
+            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        </Content>
+
+        <Content Include="..\..\api-specs\formula-1\pitstops.json">
+            <Link>samples\pitstops.json</Link>
+            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        </Content>
+
+        <Content Include="..\..\api-specs\formula-1\races.json">
+            <Link>samples\races.json</Link>
+            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        </Content>
+
+        <Content Include="..\..\api-specs\formula-1\rankings\drivers.json">
+            <Link>samples\rankings\drivers.json</Link>
+            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        </Content>
+
+        <Content Include="..\..\api-specs\formula-1\rankings\fastestlaps.json">
+            <Link>samples\rankings\fastestlaps.json</Link>
+            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        </Content>
+
+        <Content Include="..\..\api-specs\formula-1\rankings\races.json">
+            <Link>samples\rankings\races.json</Link>
+            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        </Content>
+
+        <Content Include="..\..\api-specs\formula-1\rankings\startinggrid.json">
+            <Link>samples\rankings\startinggrid.json</Link>
+            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        </Content>
+
+        <Content Include="..\..\api-specs\formula-1\rankings\teams.json">
+            <Link>samples\rankings\teams.json</Link>
+            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        </Content>
+
+        <Content Include="..\..\api-specs\formula-1\seasons.json">
+            <Link>samples\seasons.json</Link>
+            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        </Content>
+
+        <Content Include="..\..\api-specs\formula-1\teams.json">
+            <Link>samples\teams.json</Link>
+            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        </Content>
+
+        <Content Include="..\..\api-specs\formula-1\timezone.json">
+            <Link>samples\timezone.json</Link>
             <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
         </Content>
     </ItemGroup>

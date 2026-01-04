@@ -1,0 +1,34 @@
+{
+    "get": "competitions",
+    "parameters": {
+        "country": "Italy"
+    },
+    "errors": [],
+    "results": 3,
+    "response": [
+        {
+            "id": 16,
+            "name": "Italy Grand Prix",
+            "location": {
+                "country": "Italy",
+                "city": "Monza"
+            }
+        },
+        {
+            "id": 27,
+            "name": "Toscana Grand Prix",
+            "location": {
+                "country": "Italy",
+                "city": "Mugello"
+            }
+        },
+        {
+            "id": 29,
+            "name": "Emilia Romagna Grand Prix",
+            "location": {
+                "country": "Italy",
+                "city": "Imola"
+            }
+        }
+    ]
+}
