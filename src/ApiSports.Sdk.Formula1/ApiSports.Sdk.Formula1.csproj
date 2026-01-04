@@ -9,8 +9,13 @@
         <PackageTags>apisports;formula1;sdk</PackageTags>
     </PropertyGroup>
 
-    <ItemGroup>
+    <ItemGroup Condition="'$(UsePackageReferences)' != 'true'">
         <ProjectReference Include="..\ApiSports.Sdk.Abstractions\ApiSports.Sdk.Abstractions.csproj" />
         <ProjectReference Include="..\ApiSports.Sdk.Core\ApiSports.Sdk.Core.csproj" />
+    </ItemGroup>
+
+    <ItemGroup Condition="'$(UsePackageReferences)' == 'true'">
+        <PackageReference Include="ApiSports.Sdk.Abstractions" Version="$(ApiSportsSdkAbstractionsVersion)" />
+        <PackageReference Include="ApiSports.Sdk.Core" Version="$(ApiSportsSdkCoreVersion)" />
     </ItemGroup>
 </Project>

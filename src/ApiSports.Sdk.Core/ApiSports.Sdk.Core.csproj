@@ -9,7 +9,11 @@
         <PackageTags>apisports;football;sdk</PackageTags>
     </PropertyGroup>
 
-    <ItemGroup>
+    <ItemGroup Condition="'$(UsePackageReferences)' != 'true'">
         <ProjectReference Include="..\ApiSports.Sdk.Abstractions\ApiSports.Sdk.Abstractions.csproj" />
+    </ItemGroup>
+
+    <ItemGroup Condition="'$(UsePackageReferences)' == 'true'">
+        <PackageReference Include="ApiSports.Sdk.Abstractions" Version="$(ApiSportsSdkAbstractionsVersion)" />
     </ItemGroup>
 </Project>

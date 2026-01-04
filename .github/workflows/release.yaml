@@ -53,16 +53,17 @@ jobs:
           fi
 
       - name: Restore
-        run: dotnet restore
+        run: dotnet restore -p:UsePackageReferences=true
 
       - name: Build
-        run: dotnet build -c Release --no-restore
+        run: dotnet build -c Release --no-restore -p:UsePackageReferences=true
 
       - name: Pack selected project
         run: >
           dotnet pack "${{ steps.proj.outputs.CSPROJ }}"
           -c Release --no-build
           -p:PackageVersion=${{ steps.tag.outputs.VERSION }}
+          -p:UsePackageReferences=true
           -o artifacts
 
       - name: Push to NuGet

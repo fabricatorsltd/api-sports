@@ -13,7 +13,11 @@
         <PackageReference Include="Microsoft.Extensions.Logging.Abstractions" Version="8.0.0" />
     </ItemGroup>
 
-    <ItemGroup>
+    <ItemGroup Condition="'$(UsePackageReferences)' != 'true'">
         <ProjectReference Include="..\ApiSports.Sdk.Abstractions\ApiSports.Sdk.Abstractions.csproj" />
+    </ItemGroup>
+
+    <ItemGroup Condition="'$(UsePackageReferences)' == 'true'">
+        <PackageReference Include="ApiSports.Sdk.Abstractions" Version="$(ApiSportsSdkAbstractionsVersion)" />
     </ItemGroup>
 </Project>
