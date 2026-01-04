@@ -395,7 +395,7 @@ Planned next steps:
 The roadmap is **directional, not contractual**.
 
 - [x] ⚽ API Football
-- [x] 🏎 API Formula 1 (* with no real world test data)
+- [x] 🏎 API Formula 1
 - [ ] 🏀 API Basketball
 - [ ] 🏀 API NBA
 - [ ] ⚾ API Baseball
