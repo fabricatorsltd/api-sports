@@ -7,7 +7,8 @@ public static class ApiSportsClientFactory
     public static ApiSportsHttpClient Create(
         ApiSportsClientOptions options,
         IRateLimitStateStore? store = null,
-        HttpMessageHandler? innerHandler = null)
+        HttpMessageHandler? innerHandler = null,
+        IApiSportsLogger? logger = null)
     {
         IRateLimitStateStore finalStore = store ?? new InMemoryRateLimitStateStore();
         HttpMessageHandler baseHandler = innerHandler ?? new SocketsHttpHandler();
@@ -35,7 +36,7 @@ public static class ApiSportsClientFactory
             Timeout = options.Timeout
         };
 
-        var client = new ApiSportsHttpClient(http);
+        var client = new ApiSportsHttpClient(http, logger);
         return client;
     }
 }

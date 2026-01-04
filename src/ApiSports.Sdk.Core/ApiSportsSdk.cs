@@ -2,13 +2,20 @@
 
 namespace ApiSports.Sdk.Core;
 
-public sealed class ApiSportsSdk(ApiSportsClientOptions options, IRateLimitStateStore store, ISportBaseUriResolver resolver)
+public sealed class ApiSportsSdk(
+    ApiSportsClientOptions options,
+    IRateLimitStateStore store,
+    ISportBaseUriResolver resolver,
+    IApiSportsLogger? logger = null)
 {
+    private readonly IApiSportsLogger _logger = logger ?? NullApiSportsLogger.Instance;
+
     public static ApiSportsSdk Create(
         string apiKey,
         IRateLimitStateStore? store = null,
         ISportBaseUriResolver? resolver = null,
-        Action<ApiSportsClientOptions>? configure = null)
+        Action<ApiSportsClientOptions>? configure = null,
+        IApiSportsLogger? logger = null)
     {
         var options = new ApiSportsClientOptions
         {
@@ -20,7 +27,7 @@ public sealed class ApiSportsSdk(ApiSportsClientOptions options, IRateLimitState
         IRateLimitStateStore finalStore = store ?? new InMemoryRateLimitStateStore();
         ISportBaseUriResolver finalResolver = resolver ?? new DefaultSportBaseUriResolver();
 
-        return new ApiSportsSdk(options, finalStore, finalResolver);
+        return new ApiSportsSdk(options, finalStore, finalResolver, logger);
     }
 
     public ApiSportsHttpClient ForSport(ApiSportsSport sport)
@@ -35,6 +42,6 @@ public sealed class ApiSportsSdk(ApiSportsClientOptions options, IRateLimitState
             RateLimit = options.RateLimit
         };
 
-        return ApiSportsClientFactory.Create(sportOptions, store);
+        return ApiSportsClientFactory.Create(sportOptions, store, logger: _logger);
     }
 }

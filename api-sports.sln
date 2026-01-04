@@ -20,6 +20,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiSports.Sdk.Formula1", "s
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiSports.Sdk.Formula1.Tests", "tests\ApiSports.Sdk.Formula1.Tests\ApiSports.Sdk.Formula1.Tests.csproj", "{CD0A7D60-5CA0-44E0-9B6D-BEC09FEF1F67}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiSports.Sdk.Logging.Microsoft", "src\ApiSports.Sdk.Logging.Microsoft\ApiSports.Sdk.Logging.Microsoft.csproj", "{0C5AD60A-0E41-4C7D-AC13-1E0C7FAB2925}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -114,6 +116,18 @@ Global
 		{CD0A7D60-5CA0-44E0-9B6D-BEC09FEF1F67}.Release|x64.Build.0 = Release|Any CPU
 		{CD0A7D60-5CA0-44E0-9B6D-BEC09FEF1F67}.Release|x86.ActiveCfg = Release|Any CPU
 		{CD0A7D60-5CA0-44E0-9B6D-BEC09FEF1F67}.Release|x86.Build.0 = Release|Any CPU
+		{0C5AD60A-0E41-4C7D-AC13-1E0C7FAB2925}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C5AD60A-0E41-4C7D-AC13-1E0C7FAB2925}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C5AD60A-0E41-4C7D-AC13-1E0C7FAB2925}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{0C5AD60A-0E41-4C7D-AC13-1E0C7FAB2925}.Debug|x64.Build.0 = Debug|Any CPU
+		{0C5AD60A-0E41-4C7D-AC13-1E0C7FAB2925}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{0C5AD60A-0E41-4C7D-AC13-1E0C7FAB2925}.Debug|x86.Build.0 = Debug|Any CPU
+		{0C5AD60A-0E41-4C7D-AC13-1E0C7FAB2925}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C5AD60A-0E41-4C7D-AC13-1E0C7FAB2925}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C5AD60A-0E41-4C7D-AC13-1E0C7FAB2925}.Release|x64.ActiveCfg = Release|Any CPU
+		{0C5AD60A-0E41-4C7D-AC13-1E0C7FAB2925}.Release|x64.Build.0 = Release|Any CPU
+		{0C5AD60A-0E41-4C7D-AC13-1E0C7FAB2925}.Release|x86.ActiveCfg = Release|Any CPU
+		{0C5AD60A-0E41-4C7D-AC13-1E0C7FAB2925}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -126,5 +140,6 @@ Global
 		{168B7E9B-DF95-4E61-ACF4-5DE0B5D588A6} = {99EC29B2-FB3A-4C5E-855B-B6C6D75E4805}
 		{B3DE88F2-6B08-4FDD-863A-BF803BBA9FAC} = {D5EC93CF-71DC-45B0-A8E6-88A69D0301E6}
 		{CD0A7D60-5CA0-44E0-9B6D-BEC09FEF1F67} = {99EC29B2-FB3A-4C5E-855B-B6C6D75E4805}
+		{0C5AD60A-0E41-4C7D-AC13-1E0C7FAB2925} = {D5EC93CF-71DC-45B0-A8E6-88A69D0301E6}
 	EndGlobalSection
 EndGlobal
