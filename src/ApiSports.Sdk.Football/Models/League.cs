@@ -6,8 +6,5 @@ namespace ApiSports.Sdk.Football.Models
     {
         [JsonPropertyName("standings")]
         public bool Standings { get; set; }
-        
-        [JsonPropertyName("seasons")]
-        public Season[] Seasons { get; set; }
     }
 }
