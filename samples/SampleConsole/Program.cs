@@ -10,7 +10,12 @@ internal class Program
 {
     private static async Task Main(string[] args)
     {
-        var sdk = ApiSportsSdk.Create("API_KEY");
+        var sdk = ApiSportsSdk.Create("API_KEY", 
+            configure: options =>
+            {
+                options.RateLimit.DefaultRetryDelayOn429 = TimeSpan.FromSeconds(5);
+                options.RateLimit.DefaultWaitWhenExhausted = TimeSpan.FromSeconds(5);
+            });
         ApiSportsHttpClient httpClient = sdk.ForSport(ApiSportsSport.Football);
         var football = new FootballClient(httpClient);
 

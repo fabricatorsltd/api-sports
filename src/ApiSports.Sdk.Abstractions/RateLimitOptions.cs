@@ -3,19 +3,19 @@
 public sealed class RateLimitOptions
 {
     /// <summary>
-    /// Se true, il client prova a non superare i limiti usando le info lette dagli header.
+    /// If true, the client tries to not exceed the limits using the info read from the headers.
     /// </summary>
-    public bool EnableClientSideThrottling { get; init; } = true;
+    public bool EnableClientSideThrottling { get; set; } = true;
 
     /// <summary>
-    /// Quando remaining è 0, quanto attendere prima di riprovare (best-effort).
+    /// When remaining is 0, how long to wait before retrying (best-effort).
     /// </summary>
-    public TimeSpan DefaultWaitWhenExhausted { get; init; } = TimeSpan.FromSeconds(1);
+    public TimeSpan DefaultWaitWhenExhausted { get; set; } = TimeSpan.FromSeconds(5);
 
     /// <summary>
-    /// Se arriva un 429, tenta 1 retry dopo il delay calcolato.
+    /// If true, when receiving a 429 response, the client will retry once after a delay.
     /// </summary>
-    public bool RetryOn429Once { get; init; } = true;
+    public bool RetryOn429Once { get; set; } = true;
 
-    public TimeSpan DefaultRetryDelayOn429 { get; init; } = TimeSpan.FromSeconds(1);
+    public TimeSpan DefaultRetryDelayOn429 { get; set; } = TimeSpan.FromSeconds(15);
 }
