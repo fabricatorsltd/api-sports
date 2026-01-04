@@ -3,7 +3,7 @@
     <ApiSportsSdkAbstractionsVersion>1.0.2</ApiSportsSdkAbstractionsVersion>
     <ApiSportsSdkCoreVersion>1.0.2</ApiSportsSdkCoreVersion>
     <ApiSportsSdkFootballVersion>1.0.4</ApiSportsSdkFootballVersion>
-    <ApiSportsSdkFormula1Version>1.0.1</ApiSportsSdkFormula1Version>
+    <ApiSportsSdkFormula1Version>1.0.2</ApiSportsSdkFormula1Version>
     <ApiSportsSdkLoggingMicrosoftVersion>1.0.0</ApiSportsSdkLoggingMicrosoftVersion>
   </PropertyGroup>
 </Project>
