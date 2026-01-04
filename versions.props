@@ -1,0 +1,9 @@
+<Project>
+  <PropertyGroup>
+    <ApiSportsSdkAbstractionsVersion>1.0.0</ApiSportsSdkAbstractionsVersion>
+    <ApiSportsSdkCoreVersion>1.0.0</ApiSportsSdkCoreVersion>
+    <ApiSportsSdkFootballVersion>1.0.0</ApiSportsSdkFootballVersion>
+    <ApiSportsSdkFormula1Version>1.0.0</ApiSportsSdkFormula1Version>
+    <ApiSportsSdkLoggingMicrosoftVersion>1.0.0</ApiSportsSdkLoggingMicrosoftVersion>
+  </PropertyGroup>
+</Project>

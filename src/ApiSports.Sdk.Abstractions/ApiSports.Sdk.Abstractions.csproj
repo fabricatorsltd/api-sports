@@ -1,8 +1,11 @@
 <Project Sdk="Microsoft.NET.Sdk">
+    <Import Project="..\..\versions.props" />
     <PropertyGroup>
-        <TargetFrameworks>net9.0;net10.0</TargetFrameworks>
-        <ImplicitUsings>enable</ImplicitUsings>
-        <Nullable>enable</Nullable>
-        <LangVersion>latest</LangVersion>
+        <Version>$(ApiSportsSdkAbstractionsVersion)</Version>
+        <IsPackable>true</IsPackable>
+        <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
+        <PackageId>ApiSports.Sdk.Abstractions</PackageId>
+        <Description>Common contracts and shared models for the ApiSports .NET SDK (multi-sport). No HTTP logic; designed for AOT-friendly modular packages.</Description>
+        <PackageTags>apisports;football;sdk</PackageTags>
     </PropertyGroup>
 </Project>

@@ -1,9 +1,12 @@
 <Project Sdk="Microsoft.NET.Sdk">
+    <Import Project="..\..\versions.props" />
     <PropertyGroup>
-        <TargetFramework>net10.0</TargetFramework>
-        <ImplicitUsings>enable</ImplicitUsings>
-        <Nullable>enable</Nullable>
-        <LangVersion>latest</LangVersion>
+        <Version>$(ApiSportsSdkLoggingMicrosoftVersion)</Version>
+        <IsPackable>true</IsPackable>
+        <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
+        <PackageId>ApiSports.Sdk.Logging.Microsoft</PackageId>
+        <Description>Microsoft.Extensions.Logging integration for the ApiSports .NET SDK. Adds optional logging handlers for requests, responses, and rate-limit diagnostics.</Description>
+        <PackageTags>apisports;sdk</PackageTags>
     </PropertyGroup>
 
     <ItemGroup>

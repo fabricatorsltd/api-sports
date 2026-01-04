@@ -1,9 +1,12 @@
 <Project Sdk="Microsoft.NET.Sdk">
+    <Import Project="..\..\versions.props" />
     <PropertyGroup>
-        <TargetFramework>net10.0</TargetFramework>
-        <ImplicitUsings>enable</ImplicitUsings>
-        <Nullable>enable</Nullable>
-        <LangVersion>latest</LangVersion>
+        <Version>$(ApiSportsSdkFormula1Version)</Version>
+        <IsPackable>true</IsPackable>
+        <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
+        <PackageId>ApiSports.Sdk.Formula1</PackageId>
+        <Description>Formula 1 module for the ApiSports .NET SDK. Includes F1 endpoints and models, designed for AOT-ready System.Text.Json source-generated serialization.</Description>
+        <PackageTags>apisports;formula1;sdk</PackageTags>
     </PropertyGroup>
 
     <ItemGroup>
