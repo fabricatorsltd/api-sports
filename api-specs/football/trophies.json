@@ -1,0 +1,92 @@
+{
+  "get": "trophies",
+  "parameters": {
+    "coach": "22"
+  },
+  "errors": [],
+  "results": 13,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "league": "Qatar Cup",
+      "country": "Qatar",
+      "season": "2024",
+      "place": "2nd Place"
+    },
+    {
+      "league": "Stars League",
+      "country": "Qatar",
+      "season": "2023/2024",
+      "place": "2nd Place"
+    },
+    {
+      "league": "Pro League",
+      "country": "United-Arab-Emirates",
+      "season": "2022/2023",
+      "place": "Winner"
+    },
+    {
+      "league": "Super Cup",
+      "country": "Saudi-Arabia",
+      "season": "2021/2022",
+      "place": "Winner"
+    },
+    {
+      "league": "AFC Champions League Elite",
+      "country": "Asia",
+      "season": "2021",
+      "place": "Winner"
+    },
+    {
+      "league": "Trophée des Champions",
+      "country": "France",
+      "season": "2018/2019",
+      "place": "2nd Place"
+    },
+    {
+      "league": "Ligue 1",
+      "country": "France",
+      "season": "2017/2018",
+      "place": "2nd Place"
+    },
+    {
+      "league": "Trophée des Champions",
+      "country": "France",
+      "season": "2017/2018",
+      "place": "2nd Place"
+    },
+    {
+      "league": "Coupe de la Ligue",
+      "country": "France",
+      "season": "2017/2018",
+      "place": "2nd Place"
+    },
+    {
+      "league": "Ligue 1",
+      "country": "France",
+      "season": "2016/2017",
+      "place": "Winner"
+    },
+    {
+      "league": "Coupe de la Ligue",
+      "country": "France",
+      "season": "2016/2017",
+      "place": "2nd Place"
+    },
+    {
+      "league": "Primeira Liga",
+      "country": "Portugal",
+      "season": "2013/2014",
+      "place": "2nd Place"
+    },
+    {
+      "league": "Segunda Liga",
+      "country": "Portugal",
+      "season": "2009/2010",
+      "place": "Winner"
+    }
+  ]
+}

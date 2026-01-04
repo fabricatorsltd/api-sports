@@ -1,0 +1,81 @@
+name: release
+
+on:
+  push:
+    tags:
+      - "ApiSports.Sdk.*/v*"
+
+permissions:
+  contents: write
+
+jobs:
+  pack-publish:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: "10.0.x"
+
+      - name: Parse tag
+        id: tag
+        shell: bash
+        run: |
+          REF="${GITHUB_REF_NAME}"   # e.g. ApiSports.Sdk.Football/v0.1.0
+          PACKAGE_ID="${REF%%/*}"
+          VERSION="${REF##*/}"
+          VERSION="${VERSION#v}"
+          echo "PACKAGE_ID=$PACKAGE_ID" >> $GITHUB_OUTPUT
+          echo "VERSION=$VERSION" >> $GITHUB_OUTPUT
+
+      - name: Select project path
+        id: proj
+        shell: bash
+        run: |
+          PACKAGE_ID="${{ steps.tag.outputs.PACKAGE_ID }}"
+          if [ "$PACKAGE_ID" = "ApiSports.Sdk.Abstractions" ]; then
+            echo "CSPROJ=src/ApiSports.Sdk.Abstractions/ApiSports.Sdk.Abstractions.csproj" >> $GITHUB_OUTPUT
+          elif [ "$PACKAGE_ID" = "ApiSports.Sdk.Core" ]; then
+            echo "CSPROJ=src/ApiSports.Sdk.Core/ApiSports.Sdk.Core.csproj" >> $GITHUB_OUTPUT
+          elif [ "$PACKAGE_ID" = "ApiSports.Sdk.Football" ]; then
+            echo "CSPROJ=src/ApiSports.Sdk.Football/ApiSports.Sdk.Football.csproj" >> $GITHUB_OUTPUT
+          elif [ "$PACKAGE_ID" = "ApiSports.Sdk.Formula1" ]; then
+            echo "CSPROJ=src/ApiSports.Sdk.Formula1/ApiSports.Sdk.Formula1.csproj" >> $GITHUB_OUTPUT
+          elif [ "$PACKAGE_ID" = "ApiSports.Sdk.Logging.Microsoft" ]; then
+            echo "CSPROJ=src/ApiSports.Sdk.Logging.Microsoft/ApiSports.Sdk.Logging.Microsoft.csproj" >> $GITHUB_OUTPUT
+          else
+            echo "Unknown package id: $PACKAGE_ID"
+            exit 1
+          fi
+
+      - name: Restore
+        run: dotnet restore
+
+      - name: Build
+        run: dotnet build -c Release --no-restore
+
+      - name: Pack selected project
+        run: >
+          dotnet pack "${{ steps.proj.outputs.CSPROJ }}"
+          -c Release --no-build
+          -p:PackageVersion=${{ steps.tag.outputs.VERSION }}
+          -o artifacts
+
+      - name: Push to NuGet
+        run: >
+          dotnet nuget push "artifacts/*.nupkg"
+          --api-key "${{ secrets.NUGET_API_KEY }}"
+          --source https://api.nuget.org/v3/index.json
+          --skip-duplicate
+
+      - name: Create GitHub Release + upload packages
+        uses: softprops/action-gh-release@v2
+        with:
+          generate_release_notes: true
+          files: |
+            artifacts/*.nupkg
+            artifacts/*.snupkg

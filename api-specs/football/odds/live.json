@@ -1,0 +1,4808 @@
+{
+    "get": "odds/live",
+    "parameters": {
+        "fixture": "1378041"
+    },
+    "errors": [],
+    "results": 1,
+    "paging": {
+        "current": 1,
+        "total": 1
+    },
+    "response": [
+        {
+            "fixture": {
+                "id": 1378041,
+                "status": {
+                    "long": "Not Started",
+                    "elapsed": 0,
+                    "seconds": "0"
+                }
+            },
+            "league": {
+                "id": 135,
+                "season": 2025
+            },
+            "teams": {
+                "home": {
+                    "id": 487,
+                    "goals": 0
+                },
+                "away": {
+                    "id": 492,
+                    "goals": 0
+                }
+            },
+            "status": {
+                "stopped": true,
+                "blocked": false,
+                "finished": false
+            },
+            "update": "2026-01-04T11:27:55+00:00",
+            "odds": [
+                {
+                    "id": 20,
+                    "name": "Match Corners",
+                    "values": [
+                        {
+                            "value": "Over",
+                            "odd": "1.727",
+                            "handicap": "8",
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Exactly",
+                            "odd": "6.5",
+                            "handicap": "8",
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Under",
+                            "odd": "2.625",
+                            "handicap": "8",
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Over",
+                            "odd": "3.25",
+                            "handicap": "10",
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Exactly",
+                            "odd": "7.5",
+                            "handicap": "10",
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Under",
+                            "odd": "1.571",
+                            "handicap": "10",
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Over",
+                            "odd": "4.333",
+                            "handicap": "11",
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Exactly",
+                            "odd": "8.5",
+                            "handicap": "11",
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Under",
+                            "odd": "1.333",
+                            "handicap": "11",
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Over",
+                            "odd": "1.444",
+                            "handicap": "7",
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Exactly",
+                            "odd": "7",
+                            "handicap": "7",
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Under",
+                            "odd": "4",
+                            "handicap": "7",
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Over",
+                            "odd": "2.25",
+                            "handicap": "9",
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Exactly",
+                            "odd": "7",
+                            "handicap": "9",
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Under",
+                            "odd": "2",
+                            "handicap": "9",
+                            "main": null,
+                            "suspended": false
+                        }
+                    ]
+                },
+                {
+                    "id": 148,
+                    "name": "Player Shots",
+                    "values": [
+                        {
+                            "value": "Toma Basic/Over 0.5",
+                            "odd": "1.285",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Matteo Cancellieri/Over 0.5",
+                            "odd": "1.222",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Danilo Cataldi/Over 0.5",
+                            "odd": "1.5",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Giovanni Di Lorenzo/Over 0.5",
+                            "odd": "1.727",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Eljif Elmas/Over 0.5",
+                            "odd": "1.222",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Mario Gila/Over 0.5",
+                            "odd": "2.375",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Matteo Guendouzi/Over 0.5",
+                            "odd": "1.363",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Rasmus Hojlund/Over 0.5",
+                            "odd": "1.071",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Juan Jesus/Over 0.5",
+                            "odd": "2.5",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Stanislav Lobotka/Over 0.5",
+                            "odd": "2.25",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Adam Marusic/Over 0.5",
+                            "odd": "2.1",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Scott McTominay/Over 0.5",
+                            "odd": "1.05",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "David Neres/Over 0.5",
+                            "odd": "1.111",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Tijjani Noslin/Over 0.5",
+                            "odd": "1.111",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Luca Pellegrini/Over 0.5",
+                            "odd": "2.2",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Matteo Politano/Over 0.5",
+                            "odd": "1.1",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Alessio Romagnoli/Over 0.5",
+                            "odd": "3",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Amir Rrahmani/Over 0.5",
+                            "odd": "2",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Leonardo Spinazzola/Over 0.5",
+                            "odd": "1.727",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Mattia Zaccagni/Over 0.5",
+                            "odd": "1.25",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Toma Basic/Over 1.5",
+                            "odd": "2.2",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Matteo Cancellieri/Over 1.5",
+                            "odd": "2",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Danilo Cataldi/Over 1.5",
+                            "odd": "3.25",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Giovanni Di Lorenzo/Over 1.5",
+                            "odd": "4.333",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Eljif Elmas/Over 1.5",
+                            "odd": "1.909",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Mario Gila/Over 1.5",
+                            "odd": "8",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Matteo Guendouzi/Over 1.5",
+                            "odd": "2.625",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Rasmus Hojlund/Over 1.5",
+                            "odd": "1.363",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Juan Jesus/Over 1.5",
+                            "odd": "9",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Stanislav Lobotka/Over 1.5",
+                            "odd": "8",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Adam Marusic/Over 1.5",
+                            "odd": "6.5",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Scott McTominay/Over 1.5",
+                            "odd": "1.285",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "David Neres/Over 1.5",
+                            "odd": "1.5",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Tijjani Noslin/Over 1.5",
+                            "odd": "1.533",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Luca Pellegrini/Over 1.5",
+                            "odd": "7",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Matteo Politano/Over 1.5",
+                            "odd": "1.444",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Alessio Romagnoli/Over 1.5",
+                            "odd": "11",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Amir Rrahmani/Over 1.5",
+                            "odd": "6",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Leonardo Spinazzola/Over 1.5",
+                            "odd": "4.333",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Mattia Zaccagni/Over 1.5",
+                            "odd": "2.1",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Toma Basic/Over 2.5",
+                            "odd": "4.5",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Matteo Cancellieri/Over 2.5",
+                            "odd": "4",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Danilo Cataldi/Over 2.5",
+                            "odd": "8",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Giovanni Di Lorenzo/Over 2.5",
+                            "odd": "13",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Eljif Elmas/Over 2.5",
+                            "odd": "3.75",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Mario Gila/Over 2.5",
+                            "odd": "21",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Matteo Guendouzi/Over 2.5",
+                            "odd": "6",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Rasmus Hojlund/Over 2.5",
+                            "odd": "2",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Juan Jesus/Over 2.5",
+                            "odd": "21",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Stanislav Lobotka/Over 2.5",
+                            "odd": "21",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Adam Marusic/Over 2.5",
+                            "odd": "21",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Scott McTominay/Over 2.5",
+                            "odd": "1.8",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "David Neres/Over 2.5",
+                            "odd": "2.5",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Tijjani Noslin/Over 2.5",
+                            "odd": "2.5",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Luca Pellegrini/Over 2.5",
+                            "odd": "21",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Matteo Politano/Over 2.5",
+                            "odd": "2.25",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Amir Rrahmani/Over 2.5",
+                            "odd": "19",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Leonardo Spinazzola/Over 2.5",
+                            "odd": "13",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Mattia Zaccagni/Over 2.5",
+                            "odd": "4.333",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Toma Basic/Over 3.5",
+                            "odd": "11",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Matteo Cancellieri/Over 3.5",
+                            "odd": "10",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Danilo Cataldi/Over 3.5",
+                            "odd": "21",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Eljif Elmas/Over 3.5",
+                            "odd": "9",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Matteo Guendouzi/Over 3.5",
+                            "odd": "15",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Rasmus Hojlund/Over 3.5",
+                            "odd": "3.5",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Scott McTominay/Over 3.5",
+                            "odd": "3",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "David Neres/Over 3.5",
+                            "odd": "4.5",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Tijjani Noslin/Over 3.5",
+                            "odd": "5",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Matteo Politano/Over 3.5",
+                            "odd": "4",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Mattia Zaccagni/Over 3.5",
+                            "odd": "10",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Toma Basic/Over 4.5",
+                            "odd": "21",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Matteo Cancellieri/Over 4.5",
+                            "odd": "21",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Eljif Elmas/Over 4.5",
+                            "odd": "19",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Rasmus Hojlund/Over 4.5",
+                            "odd": "6.5",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Scott McTominay/Over 4.5",
+                            "odd": "5.5",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "David Neres/Over 4.5",
+                            "odd": "10",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Tijjani Noslin/Over 4.5",
+                            "odd": "10",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Matteo Politano/Over 4.5",
+                            "odd": "9",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Mattia Zaccagni/Over 4.5",
+                            "odd": "21",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Rasmus Hojlund/Over 5.5",
+                            "odd": "13",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Scott McTominay/Over 5.5",
+                            "odd": "11",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "David Neres/Over 5.5",
+                            "odd": "21",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Tijjani Noslin/Over 5.5",
+                            "odd": "21",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Matteo Politano/Over 5.5",
+                            "odd": "19",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Rasmus Hojlund/Over 6.5",
+                            "odd": "21",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Scott McTominay/Over 6.5",
+                            "odd": "21",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        }
+                    ]
+                },
+                {
+                    "id": 39,
+                    "name": "Away Team Goals",
+                    "values": [
+                        {
+                            "value": "Over",
+                            "odd": "6.5",
+                            "handicap": "2.5",
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Under",
+                            "odd": "1.111",
+                            "handicap": "2.5",
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Over",
+                            "odd": "17",
+                            "handicap": "3.5",
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Under",
+                            "odd": "1.025",
+                            "handicap": "3.5",
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Over",
+                            "odd": "2.5",
+                            "handicap": "1.5",
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Under",
+                            "odd": "1.5",
+                            "handicap": "1.5",
+                            "main": null,
+                            "suspended": false
+                        }
+                    ]
+                },
+                {
+                    "id": 19,
+                    "name": "1x2 (1st Half)",
+                    "values": [
+                        {
+                            "value": "Home",
+                            "odd": "4.5",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Draw",
+                            "odd": "1.952",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Away",
+                            "odd": "2.875",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        }
+                    ]
+                },
+                {
+                    "id": 41,
+                    "name": "1x2 - 50 minutes",
+                    "values": [
+                        {
+                            "value": "Home",
+                            "odd": "4",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Draw",
+                            "odd": "2.05",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Away",
+                            "odd": "2.625",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        }
+                    ]
+                },
+                {
+                    "id": 18,
+                    "name": "1st Goal in Interval",
+                    "values": [
+                        {
+                            "value": "Yes",
+                            "odd": "3",
+                            "handicap": "20",
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "No",
+                            "odd": "1.363",
+                            "handicap": "20",
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Yes",
+                            "odd": "1.4",
+                            "handicap": "50",
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "No",
+                            "odd": "2.75",
+                            "handicap": "50",
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Yes",
+                            "odd": "5.5",
+                            "handicap": "10",
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "No",
+                            "odd": "1.142",
+                            "handicap": "10",
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Yes",
+                            "odd": "1.222",
+                            "handicap": "70",
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "No",
+                            "odd": "4",
+                            "handicap": "70",
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Yes",
+                            "odd": "2.1",
+                            "handicap": "30",
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "No",
+                            "odd": "1.666",
+                            "handicap": "30",
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Yes",
+                            "odd": "1.285",
+                            "handicap": "60",
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "No",
+                            "odd": "3.5",
+                            "handicap": "60",
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Yes",
+                            "odd": "1.166",
+                            "handicap": "80",
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "No",
+                            "odd": "4.5",
+                            "handicap": "80",
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Yes",
+                            "odd": "1.727",
+                            "handicap": "40",
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "No",
+                            "odd": "2",
+                            "handicap": "40",
+                            "main": null,
+                            "suspended": false
+                        }
+                    ]
+                },
+                {
+                    "id": 49,
+                    "name": "Over/Under (1st Half)",
+                    "values": [
+                        {
+                            "value": "Over",
+                            "odd": "1.533",
+                            "handicap": "0.5",
+                            "main": true,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Under",
+                            "odd": "2.375",
+                            "handicap": "0.5",
+                            "main": true,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Over",
+                            "odd": "11",
+                            "handicap": "2.5",
+                            "main": false,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Under",
+                            "odd": "1.05",
+                            "handicap": "2.5",
+                            "main": false,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Over",
+                            "odd": "3.5",
+                            "handicap": "1.5",
+                            "main": false,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Under",
+                            "odd": "1.285",
+                            "handicap": "1.5",
+                            "main": false,
+                            "suspended": false
+                        }
+                    ]
+                },
+                {
+                    "id": 64,
+                    "name": "Half Time/Full Time",
+                    "values": [
+                        {
+                            "value": "1/1",
+                            "odd": "6",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "1/X",
+                            "odd": "15",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "1/2",
+                            "odd": "29",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "X/1",
+                            "odd": "7.5",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "X/X",
+                            "odd": "4.333",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "X/2",
+                            "odd": "4.75",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "2/1",
+                            "odd": "41",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "2/X",
+                            "odd": "15",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "2/2",
+                            "odd": "3.5",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        }
+                    ]
+                },
+                {
+                    "id": 31,
+                    "name": "Total Corners (3way) (2nd Half)",
+                    "values": [
+                        {
+                            "value": "Over",
+                            "odd": "2.6",
+                            "handicap": "5",
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Exactly",
+                            "odd": "5",
+                            "handicap": "5",
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Under",
+                            "odd": "1.909",
+                            "handicap": "5",
+                            "main": null,
+                            "suspended": false
+                        }
+                    ]
+                },
+                {
+                    "id": 115,
+                    "name": "Player to be Booked",
+                    "values": [
+                        {
+                            "value": "Toma Basic",
+                            "odd": "2.375",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Matteo Cancellieri",
+                            "odd": "2.375",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Luca Pellegrini",
+                            "odd": "2.75",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Eljif Elmas",
+                            "odd": "2.875",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Stanislav Lobotka",
+                            "odd": "3.1",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Mattia Zaccagni",
+                            "odd": "3.2",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Scott McTominay",
+                            "odd": "3.25",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Juan Jesus",
+                            "odd": "3.25",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Alessio Romagnoli",
+                            "odd": "3.6",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Mario Gila",
+                            "odd": "3.6",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Adam Marusic",
+                            "odd": "3.6",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Matteo Guendouzi",
+                            "odd": "3.6",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Danilo Cataldi",
+                            "odd": "4",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Amir Rrahmani",
+                            "odd": "4",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Rasmus Hojlund",
+                            "odd": "4",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "David Neres",
+                            "odd": "5",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Giovanni Di Lorenzo",
+                            "odd": "5",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Tijjani Noslin",
+                            "odd": "5",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Leonardo Spinazzola",
+                            "odd": "5.5",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Matteo Politano",
+                            "odd": "5.5",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Vanja Milinkovic-Savic",
+                            "odd": "6",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Ivan Provedel",
+                            "odd": "6",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        }
+                    ]
+                },
+                {
+                    "id": 33,
+                    "name": "Asian Handicap",
+                    "values": [
+                        {
+                            "value": "Home",
+                            "odd": "2.025",
+                            "handicap": "0.25",
+                            "main": true,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Away",
+                            "odd": "1.825",
+                            "handicap": "-0.25",
+                            "main": true,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Home",
+                            "odd": "1.7",
+                            "handicap": "0.5",
+                            "main": false,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Away",
+                            "odd": "2.1",
+                            "handicap": "-0.5",
+                            "main": false,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Home",
+                            "odd": "1.5",
+                            "handicap": "0.75",
+                            "main": false,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Away",
+                            "odd": "2.5",
+                            "handicap": "-0.75",
+                            "main": false,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Home",
+                            "odd": "2.6",
+                            "handicap": "0",
+                            "main": false,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Away",
+                            "odd": "1.475",
+                            "handicap": "-0",
+                            "main": false,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Home",
+                            "odd": "3.1",
+                            "handicap": "-0.25",
+                            "main": false,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Away",
+                            "odd": "1.35",
+                            "handicap": "0.25",
+                            "main": false,
+                            "suspended": false
+                        }
+                    ]
+                },
+                {
+                    "id": 149,
+                    "name": "Total Shots",
+                    "values": [
+                        {
+                            "value": "Over",
+                            "odd": "1.833",
+                            "handicap": "23.5",
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Under",
+                            "odd": "1.833",
+                            "handicap": "23.5",
+                            "main": null,
+                            "suspended": false
+                        }
+                    ]
+                },
+                {
+                    "id": 57,
+                    "name": "Away Team Clean Sheet",
+                    "values": [
+                        {
+                            "value": "Yes",
+                            "odd": "2.25",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "No",
+                            "odd": "1.571",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        }
+                    ]
+                },
+                {
+                    "id": 61,
+                    "name": "Race to the 5th corner?",
+                    "values": [
+                        {
+                            "value": "1",
+                            "odd": "3",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "2",
+                            "odd": "2.1",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Neither",
+                            "odd": "3.25",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        }
+                    ]
+                },
+                {
+                    "id": 21,
+                    "name": "3-Way Handicap",
+                    "values": [
+                        {
+                            "value": "Home",
+                            "odd": "1.045",
+                            "handicap": "3",
+                            "main": false,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Draw",
+                            "odd": "15",
+                            "handicap": "-3",
+                            "main": false,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Away",
+                            "odd": "29",
+                            "handicap": "-3",
+                            "main": false,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Home",
+                            "odd": "1.615",
+                            "handicap": "1",
+                            "main": true,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Draw",
+                            "odd": "3.6",
+                            "handicap": "-1",
+                            "main": true,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Away",
+                            "odd": "4.333",
+                            "handicap": "-1",
+                            "main": true,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Home",
+                            "odd": "26",
+                            "handicap": "-2",
+                            "main": false,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Draw",
+                            "odd": "13",
+                            "handicap": "2",
+                            "main": false,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Away",
+                            "odd": "1.055",
+                            "handicap": "2",
+                            "main": false,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Home",
+                            "odd": "9",
+                            "handicap": "-1",
+                            "main": false,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Draw",
+                            "odd": "5",
+                            "handicap": "1",
+                            "main": false,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Away",
+                            "odd": "1.222",
+                            "handicap": "1",
+                            "main": false,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Home",
+                            "odd": "1.181",
+                            "handicap": "2",
+                            "main": false,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Draw",
+                            "odd": "6",
+                            "handicap": "-2",
+                            "main": false,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Away",
+                            "odd": "10",
+                            "handicap": "-2",
+                            "main": false,
+                            "suspended": false
+                        }
+                    ]
+                },
+                {
+                    "id": 36,
+                    "name": "Over/Under Line",
+                    "values": [
+                        {
+                            "value": "Over",
+                            "odd": "1.475",
+                            "handicap": "1.5",
+                            "main": false,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Under",
+                            "odd": "2.6",
+                            "handicap": "1.5",
+                            "main": false,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Over",
+                            "odd": "1.9",
+                            "handicap": "2",
+                            "main": true,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Under",
+                            "odd": "1.95",
+                            "handicap": "2",
+                            "main": true,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Over",
+                            "odd": "2.2",
+                            "handicap": "2.25",
+                            "main": false,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Under",
+                            "odd": "1.65",
+                            "handicap": "2.25",
+                            "main": false,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Over",
+                            "odd": "1.625",
+                            "handicap": "1.75",
+                            "main": false,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Under",
+                            "odd": "2.25",
+                            "handicap": "1.75",
+                            "main": false,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Over",
+                            "odd": "2.5",
+                            "handicap": "2.5",
+                            "main": false,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Under",
+                            "odd": "1.5",
+                            "handicap": "2.5",
+                            "main": false,
+                            "suspended": false
+                        }
+                    ]
+                },
+                {
+                    "id": 60,
+                    "name": "To Score 3 or More",
+                    "values": [
+                        {
+                            "value": "Scott McTominay",
+                            "odd": "101",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "David Neres",
+                            "odd": "101",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Rasmus Hojlund",
+                            "odd": "101",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Eljif Elmas",
+                            "odd": "126",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Matteo Politano",
+                            "odd": "126",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Matteo Cancellieri",
+                            "odd": "151",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Mattia Zaccagni",
+                            "odd": "126",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Tijjani Noslin",
+                            "odd": "151",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Toma Basic",
+                            "odd": "201",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Stanislav Lobotka",
+                            "odd": "501",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Giovanni Di Lorenzo",
+                            "odd": "401",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Danilo Cataldi",
+                            "odd": "501",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Amir Rrahmani",
+                            "odd": "501",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Leonardo Spinazzola",
+                            "odd": "501",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Matteo Guendouzi",
+                            "odd": "501",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Adam Marusic",
+                            "odd": "0",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": true
+                        },
+                        {
+                            "value": "Alessio Romagnoli",
+                            "odd": "0",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": true
+                        },
+                        {
+                            "value": "Mario Gila",
+                            "odd": "0",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": true
+                        },
+                        {
+                            "value": "Juan Jesus",
+                            "odd": "0",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": true
+                        },
+                        {
+                            "value": "Luca Pellegrini",
+                            "odd": "0",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": true
+                        }
+                    ]
+                },
+                {
+                    "id": 23,
+                    "name": "Final Score",
+                    "values": [
+                        {
+                            "value": "1-0",
+                            "odd": "8.5",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "2-0",
+                            "odd": "17",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "2-1",
+                            "odd": "13",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "3-0",
+                            "odd": "41",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "3-1",
+                            "odd": "34",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "3-2",
+                            "odd": "41",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "4-0",
+                            "odd": "101",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "4-1",
+                            "odd": "81",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "4-2",
+                            "odd": "101",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "4-3",
+                            "odd": "201",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "5-0",
+                            "odd": "351",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "5-1",
+                            "odd": "301",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "0-0",
+                            "odd": "6.5",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "1-1",
+                            "odd": "5.5",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "2-2",
+                            "odd": "17",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "3-3",
+                            "odd": "67",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "0-1",
+                            "odd": "6",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "0-2",
+                            "odd": "8.5",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "1-2",
+                            "odd": "9.5",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "0-3",
+                            "odd": "19",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "1-3",
+                            "odd": "19",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "2-3",
+                            "odd": "34",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "0-4",
+                            "odd": "41",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "1-4",
+                            "odd": "41",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "2-4",
+                            "odd": "67",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "3-4",
+                            "odd": "151",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "0-5",
+                            "odd": "101",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "1-5",
+                            "odd": "101",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "2-5",
+                            "odd": "151",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "0-6",
+                            "odd": "301",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "1-6",
+                            "odd": "351",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        }
+                    ]
+                },
+                {
+                    "id": 29,
+                    "name": "Result / Both Teams To Score",
+                    "values": [
+                        {
+                            "value": "Home/Yes",
+                            "odd": "9.5",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Away/Yes",
+                            "odd": "5.5",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Draw/Yes",
+                            "odd": "4.75",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Home/No",
+                            "odd": "5.5",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Away/No",
+                            "odd": "3.25",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Draw/No",
+                            "odd": "6.5",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        }
+                    ]
+                },
+                {
+                    "id": 27,
+                    "name": "Home Team Score a Goal (2nd Half)",
+                    "values": [
+                        {
+                            "value": "Yes",
+                            "odd": "2.25",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "No",
+                            "odd": "1.571",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        }
+                    ]
+                },
+                {
+                    "id": 77,
+                    "name": "1x2 - 10 minutes",
+                    "values": [
+                        {
+                            "value": "Home",
+                            "odd": "11",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Draw",
+                            "odd": "1.125",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Away",
+                            "odd": "8",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        }
+                    ]
+                },
+                {
+                    "id": 46,
+                    "name": "Goal Scorer",
+                    "values": [
+                        {
+                            "value": "Scott McTominay",
+                            "odd": "8",
+                            "handicap": "1",
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Rasmus Hojlund",
+                            "odd": "8",
+                            "handicap": "1",
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "David Neres",
+                            "odd": "9",
+                            "handicap": "1",
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Matteo Politano",
+                            "odd": "11",
+                            "handicap": "1",
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Eljif Elmas",
+                            "odd": "12",
+                            "handicap": "1",
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Mattia Zaccagni",
+                            "odd": "12",
+                            "handicap": "1",
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Matteo Cancellieri",
+                            "odd": "13",
+                            "handicap": "1",
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Tijjani Noslin",
+                            "odd": "13",
+                            "handicap": "1",
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Toma Basic",
+                            "odd": "15",
+                            "handicap": "1",
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Giovanni Di Lorenzo",
+                            "odd": "21",
+                            "handicap": "1",
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Danilo Cataldi",
+                            "odd": "23",
+                            "handicap": "1",
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Matteo Guendouzi",
+                            "odd": "23",
+                            "handicap": "1",
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Leonardo Spinazzola",
+                            "odd": "26",
+                            "handicap": "1",
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Stanislav Lobotka",
+                            "odd": "29",
+                            "handicap": "1",
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Amir Rrahmani",
+                            "odd": "29",
+                            "handicap": "1",
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Adam Marusic",
+                            "odd": "34",
+                            "handicap": "1",
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Mario Gila",
+                            "odd": "41",
+                            "handicap": "1",
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Juan Jesus",
+                            "odd": "41",
+                            "handicap": "1",
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Luca Pellegrini",
+                            "odd": "41",
+                            "handicap": "1",
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Alessio Romagnoli",
+                            "odd": "51",
+                            "handicap": "1",
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "No 1st goal",
+                            "odd": "6.5",
+                            "handicap": "1",
+                            "main": null,
+                            "suspended": false
+                        }
+                    ]
+                },
+                {
+                    "id": 58,
+                    "name": "Home Team Goals",
+                    "values": [
+                        {
+                            "value": "Over",
+                            "odd": "4",
+                            "handicap": "1.5",
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Under",
+                            "odd": "1.222",
+                            "handicap": "1.5",
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Over",
+                            "odd": "13",
+                            "handicap": "2.5",
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Under",
+                            "odd": "1.04",
+                            "handicap": "2.5",
+                            "main": null,
+                            "suspended": false
+                        }
+                    ]
+                },
+                {
+                    "id": 150,
+                    "name": "Total shots on goal",
+                    "values": [
+                        {
+                            "value": "Over",
+                            "odd": "1.8",
+                            "handicap": "7.5",
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Under",
+                            "odd": "1.909",
+                            "handicap": "7.5",
+                            "main": null,
+                            "suspended": false
+                        }
+                    ]
+                },
+                {
+                    "id": 38,
+                    "name": "Away Team to Score in Both Halves",
+                    "values": [
+                        {
+                            "value": "Yes",
+                            "odd": "4",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "No",
+                            "odd": "1.222",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        }
+                    ]
+                },
+                {
+                    "id": 78,
+                    "name": "Corners 1x2",
+                    "values": [
+                        {
+                            "value": "Home",
+                            "odd": "2.4",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Draw",
+                            "odd": "7.5",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Away",
+                            "odd": "1.727",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        }
+                    ]
+                },
+                {
+                    "id": 25,
+                    "name": "Match Goals",
+                    "values": [
+                        {
+                            "value": "Over",
+                            "odd": "23",
+                            "handicap": "5.5",
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Under",
+                            "odd": "1.012",
+                            "handicap": "5.5",
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Over",
+                            "odd": "5",
+                            "handicap": "3.5",
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Under",
+                            "odd": "1.166",
+                            "handicap": "3.5",
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Over",
+                            "odd": "1.5",
+                            "handicap": "1.5",
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Under",
+                            "odd": "2.625",
+                            "handicap": "1.5",
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Over",
+                            "odd": "1.111",
+                            "handicap": "0.5",
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Under",
+                            "odd": "6.5",
+                            "handicap": "0.5",
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Over",
+                            "odd": "11",
+                            "handicap": "4.5",
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Under",
+                            "odd": "1.05",
+                            "handicap": "4.5",
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Over",
+                            "odd": "2.625",
+                            "handicap": "2.5",
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Under",
+                            "odd": "1.5",
+                            "handicap": "2.5",
+                            "main": null,
+                            "suspended": false
+                        }
+                    ]
+                },
+                {
+                    "id": 24,
+                    "name": "Over/Under Line (1st Half)",
+                    "values": [
+                        {
+                            "value": "Over",
+                            "odd": "3",
+                            "handicap": "1.25",
+                            "main": false,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Under",
+                            "odd": "1.375",
+                            "handicap": "1.25",
+                            "main": false,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Over",
+                            "odd": "1.8",
+                            "handicap": "0.75",
+                            "main": true,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Under",
+                            "odd": "2",
+                            "handicap": "0.75",
+                            "main": true,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Over",
+                            "odd": "2.35",
+                            "handicap": "1",
+                            "main": false,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Under",
+                            "odd": "1.575",
+                            "handicap": "1",
+                            "main": false,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Over",
+                            "odd": "1.55",
+                            "handicap": "0.5",
+                            "main": false,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Under",
+                            "odd": "2.375",
+                            "handicap": "0.5",
+                            "main": false,
+                            "suspended": false
+                        }
+                    ]
+                },
+                {
+                    "id": 17,
+                    "name": "Asian Handicap (1st Half)",
+                    "values": [
+                        {
+                            "value": "Home",
+                            "odd": "2.375",
+                            "handicap": "0",
+                            "main": false,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Away",
+                            "odd": "1.55",
+                            "handicap": "0",
+                            "main": false,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Home",
+                            "odd": "1.4",
+                            "handicap": "0.5",
+                            "main": false,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Away",
+                            "odd": "2.85",
+                            "handicap": "-0.5",
+                            "main": false,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Home",
+                            "odd": "3.45",
+                            "handicap": "-0.25",
+                            "main": false,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Away",
+                            "odd": "1.3",
+                            "handicap": "0.25",
+                            "main": false,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Home",
+                            "odd": "1.625",
+                            "handicap": "0.25",
+                            "main": true,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Away",
+                            "odd": "2.25",
+                            "handicap": "-0.25",
+                            "main": true,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Home",
+                            "odd": "1.24",
+                            "handicap": "0.75",
+                            "main": false,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Away",
+                            "odd": "3.9",
+                            "handicap": "-0.75",
+                            "main": false,
+                            "suspended": false
+                        }
+                    ]
+                },
+                {
+                    "id": 30,
+                    "name": "Both Teams To Score (1st Half)",
+                    "values": [
+                        {
+                            "value": "Yes",
+                            "odd": "6",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "No",
+                            "odd": "1.125",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        }
+                    ]
+                },
+                {
+                    "id": 37,
+                    "name": "Total Corners",
+                    "values": [
+                        {
+                            "value": "Over",
+                            "odd": "1.727",
+                            "handicap": "8.5",
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Under",
+                            "odd": "2",
+                            "handicap": "8.5",
+                            "main": null,
+                            "suspended": false
+                        }
+                    ]
+                },
+                {
+                    "id": 35,
+                    "name": "To Win 2nd Half",
+                    "values": [
+                        {
+                            "value": "Home",
+                            "odd": "3.75",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Draw",
+                            "odd": "2.2",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Away",
+                            "odd": "2.5",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        }
+                    ]
+                },
+                {
+                    "id": 45,
+                    "name": "Race to the 7th corner?",
+                    "values": [
+                        {
+                            "value": "1",
+                            "odd": "6",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "2",
+                            "odd": "3.75",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Neither",
+                            "odd": "1.444",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        }
+                    ]
+                },
+                {
+                    "id": 16,
+                    "name": "How many goals will Away Team score?",
+                    "values": [
+                        {
+                            "value": "No goal",
+                            "odd": "3.4",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "1",
+                            "odd": "2.5",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "2",
+                            "odd": "3.75",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "3 or more",
+                            "odd": "6.5",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        }
+                    ]
+                },
+                {
+                    "id": 73,
+                    "name": "Which team will score the 1st goal?",
+                    "values": [
+                        {
+                            "value": "1",
+                            "odd": "2.5",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "No goal",
+                            "odd": "6.5",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "2",
+                            "odd": "1.8",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        }
+                    ]
+                },
+                {
+                    "id": 44,
+                    "name": "Race to the 9th corner?",
+                    "values": [
+                        {
+                            "value": "1",
+                            "odd": "13",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "2",
+                            "odd": "8.5",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Neither",
+                            "odd": "1.083",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        }
+                    ]
+                },
+                {
+                    "id": 59,
+                    "name": "Fulltime Result",
+                    "values": [
+                        {
+                            "value": "Home",
+                            "odd": "3.8",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Draw",
+                            "odd": "3",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Away",
+                            "odd": "2.15",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        }
+                    ]
+                },
+                {
+                    "id": 72,
+                    "name": "Double Chance",
+                    "values": [
+                        {
+                            "value": "Home or Draw",
+                            "odd": "1.615",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Away or Draw",
+                            "odd": "1.222",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Home or Away",
+                            "odd": "1.363",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        }
+                    ]
+                },
+                {
+                    "id": 66,
+                    "name": "Home Team Clean Sheet",
+                    "values": [
+                        {
+                            "value": "Yes",
+                            "odd": "3.4",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "No",
+                            "odd": "1.3",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        }
+                    ]
+                },
+                {
+                    "id": 42,
+                    "name": "Race to the 3rd corner?",
+                    "values": [
+                        {
+                            "value": "1",
+                            "odd": "2.1",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "2",
+                            "odd": "1.666",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Neither",
+                            "odd": "23",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        }
+                    ]
+                },
+                {
+                    "id": 68,
+                    "name": "Goals Odd/Even",
+                    "values": [
+                        {
+                            "value": "Odd",
+                            "odd": "1.909",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Even",
+                            "odd": "1.8",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        }
+                    ]
+                },
+                {
+                    "id": 55,
+                    "name": "Correct Score (1st Half)",
+                    "values": [
+                        {
+                            "value": "1-0",
+                            "odd": "5.5",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "2-0",
+                            "odd": "21",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "2-1",
+                            "odd": "34",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "3-0",
+                            "odd": "67",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "3-1",
+                            "odd": "101",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "3-2",
+                            "odd": "251",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "0-0",
+                            "odd": "2.375",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "1-1",
+                            "odd": "8.5",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "2-2",
+                            "odd": "67",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "0-1",
+                            "odd": "3.75",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "0-2",
+                            "odd": "12",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "1-2",
+                            "odd": "23",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "0-3",
+                            "odd": "41",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "1-3",
+                            "odd": "67",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "2-3",
+                            "odd": "201",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "0-4",
+                            "odd": "126",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "1-4",
+                            "odd": "251",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        }
+                    ]
+                },
+                {
+                    "id": 76,
+                    "name": "Corners European Handicap",
+                    "values": [
+                        {
+                            "value": "Home",
+                            "odd": "1.909",
+                            "handicap": "1",
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Draw",
+                            "odd": "7.5",
+                            "handicap": "-1",
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Away",
+                            "odd": "2.2",
+                            "handicap": "-1",
+                            "main": null,
+                            "suspended": false
+                        }
+                    ]
+                },
+                {
+                    "id": 153,
+                    "name": "Player Shots on Targets",
+                    "values": [
+                        {
+                            "value": "Toma Basic/Over 0.5",
+                            "odd": "2.375",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Matteo Cancellieri/Over 0.5",
+                            "odd": "2.25",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Danilo Cataldi/Over 0.5",
+                            "odd": "3.75",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Giovanni Di Lorenzo/Over 0.5",
+                            "odd": "3.5",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Eljif Elmas/Over 0.5",
+                            "odd": "2.1",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Mario Gila/Over 0.5",
+                            "odd": "6",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Matteo Guendouzi/Over 0.5",
+                            "odd": "3",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Rasmus Hojlund/Over 0.5",
+                            "odd": "1.666",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Juan Jesus/Over 0.5",
+                            "odd": "6",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Stanislav Lobotka/Over 0.5",
+                            "odd": "6",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Adam Marusic/Over 0.5",
+                            "odd": "5.5",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Scott McTominay/Over 0.5",
+                            "odd": "1.666",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "David Neres/Over 0.5",
+                            "odd": "1.833",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Tijjani Noslin/Over 0.5",
+                            "odd": "2.2",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Luca Pellegrini/Over 0.5",
+                            "odd": "6",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Matteo Politano/Over 0.5",
+                            "odd": "1.909",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Alessio Romagnoli/Over 0.5",
+                            "odd": "7",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Amir Rrahmani/Over 0.5",
+                            "odd": "5",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Leonardo Spinazzola/Over 0.5",
+                            "odd": "3.5",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Mattia Zaccagni/Over 0.5",
+                            "odd": "2.25",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Toma Basic/Over 1.5",
+                            "odd": "10",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Matteo Cancellieri/Over 1.5",
+                            "odd": "9",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Danilo Cataldi/Over 1.5",
+                            "odd": "21",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Giovanni Di Lorenzo/Over 1.5",
+                            "odd": "19",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Eljif Elmas/Over 1.5",
+                            "odd": "7",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Matteo Guendouzi/Over 1.5",
+                            "odd": "15",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Rasmus Hojlund/Over 1.5",
+                            "odd": "4.333",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Scott McTominay/Over 1.5",
+                            "odd": "4.333",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "David Neres/Over 1.5",
+                            "odd": "5.5",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Tijjani Noslin/Over 1.5",
+                            "odd": "8",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Matteo Politano/Over 1.5",
+                            "odd": "6",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Leonardo Spinazzola/Over 1.5",
+                            "odd": "19",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Mattia Zaccagni/Over 1.5",
+                            "odd": "9",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Eljif Elmas/Over 2.5",
+                            "odd": "21",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Rasmus Hojlund/Over 2.5",
+                            "odd": "15",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Scott McTominay/Over 2.5",
+                            "odd": "15",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "David Neres/Over 2.5",
+                            "odd": "19",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Matteo Politano/Over 2.5",
+                            "odd": "21",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        }
+                    ]
+                },
+                {
+                    "id": 156,
+                    "name": "Away Total shots on goal",
+                    "values": [
+                        {
+                            "value": "Over",
+                            "odd": "1.727",
+                            "handicap": "3.5",
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Under",
+                            "odd": "2",
+                            "handicap": "3.5",
+                            "main": null,
+                            "suspended": false
+                        }
+                    ]
+                },
+                {
+                    "id": 65,
+                    "name": "Next 10 Minutes Total",
+                    "values": [
+                        {
+                            "value": "Goals/Over  0.5",
+                            "odd": "5.5",
+                            "handicap": "0",
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Goals/Under  0.5",
+                            "odd": "1.142",
+                            "handicap": "0",
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Corners 3-Way/Over  0.5",
+                            "odd": "1.666",
+                            "handicap": "0",
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Corners 3-Way/Under  0.5",
+                            "odd": "2.1",
+                            "handicap": "0",
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Cards/Over  0.5",
+                            "odd": "6",
+                            "handicap": "0",
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Cards/Under  0.5",
+                            "odd": "1.125",
+                            "handicap": "0",
+                            "main": null,
+                            "suspended": false
+                        }
+                    ]
+                },
+                {
+                    "id": 48,
+                    "name": "Draw No Bet",
+                    "values": [
+                        {
+                            "value": "Home",
+                            "odd": "2.625",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Away",
+                            "odd": "1.444",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        }
+                    ]
+                },
+                {
+                    "id": 50,
+                    "name": "1x2 - 60 minutes",
+                    "values": [
+                        {
+                            "value": "Home",
+                            "odd": "3.75",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Draw",
+                            "odd": "2.3",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Away",
+                            "odd": "2.4",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        }
+                    ]
+                },
+                {
+                    "id": 52,
+                    "name": "1x2 - 80 minutes",
+                    "values": [
+                        {
+                            "value": "Home",
+                            "odd": "3.75",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Draw",
+                            "odd": "2.5",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Away",
+                            "odd": "2.2",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        }
+                    ]
+                },
+                {
+                    "id": 69,
+                    "name": "Both Teams to Score",
+                    "values": [
+                        {
+                            "value": "Yes",
+                            "odd": "2.05",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "No",
+                            "odd": "1.7",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        }
+                    ]
+                },
+                {
+                    "id": 43,
+                    "name": "Both Teams To Score (2nd Half)",
+                    "values": [
+                        {
+                            "value": "Yes",
+                            "odd": "4.333",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "No",
+                            "odd": "1.2",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        }
+                    ]
+                },
+                {
+                    "id": 56,
+                    "name": "1x2 - 70 minutes",
+                    "values": [
+                        {
+                            "value": "Home",
+                            "odd": "3.75",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Draw",
+                            "odd": "2.4",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Away",
+                            "odd": "2.3",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        }
+                    ]
+                },
+                {
+                    "id": 152,
+                    "name": "Home Total Shots",
+                    "values": [
+                        {
+                            "value": "Over",
+                            "odd": "1.8",
+                            "handicap": "11.5",
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Under",
+                            "odd": "1.909",
+                            "handicap": "11.5",
+                            "main": null,
+                            "suspended": false
+                        }
+                    ]
+                },
+                {
+                    "id": 15,
+                    "name": "Last Corner",
+                    "values": [
+                        {
+                            "value": "1",
+                            "odd": "2",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "2",
+                            "odd": "1.727",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        }
+                    ]
+                },
+                {
+                    "id": 32,
+                    "name": "Asian Corners",
+                    "values": [
+                        {
+                            "value": "Over",
+                            "odd": "1.775",
+                            "handicap": "8.5",
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Under",
+                            "odd": "2.025",
+                            "handicap": "8.5",
+                            "main": null,
+                            "suspended": false
+                        }
+                    ]
+                },
+                {
+                    "id": 53,
+                    "name": "To Score 2 or More",
+                    "values": [
+                        {
+                            "value": "Scott McTominay",
+                            "odd": "19",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "David Neres",
+                            "odd": "23",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Rasmus Hojlund",
+                            "odd": "19",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Eljif Elmas",
+                            "odd": "41",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Matteo Politano",
+                            "odd": "34",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Matteo Cancellieri",
+                            "odd": "41",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Mattia Zaccagni",
+                            "odd": "41",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Tijjani Noslin",
+                            "odd": "41",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Toma Basic",
+                            "odd": "51",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Stanislav Lobotka",
+                            "odd": "101",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Giovanni Di Lorenzo",
+                            "odd": "101",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Danilo Cataldi",
+                            "odd": "101",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Amir Rrahmani",
+                            "odd": "101",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Leonardo Spinazzola",
+                            "odd": "101",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Matteo Guendouzi",
+                            "odd": "101",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Adam Marusic",
+                            "odd": "126",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Alessio Romagnoli",
+                            "odd": "151",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Mario Gila",
+                            "odd": "151",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Juan Jesus",
+                            "odd": "151",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Luca Pellegrini",
+                            "odd": "151",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        }
+                    ]
+                },
+                {
+                    "id": 151,
+                    "name": "Away Total Shots",
+                    "values": [
+                        {
+                            "value": "Over",
+                            "odd": "1.833",
+                            "handicap": "11.5",
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Under",
+                            "odd": "1.833",
+                            "handicap": "11.5",
+                            "main": null,
+                            "suspended": false
+                        }
+                    ]
+                },
+                {
+                    "id": 62,
+                    "name": "Last Team to Score (3 way)",
+                    "values": [
+                        {
+                            "value": "1",
+                            "odd": "2.5",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "No goal",
+                            "odd": "6.5",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "2",
+                            "odd": "1.8",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        }
+                    ]
+                },
+                {
+                    "id": 155,
+                    "name": "Player Assists",
+                    "values": [
+                        {
+                            "value": "Toma Basic/Over 0.5",
+                            "odd": "13",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Matteo Cancellieri/Over 0.5",
+                            "odd": "13",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Danilo Cataldi/Over 0.5",
+                            "odd": "13",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Giovanni Di Lorenzo/Over 0.5",
+                            "odd": "10",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Eljif Elmas/Over 0.5",
+                            "odd": "13",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Mario Gila/Over 0.5",
+                            "odd": "21",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Matteo Guendouzi/Over 0.5",
+                            "odd": "11",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Rasmus Hojlund/Over 0.5",
+                            "odd": "10",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Juan Jesus/Over 0.5",
+                            "odd": "21",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Stanislav Lobotka/Over 0.5",
+                            "odd": "21",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Adam Marusic/Over 0.5",
+                            "odd": "13",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Scott McTominay/Over 0.5",
+                            "odd": "9",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "David Neres/Over 0.5",
+                            "odd": "5",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Tijjani Noslin/Over 0.5",
+                            "odd": "10",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Luca Pellegrini/Over 0.5",
+                            "odd": "10",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Matteo Politano/Over 0.5",
+                            "odd": "6.5",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Alessio Romagnoli/Over 0.5",
+                            "odd": "21",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Amir Rrahmani/Over 0.5",
+                            "odd": "21",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Leonardo Spinazzola/Over 0.5",
+                            "odd": "8",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Mattia Zaccagni/Over 0.5",
+                            "odd": "10",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        }
+                    ]
+                },
+                {
+                    "id": 204,
+                    "name": "Corners Asian Handicap (1st Half)",
+                    "values": [
+                        {
+                            "value": "Over",
+                            "odd": "1.9",
+                            "handicap": "4",
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Under",
+                            "odd": "1.9",
+                            "handicap": "4",
+                            "main": null,
+                            "suspended": false
+                        }
+                    ]
+                },
+                {
+                    "id": 47,
+                    "name": "Away 1st Goal in Interval",
+                    "values": [
+                        {
+                            "value": "Yes",
+                            "odd": "4.333",
+                            "handicap": "20",
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "No",
+                            "odd": "1.2",
+                            "handicap": "20",
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Yes",
+                            "odd": "3.25",
+                            "handicap": "30",
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "No",
+                            "odd": "1.333",
+                            "handicap": "30",
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Yes",
+                            "odd": "7.5",
+                            "handicap": "10",
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "No",
+                            "odd": "1.071",
+                            "handicap": "10",
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Yes",
+                            "odd": "1.666",
+                            "handicap": "60",
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "No",
+                            "odd": "2.1",
+                            "handicap": "60",
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Yes",
+                            "odd": "1.533",
+                            "handicap": "70",
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "No",
+                            "odd": "2.375",
+                            "handicap": "70",
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Yes",
+                            "odd": "2.5",
+                            "handicap": "40",
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "No",
+                            "odd": "1.5",
+                            "handicap": "40",
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Yes",
+                            "odd": "1.909",
+                            "handicap": "50",
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "No",
+                            "odd": "1.8",
+                            "handicap": "50",
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Yes",
+                            "odd": "1.5",
+                            "handicap": "80",
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "No",
+                            "odd": "2.5",
+                            "handicap": "80",
+                            "main": null,
+                            "suspended": false
+                        }
+                    ]
+                },
+                {
+                    "id": 154,
+                    "name": "Home Total shots on goal",
+                    "values": [
+                        {
+                            "value": "Over",
+                            "odd": "1.8",
+                            "handicap": "3.5",
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Under",
+                            "odd": "1.909",
+                            "handicap": "3.5",
+                            "main": null,
+                            "suspended": false
+                        }
+                    ]
+                },
+                {
+                    "id": 26,
+                    "name": "European Handicap (1st Half)",
+                    "values": [
+                        {
+                            "value": "Home",
+                            "odd": "17",
+                            "handicap": "-1",
+                            "main": false,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Draw",
+                            "odd": "5",
+                            "handicap": "1",
+                            "main": false,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Away",
+                            "odd": "1.166",
+                            "handicap": "1",
+                            "main": false,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Home",
+                            "odd": "1.05",
+                            "handicap": "2",
+                            "main": false,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Draw",
+                            "odd": "12",
+                            "handicap": "-2",
+                            "main": false,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Away",
+                            "odd": "41",
+                            "handicap": "-2",
+                            "main": false,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Home",
+                            "odd": "1.363",
+                            "handicap": "1",
+                            "main": true,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Draw",
+                            "odd": "3.5",
+                            "handicap": "-1",
+                            "main": true,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Away",
+                            "odd": "10",
+                            "handicap": "-1",
+                            "main": true,
+                            "suspended": false
+                        }
+                    ]
+                },
+                {
+                    "id": 79,
+                    "name": "1x2 - 20 minutes",
+                    "values": [
+                        {
+                            "value": "Home",
+                            "odd": "6.5",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Draw",
+                            "odd": "1.333",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Away",
+                            "odd": "4.75",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        }
+                    ]
+                },
+                {
+                    "id": 28,
+                    "name": "Home Team  to Score in Both Halves",
+                    "values": [
+                        {
+                            "value": "Yes",
+                            "odd": "6.5",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "No",
+                            "odd": "1.111",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        }
+                    ]
+                },
+                {
+                    "id": 54,
+                    "name": "Home 1st Goal in Interval",
+                    "values": [
+                        {
+                            "value": "Yes",
+                            "odd": "8.5",
+                            "handicap": "10",
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "No",
+                            "odd": "1.05",
+                            "handicap": "10",
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Yes",
+                            "odd": "4.333",
+                            "handicap": "30",
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "No",
+                            "odd": "1.2",
+                            "handicap": "30",
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Yes",
+                            "odd": "5.5",
+                            "handicap": "20",
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "No",
+                            "odd": "1.125",
+                            "handicap": "20",
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Yes",
+                            "odd": "2.5",
+                            "handicap": "50",
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "No",
+                            "odd": "1.5",
+                            "handicap": "50",
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Yes",
+                            "odd": "3.25",
+                            "handicap": "40",
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "No",
+                            "odd": "1.333",
+                            "handicap": "40",
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Yes",
+                            "odd": "1.909",
+                            "handicap": "70",
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "No",
+                            "odd": "1.8",
+                            "handicap": "70",
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Yes",
+                            "odd": "2.1",
+                            "handicap": "60",
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "No",
+                            "odd": "1.666",
+                            "handicap": "60",
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Yes",
+                            "odd": "1.833",
+                            "handicap": "80",
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "No",
+                            "odd": "1.833",
+                            "handicap": "80",
+                            "main": null,
+                            "suspended": false
+                        }
+                    ]
+                },
+                {
+                    "id": 118,
+                    "name": "Player to be Sent Off",
+                    "values": [
+                        {
+                            "value": "Toma Basic",
+                            "odd": "26",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Matteo Cancellieri",
+                            "odd": "26",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Scott McTominay",
+                            "odd": "29",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Juan Jesus",
+                            "odd": "29",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Mattia Zaccagni",
+                            "odd": "29",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Luca Pellegrini",
+                            "odd": "29",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Alessio Romagnoli",
+                            "odd": "41",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Danilo Cataldi",
+                            "odd": "41",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Eljif Elmas",
+                            "odd": "41",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Amir Rrahmani",
+                            "odd": "41",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Mario Gila",
+                            "odd": "41",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Adam Marusic",
+                            "odd": "41",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Rasmus Hojlund",
+                            "odd": "41",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Matteo Guendouzi",
+                            "odd": "41",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Stanislav Lobotka",
+                            "odd": "51",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "David Neres",
+                            "odd": "51",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Giovanni Di Lorenzo",
+                            "odd": "51",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Matteo Politano",
+                            "odd": "51",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Tijjani Noslin",
+                            "odd": "51",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Leonardo Spinazzola",
+                            "odd": "67",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Vanja Milinkovic-Savic",
+                            "odd": "81",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Ivan Provedel",
+                            "odd": "81",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        }
+                    ]
+                },
+                {
+                    "id": 22,
+                    "name": "1x2 - 30 minutes",
+                    "values": [
+                        {
+                            "value": "Home",
+                            "odd": "5.5",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Draw",
+                            "odd": "1.533",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Away",
+                            "odd": "3.6",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        }
+                    ]
+                },
+                {
+                    "id": 80,
+                    "name": "Method of 1st Goal",
+                    "values": [
+                        {
+                            "value": "Shot",
+                            "odd": "1.615",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Header",
+                            "odd": "6.5",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Penalty",
+                            "odd": "7",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Free kick",
+                            "odd": "21",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Own goal",
+                            "odd": "26",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "No goal",
+                            "odd": "6.5",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        }
+                    ]
+                },
+                {
+                    "id": 119,
+                    "name": "Total Cards",
+                    "values": [
+                        {
+                            "value": "Over",
+                            "odd": "1.8",
+                            "handicap": "4.5",
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Under",
+                            "odd": "1.909",
+                            "handicap": "4.5",
+                            "main": null,
+                            "suspended": false
+                        }
+                    ]
+                },
+                {
+                    "id": 70,
+                    "name": "Away Team Score a Goal (2nd Half)",
+                    "values": [
+                        {
+                            "value": "Yes",
+                            "odd": "1.833",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "No",
+                            "odd": "1.833",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        }
+                    ]
+                },
+                {
+                    "id": 40,
+                    "name": "Total Corners (3 way) (1st Half)",
+                    "values": [
+                        {
+                            "value": "Over",
+                            "odd": "2.3",
+                            "handicap": "4",
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Exactly",
+                            "odd": "4.75",
+                            "handicap": "4",
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Under",
+                            "odd": "2.3",
+                            "handicap": "4",
+                            "main": null,
+                            "suspended": false
+                        }
+                    ]
+                },
+                {
+                    "id": 34,
+                    "name": "1x2 - 40 minutes",
+                    "values": [
+                        {
+                            "value": "Home",
+                            "odd": "4.75",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Draw",
+                            "odd": "1.727",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Away",
+                            "odd": "3.1",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        }
+                    ]
+                },
+                {
+                    "id": 63,
+                    "name": "Anytime Goal Scorer",
+                    "values": [
+                        {
+                            "value": "Scott McTominay",
+                            "odd": "3.75",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Rasmus Hojlund",
+                            "odd": "3.75",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "David Neres",
+                            "odd": "4",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Matteo Politano",
+                            "odd": "5",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Eljif Elmas",
+                            "odd": "5.5",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Mattia Zaccagni",
+                            "odd": "5.5",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Matteo Cancellieri",
+                            "odd": "6",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Tijjani Noslin",
+                            "odd": "6",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Toma Basic",
+                            "odd": "6.5",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Giovanni Di Lorenzo",
+                            "odd": "9",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Danilo Cataldi",
+                            "odd": "10",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Matteo Guendouzi",
+                            "odd": "10",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Leonardo Spinazzola",
+                            "odd": "11",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Stanislav Lobotka",
+                            "odd": "13",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Amir Rrahmani",
+                            "odd": "13",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Adam Marusic",
+                            "odd": "15",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Mario Gila",
+                            "odd": "17",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Juan Jesus",
+                            "odd": "17",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Luca Pellegrini",
+                            "odd": "17",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "Alessio Romagnoli",
+                            "odd": "21",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "No 1st goal",
+                            "odd": "0",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": true
+                        }
+                    ]
+                },
+                {
+                    "id": 67,
+                    "name": "How many goals will Home Team score?",
+                    "values": [
+                        {
+                            "value": "No goal",
+                            "odd": "2.25",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "1",
+                            "odd": "2.375",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "2",
+                            "odd": "5",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        },
+                        {
+                            "value": "3 or more",
+                            "odd": "13",
+                            "handicap": null,
+                            "main": null,
+                            "suspended": false
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

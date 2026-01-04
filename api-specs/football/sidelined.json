@@ -1,0 +1,54 @@
+{
+  "get": "sidelined",
+  "parameters": {
+    "player": "1"
+  },
+  "errors": [],
+  "results": 8,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "type": "Broken Hand",
+      "start": "2025-03-16",
+      "end": "2025-05-06"
+    },
+    {
+      "type": "Back Injury",
+      "start": "2024-07-09",
+      "end": "2024-07-13"
+    },
+    {
+      "type": "Illness",
+      "start": "2021-11-21",
+      "end": "2022-01-15"
+    },
+    {
+      "type": "Illness",
+      "start": "2021-04-21",
+      "end": "2021-04-23"
+    },
+    {
+      "type": "Shoulder Injury",
+      "start": "2021-01-29",
+      "end": "2021-02-26"
+    },
+    {
+      "type": "Pneumonia",
+      "start": "2020-09-30",
+      "end": "2020-10-13"
+    },
+    {
+      "type": "Foot Injury",
+      "start": "2019-08-16",
+      "end": "2019-08-22"
+    },
+    {
+      "type": "Thigh Injury",
+      "start": "2019-05-10",
+      "end": "2019-05-17"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+    <Import Project="..\..\versions.props" />
+    <PropertyGroup>
+        <Version>$(ApiSportsSdkCoreVersion)</Version>
+        <IsPackable>true</IsPackable>
+        <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
+        <PackageId>ApiSports.Sdk.Core</PackageId>
+        <Description>Core HTTP pipeline and SDK builder for the ApiSports .NET SDK. Handles API key injection, error handling, and AOT-first JSON deserialization via System.Text.Json source generation.</Description>
+        <PackageTags>apisports;football;sdk</PackageTags>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <ProjectReference Include="..\ApiSports.Sdk.Abstractions\ApiSports.Sdk.Abstractions.csproj" />
+    </ItemGroup>
+</Project>

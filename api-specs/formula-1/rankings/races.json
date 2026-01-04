@@ -1,0 +1,470 @@
+{
+    "get": "rankings",
+    "parameters": {
+        "race": "1967"
+    },
+    "errors": [],
+    "results": 20,
+    "response": [
+        {
+            "race": {
+                "id": 1967
+            },
+            "driver": {
+                "id": 25,
+                "name": "Max Verstappen",
+                "abbr": "VER",
+                "number": 1,
+                "image": "https://media.api-sports.io/formula-1/drivers/25.png"
+            },
+            "team": {
+                "id": 1,
+                "name": "Red Bull Racing",
+                "logo": "https://media.api-sports.io/formula-1/teams/1.png"
+            },
+            "position": 1,
+            "time": "1:31:05.323",
+            "laps": 57,
+            "grid": "2",
+            "pits": 3,
+            "gap": null
+        },
+        {
+            "race": {
+                "id": 1967
+            },
+            "driver": {
+                "id": 34,
+                "name": "Charles Leclerc",
+                "abbr": "LEC",
+                "number": 16,
+                "image": "https://media.api-sports.io/formula-1/drivers/34.png"
+            },
+            "team": {
+                "id": 3,
+                "name": "Scuderia Ferrari",
+                "logo": "https://media.api-sports.io/formula-1/teams/3.png"
+            },
+            "position": 2,
+            "time": "+6.031",
+            "laps": 57,
+            "grid": "5",
+            "pits": 3,
+            "gap": null
+        },
+        {
+            "race": {
+                "id": 1967
+            },
+            "driver": {
+                "id": 97,
+                "name": "Oscar Piastri",
+                "abbr": "PIA",
+                "number": 81,
+                "image": "https://media.api-sports.io/formula-1/drivers/97.png"
+            },
+            "team": {
+                "id": 2,
+                "name": "McLaren Racing",
+                "logo": "https://media.api-sports.io/formula-1/teams/2.png"
+            },
+            "position": 3,
+            "time": "+6.819",
+            "laps": 57,
+            "grid": "4",
+            "pits": 3,
+            "gap": null
+        },
+        {
+            "race": {
+                "id": 1967
+            },
+            "driver": {
+                "id": 51,
+                "name": "George Russell",
+                "abbr": "RUS",
+                "number": 63,
+                "image": "https://media.api-sports.io/formula-1/drivers/51.png"
+            },
+            "team": {
+                "id": 5,
+                "name": "Mercedes-AMG Petronas",
+                "logo": "https://media.api-sports.io/formula-1/teams/5.png"
+            },
+            "position": 4,
+            "time": "+14.104",
+            "laps": 57,
+            "grid": "1",
+            "pits": 4,
+            "gap": null
+        },
+        {
+            "race": {
+                "id": 1967
+            },
+            "driver": {
+                "id": 36,
+                "name": "Pierre Gasly",
+                "abbr": "GAS",
+                "number": 10,
+                "image": "https://media.api-sports.io/formula-1/drivers/36.png"
+            },
+            "team": {
+                "id": 13,
+                "name": "Alpine F1 Team",
+                "logo": "https://media.api-sports.io/formula-1/teams/13.png"
+            },
+            "position": 5,
+            "time": "+16.782",
+            "laps": 57,
+            "grid": "11",
+            "pits": 3,
+            "gap": null
+        },
+        {
+            "race": {
+                "id": 1967
+            },
+            "driver": {
+                "id": 24,
+                "name": "Carlos Sainz Jr",
+                "abbr": "SAI",
+                "number": 55,
+                "image": "https://media.api-sports.io/formula-1/drivers/24.png"
+            },
+            "team": {
+                "id": 3,
+                "name": "Scuderia Ferrari",
+                "logo": "https://media.api-sports.io/formula-1/teams/3.png"
+            },
+            "position": 6,
+            "time": "+17.476",
+            "laps": 57,
+            "grid": "7",
+            "pits": 3,
+            "gap": null
+        },
+        {
+            "race": {
+                "id": 1967
+            },
+            "driver": {
+                "id": 4,
+                "name": "Fernando Alonso",
+                "abbr": "ALO",
+                "number": 14,
+                "image": "https://media.api-sports.io/formula-1/drivers/4.png"
+            },
+            "team": {
+                "id": 17,
+                "name": "Aston Martin F1 Team",
+                "logo": "https://media.api-sports.io/formula-1/teams/17.png"
+            },
+            "position": 7,
+            "time": "+19.867",
+            "laps": 57,
+            "grid": "8",
+            "pits": 3,
+            "gap": null
+        },
+        {
+            "race": {
+                "id": 1967
+            },
+            "driver": {
+                "id": 83,
+                "name": "Guanyu Zhou",
+                "abbr": null,
+                "number": 24,
+                "image": "https://media.api-sports.io/formula-1/drivers/83.png"
+            },
+            "team": {
+                "id": 8,
+                "name": "Sauber F1 Team",
+                "logo": "https://media.api-sports.io/formula-1/teams/8.png"
+            },
+            "position": 8,
+            "time": "+25.360",
+            "laps": 57,
+            "grid": "12",
+            "pits": 3,
+            "gap": null
+        },
+        {
+            "race": {
+                "id": 1967
+            },
+            "driver": {
+                "id": 2,
+                "name": "Kevin Magnussen",
+                "abbr": "MAG",
+                "number": 20,
+                "image": "https://media.api-sports.io/formula-1/drivers/2.png"
+            },
+            "team": {
+                "id": 14,
+                "name": "Haas F1 Team",
+                "logo": "https://media.api-sports.io/formula-1/teams/14.png"
+            },
+            "position": 9,
+            "time": "+32.177",
+            "laps": 57,
+            "grid": "10",
+            "pits": 3,
+            "gap": null
+        },
+        {
+            "race": {
+                "id": 1967
+            },
+            "driver": {
+                "id": 49,
+                "name": "Lando Norris",
+                "abbr": "NOR",
+                "number": 4,
+                "image": "https://media.api-sports.io/formula-1/drivers/49.png"
+            },
+            "team": {
+                "id": 2,
+                "name": "McLaren Racing",
+                "logo": "https://media.api-sports.io/formula-1/teams/2.png"
+            },
+            "position": 10,
+            "time": "+35.762",
+            "laps": 57,
+            "grid": "3",
+            "pits": 4,
+            "gap": null
+        },
+        {
+            "race": {
+                "id": 1967
+            },
+            "driver": {
+                "id": 5,
+                "name": "Valtteri Bottas",
+                "abbr": "BOT",
+                "number": 77,
+                "image": "https://media.api-sports.io/formula-1/drivers/5.png"
+            },
+            "team": {
+                "id": 8,
+                "name": "Sauber F1 Team",
+                "logo": "https://media.api-sports.io/formula-1/teams/8.png"
+            },
+            "position": 11,
+            "time": "+50.243",
+            "laps": 57,
+            "grid": "13",
+            "pits": 3,
+            "gap": null
+        },
+        {
+            "race": {
+                "id": 1967
+            },
+            "driver": {
+                "id": 20,
+                "name": "Lewis Hamilton",
+                "abbr": "HAM",
+                "number": 44,
+                "image": "https://media.api-sports.io/formula-1/drivers/20.png"
+            },
+            "team": {
+                "id": 5,
+                "name": "Mercedes-AMG Petronas",
+                "logo": "https://media.api-sports.io/formula-1/teams/5.png"
+            },
+            "position": 12,
+            "time": "+56.122",
+            "laps": 57,
+            "grid": "6",
+            "pits": 4,
+            "gap": null
+        },
+        {
+            "race": {
+                "id": 1967
+            },
+            "driver": {
+                "id": 82,
+                "name": "Yuki Tsunoda",
+                "abbr": "TSU",
+                "number": 22,
+                "image": "https://media.api-sports.io/formula-1/drivers/82.png"
+            },
+            "team": {
+                "id": 7,
+                "name": "Racing Bulls",
+                "logo": "https://media.api-sports.io/formula-1/teams/7.png"
+            },
+            "position": 13,
+            "time": "+1:01.100",
+            "laps": 57,
+            "grid": "14",
+            "pits": 4,
+            "gap": null
+        },
+        {
+            "race": {
+                "id": 1967
+            },
+            "driver": {
+                "id": 89,
+                "name": "Liam Lawson",
+                "abbr": "LAW",
+                "number": 30,
+                "image": "https://media.api-sports.io/formula-1/drivers/89.png"
+            },
+            "team": {
+                "id": 7,
+                "name": "Racing Bulls",
+                "logo": "https://media.api-sports.io/formula-1/teams/7.png"
+            },
+            "position": 14,
+            "time": "+1:02.656",
+            "laps": 57,
+            "grid": "17",
+            "pits": 4,
+            "gap": null
+        },
+        {
+            "race": {
+                "id": 1967
+            },
+            "driver": {
+                "id": 50,
+                "name": "Alexander Albon",
+                "abbr": "ALB",
+                "number": 23,
+                "image": "https://media.api-sports.io/formula-1/drivers/50.png"
+            },
+            "team": {
+                "id": 12,
+                "name": "Williams F1 Team",
+                "logo": "https://media.api-sports.io/formula-1/teams/12.png"
+            },
+            "position": 15,
+            "time": "+1 lap",
+            "laps": 56,
+            "grid": "16",
+            "pits": 4,
+            "gap": null
+        },
+        {
+            "race": {
+                "id": 1967
+            },
+            "driver": {
+                "id": 6,
+                "name": "Nico Hulkenberg",
+                "abbr": "HUL",
+                "number": 27,
+                "image": "https://media.api-sports.io/formula-1/drivers/6.png"
+            },
+            "team": {
+                "id": 14,
+                "name": "Haas F1 Team",
+                "logo": "https://media.api-sports.io/formula-1/teams/14.png"
+            },
+            "position": 16,
+            "time": "DNF",
+            "laps": 39,
+            "grid": "18",
+            "pits": 4,
+            "gap": null
+        },
+        {
+            "race": {
+                "id": 1967
+            },
+            "driver": {
+                "id": 10,
+                "name": "Sergio Perez",
+                "abbr": "PER",
+                "number": 11,
+                "image": "https://media.api-sports.io/formula-1/drivers/10.png"
+            },
+            "team": {
+                "id": 1,
+                "name": "Red Bull Racing",
+                "logo": "https://media.api-sports.io/formula-1/teams/1.png"
+            },
+            "position": 17,
+            "time": "DNF",
+            "laps": 38,
+            "grid": "9",
+            "pits": 3,
+            "gap": null
+        },
+        {
+            "race": {
+                "id": 1967
+            },
+            "driver": {
+                "id": 31,
+                "name": "Lance Stroll",
+                "abbr": "STR",
+                "number": 18,
+                "image": "https://media.api-sports.io/formula-1/drivers/31.png"
+            },
+            "team": {
+                "id": 17,
+                "name": "Aston Martin F1 Team",
+                "logo": "https://media.api-sports.io/formula-1/teams/17.png"
+            },
+            "position": 18,
+            "time": "DNF",
+            "laps": 8,
+            "grid": "15",
+            "pits": 3,
+            "gap": null
+        },
+        {
+            "race": {
+                "id": 1967
+            },
+            "driver": {
+                "id": 105,
+                "name": "Franco Colapinto",
+                "abbr": null,
+                "number": 43,
+                "image": "https://media.api-sports.io/formula-1/drivers/105.png"
+            },
+            "team": {
+                "id": 12,
+                "name": "Williams F1 Team",
+                "logo": "https://media.api-sports.io/formula-1/teams/12.png"
+            },
+            "position": 19,
+            "time": "DNF",
+            "laps": 0,
+            "grid": "19",
+            "pits": 0,
+            "gap": null
+        },
+        {
+            "race": {
+                "id": 1967
+            },
+            "driver": {
+                "id": 28,
+                "name": "Esteban Ocon",
+                "abbr": "OCO",
+                "number": 31,
+                "image": "https://media.api-sports.io/formula-1/drivers/28.png"
+            },
+            "team": {
+                "id": 13,
+                "name": "Alpine F1 Team",
+                "logo": "https://media.api-sports.io/formula-1/teams/13.png"
+            },
+            "position": 20,
+            "time": "DNF",
+            "laps": 0,
+            "grid": "20",
+            "pits": 0,
+            "gap": null
+        }
+    ]
+}

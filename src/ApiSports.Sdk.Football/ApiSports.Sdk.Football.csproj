@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+    <Import Project="..\..\versions.props" />
+    <PropertyGroup>
+        <Version>$(ApiSportsSdkFootballVersion)</Version>
+        <IsPackable>true</IsPackable>
+        <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
+        <PackageId>ApiSports.Sdk.Football</PackageId>
+        <Description>Football module for the ApiSports .NET SDK. Includes football endpoints and models, with AOT-ready System.Text.Json source-generated serialization.</Description>
+        <PackageTags>apisports;football;sdk</PackageTags>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <ProjectReference Include="..\ApiSports.Sdk.Abstractions\ApiSports.Sdk.Abstractions.csproj" />
+        <ProjectReference Include="..\ApiSports.Sdk.Core\ApiSports.Sdk.Core.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Folder Include="Models\" />
+    </ItemGroup>
+</Project>

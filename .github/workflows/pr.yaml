@@ -1,0 +1,35 @@
+name: pr
+
+on:
+  pull_request:
+  push:
+    branches: ["main"]
+  workflow_dispatch:
+
+jobs:
+  build-test-pack:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: "10.0.x"
+
+      - name: Restore
+        run: dotnet restore
+
+      - name: Build
+        run: dotnet build -c Release --no-restore
+
+      - name: Test
+        run: dotnet test -c Release --no-build
+
+      - name: Pack (dry run)
+        run: |
+          dotnet pack src/ApiSports.Sdk.Abstractions/ApiSports.Sdk.Abstractions.csproj -c Release --no-build -o artifacts
+          dotnet pack src/ApiSports.Sdk.Core/ApiSports.Sdk.Core.csproj -c Release --no-build -o artifacts
+          dotnet pack src/ApiSports.Sdk.Football/ApiSports.Sdk.Football.csproj -c Release --no-build -o artifacts
+          dotnet pack src/ApiSports.Sdk.Formula1/ApiSports.Sdk.Formula1.csproj -c Release --no-build -o artifacts
+          dotnet pack src/ApiSports.Sdk.Logging.Microsoft/ApiSports.Sdk.Logging.Microsoft.csproj -c Release --no-build -o artifacts

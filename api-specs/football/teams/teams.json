@@ -1,0 +1,415 @@
+{
+  "get": "teams",
+  "parameters": {
+    "season": "2025",
+    "league": "135"
+  },
+  "errors": [],
+  "results": 20,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "team": {
+        "id": 487,
+        "name": "Lazio",
+        "code": "LAZ",
+        "country": "Italy",
+        "founded": 1900,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/487.png"
+      },
+      "venue": {
+        "id": 910,
+        "name": "Stadio Olimpico",
+        "address": "Viale dei Gladiatori, 2 / Via del Foro Italico",
+        "city": "Roma",
+        "capacity": 68530,
+        "surface": "grass",
+        "image": "https://media.api-sports.io/football/venues/910.png"
+      }
+    },
+    {
+      "team": {
+        "id": 488,
+        "name": "Sassuolo",
+        "code": "SAS",
+        "country": "Italy",
+        "founded": 1922,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/488.png"
+      },
+      "venue": {
+        "id": 935,
+        "name": "MAPEI Stadium - Città del Tricolore",
+        "address": "Piazza Azzuri d&apos;Italia, 1",
+        "city": "Reggio Emilia",
+        "capacity": 23717,
+        "surface": "grass",
+        "image": "https://media.api-sports.io/football/venues/935.png"
+      }
+    },
+    {
+      "team": {
+        "id": 489,
+        "name": "AC Milan",
+        "code": "MIL",
+        "country": "Italy",
+        "founded": 1899,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/489.png"
+      },
+      "venue": {
+        "id": 907,
+        "name": "Stadio Giuseppe Meazza",
+        "address": "Via Piccolomini 5",
+        "city": "Milano",
+        "capacity": 80018,
+        "surface": "grass",
+        "image": "https://media.api-sports.io/football/venues/907.png"
+      }
+    },
+    {
+      "team": {
+        "id": 490,
+        "name": "Cagliari",
+        "code": "CAG",
+        "country": "Italy",
+        "founded": 1920,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/490.png"
+      },
+      "venue": {
+        "id": 12275,
+        "name": "Unipol Domus",
+        "address": "Via Raimondo Carta Raspi",
+        "city": "Cagliari",
+        "capacity": 16416,
+        "surface": "grass",
+        "image": "https://media.api-sports.io/football/venues/12275.png"
+      }
+    },
+    {
+      "team": {
+        "id": 492,
+        "name": "Napoli",
+        "code": "NAP",
+        "country": "Italy",
+        "founded": 1904,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/492.png"
+      },
+      "venue": {
+        "id": 11904,
+        "name": "Stadio Diego Armando Maradona",
+        "address": "Pizzale Vincenzo Tecchio",
+        "city": "Napoli",
+        "capacity": 60240,
+        "surface": "grass",
+        "image": "https://media.api-sports.io/football/venues/11904.png"
+      }
+    },
+    {
+      "team": {
+        "id": 494,
+        "name": "Udinese",
+        "code": "UDI",
+        "country": "Italy",
+        "founded": 1896,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/494.png"
+      },
+      "venue": {
+        "id": 20416,
+        "name": "Bluenergy Stadium",
+        "address": "Piazza le Repubblica Argentina, 3",
+        "city": "Udine",
+        "capacity": 25952,
+        "surface": "grass",
+        "image": "https://media.api-sports.io/football/venues/20416.png"
+      }
+    },
+    {
+      "team": {
+        "id": 495,
+        "name": "Genoa",
+        "code": "GEN",
+        "country": "Italy",
+        "founded": 1893,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/495.png"
+      },
+      "venue": {
+        "id": 905,
+        "name": "Stadio Comunale Luigi Ferraris",
+        "address": "Via Giovanni De Prà, 1",
+        "city": "Genova",
+        "capacity": 36703,
+        "surface": "grass",
+        "image": "https://media.api-sports.io/football/venues/905.png"
+      }
+    },
+    {
+      "team": {
+        "id": 496,
+        "name": "Juventus",
+        "code": "JUV",
+        "country": "Italy",
+        "founded": 1897,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/496.png"
+      },
+      "venue": {
+        "id": 909,
+        "name": "Allianz Stadium",
+        "address": "Strada Comunale di Altessano 131",
+        "city": "Torino",
+        "capacity": 45666,
+        "surface": "grass",
+        "image": "https://media.api-sports.io/football/venues/909.png"
+      }
+    },
+    {
+      "team": {
+        "id": 497,
+        "name": "AS Roma",
+        "code": "ROM",
+        "country": "Italy",
+        "founded": 1927,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/497.png"
+      },
+      "venue": {
+        "id": 910,
+        "name": "Stadio Olimpico",
+        "address": "Viale dei Gladiatori, 2 / Via del Foro Italico",
+        "city": "Roma",
+        "capacity": 68530,
+        "surface": "grass",
+        "image": "https://media.api-sports.io/football/venues/910.png"
+      }
+    },
+    {
+      "team": {
+        "id": 499,
+        "name": "Atalanta",
+        "code": "ATA",
+        "country": "Italy",
+        "founded": 1907,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/499.png"
+      },
+      "venue": {
+        "id": 879,
+        "name": "Gewiss Stadium",
+        "address": "Viale Giulio Cesare 18",
+        "city": "Bergamo",
+        "capacity": 21300,
+        "surface": "grass",
+        "image": "https://media.api-sports.io/football/venues/879.png"
+      }
+    },
+    {
+      "team": {
+        "id": 500,
+        "name": "Bologna",
+        "code": "BOL",
+        "country": "Italy",
+        "founded": 1909,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/500.png"
+      },
+      "venue": {
+        "id": 881,
+        "name": "Stadio Renato Dall'Ara",
+        "address": "Via Andrea Costa, 174",
+        "city": "Bologna",
+        "capacity": 39279,
+        "surface": "grass",
+        "image": "https://media.api-sports.io/football/venues/881.png"
+      }
+    },
+    {
+      "team": {
+        "id": 502,
+        "name": "Fiorentina",
+        "code": "FIO",
+        "country": "Italy",
+        "founded": 1926,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/502.png"
+      },
+      "venue": {
+        "id": 902,
+        "name": "Stadio Artemio Franchi",
+        "address": "Viale Manfredo Fanti 14",
+        "city": "Firenze",
+        "capacity": 43147,
+        "surface": "grass",
+        "image": "https://media.api-sports.io/football/venues/902.png"
+      }
+    },
+    {
+      "team": {
+        "id": 503,
+        "name": "Torino",
+        "code": "TOR",
+        "country": "Italy",
+        "founded": 1906,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/503.png"
+      },
+      "venue": {
+        "id": 943,
+        "name": "Stadio Olimpico Grande Torino",
+        "address": "Corso Sebastopoli 123, Santa Rita",
+        "city": "Torino",
+        "capacity": 27958,
+        "surface": "grass",
+        "image": "https://media.api-sports.io/football/venues/943.png"
+      }
+    },
+    {
+      "team": {
+        "id": 504,
+        "name": "Verona",
+        "code": "VER",
+        "country": "Italy",
+        "founded": 1903,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/504.png"
+      },
+      "venue": {
+        "id": 890,
+        "name": "Stadio Marc'Antonio Bentegodi",
+        "address": "Piazzale Olimpia",
+        "city": "Verona",
+        "capacity": 39211,
+        "surface": "grass",
+        "image": "https://media.api-sports.io/football/venues/890.png"
+      }
+    },
+    {
+      "team": {
+        "id": 505,
+        "name": "Inter",
+        "code": "INT",
+        "country": "Italy",
+        "founded": 1908,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/505.png"
+      },
+      "venue": {
+        "id": 907,
+        "name": "Stadio Giuseppe Meazza",
+        "address": "Via Piccolomini 5",
+        "city": "Milano",
+        "capacity": 80018,
+        "surface": "grass",
+        "image": "https://media.api-sports.io/football/venues/907.png"
+      }
+    },
+    {
+      "team": {
+        "id": 520,
+        "name": "Cremonese",
+        "code": "CRE",
+        "country": "Italy",
+        "founded": 1903,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/520.png"
+      },
+      "venue": {
+        "id": 894,
+        "name": "Stadio Giovanni Zini",
+        "address": "Via Persico, 19",
+        "city": "Cremona",
+        "capacity": 20034,
+        "surface": "grass",
+        "image": "https://media.api-sports.io/football/venues/894.png"
+      }
+    },
+    {
+      "team": {
+        "id": 523,
+        "name": "Parma",
+        "code": "PAR",
+        "country": "Italy",
+        "founded": 1913,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/523.png"
+      },
+      "venue": {
+        "id": 921,
+        "name": "Stadio Ennio Tardini",
+        "address": "Via Partigiani d&apos;Italia, 1",
+        "city": "Parma",
+        "capacity": 22885,
+        "surface": "grass",
+        "image": "https://media.api-sports.io/football/venues/921.png"
+      }
+    },
+    {
+      "team": {
+        "id": 801,
+        "name": "Pisa",
+        "code": "PIS",
+        "country": "Italy",
+        "founded": 1909,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/801.png"
+      },
+      "venue": {
+        "id": 925,
+        "name": "Arena Garibaldi - Stadio Romeo Anconetani",
+        "address": "Via di Gello, 25",
+        "city": "Pisa",
+        "capacity": 17500,
+        "surface": "grass",
+        "image": "https://media.api-sports.io/football/venues/925.png"
+      }
+    },
+    {
+      "team": {
+        "id": 867,
+        "name": "Lecce",
+        "code": "LEC",
+        "country": "Italy",
+        "founded": 1908,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/867.png"
+      },
+      "venue": {
+        "id": 911,
+        "name": "Stadio Comunale Via del Mare",
+        "address": "Viale dello Stadio",
+        "city": "Lecce",
+        "capacity": 33876,
+        "surface": "grass",
+        "image": "https://media.api-sports.io/football/venues/911.png"
+      }
+    },
+    {
+      "team": {
+        "id": 895,
+        "name": "Como",
+        "code": "COM",
+        "country": "Italy",
+        "founded": 1907,
+        "national": false,
+        "logo": "https://media.api-sports.io/football/teams/895.png"
+      },
+      "venue": {
+        "id": 892,
+        "name": "Stadio Giuseppe Sinigaglia",
+        "address": "Via Giuseppe Sinigaglia, 3",
+        "city": "Como",
+        "capacity": 13602,
+        "surface": "grass",
+        "image": "https://media.api-sports.io/football/venues/892.png"
+      }
+    }
+  ]
+}

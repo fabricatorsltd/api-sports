@@ -1,0 +1,75 @@
+{
+  "get": "standings",
+  "parameters": {
+    "league": "135",
+    "season": "2025",
+    "team": "490"
+  },
+  "errors": [],
+  "results": 1,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "league": {
+        "id": 135,
+        "name": "Serie A",
+        "country": "Italy",
+        "logo": "https://media.api-sports.io/football/leagues/135.png",
+        "flag": "https://media.api-sports.io/flags/it.svg",
+        "season": 2025,
+        "standings": [
+          [
+            {
+              "rank": 15,
+              "team": {
+                "id": 490,
+                "name": "Cagliari",
+                "logo": "https://media.api-sports.io/football/teams/490.png"
+              },
+              "points": 18,
+              "goalsDiff": -6,
+              "group": "Serie A",
+              "form": "LWDLW",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 18,
+                "win": 4,
+                "draw": 6,
+                "lose": 8,
+                "goals": {
+                  "for": 19,
+                  "against": 25
+                }
+              },
+              "home": {
+                "played": 9,
+                "win": 2,
+                "draw": 3,
+                "lose": 4,
+                "goals": {
+                  "for": 10,
+                  "against": 13
+                }
+              },
+              "away": {
+                "played": 9,
+                "win": 2,
+                "draw": 3,
+                "lose": 4,
+                "goals": {
+                  "for": 9,
+                  "against": 12
+                }
+              },
+              "update": "2026-01-04T00:00:00+00:00"
+            }
+          ]
+        ]
+      }
+    }
+  ]
+}
