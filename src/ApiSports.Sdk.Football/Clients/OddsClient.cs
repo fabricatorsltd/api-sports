@@ -19,6 +19,28 @@ public sealed class OddsClient(ApiSportsHttpClient http)
             cancellationToken);
     }
 
+    public Task<ApiResponse<OddsResponse[]>> GetLiveAsync(
+        OddsLiveQuery query,
+        CancellationToken cancellationToken = default)
+    {
+        return http.GetAsync(
+            "/odds/live",
+            query,
+            OddsJsonContext.Default.ApiResponseOddsResponseArray,
+            cancellationToken);
+    }
+
+    public Task<ApiResponse<OddsBetResponse[]>> GetLiveBetsAsync(
+        OddsBetsQuery query,
+        CancellationToken cancellationToken = default)
+    {
+        return http.GetAsync(
+            "/odds/live/bets",
+            query,
+            OddsJsonContext.Default.ApiResponseOddsBetResponseArray,
+            cancellationToken);
+    }
+
     public Task<ApiResponse<OddsMappingResponse[]>> GetMappingAsync(
         OddsMappingQuery query,
         CancellationToken cancellationToken = default)

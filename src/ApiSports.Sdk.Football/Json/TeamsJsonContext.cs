@@ -8,5 +8,7 @@ namespace ApiSports.Sdk.Football.Json;
     PropertyNameCaseInsensitive = true,
     GenerationMode = JsonSourceGenerationMode.Default)]
 [JsonSerializable(typeof(ApiResponse<ApiTeamResponse[]>))]
+[JsonSerializable(typeof(ApiResponse<TeamStatisticsResponse>))]
 [JsonSerializable(typeof(ApiResponse<int[]>))]
+[JsonSerializable(typeof(ApiResponse<Country[]>))]
 public sealed partial class TeamsJsonContext : JsonSerializerContext;

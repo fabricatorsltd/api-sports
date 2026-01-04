@@ -14,7 +14,7 @@ public class VenuesQuery : IQueryString
     {
         return new Dictionary<string, string?>
         {
-            ["id"] = Id.ToString(),
+            ["id"] = Id?.ToString(),
             ["name"] = Name,
             ["city"] = City,
             ["country"] = Country,
@@ -22,4 +22,3 @@ public class VenuesQuery : IQueryString
         };
     }
 }
-

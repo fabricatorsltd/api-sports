@@ -19,14 +19,14 @@ public class TeamsClient(ApiSportsHttpClient http)
             cancellationToken);
     }
     
-    public Task<ApiResponse<ApiTeamResponse[]>> GetStatisticsAsync(
+    public Task<ApiResponse<TeamStatisticsResponse>> GetStatisticsAsync(
         TeamsStatisticsQuery query,
         CancellationToken cancellationToken = default)
     {
         return http.GetAsync(
             "/teams/statistics",
             query,
-            //TeamsJsonContext.Default.ApiResponseApiTeamResponseArray,
+            TeamsJsonContext.Default.ApiResponseTeamStatisticsResponse,
             cancellationToken);
     }
     
@@ -35,9 +35,19 @@ public class TeamsClient(ApiSportsHttpClient http)
         CancellationToken cancellationToken = default)
     {
         return http.GetAsync(
-            "/teams/statistics",
+            "/teams/seasons",
             query,
             TeamsJsonContext.Default.ApiResponseInt32Array,
+            cancellationToken);
+    }
+
+    public Task<ApiResponse<Country[]>> GetCountriesAsync(
+        CancellationToken cancellationToken = default)
+    {
+        return http.GetAsync(
+            "/teams/countries",
+            null,
+            TeamsJsonContext.Default.ApiResponseCountryArray,
             cancellationToken);
     }
 }

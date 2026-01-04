@@ -16,6 +16,8 @@ public class FixturesHeadToHeadQuery : IQueryString
     public DateOnly? To { get; init; }
 
     public string? Status { get; init; }
+    public int? Venue { get; init; }
+    public string? Timezone { get; init; }
     
     public IReadOnlyDictionary<string, string?> ToQueryParameters()
     {
@@ -30,7 +32,8 @@ public class FixturesHeadToHeadQuery : IQueryString
             ["from"] = From?.ToString("yyyy-MM-dd"),
             ["to"] = To?.ToString("yyyy-MM-dd"),
             ["status"] = Status,
+            ["venue"] = Venue?.ToString(),
+            ["timezone"] = Timezone
         };
     }
 }
-

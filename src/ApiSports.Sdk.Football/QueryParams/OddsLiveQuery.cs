@@ -2,19 +2,19 @@ using ApiSports.Sdk.Abstractions;
 
 namespace ApiSports.Sdk.Football.QueryParams;
 
-public sealed class StandingsQuery : IQueryString
+public sealed class OddsLiveQuery : IQueryString
 {
-    public required int Season { get; init; }
+    public int? Fixture { get; init; }
     public int? League { get; init; }
-    public int? Team { get; init; }
+    public int? Bet { get; init; }
 
     public IReadOnlyDictionary<string, string?> ToQueryParameters()
     {
         return new Dictionary<string, string?>
         {
+            ["fixture"] = Fixture?.ToString(),
             ["league"] = League?.ToString(),
-            ["season"] = Season.ToString(),
-            ["team"] = Team?.ToString()
+            ["bet"] = Bet?.ToString()
         };
     }
 }

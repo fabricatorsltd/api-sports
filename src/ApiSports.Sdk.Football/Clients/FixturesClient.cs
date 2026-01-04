@@ -19,70 +19,69 @@ public sealed class FixturesClient(ApiSportsHttpClient http)
             cancellationToken);
     }
     
-    public Task<ApiResponse<FixtureResponse[]>> GetRoundsAsync(
+    public Task<ApiResponse<string[]>> GetRoundsAsync(
         FixturesRoundsQuery query,
         CancellationToken cancellationToken = default)
     {
         return http.GetAsync(
             "/fixtures/rounds",
             query,
-            //FixturesJsonContext.Default.ApiResponseFixtureResponseArray,
+            FixturesJsonContext.Default.ApiResponseStringArray,
             cancellationToken);
     }
     
-    public Task<ApiResponse<FixtureResponse[]>> GetHeadToHeadAsync(
+    public Task<ApiResponse<HeadToHead[]>> GetHeadToHeadAsync(
         FixturesHeadToHeadQuery query,
         CancellationToken cancellationToken = default)
     {
         return http.GetAsync(
             "/fixtures/headtohead",
             query,
-            //FixturesJsonContext.Default.ApiResponseFixtureResponseArray,
+            FixturesJsonContext.Default.ApiResponseHeadToHeadArray,
             cancellationToken);
     }
     
-    public Task<ApiResponse<FixtureResponse[]>> GetStatisticsAsync(
+    public Task<ApiResponse<FixtureStatisticsResponse[]>> GetStatisticsAsync(
         FixturesStatisticsQuery query,
         CancellationToken cancellationToken = default)
     {
         return http.GetAsync(
             "/fixtures/statistics",
             query,
-            //FixturesJsonContext.Default.ApiResponseFixtureResponseArray,
+            FixturesJsonContext.Default.ApiResponseFixtureStatisticsResponseArray,
             cancellationToken);
     }
     
-    public Task<ApiResponse<FixtureResponse[]>> GetEventsAsync(
+    public Task<ApiResponse<FixtureEvent[]>> GetEventsAsync(
         FixturesEventsQuery query,
         CancellationToken cancellationToken = default)
     {
         return http.GetAsync(
             "/fixtures/events",
             query,
-            //FixturesJsonContext.Default.ApiResponseFixtureResponseArray,
+            FixturesJsonContext.Default.ApiResponseFixtureEventArray,
             cancellationToken);
     }
     
-    public Task<ApiResponse<FixtureResponse[]>> GetLineupsAsync(
+    public Task<ApiResponse<FixtureLineupResponse[]>> GetLineupsAsync(
         FixturesLineupsQuery query,
         CancellationToken cancellationToken = default)
     {
         return http.GetAsync(
             "/fixtures/lineups",
             query,
-            //FixturesJsonContext.Default.ApiResponseFixtureResponseArray,
+            FixturesJsonContext.Default.ApiResponseFixtureLineupResponseArray,
             cancellationToken);
     }
     
-    public Task<ApiResponse<FixtureResponse[]>> GetPlayersAsync(
+    public Task<ApiResponse<FixturePlayerResponse[]>> GetPlayersAsync(
         FixturesPlayersQuery query,
         CancellationToken cancellationToken = default)
     {
         return http.GetAsync(
             "/fixtures/players",
             query,
-            //FixturesJsonContext.Default.ApiResponseFixtureResponseArray,
+            FixturesJsonContext.Default.ApiResponseFixturePlayerResponseArray,
             cancellationToken);
     }
 }
-

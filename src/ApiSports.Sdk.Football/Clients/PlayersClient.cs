@@ -19,14 +19,25 @@ public sealed class PlayersClient(ApiSportsHttpClient http)
             cancellationToken);
     }
 
-    public Task<ApiResponse<PlayerSeasonResponse[]>> GetSeasonsAsync(
+    public Task<ApiResponse<int[]>> GetSeasonsAsync(
         PlayersSeasonsQuery query,
         CancellationToken cancellationToken = default)
     {
         return http.GetAsync(
             "/players/seasons",
             query,
-            PlayersJsonContext.Default.ApiResponsePlayerSeasonResponseArray,
+            PlayersJsonContext.Default.ApiResponseInt32Array,
+            cancellationToken);
+    }
+
+    public Task<ApiResponse<PlayerProfileResponse[]>> GetProfilesAsync(
+        PlayersProfilesQuery query,
+        CancellationToken cancellationToken = default)
+    {
+        return http.GetAsync(
+            "/players/profiles",
+            query,
+            PlayersJsonContext.Default.ApiResponsePlayerProfileResponseArray,
             cancellationToken);
     }
 
@@ -38,6 +49,17 @@ public sealed class PlayersClient(ApiSportsHttpClient http)
             "/players/squads",
             query,
             PlayersJsonContext.Default.ApiResponsePlayerSquadResponseArray,
+            cancellationToken);
+    }
+
+    public Task<ApiResponse<PlayerTeamResponse[]>> GetTeamsAsync(
+        PlayersTeamsQuery query,
+        CancellationToken cancellationToken = default)
+    {
+        return http.GetAsync(
+            "/players/teams",
+            query,
+            PlayersJsonContext.Default.ApiResponsePlayerTeamResponseArray,
             cancellationToken);
     }
 

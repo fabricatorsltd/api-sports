@@ -19,10 +19,5 @@ namespace ApiSports.Sdk.Football.Models
 
         [JsonPropertyName("score")]
         public Score Score { get; set; }
-
-        [JsonPropertyName("events")]
-        public List<FixtureEvent> Events { get; set; }
-        
-        public string Test { get; set; }
     }
 }
