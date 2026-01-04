@@ -1,4 +1,5 @@
 ﻿using System.Collections.Concurrent;
+using System.Net;
 using ApiSports.Sdk.Abstractions;
 using ApiSports.Sdk.Abstractions.Models.Common;
 
@@ -19,14 +20,15 @@ internal sealed class ApiSportsPacingRateLimiter(
     {
         ArgumentNullException.ThrowIfNull(context);
 
-        int requestsPerMinute = await ResolveRequestsPerMinuteAsync(context, ct).ConfigureAwait(false);
+        int baseRequestsPerMinute = await ResolveRequestsPerMinuteAsync(context, ct).ConfigureAwait(false);
 
-        if (requestsPerMinute <= 0)
+        if (baseRequestsPerMinute <= 0)
         {
             throw new InvalidOperationException("Requests per minute must be greater than zero.");
         }
 
-        TimeSpan interval = ComputeInterval(requestsPerMinute);
+        int effectiveRequestsPerMinute = ComputeEffectiveRequestsPerMinute(baseRequestsPerMinute, _options.SafetyFactor);
+        TimeSpan interval = ComputeInterval(effectiveRequestsPerMinute);
         string key = GetKey(context);
         RateLimiterState state = _states.GetOrAdd(key, _ => new RateLimiterState());
 
@@ -34,6 +36,34 @@ internal sealed class ApiSportsPacingRateLimiter(
         if (delayTicks > 0)
         {
             await Task.Delay(TimeSpan.FromTicks(delayTicks), ct).ConfigureAwait(false);
+        }
+    }
+
+    public void Report(ApiSportsRequestContext context, HttpStatusCode statusCode, TimeSpan? retryAfter)
+    {
+        ArgumentNullException.ThrowIfNull(context);
+
+        if ((int)statusCode != 429)
+        {
+            return;
+        }
+
+        TimeSpan penalty = ComputePenalty(retryAfter);
+        if (penalty <= TimeSpan.Zero)
+        {
+            return;
+        }
+
+        string key = GetKey(context);
+        RateLimiterState state = _states.GetOrAdd(key, _ => new RateLimiterState());
+        long penaltyUntilTicks = DateTimeOffset.UtcNow.UtcTicks + penalty.Ticks;
+
+        lock (state.Sync)
+        {
+            if (penaltyUntilTicks > state.PenaltyUntilTicks)
+            {
+                state.PenaltyUntilTicks = penaltyUntilTicks;
+            }
         }
     }
 
@@ -180,6 +210,13 @@ internal sealed class ApiSportsPacingRateLimiter(
         return TimeSpan.FromTicks(ticks);
     }
 
+    internal static int ComputeEffectiveRequestsPerMinute(int baseRequestsPerMinute, double safetyFactor)
+    {
+        double scaled = Math.Floor(baseRequestsPerMinute * safetyFactor);
+        int effective = (int)scaled;
+        return effective < 1 ? 1 : effective;
+    }
+
     private static long ScheduleDelayTicks(RateLimiterState state, TimeSpan interval)
     {
         long nowTicks = DateTimeOffset.UtcNow.UtcTicks;
@@ -188,7 +225,22 @@ internal sealed class ApiSportsPacingRateLimiter(
         lock (state.Sync)
         {
             long nextAllowed = state.NextAllowedTicks;
-            scheduledTicks = nowTicks > nextAllowed ? nowTicks : nextAllowed;
+
+            if (!state.IsInitialized)
+            {
+                scheduledTicks = nowTicks + interval.Ticks;
+                state.IsInitialized = true;
+            }
+            else
+            {
+                scheduledTicks = nowTicks > nextAllowed ? nowTicks : nextAllowed;
+            }
+
+            if (state.PenaltyUntilTicks > scheduledTicks)
+            {
+                scheduledTicks = state.PenaltyUntilTicks;
+            }
+
             state.NextAllowedTicks = scheduledTicks + interval.Ticks;
         }
 
@@ -206,6 +258,10 @@ internal sealed class ApiSportsPacingRateLimiter(
         public object Sync { get; } = new();
 
         public long NextAllowedTicks;
+
+        public long PenaltyUntilTicks;
+
+        public bool IsInitialized;
     }
 
     private sealed class ResolutionState
@@ -216,4 +272,20 @@ internal sealed class ApiSportsPacingRateLimiter(
     }
 
     private sealed record RateLimitResolution(int RequestsPerMinute, DateTimeOffset? ExpiresAt);
+
+    private TimeSpan ComputePenalty(TimeSpan? retryAfter)
+    {
+        if (retryAfter.HasValue && retryAfter.Value > TimeSpan.Zero)
+        {
+            TimeSpan cap = _options.RetryAfterPenaltyCap;
+            if (cap > TimeSpan.Zero && retryAfter.Value > cap)
+            {
+                return cap;
+            }
+
+            return retryAfter.Value;
+        }
+
+        return _options.PenaltyDuration;
+    }
 }

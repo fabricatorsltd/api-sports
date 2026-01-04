@@ -23,9 +23,10 @@ public sealed class ApiSportsHttpClient(
         JsonTypeInfo<ApiResponse<TResponse>> responseTypeInfo,
         CancellationToken ct)
     {
+        ApiSportsRequestContext? requestContext = _requestContext;
         if (_rateLimiter is not null)
         {
-            ApiSportsRequestContext requestContext = _requestContext
+            requestContext = _requestContext
                 ?? throw new InvalidOperationException("Request context must be provided when rate limiting is enabled.");
 
             await _rateLimiter.WaitAsync(requestContext, ct).ConfigureAwait(false);
@@ -54,6 +55,12 @@ public sealed class ApiSportsHttpClient(
 
         Stopwatch? stopwatch = infoEnabled ? Stopwatch.StartNew() : null;
         HttpResponseMessage res = await http.SendAsync(req, HttpCompletionOption.ResponseHeadersRead, ct).ConfigureAwait(false);
+
+        if (_rateLimiter is not null && requestContext is not null)
+        {
+            TimeSpan? retryAfter = TryGetRetryAfter(res);
+            _rateLimiter.Report(requestContext, res.StatusCode, retryAfter);
+        }
 
         string endpoint = uri.ToString();
 
@@ -220,6 +227,20 @@ public sealed class ApiSportsHttpClient(
         {
             return null;
         }
+    }
+
+    private static TimeSpan? TryGetRetryAfter(HttpResponseMessage response)
+    {
+        if (response.Headers.TryGetValues(ApiSportsHeaderNames.RetryAfter, out IEnumerable<string>? values))
+        {
+            string? first = values.FirstOrDefault();
+            if (first is not null && int.TryParse(first, out int seconds) && seconds > 0)
+            {
+                return TimeSpan.FromSeconds(seconds);
+            }
+        }
+
+        return null;
     }
 
     private Uri BuildUri(string relativePath, IReadOnlyDictionary<string, string?>? query)

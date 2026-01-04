@@ -24,6 +24,21 @@ public sealed class RateLimitOptions
     public TimeSpan? StatusCacheDuration { get; set; }
 
     /// <summary>
+    /// Safety factor applied to the base requests-per-minute before pacing.
+    /// </summary>
+    public double SafetyFactor { get; set; } = 0.85;
+
+    /// <summary>
+    /// Default penalty applied when receiving a 429 response.
+    /// </summary>
+    public TimeSpan PenaltyDuration { get; set; } = TimeSpan.FromSeconds(60);
+
+    /// <summary>
+    /// Maximum penalty to apply when honoring Retry-After.
+    /// </summary>
+    public TimeSpan RetryAfterPenaltyCap { get; set; } = TimeSpan.FromMinutes(2);
+
+    /// <summary>
     /// If true, the client tries to not exceed the limits using the info read from the headers.
     /// </summary>
     public bool EnableClientSideThrottling { get; set; } = true;

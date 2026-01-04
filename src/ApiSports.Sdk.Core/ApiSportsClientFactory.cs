@@ -41,7 +41,7 @@ public static class ApiSportsClientFactory
             InnerHandler = apiKeyHandler
         };
 
-        RateLimitEnforcementHandler enforcementHandler = new RateLimitEnforcementHandler(finalStore, options.RateLimit, scope)
+        RateLimitEnforcementHandler enforcementHandler = new RateLimitEnforcementHandler(finalStore, options.RateLimit, scope, rateLimiter, requestContext)
         {
             InnerHandler = trackingHandler
         };

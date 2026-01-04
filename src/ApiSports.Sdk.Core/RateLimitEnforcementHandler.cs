@@ -5,9 +5,14 @@ namespace ApiSports.Sdk.Core;
 public sealed class RateLimitEnforcementHandler(
     IRateLimitStateStore store,
     RateLimitOptions options,
-    RateLimitScope scope)
+    RateLimitScope scope,
+    IApiSportsRateLimiter? pacingLimiter = null,
+    ApiSportsRequestContext? requestContext = null)
     : DelegatingHandler
 {
+    private readonly IApiSportsRateLimiter? _pacingLimiter = pacingLimiter;
+    private readonly ApiSportsRequestContext? _requestContext = requestContext ?? (pacingLimiter is null ? null : throw new ArgumentNullException(nameof(requestContext)));
+
     protected override async Task<HttpResponseMessage> SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
     {
         if (options.EnableClientSideThrottling)
@@ -24,11 +29,21 @@ public sealed class RateLimitEnforcementHandler(
 
         if ((int)response.StatusCode == 429 && options.RetryOn429Once)
         {
-            TimeSpan retryDelay = TryGetRetryAfter(response) ?? options.DefaultRetryDelayOn429;
-            if (retryDelay > TimeSpan.Zero)
+            TimeSpan? retryAfter = TryGetRetryAfter(response) ?? options.DefaultRetryDelayOn429;
+            if (retryAfter.HasValue && retryAfter.Value > TimeSpan.Zero)
             {
                 response.Dispose();
-                await Task.Delay(retryDelay, cancellationToken).ConfigureAwait(false);
+
+                if (_pacingLimiter is not null && _requestContext is not null)
+                {
+                    _pacingLimiter.Report(_requestContext, response.StatusCode, retryAfter);
+                    await _pacingLimiter.WaitAsync(_requestContext, cancellationToken).ConfigureAwait(false);
+                }
+                else
+                {
+                    await Task.Delay(retryAfter.Value, cancellationToken).ConfigureAwait(false);
+                }
+
                 HttpResponseMessage retryResponse = await base.SendAsync(request, cancellationToken).ConfigureAwait(false);
                 return retryResponse;
             }
