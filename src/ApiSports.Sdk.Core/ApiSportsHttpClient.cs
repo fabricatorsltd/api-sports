@@ -11,11 +11,9 @@ public sealed class ApiSportsHttpClient(
     HttpClient http,
     IApiSportsLogger? logger = null,
     IApiSportsRateLimiter? rateLimiter = null,
-    ApiSportsRequestContext? requestContext = null)
+    ApiSportsRequestContext? context = null)
 {
     private readonly IApiSportsLogger _logger = logger ?? NullApiSportsLogger.Instance;
-    private readonly IApiSportsRateLimiter? _rateLimiter = rateLimiter;
-    private readonly ApiSportsRequestContext? _requestContext = requestContext;
 
     public async Task<ApiResponse<TResponse>> GetAsync<TResponse>(
         string relativePath,
@@ -23,12 +21,13 @@ public sealed class ApiSportsHttpClient(
         JsonTypeInfo<ApiResponse<TResponse>> responseTypeInfo,
         CancellationToken ct)
     {
-        if (_rateLimiter is not null)
+        ApiSportsRequestContext? requestContext = context;
+        if (rateLimiter is not null)
         {
-            ApiSportsRequestContext requestContext = _requestContext
+            requestContext = context
                 ?? throw new InvalidOperationException("Request context must be provided when rate limiting is enabled.");
 
-            await _rateLimiter.WaitAsync(requestContext, ct).ConfigureAwait(false);
+            await rateLimiter.WaitAsync(requestContext, ct).ConfigureAwait(false);
         }
 
         bool debugEnabled = _logger.IsEnabled(ApiSportsLogLevel.Debug);
@@ -54,6 +53,12 @@ public sealed class ApiSportsHttpClient(
 
         Stopwatch? stopwatch = infoEnabled ? Stopwatch.StartNew() : null;
         HttpResponseMessage res = await http.SendAsync(req, HttpCompletionOption.ResponseHeadersRead, ct).ConfigureAwait(false);
+
+        if (rateLimiter is not null && requestContext is not null)
+        {
+            TimeSpan? retryAfter = TryGetRetryAfter(res);
+            rateLimiter.Report(requestContext, res.StatusCode, retryAfter);
+        }
 
         string endpoint = uri.ToString();
 
@@ -220,6 +225,20 @@ public sealed class ApiSportsHttpClient(
         {
             return null;
         }
+    }
+
+    private static TimeSpan? TryGetRetryAfter(HttpResponseMessage response)
+    {
+        if (response.Headers.TryGetValues(ApiSportsHeaderNames.RetryAfter, out IEnumerable<string>? values))
+        {
+            string? first = values.FirstOrDefault();
+            if (first is not null && int.TryParse(first, out int seconds) && seconds > 0)
+            {
+                return TimeSpan.FromSeconds(seconds);
+            }
+        }
+
+        return null;
     }
 
     private Uri BuildUri(string relativePath, IReadOnlyDictionary<string, string?>? query)

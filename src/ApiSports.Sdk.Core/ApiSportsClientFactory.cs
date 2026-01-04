@@ -14,45 +14,45 @@ public static class ApiSportsClientFactory
         HttpMessageHandler baseHandler = innerHandler ?? new SocketsHttpHandler();
         HttpMessageHandler statusBaseHandler = innerHandler ?? new SocketsHttpHandler();
 
-        RateLimitScope scope = RateLimitScope.FromBaseUri(options.BaseUri);
-        ApiSportsRequestContext requestContext = ApiSportsRequestContext.FromBaseUri(options.BaseUri, options.Sport);
+        var scope = RateLimitScope.FromBaseUri(options.BaseUri);
+        var requestContext = ApiSportsRequestContext.FromBaseUri(options.BaseUri, options.Sport);
 
-        ApiKeyHandler statusApiKeyHandler = new ApiKeyHandler(options.ApiKey)
+        var statusApiKeyHandler = new ApiKeyHandler(options.ApiKey)
         {
             InnerHandler = statusBaseHandler
         };
 
-        HttpClient statusHttp = new HttpClient(statusApiKeyHandler)
+        var statusHttp = new HttpClient(statusApiKeyHandler)
         {
             BaseAddress = options.BaseUri,
             Timeout = options.Timeout
         };
 
-        ApiSportsStatusClient statusClient = new ApiSportsStatusClient(new ApiSportsHttpClient(statusHttp, logger));
-        ApiSportsPacingRateLimiter rateLimiter = new ApiSportsPacingRateLimiter(options.RateLimit, statusClient, logger);
+        var statusClient = new ApiSportsStatusClient(new ApiSportsHttpClient(statusHttp, logger));
+        var rateLimiter = new ApiSportsPacingRateLimiter(options.RateLimit, statusClient, logger);
 
-        ApiKeyHandler apiKeyHandler = new ApiKeyHandler(options.ApiKey)
+        var apiKeyHandler = new ApiKeyHandler(options.ApiKey)
         {
             InnerHandler = baseHandler
         };
 
-        RateLimitTrackingHandler trackingHandler = new RateLimitTrackingHandler(finalStore, scope)
+        var trackingHandler = new RateLimitTrackingHandler(finalStore, scope)
         {
             InnerHandler = apiKeyHandler
         };
 
-        RateLimitEnforcementHandler enforcementHandler = new RateLimitEnforcementHandler(finalStore, options.RateLimit, scope)
+        var enforcementHandler = new RateLimitEnforcementHandler(finalStore, options.RateLimit, scope, rateLimiter, requestContext)
         {
             InnerHandler = trackingHandler
         };
 
-        HttpClient http = new HttpClient(enforcementHandler)
+        var http = new HttpClient(enforcementHandler)
         {
             BaseAddress = options.BaseUri,
             Timeout = options.Timeout
         };
 
-        ApiSportsHttpClient client = new ApiSportsHttpClient(http, logger, rateLimiter, requestContext);
+        var client = new ApiSportsHttpClient(http, logger, rateLimiter, requestContext);
         return client;
     }
 }

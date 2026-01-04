@@ -5,9 +5,15 @@ namespace ApiSports.Sdk.Core;
 public sealed class RateLimitEnforcementHandler(
     IRateLimitStateStore store,
     RateLimitOptions options,
-    RateLimitScope scope)
+    RateLimitScope scope,
+    IApiSportsRateLimiter? pacingLimiter = null,
+    ApiSportsRequestContext? requestContext = null)
     : DelegatingHandler
 {
+    private readonly ApiSportsRequestContext? _requestContext = requestContext ?? (pacingLimiter is null ? 
+        null : 
+        throw new ArgumentNullException(nameof(requestContext)));
+
     protected override async Task<HttpResponseMessage> SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
     {
         if (options.EnableClientSideThrottling)
@@ -22,19 +28,23 @@ public sealed class RateLimitEnforcementHandler(
 
         HttpResponseMessage response = await base.SendAsync(request, cancellationToken).ConfigureAwait(false);
 
-        if ((int)response.StatusCode == 429 && options.RetryOn429Once)
+        if ((int)response.StatusCode != 429 || !options.RetryOn429Once || pacingLimiter is not null)
         {
-            TimeSpan retryDelay = TryGetRetryAfter(response) ?? options.DefaultRetryDelayOn429;
-            if (retryDelay > TimeSpan.Zero)
-            {
-                response.Dispose();
-                await Task.Delay(retryDelay, cancellationToken).ConfigureAwait(false);
-                HttpResponseMessage retryResponse = await base.SendAsync(request, cancellationToken).ConfigureAwait(false);
-                return retryResponse;
-            }
+            return response;
         }
 
-        return response;
+        TimeSpan? retryAfter = TryGetRetryAfter(response) ?? options.DefaultRetryDelayOn429;
+        if (retryAfter.Value <= TimeSpan.Zero)
+        {
+            return response;
+        }
+
+        response.Dispose();
+
+        await Task.Delay(retryAfter.Value, cancellationToken).ConfigureAwait(false);
+        HttpResponseMessage retryResponse = await base.SendAsync(request, cancellationToken).ConfigureAwait(false);
+        return retryResponse;
+
     }
 
     private TimeSpan? ComputeDelay(RateLimitSnapshot? snapshot)
