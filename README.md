@@ -394,13 +394,17 @@ Planned next steps:
 
 The roadmap is **directional, not contractual**.
 
-- [ ] ~~API Football V2~~ *(Not planned)*
-- [x] ⚽ API Football V3 *(Work In Progress)*
+- [x] ⚽ API Football
 - [ ] 🏎 API Formula 1
 - [ ] 🏀 API Basketball
+- [ ] 🏀 API NBA
 - [ ] ⚾ API Baseball
+- [ ] 🏐️ API Volleyball
+- [ ] 🤾‍♂️ API Handball
 - [ ] 🏒 API Hockey
 - [ ] 🏉 API Rugby
+- [ ] 🏈 API Football (NFL)
+- [ ] 🥋 API MMA
 
 ---
 
