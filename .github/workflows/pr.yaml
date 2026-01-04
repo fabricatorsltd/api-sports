@@ -26,4 +26,9 @@ jobs:
         run: dotnet test -c Release --no-build
 
       - name: Pack (dry run)
-        run: dotnet pack -c Release --no-build -o artifacts
+        run: |
+          dotnet pack src/ApiSports.Sdk.Abstractions/ApiSports.Sdk.Abstractions.csproj -c Release --no-build -o artifacts
+          dotnet pack src/ApiSports.Sdk.Core/ApiSports.Sdk.Core.csproj -c Release --no-build -o artifacts
+          dotnet pack src/ApiSports.Sdk.Football/ApiSports.Sdk.Football.csproj -c Release --no-build -o artifacts
+          dotnet pack src/ApiSports.Sdk.Formula1/ApiSports.Sdk.Formula1.csproj -c Release --no-build -o artifacts
+          dotnet pack src/ApiSports.Sdk.Logging.Microsoft/ApiSports.Sdk.Logging.Microsoft.csproj -c Release --no-build -o artifacts
