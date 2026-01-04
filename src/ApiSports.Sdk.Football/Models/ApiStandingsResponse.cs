@@ -5,6 +5,6 @@ namespace ApiSports.Sdk.Football.Models
     public class ApiStandingsResponse
     {
         [JsonPropertyName("league")]
-        public League League { get; set; }
+        public LeagueWithStandings League { get; set; }
     }
 }

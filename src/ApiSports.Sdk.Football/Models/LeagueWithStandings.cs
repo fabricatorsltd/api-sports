@@ -2,9 +2,9 @@
 
 namespace ApiSports.Sdk.Football.Models
 {
-    public sealed class League : LeagueBase
+    public sealed class LeagueWithStandings : LeagueBase
     {
         [JsonPropertyName("standings")]
-        public bool Standings { get; set; }
+        public Standing[][] Standings { get; set; }
     }
 }

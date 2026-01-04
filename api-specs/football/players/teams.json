@@ -1,0 +1,79 @@
+{
+  "get": "players/teams",
+  "parameters": {
+    "player": "4526"
+  },
+  "errors": [],
+  "results": 6,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "team": {
+        "id": 933,
+        "name": "JSM Skikda",
+        "logo": "https://media.api-sports.io/football/teams/933.png"
+      },
+      "seasons": [
+        2018,
+        2017,
+        2016,
+        2015
+      ]
+    },
+    {
+      "team": {
+        "id": 906,
+        "name": "MC Alger",
+        "logo": "https://media.api-sports.io/football/teams/906.png"
+      },
+      "seasons": [
+        2014,
+        2013,
+        2012,
+        2011
+      ]
+    },
+    {
+      "team": {
+        "id": 1532,
+        "name": "Algeria",
+        "logo": "https://media.api-sports.io/football/teams/1532.png"
+      },
+      "seasons": [
+        2014,
+        2012
+      ]
+    },
+    {
+      "team": {
+        "id": 932,
+        "name": "JSM Bejaia",
+        "logo": "https://media.api-sports.io/football/teams/932.png"
+      },
+      "seasons": []
+    },
+    {
+      "team": {
+        "id": 905,
+        "name": "ES Setif",
+        "logo": "https://media.api-sports.io/football/teams/905.png"
+      },
+      "seasons": [
+        2010
+      ]
+    },
+    {
+      "team": {
+        "id": 928,
+        "name": "WA Tlemcen",
+        "logo": "https://media.api-sports.io/football/teams/928.png"
+      },
+      "seasons": [
+        2009
+      ]
+    }
+  ]
+}

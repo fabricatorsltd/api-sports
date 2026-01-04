@@ -1,4 +1,5 @@
 using System.Text.Json.Serialization;
+using ApiSports.Sdk.Football.Json.Serialization;
 
 namespace ApiSports.Sdk.Football.Models
 {
@@ -20,6 +21,8 @@ namespace ApiSports.Sdk.Football.Models
         public string Position { get; set; }
 
         [JsonPropertyName("rating")]
+        [JsonConverter(typeof(NullableDoubleFromStringOrNumberConverter))]
+        // API returns numeric values as strings; normalized to double.
         public double? Rating { get; set; }
 
         [JsonPropertyName("captain")]

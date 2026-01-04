@@ -1,0 +1,224 @@
+<Project Sdk="Microsoft.NET.Sdk">
+    <PropertyGroup>
+        <TargetFramework>net10.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <IsPackable>false</IsPackable>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="Microsoft.NET.Test.Sdk" Version="17.12.0" />
+        <PackageReference Include="xunit" Version="2.6.6" />
+        <PackageReference Include="xunit.runner.visualstudio" Version="2.5.6" />
+        <PackageReference Include="xunit.skippablefact" Version="1.4.13" />
+        <PackageReference Include="YamlDotNet" Version="15.1.2" />
+    </ItemGroup>
+
+    <ItemGroup>
+        <ProjectReference Include="..\..\src\ApiSports.Sdk.Abstractions\ApiSports.Sdk.Abstractions.csproj" />
+        <ProjectReference Include="..\..\src\ApiSports.Sdk.Core\ApiSports.Sdk.Core.csproj" />
+        <ProjectReference Include="..\..\src\ApiSports.Sdk.Football\ApiSports.Sdk.Football.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+        <Content Include="..\..\api-specs\football\coachs.json">
+            <Link>samples\football\coachs.json</Link>
+            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        </Content>
+
+        <Content Include="..\..\api-specs\football\countries.json">
+            <Link>samples\football\countries.json</Link>
+            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        </Content>
+
+        <Content Include="..\..\api-specs\football\fixtures\events.json">
+            <Link>samples\football\fixtures\events.json</Link>
+            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        </Content>
+
+        <Content Include="..\..\api-specs\football\fixtures\fixtures.json">
+            <Link>samples\football\fixtures\fixtures.json</Link>
+            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        </Content>
+
+        <Content Include="..\..\api-specs\football\fixtures\headtohead.json">
+            <Link>samples\football\fixtures\headtohead.json</Link>
+            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        </Content>
+
+        <Content Include="..\..\api-specs\football\fixtures\lineups.json">
+            <Link>samples\football\fixtures\lineups.json</Link>
+            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        </Content>
+
+        <Content Include="..\..\api-specs\football\fixtures\players.json">
+            <Link>samples\football\fixtures\players.json</Link>
+            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        </Content>
+
+        <Content Include="..\..\api-specs\football\fixtures\rounds.json">
+            <Link>samples\football\fixtures\rounds.json</Link>
+            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        </Content>
+
+        <Content Include="..\..\api-specs\football\fixtures\statistics.json">
+            <Link>samples\football\fixtures\statistics.json</Link>
+            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        </Content>
+
+        <Content Include="..\..\api-specs\football\injuries.json">
+            <Link>samples\football\injuries.json</Link>
+            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        </Content>
+
+        <Content Include="..\..\api-specs\football\leagues\leagues.json">
+            <Link>samples\football\leagues\leagues.json</Link>
+            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        </Content>
+
+        <Content Include="..\..\api-specs\football\leagues\seasons.json">
+            <Link>samples\football\leagues\seasons.json</Link>
+            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        </Content>
+
+        <Content Include="..\..\api-specs\football\odds\bets.json">
+            <Link>samples\football\odds\bets.json</Link>
+            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        </Content>
+
+        <Content Include="..\..\api-specs\football\odds\live.json">
+            <Link>samples\football\odds\live.json</Link>
+            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        </Content>
+
+        <Content Include="..\..\api-specs\football\odds\live\bets.json">
+            <Link>samples\football\odds\live\bets.json</Link>
+            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        </Content>
+
+        <Content Include="..\..\api-specs\football\odds\bookmakers.json">
+            <Link>samples\football\odds\bookmakers.json</Link>
+            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        </Content>
+
+        <Content Include="..\..\api-specs\football\odds\mapping.json">
+            <Link>samples\football\odds\mapping.json</Link>
+            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        </Content>
+
+        <Content Include="..\..\api-specs\football\odds\odds.json">
+            <Link>samples\football\odds\odds.json</Link>
+            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        </Content>
+
+        <Content Include="..\..\api-specs\football\openapi.yaml">
+            <Link>samples\football\openapi.yaml</Link>
+            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        </Content>
+
+        <Content Include="..\..\api-specs\football\players\players.json">
+            <Link>samples\football\players\players.json</Link>
+            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        </Content>
+
+        <Content Include="..\..\api-specs\football\players\seasons.json">
+            <Link>samples\football\players\seasons.json</Link>
+            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        </Content>
+
+        <Content Include="..\..\api-specs\football\players\teams.json">
+            <Link>samples\football\players\teams.json</Link>
+            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        </Content>
+
+        <Content Include="..\..\api-specs\football\players\squads.json">
+            <Link>samples\football\players\squads.json</Link>
+            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        </Content>
+
+        <Content Include="..\..\api-specs\football\players\topassists.json">
+            <Link>samples\football\players\topassists.json</Link>
+            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        </Content>
+
+        <Content Include="..\..\api-specs\football\players\topredcards.json">
+            <Link>samples\football\players\topredcards.json</Link>
+            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        </Content>
+
+        <Content Include="..\..\api-specs\football\players\topscorers.json">
+            <Link>samples\football\players\topscorers.json</Link>
+            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        </Content>
+
+        <Content Include="..\..\api-specs\football\players\topyellowcards.json">
+            <Link>samples\football\players\topyellowcards.json</Link>
+            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        </Content>
+
+        <Content Include="..\..\api-specs\football\predictions.json">
+            <Link>samples\football\predictions.json</Link>
+            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        </Content>
+
+        <Content Include="..\..\api-specs\football\sidelined.json">
+            <Link>samples\football\sidelined.json</Link>
+            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        </Content>
+
+        <Content Include="..\..\api-specs\football\standings.json">
+            <Link>samples\football\standings.json</Link>
+            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        </Content>
+
+        <Content Include="..\..\api-specs\football\status.json">
+            <Link>samples\football\status.json</Link>
+            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        </Content>
+
+        <Content Include="..\..\api-specs\football\teams\countries.json">
+            <Link>samples\football\teams\countries.json</Link>
+            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        </Content>
+
+        <Content Include="..\..\api-specs\football\teams\seasons.json">
+            <Link>samples\football\teams\seasons.json</Link>
+            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        </Content>
+
+        <Content Include="..\..\api-specs\football\teams\statistics.json">
+            <Link>samples\football\teams\statistics.json</Link>
+            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        </Content>
+
+        <Content Include="..\..\api-specs\football\teams\teams.json">
+            <Link>samples\football\teams\teams.json</Link>
+            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        </Content>
+
+        <Content Include="..\..\api-specs\football\timezone.json">
+            <Link>samples\football\timezone.json</Link>
+            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        </Content>
+
+        <Content Include="..\..\api-specs\football\transfers.json">
+            <Link>samples\football\transfers.json</Link>
+            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        </Content>
+
+        <Content Include="..\..\api-specs\football\trophies.json">
+            <Link>samples\football\trophies.json</Link>
+            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        </Content>
+
+        <Content Include="..\..\api-specs\football\venues.json">
+            <Link>samples\football\venues.json</Link>
+            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        </Content>
+
+        <Content Include="samples\**\*">
+            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        </Content>
+    </ItemGroup>
+
+</Project>

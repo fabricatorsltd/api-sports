@@ -1,0 +1,1012 @@
+{
+    "get": "odds/live/bets",
+    "parameters": [],
+    "errors": [],
+    "results": 250,
+    "paging": {
+        "current": 1,
+        "total": 1
+    },
+    "response": [
+        {
+            "id": 1,
+            "name": "Over/Under Extra Time"
+        },
+        {
+            "id": 2,
+            "name": "1x2 Extra Time"
+        },
+        {
+            "id": 3,
+            "name": "Extra Time Asian Corners"
+        },
+        {
+            "id": 4,
+            "name": "Extra Time Total Corners (3 Ways) (1st Half)"
+        },
+        {
+            "id": 5,
+            "name": "Extra Time Double Result"
+        },
+        {
+            "id": 6,
+            "name": "Which team will score the 1st goal in extra time?"
+        },
+        {
+            "id": 7,
+            "name": "Extra Time Asian Corners (1st Half)"
+        },
+        {
+            "id": 8,
+            "name": "Method of Victory"
+        },
+        {
+            "id": 9,
+            "name": "Both Teams To Score (ET)"
+        },
+        {
+            "id": 10,
+            "name": "To Qualify"
+        },
+        {
+            "id": 11,
+            "name": "Asian Handicap Extra Time"
+        },
+        {
+            "id": 12,
+            "name": "1x2 Extra Time (1st Half)"
+        },
+        {
+            "id": 13,
+            "name": "Extra Time Total Corners (3 Ways)"
+        },
+        {
+            "id": 14,
+            "name": "Over/Under Extra Time (1st Half)"
+        },
+        {
+            "id": 15,
+            "name": "Last Corner"
+        },
+        {
+            "id": 16,
+            "name": "How many goals will Away Team score?"
+        },
+        {
+            "id": 17,
+            "name": "Asian Handicap (1st Half)"
+        },
+        {
+            "id": 18,
+            "name": "1st Goal in Interval"
+        },
+        {
+            "id": 19,
+            "name": "1x2 (1st Half)"
+        },
+        {
+            "id": 20,
+            "name": "Match Corners"
+        },
+        {
+            "id": 21,
+            "name": "3-Way Handicap"
+        },
+        {
+            "id": 22,
+            "name": "1x2 - 30 minutes"
+        },
+        {
+            "id": 23,
+            "name": "Final Score"
+        },
+        {
+            "id": 24,
+            "name": "Over/Under Line (1st Half)"
+        },
+        {
+            "id": 25,
+            "name": "Match Goals"
+        },
+        {
+            "id": 26,
+            "name": "European Handicap (1st Half)"
+        },
+        {
+            "id": 27,
+            "name": "Home Team Score a Goal (2nd Half)"
+        },
+        {
+            "id": 28,
+            "name": "Home Team  to Score in Both Halves"
+        },
+        {
+            "id": 29,
+            "name": "Result / Both Teams To Score"
+        },
+        {
+            "id": 30,
+            "name": "Both Teams To Score (1st Half)"
+        },
+        {
+            "id": 31,
+            "name": "Total Corners (3way) (2nd Half)"
+        },
+        {
+            "id": 32,
+            "name": "Asian Corners"
+        },
+        {
+            "id": 33,
+            "name": "Asian Handicap"
+        },
+        {
+            "id": 34,
+            "name": "1x2 - 40 minutes"
+        },
+        {
+            "id": 35,
+            "name": "To Win 2nd Half"
+        },
+        {
+            "id": 36,
+            "name": "Over/Under Line"
+        },
+        {
+            "id": 37,
+            "name": "Total Corners"
+        },
+        {
+            "id": 38,
+            "name": "Away Team to Score in Both Halves"
+        },
+        {
+            "id": 39,
+            "name": "Away Team Goals"
+        },
+        {
+            "id": 40,
+            "name": "Total Corners (3 way) (1st Half)"
+        },
+        {
+            "id": 41,
+            "name": "1x2 - 50 minutes"
+        },
+        {
+            "id": 42,
+            "name": "Race to the 3rd corner?"
+        },
+        {
+            "id": 43,
+            "name": "Both Teams To Score (2nd Half)"
+        },
+        {
+            "id": 44,
+            "name": "Race to the 9th corner?"
+        },
+        {
+            "id": 45,
+            "name": "Race to the 7th corner?"
+        },
+        {
+            "id": 46,
+            "name": "Goal Scorer"
+        },
+        {
+            "id": 47,
+            "name": "Away 1st Goal in Interval"
+        },
+        {
+            "id": 48,
+            "name": "Draw No Bet"
+        },
+        {
+            "id": 49,
+            "name": "Over/Under (1st Half)"
+        },
+        {
+            "id": 50,
+            "name": "1x2 - 60 minutes"
+        },
+        {
+            "id": 51,
+            "name": "Asian Corners (1st Half)"
+        },
+        {
+            "id": 52,
+            "name": "1x2 - 80 minutes"
+        },
+        {
+            "id": 53,
+            "name": "To Score 2 or More"
+        },
+        {
+            "id": 54,
+            "name": "Home 1st Goal in Interval"
+        },
+        {
+            "id": 55,
+            "name": "Correct Score (1st Half)"
+        },
+        {
+            "id": 56,
+            "name": "1x2 - 70 minutes"
+        },
+        {
+            "id": 57,
+            "name": "Away Team Clean Sheet"
+        },
+        {
+            "id": 58,
+            "name": "Home Team Goals"
+        },
+        {
+            "id": 59,
+            "name": "Fulltime Result"
+        },
+        {
+            "id": 60,
+            "name": "To Score 3 or More"
+        },
+        {
+            "id": 61,
+            "name": "Race to the 5th corner?"
+        },
+        {
+            "id": 62,
+            "name": "Last Team to Score (3 way)"
+        },
+        {
+            "id": 63,
+            "name": "Anytime Goal Scorer"
+        },
+        {
+            "id": 64,
+            "name": "Half Time/Full Time"
+        },
+        {
+            "id": 65,
+            "name": "Next 10 Minutes Total"
+        },
+        {
+            "id": 66,
+            "name": "Home Team Clean Sheet"
+        },
+        {
+            "id": 67,
+            "name": "How many goals will Home Team score?"
+        },
+        {
+            "id": 68,
+            "name": "Goals Odd/Even"
+        },
+        {
+            "id": 69,
+            "name": "Both Teams to Score"
+        },
+        {
+            "id": 70,
+            "name": "Away Team Score a Goal (2nd Half)"
+        },
+        {
+            "id": 71,
+            "name": "Which team will score the 4th corner? (2 Way)"
+        },
+        {
+            "id": 72,
+            "name": "Double Chance"
+        },
+        {
+            "id": 73,
+            "name": "Which team will score the 1st goal?"
+        },
+        {
+            "id": 74,
+            "name": "Which team will score the 3rd corner? (2 Way)"
+        },
+        {
+            "id": 75,
+            "name": "Which team will score the 2nd corner? (2 Way)"
+        },
+        {
+            "id": 76,
+            "name": "Corners European Handicap"
+        },
+        {
+            "id": 77,
+            "name": "1x2 - 10 minutes"
+        },
+        {
+            "id": 78,
+            "name": "Corners 1x2"
+        },
+        {
+            "id": 79,
+            "name": "1x2 - 20 minutes"
+        },
+        {
+            "id": 80,
+            "name": "Method of 1st Goal"
+        },
+        {
+            "id": 81,
+            "name": "Method of Qualification"
+        },
+        {
+            "id": 82,
+            "name": "Game Won After Penalties Shootout"
+        },
+        {
+            "id": 83,
+            "name": "Game Won In Extra Time"
+        },
+        {
+            "id": 84,
+            "name": "Which team will score the 2nd goal?"
+        },
+        {
+            "id": 85,
+            "name": "Which team will score the 2nd goal?"
+        },
+        {
+            "id": 86,
+            "name": "Which team will score the 6th corner? (2 Way)"
+        },
+        {
+            "id": 87,
+            "name": "Which team will score the 5th corner? (2 Way)"
+        },
+        {
+            "id": 88,
+            "name": "Which team will score the 7th corner? (2 Way)"
+        },
+        {
+            "id": 89,
+            "name": "Which team will score the 9th corner? (2 Way)"
+        },
+        {
+            "id": 90,
+            "name": "2nd Goal in Interval"
+        },
+        {
+            "id": 91,
+            "name": "Away 2nd Goal in Interval"
+        },
+        {
+            "id": 92,
+            "name": "Which team will score the 3rd goal?"
+        },
+        {
+            "id": 93,
+            "name": "Which team will score the 10th corner? (2 Way)"
+        },
+        {
+            "id": 94,
+            "name": "3rd Goal in Interval"
+        },
+        {
+            "id": 95,
+            "name": "Home 2nd Goal in Interval"
+        },
+        {
+            "id": 96,
+            "name": "Asian Handicap Converted Penalties"
+        },
+        {
+            "id": 97,
+            "name": "Sudden Death"
+        },
+        {
+            "id": 98,
+            "name": "Away Penalty Shootout"
+        },
+        {
+            "id": 99,
+            "name": "Home Penalty Shootout"
+        },
+        {
+            "id": 100,
+            "name": "Home Total Converted Penalties"
+        },
+        {
+            "id": 101,
+            "name": "Total Penalties in Shootout"
+        },
+        {
+            "id": 102,
+            "name": "Last Penalty Score/Miss"
+        },
+        {
+            "id": 103,
+            "name": "Correct Score in Shootouts"
+        },
+        {
+            "id": 104,
+            "name": "Total Converted Penalties"
+        },
+        {
+            "id": 105,
+            "name": "Total Converted Penalties - Goal Line"
+        },
+        {
+            "id": 106,
+            "name": "Away Total Converted Penalties"
+        },
+        {
+            "id": 107,
+            "name": "Penalties Shootout Winner"
+        },
+        {
+            "id": 108,
+            "name": "Which team will score the 11th corner? (2 Way)"
+        },
+        {
+            "id": 109,
+            "name": "Which team will score the 4th goal?"
+        },
+        {
+            "id": 110,
+            "name": "Which team will score the 8th corner? (2 Way)"
+        },
+        {
+            "id": 111,
+            "name": "Last Penalty Scorer in Shootout"
+        },
+        {
+            "id": 112,
+            "name": "Which team will score the 5th goal?"
+        },
+        {
+            "id": 113,
+            "name": "Method of 2nd Goal"
+        },
+        {
+            "id": 114,
+            "name": "Which team will score the 13th corner? (2 Way)"
+        },
+        {
+            "id": 115,
+            "name": "Player to be Booked"
+        },
+        {
+            "id": 116,
+            "name": "Action In Next 1 Minutes"
+        },
+        {
+            "id": 117,
+            "name": "First Action In Next 5 Minutes"
+        },
+        {
+            "id": 118,
+            "name": "Player to be Sent Off"
+        },
+        {
+            "id": 119,
+            "name": "Total Cards"
+        },
+        {
+            "id": 120,
+            "name": "Which team will score the 12th corner? (2 Way)"
+        },
+        {
+            "id": 121,
+            "name": "Which team will score the 14th corner? (2 Way)"
+        },
+        {
+            "id": 122,
+            "name": "Which team will score the 15th corner? (2 Way)"
+        },
+        {
+            "id": 123,
+            "name": "Which team will score the 16th corner? (2 Way)"
+        },
+        {
+            "id": 124,
+            "name": "Which team will score the 17th corner? (2 Way)"
+        },
+        {
+            "id": 125,
+            "name": "Home 3rd Goal in Interval"
+        },
+        {
+            "id": 126,
+            "name": "Which team will score the 18th corner? (2 Way)"
+        },
+        {
+            "id": 127,
+            "name": "Which team will score the 6th goal?"
+        },
+        {
+            "id": 128,
+            "name": "Away 3rd Goal in Interval"
+        },
+        {
+            "id": 129,
+            "name": "Which team will score the 2nd goal in extra time?"
+        },
+        {
+            "id": 130,
+            "name": "Method of 3rd Goal"
+        },
+        {
+            "id": 131,
+            "name": "4th Goal in Interval"
+        },
+        {
+            "id": 132,
+            "name": "Which team will score the 7th goal?"
+        },
+        {
+            "id": 133,
+            "name": "Which team will score the 19th corner? (2 Way)"
+        },
+        {
+            "id": 134,
+            "name": "Home 4th Goal in Interval"
+        },
+        {
+            "id": 135,
+            "name": "Away 4th Goal in Interval"
+        },
+        {
+            "id": 136,
+            "name": "5th Goal in Interval"
+        },
+        {
+            "id": 137,
+            "name": "Home 5th Goal in Interval"
+        },
+        {
+            "id": 138,
+            "name": "Method of 4th Goal"
+        },
+        {
+            "id": 139,
+            "name": "Which team will score the 8th goal?"
+        },
+        {
+            "id": 140,
+            "name": "Which team will score the 9th goal?"
+        },
+        {
+            "id": 141,
+            "name": "Which team will score the 10th goal?"
+        },
+        {
+            "id": 142,
+            "name": "Which team will score the 11th goal?"
+        },
+        {
+            "id": 143,
+            "name": "Which team will score the 12th goal?"
+        },
+        {
+            "id": 144,
+            "name": "6th Goal in Interval"
+        },
+        {
+            "id": 145,
+            "name": "Method of 5th Goal"
+        },
+        {
+            "id": 146,
+            "name": "Method of 6th Goal"
+        },
+        {
+            "id": 147,
+            "name": "Which team will score the 20th corner? (2 Way)"
+        },
+        {
+            "id": 148,
+            "name": "Player Shots"
+        },
+        {
+            "id": 149,
+            "name": "Total Shots"
+        },
+        {
+            "id": 150,
+            "name": "Total shots on goal"
+        },
+        {
+            "id": 151,
+            "name": "Away Total Shots"
+        },
+        {
+            "id": 152,
+            "name": "Home Total Shots"
+        },
+        {
+            "id": 153,
+            "name": "Player Shots on Targets"
+        },
+        {
+            "id": 154,
+            "name": "Home Total shots on goal"
+        },
+        {
+            "id": 155,
+            "name": "Player Assists"
+        },
+        {
+            "id": 156,
+            "name": "Away Total shots on goal"
+        },
+        {
+            "id": 157,
+            "name": "Method of 7th Goal"
+        },
+        {
+            "id": 158,
+            "name": "Method of 8th Goal"
+        },
+        {
+            "id": 159,
+            "name": "7th Goal in Interval"
+        },
+        {
+            "id": 160,
+            "name": "To Win the Trophy"
+        },
+        {
+            "id": 161,
+            "name": "Away 5th Goal in Interval"
+        },
+        {
+            "id": 162,
+            "name": "Which team will score the 3rd goal in extra time?"
+        },
+        {
+            "id": 163,
+            "name": "Which team will score the 13th goal?"
+        },
+        {
+            "id": 164,
+            "name": "Which team will score the 4th goal in extra time?"
+        },
+        {
+            "id": 165,
+            "name": "Double Chance Extra Time"
+        },
+        {
+            "id": 166,
+            "name": "Double Chance Extra Time (1st Half)"
+        },
+        {
+            "id": 167,
+            "name": "Asian Handicap Extra Time (1st Half)"
+        },
+        {
+            "id": 168,
+            "name": "Corners Double Chance"
+        },
+        {
+            "id": 169,
+            "name": "Home Total Corners"
+        },
+        {
+            "id": 170,
+            "name": "Which team will score the 10th corner?"
+        },
+        {
+            "id": 171,
+            "name": "Away Not lose/Over"
+        },
+        {
+            "id": 172,
+            "name": "Away Not lose/Under"
+        },
+        {
+            "id": 173,
+            "name": "Home Not lose/Over"
+        },
+        {
+            "id": 174,
+            "name": "Corners Asian Handicap"
+        },
+        {
+            "id": 175,
+            "name": "Home Not lose/Under"
+        },
+        {
+            "id": 176,
+            "name": "Away Total Corners"
+        },
+        {
+            "id": 177,
+            "name": "Over/Under (2nd Half)"
+        },
+        {
+            "id": 178,
+            "name": "Total shots on goal (1st Half)"
+        },
+        {
+            "id": 179,
+            "name": "Home team will win either half"
+        },
+        {
+            "id": 180,
+            "name": "Double Chance (1st Half)"
+        },
+        {
+            "id": 181,
+            "name": "Which team will score the 13th corner?"
+        },
+        {
+            "id": 182,
+            "name": "Yellow Asian Handicap"
+        },
+        {
+            "id": 183,
+            "name": "Draw/Over"
+        },
+        {
+            "id": 184,
+            "name": "Asian Handicap (2nd Half)"
+        },
+        {
+            "id": 185,
+            "name": "Double Chance shots on goal"
+        },
+        {
+            "id": 186,
+            "name": "Away Win/Over"
+        },
+        {
+            "id": 187,
+            "name": "Yellow Double Chance (1st Half)"
+        },
+        {
+            "id": 188,
+            "name": "Away Total Corners (1st Half)"
+        },
+        {
+            "id": 189,
+            "name": "Total Corners (1st Half)"
+        },
+        {
+            "id": 190,
+            "name": "Home Total Corners (1st Half)"
+        },
+        {
+            "id": 191,
+            "name": "Home Team Total (1st Half)"
+        },
+        {
+            "id": 192,
+            "name": "Race to the 3rd goal?"
+        },
+        {
+            "id": 193,
+            "name": "Corners 1x2 (1st Half)"
+        },
+        {
+            "id": 194,
+            "name": "1x2 shots on goal"
+        },
+        {
+            "id": 195,
+            "name": "Home Team Total (2nd Half)"
+        },
+        {
+            "id": 196,
+            "name": "Away Team Total Goals (2nd Half)"
+        },
+        {
+            "id": 197,
+            "name": "Yellow Asian Handicap (1st Half)"
+        },
+        {
+            "id": 198,
+            "name": "Away Team Total Points (1st Half)"
+        },
+        {
+            "id": 199,
+            "name": "Yellow Double Chance"
+        },
+        {
+            "id": 200,
+            "name": "Home Team Yellow cards"
+        },
+        {
+            "id": 201,
+            "name": "Home Win/Over"
+        },
+        {
+            "id": 202,
+            "name": "1x2 shots on goal (1st Half)"
+        },
+        {
+            "id": 203,
+            "name": "Yellow Cards 1x2"
+        },
+        {
+            "id": 204,
+            "name": "Corners Asian Handicap (1st Half)"
+        },
+        {
+            "id": 205,
+            "name": "Asian Handicap shots on goal"
+        },
+        {
+            "id": 206,
+            "name": "Home Team Yellow Cards (1st Half)"
+        },
+        {
+            "id": 207,
+            "name": "Yellow Cards 1x2 (1st Half)"
+        },
+        {
+            "id": 208,
+            "name": "Double Chance shots on goal (1st Half)"
+        },
+        {
+            "id": 209,
+            "name": "Yellow Over/Under (1st Half)"
+        },
+        {
+            "id": 210,
+            "name": "Yellow Over/Under"
+        },
+        {
+            "id": 211,
+            "name": "Away Team Yellow Cards (1st Half)"
+        },
+        {
+            "id": 212,
+            "name": "Asian Handicap shots on goal (1st Half)"
+        },
+        {
+            "id": 213,
+            "name": "Away Team Yellow Cards"
+        },
+        {
+            "id": 214,
+            "name": "Away team will win either half"
+        },
+        {
+            "id": 215,
+            "name": "Both Teams To Score Under"
+        },
+        {
+            "id": 216,
+            "name": "Both Halves Over"
+        },
+        {
+            "id": 217,
+            "name": "Race to the 2nd goal?"
+        },
+        {
+            "id": 218,
+            "name": "Away Team Score a Goal"
+        },
+        {
+            "id": 219,
+            "name": "Both Teams To Score Over"
+        },
+        {
+            "id": 220,
+            "name": "Both Halves Under"
+        },
+        {
+            "id": 221,
+            "name": "Home Win/Under"
+        },
+        {
+            "id": 222,
+            "name": "Away Team Score a Goal (1st Half)"
+        },
+        {
+            "id": 223,
+            "name": "Which team will score the 5th corner?"
+        },
+        {
+            "id": 224,
+            "name": "Which team will score the 4th corner?"
+        },
+        {
+            "id": 225,
+            "name": "Home Team Score a Goal (1st Half)"
+        },
+        {
+            "id": 226,
+            "name": "Home Team Score a Goal"
+        },
+        {
+            "id": 227,
+            "name": "Draw/Under"
+        },
+        {
+            "id": 228,
+            "name": "Away Win/Under"
+        },
+        {
+            "id": 229,
+            "name": "Home Red Over/Under"
+        },
+        {
+            "id": 230,
+            "name": "Away Red Over/Under"
+        },
+        {
+            "id": 231,
+            "name": "Which team will score the 7th corner?"
+        },
+        {
+            "id": 232,
+            "name": "Red Over/Under"
+        },
+        {
+            "id": 233,
+            "name": "Yellow Odd/Even"
+        },
+        {
+            "id": 234,
+            "name": "Which team will score the 6th corner?"
+        },
+        {
+            "id": 235,
+            "name": "Which team will score the 8th corner?"
+        },
+        {
+            "id": 236,
+            "name": "Which team will score the 9th corner?"
+        },
+        {
+            "id": 237,
+            "name": "Which team will score the 11th corner?"
+        },
+        {
+            "id": 238,
+            "name": "Which team will score the 12th corner?"
+        },
+        {
+            "id": 239,
+            "name": "Which team will score the 14th corner?"
+        },
+        {
+            "id": 240,
+            "name": "Which team will score the 15th corner?"
+        },
+        {
+            "id": 241,
+            "name": "Which team will score the 1st corner?"
+        },
+        {
+            "id": 242,
+            "name": "Which team will score the 2nd corner?"
+        },
+        {
+            "id": 243,
+            "name": "Away Total shots on goal (1st Half)"
+        },
+        {
+            "id": 244,
+            "name": "Home Total shots on goal (1st Half)"
+        },
+        {
+            "id": 245,
+            "name": "Away Penalty Over/Under"
+        },
+        {
+            "id": 246,
+            "name": "Home Penalty Over/Under"
+        },
+        {
+            "id": 247,
+            "name": "Penalty Over/Under"
+        },
+        {
+            "id": 248,
+            "name": "Which team will score the 5th goal in extra time?"
+        },
+        {
+            "id": 249,
+            "name": "Which team will score the 6th goal in extra time?"
+        },
+        {
+            "id": 250,
+            "name": "Extra Time Over/Under Line"
+        }
+    ]
+}

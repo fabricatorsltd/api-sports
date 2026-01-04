@@ -1,0 +1,1915 @@
+{
+  "get": "players/topyellowcards",
+  "parameters": {
+    "league": "135",
+    "season": "2025"
+  },
+  "errors": [],
+  "results": 20,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "player": {
+        "id": 1454,
+        "name": "M. Guendouzi",
+        "firstname": "Mattéo Elias Kenzo",
+        "lastname": "Guendouzi Olié",
+        "age": 26,
+        "birth": {
+          "date": "1999-04-14",
+          "place": "Poissy",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "185",
+        "weight": "68",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/1454.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 487,
+            "name": "Lazio",
+            "logo": "https://media.api-sports.io/football/teams/487.png"
+          },
+          "league": {
+            "id": 135,
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/135.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2025
+          },
+          "games": {
+            "appearences": 14,
+            "lineups": 14,
+            "minutes": 1250,
+            "number": 8,
+            "position": "Midfielder",
+            "rating": "7.05",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 0
+          },
+          "shots": {
+            "total": 13,
+            "on": 8
+          },
+          "goals": {
+            "total": 2,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 659,
+            "key": 14,
+            "accuracy": 41
+          },
+          "tackles": {
+            "total": 13,
+            "blocks": 6,
+            "interceptions": 10
+          },
+          "duels": {
+            "total": 87,
+            "won": 45
+          },
+          "dribbles": {
+            "attempts": 15,
+            "success": 8,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 19,
+            "committed": 15
+          },
+          "cards": {
+            "yellow": 6,
+            "yellowred": 0,
+            "red": 1
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 1938,
+        "name": "R. Malinovskyi",
+        "firstname": "Ruslan",
+        "lastname": "Malinovskyi",
+        "age": 32,
+        "birth": {
+          "date": "1993-05-04",
+          "place": "Zhytomyr",
+          "country": "Ukraine"
+        },
+        "nationality": "Ukraine",
+        "height": "181",
+        "weight": "79",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/1938.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 495,
+            "name": "Genoa",
+            "logo": "https://media.api-sports.io/football/teams/495.png"
+          },
+          "league": {
+            "id": 135,
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/135.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2025
+          },
+          "games": {
+            "appearences": 16,
+            "lineups": 15,
+            "minutes": 1166,
+            "number": 17,
+            "position": "Midfielder",
+            "rating": "6.79",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 12,
+            "bench": 2
+          },
+          "shots": {
+            "total": 19,
+            "on": 5
+          },
+          "goals": {
+            "total": 2,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 583,
+            "key": 17,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 13,
+            "blocks": 1,
+            "interceptions": 7
+          },
+          "duels": {
+            "total": 138,
+            "won": 59
+          },
+          "dribbles": {
+            "attempts": 14,
+            "success": 7,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 21,
+            "committed": 19
+          },
+          "cards": {
+            "yellow": 6,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 1,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 321744,
+        "name": "A. Obert",
+        "firstname": "Adam",
+        "lastname": "Obert",
+        "age": 23,
+        "birth": {
+          "date": "2002-08-23",
+          "place": "Bratislava",
+          "country": "Slovakia"
+        },
+        "nationality": "Slovakia",
+        "height": "188",
+        "weight": "84",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/321744.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 490,
+            "name": "Cagliari",
+            "logo": "https://media.api-sports.io/football/teams/490.png"
+          },
+          "league": {
+            "id": 135,
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/135.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2025
+          },
+          "games": {
+            "appearences": 16,
+            "lineups": 15,
+            "minutes": 1191,
+            "number": 33,
+            "position": "Defender",
+            "rating": "6.85",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 8,
+            "bench": 2
+          },
+          "shots": {
+            "total": 2,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 565,
+            "key": 7,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 32,
+            "blocks": 9,
+            "interceptions": 17
+          },
+          "duels": {
+            "total": 115,
+            "won": 59
+          },
+          "dribbles": {
+            "attempts": 8,
+            "success": 6,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 5,
+            "committed": 26
+          },
+          "cards": {
+            "yellow": 6,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 288699,
+        "name": "M. Perrone",
+        "firstname": "Máximo",
+        "lastname": "Perrone",
+        "age": 22,
+        "birth": {
+          "date": "2003-01-07",
+          "place": "Buenos Aires",
+          "country": "Argentina"
+        },
+        "nationality": "Argentina",
+        "height": "177",
+        "weight": "68",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/288699.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 895,
+            "name": "Como",
+            "logo": "https://media.api-sports.io/football/teams/895.png"
+          },
+          "league": {
+            "id": 135,
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/135.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2025
+          },
+          "games": {
+            "appearences": 15,
+            "lineups": 14,
+            "minutes": 1218,
+            "number": 23,
+            "position": "Midfielder",
+            "rating": "6.99",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 5,
+            "bench": 2
+          },
+          "shots": {
+            "total": 6,
+            "on": 4
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 3,
+            "saves": null
+          },
+          "passes": {
+            "total": 921,
+            "key": 15,
+            "accuracy": 56
+          },
+          "tackles": {
+            "total": 25,
+            "blocks": 1,
+            "interceptions": 12
+          },
+          "duels": {
+            "total": 99,
+            "won": 45
+          },
+          "dribbles": {
+            "attempts": 8,
+            "success": 4,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 11,
+            "committed": 24
+          },
+          "cards": {
+            "yellow": 6,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 1084,
+        "name": "M. Pongračić",
+        "firstname": "Marin",
+        "lastname": "Pongračić",
+        "age": 28,
+        "birth": {
+          "date": "1997-09-11",
+          "place": "Landshut",
+          "country": "Germany"
+        },
+        "nationality": "Croatia",
+        "height": "190",
+        "weight": "95",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/1084.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 502,
+            "name": "Fiorentina",
+            "logo": "https://media.api-sports.io/football/teams/502.png"
+          },
+          "league": {
+            "id": 135,
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/135.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2025
+          },
+          "games": {
+            "appearences": 15,
+            "lineups": 15,
+            "minutes": 1349,
+            "number": 5,
+            "position": "Defender",
+            "rating": "6.65",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 1,
+            "bench": 1
+          },
+          "shots": {
+            "total": 4,
+            "on": null
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 902,
+            "key": 5,
+            "accuracy": 54
+          },
+          "tackles": {
+            "total": 13,
+            "blocks": 10,
+            "interceptions": 20
+          },
+          "duels": {
+            "total": 107,
+            "won": 51
+          },
+          "dribbles": {
+            "attempts": 11,
+            "success": 8,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 13,
+            "committed": 34
+          },
+          "cards": {
+            "yellow": 6,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 14266,
+        "name": "I. Smolčić",
+        "firstname": "Ivan",
+        "lastname": "Smolčić",
+        "age": 25,
+        "birth": {
+          "date": "2000-08-17",
+          "place": "Gospić",
+          "country": "Croatia"
+        },
+        "nationality": "Croatia",
+        "height": "181",
+        "weight": "78",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/14266.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 895,
+            "name": "Como",
+            "logo": "https://media.api-sports.io/football/teams/895.png"
+          },
+          "league": {
+            "id": 135,
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/135.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2025
+          },
+          "games": {
+            "appearences": 13,
+            "lineups": 9,
+            "minutes": 784,
+            "number": 28,
+            "position": "Defender",
+            "rating": "6.83",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 4,
+            "out": 7,
+            "bench": 7
+          },
+          "shots": {
+            "total": 4,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 380,
+            "key": 6,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 23,
+            "blocks": 5,
+            "interceptions": 12
+          },
+          "duels": {
+            "total": 80,
+            "won": 47
+          },
+          "dribbles": {
+            "attempts": 2,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 12,
+            "committed": 14
+          },
+          "cards": {
+            "yellow": 6,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 30432,
+        "name": "M. de Roon",
+        "firstname": "Marten Elco",
+        "lastname": "de Roon",
+        "age": 34,
+        "birth": {
+          "date": "1991-03-29",
+          "place": "Zwijndrecht",
+          "country": "Netherlands"
+        },
+        "nationality": "Netherlands",
+        "height": "186",
+        "weight": "76",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/30432.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 499,
+            "name": "Atalanta",
+            "logo": "https://media.api-sports.io/football/teams/499.png"
+          },
+          "league": {
+            "id": 135,
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/135.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2025
+          },
+          "games": {
+            "appearences": 15,
+            "lineups": 14,
+            "minutes": 1178,
+            "number": 15,
+            "position": "Midfielder",
+            "rating": "7.01",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 4,
+            "bench": 2
+          },
+          "shots": {
+            "total": 7,
+            "on": 3
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 853,
+            "key": 9,
+            "accuracy": 50
+          },
+          "tackles": {
+            "total": 38,
+            "blocks": 3,
+            "interceptions": 10
+          },
+          "duels": {
+            "total": 102,
+            "won": 56
+          },
+          "dribbles": {
+            "attempts": 4,
+            "success": 2,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 7,
+            "committed": 15
+          },
+          "cards": {
+            "yellow": 5,
+            "yellowred": 1,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 30425,
+        "name": "G. Mancini",
+        "firstname": "Gianluca",
+        "lastname": "Mancini",
+        "age": 29,
+        "birth": {
+          "date": "1996-04-17",
+          "place": "Pontedera",
+          "country": "Italy"
+        },
+        "nationality": "Italy",
+        "height": "190",
+        "weight": "77",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/30425.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 497,
+            "name": "AS Roma",
+            "logo": "https://media.api-sports.io/football/teams/497.png"
+          },
+          "league": {
+            "id": 135,
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/135.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2025
+          },
+          "games": {
+            "appearences": 18,
+            "lineups": 18,
+            "minutes": 1599,
+            "number": 23,
+            "position": "Defender",
+            "rating": "7.01",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 2,
+            "bench": 0
+          },
+          "shots": {
+            "total": 7,
+            "on": 3
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 881,
+            "key": 8,
+            "accuracy": 42
+          },
+          "tackles": {
+            "total": 34,
+            "blocks": 10,
+            "interceptions": 30
+          },
+          "duels": {
+            "total": 185,
+            "won": 107
+          },
+          "dribbles": {
+            "attempts": 2,
+            "success": 2,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 28,
+            "committed": 41
+          },
+          "cards": {
+            "yellow": 5,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 36899,
+        "name": "T. Koopmeiners",
+        "firstname": "Teun",
+        "lastname": "Koopmeiners",
+        "age": 27,
+        "birth": {
+          "date": "1998-02-28",
+          "place": "Amsterdam",
+          "country": "Netherlands"
+        },
+        "nationality": "Netherlands",
+        "height": "184",
+        "weight": "77",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/36899.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 496,
+            "name": "Juventus",
+            "logo": "https://media.api-sports.io/football/teams/496.png"
+          },
+          "league": {
+            "id": 135,
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/135.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2025
+          },
+          "games": {
+            "appearences": 16,
+            "lineups": 11,
+            "minutes": 1056,
+            "number": 8,
+            "position": "Midfielder",
+            "rating": "6.71",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 5,
+            "out": 5,
+            "bench": 6
+          },
+          "shots": {
+            "total": 8,
+            "on": 3
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 631,
+            "key": 13,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 16,
+            "blocks": 5,
+            "interceptions": 12
+          },
+          "duels": {
+            "total": 87,
+            "won": 40
+          },
+          "dribbles": {
+            "attempts": 5,
+            "success": 2,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 6,
+            "committed": 21
+          },
+          "cards": {
+            "yellow": 5,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 291589,
+        "name": "Kialonda Gaspar",
+        "firstname": "Esmevânio Kialonda",
+        "lastname": "Gaspar",
+        "age": 28,
+        "birth": {
+          "date": "1997-09-27",
+          "place": "Dundo",
+          "country": "Angola"
+        },
+        "nationality": "Angola",
+        "height": "193",
+        "weight": "90",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/291589.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 867,
+            "name": "Lecce",
+            "logo": "https://media.api-sports.io/football/teams/867.png"
+          },
+          "league": {
+            "id": 135,
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/135.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2025
+          },
+          "games": {
+            "appearences": 16,
+            "lineups": 16,
+            "minutes": 1440,
+            "number": 4,
+            "position": "Defender",
+            "rating": "6.88",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 6,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 621,
+            "key": null,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 19,
+            "blocks": 17,
+            "interceptions": 12
+          },
+          "duels": {
+            "total": 117,
+            "won": 75
+          },
+          "dribbles": {
+            "attempts": 2,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 14,
+            "committed": 9
+          },
+          "cards": {
+            "yellow": 5,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 39143,
+        "name": "K. Thorstvedt",
+        "firstname": "Kristian",
+        "lastname": "Thorstvedt",
+        "age": 26,
+        "birth": {
+          "date": "1999-03-13",
+          "place": "Stavanger",
+          "country": "Norway"
+        },
+        "nationality": "Norway",
+        "height": "189",
+        "weight": "84",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/39143.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 488,
+            "name": "Sassuolo",
+            "logo": "https://media.api-sports.io/football/teams/488.png"
+          },
+          "league": {
+            "id": 135,
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/135.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2025
+          },
+          "games": {
+            "appearences": 15,
+            "lineups": 11,
+            "minutes": 1038,
+            "number": 42,
+            "position": "Midfielder",
+            "rating": "6.76",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 4,
+            "out": 2,
+            "bench": 4
+          },
+          "shots": {
+            "total": 13,
+            "on": 6
+          },
+          "goals": {
+            "total": 2,
+            "conceded": 0,
+            "assists": 1,
+            "saves": null
+          },
+          "passes": {
+            "total": 436,
+            "key": 16,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 15,
+            "blocks": 3,
+            "interceptions": 12
+          },
+          "duels": {
+            "total": 115,
+            "won": 58
+          },
+          "dribbles": {
+            "attempts": 11,
+            "success": 4,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 25,
+            "committed": 19
+          },
+          "cards": {
+            "yellow": 5,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 303362,
+        "name": "R. Belghali",
+        "firstname": "Rafik",
+        "lastname": "Belghali",
+        "age": 23,
+        "birth": {
+          "date": "2002-06-07",
+          "place": "Leuven",
+          "country": "Belgium"
+        },
+        "nationality": "Algeria",
+        "height": "186",
+        "weight": "73",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/303362.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 504,
+            "name": "Verona",
+            "logo": "https://media.api-sports.io/football/teams/504.png"
+          },
+          "league": {
+            "id": 135,
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/135.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2025
+          },
+          "games": {
+            "appearences": 15,
+            "lineups": 12,
+            "minutes": 1105,
+            "number": 7,
+            "position": "Defender",
+            "rating": "6.77",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 3,
+            "out": 4,
+            "bench": 3
+          },
+          "shots": {
+            "total": 6,
+            "on": 4
+          },
+          "goals": {
+            "total": 2,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 302,
+            "key": 15,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 15,
+            "blocks": 4,
+            "interceptions": 12
+          },
+          "duels": {
+            "total": 113,
+            "won": 48
+          },
+          "dribbles": {
+            "attempts": 42,
+            "success": 23,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 5,
+            "committed": 13
+          },
+          "cards": {
+            "yellow": 5,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 31642,
+        "name": "L. Ranieri",
+        "firstname": "Luca",
+        "lastname": "Ranieri",
+        "age": 26,
+        "birth": {
+          "date": "1999-04-23",
+          "place": "La Spezia",
+          "country": "Italy"
+        },
+        "nationality": "Italy",
+        "height": "187",
+        "weight": "73",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/31642.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 502,
+            "name": "Fiorentina",
+            "logo": "https://media.api-sports.io/football/teams/502.png"
+          },
+          "league": {
+            "id": 135,
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/135.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2025
+          },
+          "games": {
+            "appearences": 15,
+            "lineups": 15,
+            "minutes": 1199,
+            "number": 6,
+            "position": "Defender",
+            "rating": "6.8",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 7,
+            "bench": 1
+          },
+          "shots": {
+            "total": 7,
+            "on": 2
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 668,
+            "key": 6,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 21,
+            "blocks": 5,
+            "interceptions": 6
+          },
+          "duels": {
+            "total": 110,
+            "won": 63
+          },
+          "dribbles": {
+            "attempts": 11,
+            "success": 6,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 17,
+            "committed": 13
+          },
+          "cards": {
+            "yellow": 5,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": 1,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 15909,
+        "name": "M. Frese",
+        "firstname": "Martin",
+        "lastname": "Sønder Frese",
+        "age": 27,
+        "birth": {
+          "date": "1998-01-04",
+          "place": "Rødovre",
+          "country": "Denmark"
+        },
+        "nationality": "Denmark",
+        "height": "179",
+        "weight": "75",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/15909.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 504,
+            "name": "Verona",
+            "logo": "https://media.api-sports.io/football/teams/504.png"
+          },
+          "league": {
+            "id": 135,
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/135.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2025
+          },
+          "games": {
+            "appearences": 14,
+            "lineups": 11,
+            "minutes": 1072,
+            "number": 3,
+            "position": "Defender",
+            "rating": "6.77",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 3,
+            "out": 4,
+            "bench": 4
+          },
+          "shots": {
+            "total": 9,
+            "on": 5
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 366,
+            "key": 17,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 39,
+            "blocks": 5,
+            "interceptions": 10
+          },
+          "duels": {
+            "total": 109,
+            "won": 68
+          },
+          "dribbles": {
+            "attempts": 4,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 7,
+            "committed": 21
+          },
+          "cards": {
+            "yellow": 5,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 2669,
+        "name": "Hermoso",
+        "firstname": "Mario",
+        "lastname": "Hermoso Canseco",
+        "age": 30,
+        "birth": {
+          "date": "1995-06-18",
+          "place": "Madrid",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "184",
+        "weight": "75",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/2669.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 497,
+            "name": "AS Roma",
+            "logo": "https://media.api-sports.io/football/teams/497.png"
+          },
+          "league": {
+            "id": 135,
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/135.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2025
+          },
+          "games": {
+            "appearences": 14,
+            "lineups": 12,
+            "minutes": 1114,
+            "number": 22,
+            "position": "Defender",
+            "rating": "6.81",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 4,
+            "bench": 4
+          },
+          "shots": {
+            "total": 4,
+            "on": 3
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 718,
+            "key": 5,
+            "accuracy": 43
+          },
+          "tackles": {
+            "total": 18,
+            "blocks": 2,
+            "interceptions": 18
+          },
+          "duels": {
+            "total": 98,
+            "won": 51
+          },
+          "dribbles": {
+            "attempts": 6,
+            "success": 1,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 11,
+            "committed": 21
+          },
+          "cards": {
+            "yellow": 5,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 6383,
+        "name": "M. Payero",
+        "firstname": "Martín Ismael",
+        "lastname": "Payero",
+        "age": 27,
+        "birth": {
+          "date": "1998-09-11",
+          "place": "Pascanas",
+          "country": "Argentina"
+        },
+        "nationality": "Argentina",
+        "height": "183",
+        "weight": "80",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/6383.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 520,
+            "name": "Cremonese",
+            "logo": "https://media.api-sports.io/football/teams/520.png"
+          },
+          "league": {
+            "id": 135,
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/135.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2025
+          },
+          "games": {
+            "appearences": 13,
+            "lineups": 11,
+            "minutes": 898,
+            "number": 32,
+            "position": "Midfielder",
+            "rating": "6.55",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 6,
+            "bench": 3
+          },
+          "shots": {
+            "total": 12,
+            "on": 5
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 297,
+            "key": 4,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 15,
+            "blocks": null,
+            "interceptions": 7
+          },
+          "duels": {
+            "total": 140,
+            "won": 62
+          },
+          "dribbles": {
+            "attempts": 33,
+            "success": 15,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 20,
+            "committed": 30
+          },
+          "cards": {
+            "yellow": 5,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 21090,
+        "name": "Diego Carlos",
+        "firstname": "Diego Carlos",
+        "lastname": "Santos Silva",
+        "age": 32,
+        "birth": {
+          "date": "1993-03-15",
+          "place": "Barra Bonita",
+          "country": "Brazil"
+        },
+        "nationality": "Brazil",
+        "height": "186",
+        "weight": "79",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/21090.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 895,
+            "name": "Como",
+            "logo": "https://media.api-sports.io/football/teams/895.png"
+          },
+          "league": {
+            "id": 135,
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/135.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2025
+          },
+          "games": {
+            "appearences": 12,
+            "lineups": 11,
+            "minutes": 1016,
+            "number": 34,
+            "position": "Defender",
+            "rating": "6.88",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 2,
+            "bench": 3
+          },
+          "shots": {
+            "total": 2,
+            "on": 1
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 698,
+            "key": 2,
+            "accuracy": 53
+          },
+          "tackles": {
+            "total": 18,
+            "blocks": 9,
+            "interceptions": 7
+          },
+          "duels": {
+            "total": 88,
+            "won": 49
+          },
+          "dribbles": {
+            "attempts": null,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 5,
+            "committed": 18
+          },
+          "cards": {
+            "yellow": 5,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 203,
+        "name": "R. Gagliardini",
+        "firstname": "Roberto",
+        "lastname": "Gagliardini",
+        "age": 31,
+        "birth": {
+          "date": "1994-04-07",
+          "place": "Bergamo",
+          "country": "Italy"
+        },
+        "nationality": "Italy",
+        "height": "190",
+        "weight": "77",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/203.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 504,
+            "name": "Verona",
+            "logo": "https://media.api-sports.io/football/teams/504.png"
+          },
+          "league": {
+            "id": 135,
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/135.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2025
+          },
+          "games": {
+            "appearences": 11,
+            "lineups": 9,
+            "minutes": 800,
+            "number": 63,
+            "position": "Midfielder",
+            "rating": "6.92",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 3,
+            "bench": 3
+          },
+          "shots": {
+            "total": 3,
+            "on": 2
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 418,
+            "key": 3,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 22,
+            "blocks": 4,
+            "interceptions": 19
+          },
+          "duels": {
+            "total": 97,
+            "won": 52
+          },
+          "dribbles": {
+            "attempts": 4,
+            "success": null,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 9,
+            "committed": 20
+          },
+          "cards": {
+            "yellow": 5,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 386305,
+        "name": "Jacobo Ramón Naveros",
+        "firstname": "Jacobo Ramón",
+        "lastname": "Naveros",
+        "age": 20,
+        "birth": {
+          "date": "2005-01-06",
+          "place": "Madrid",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "195",
+        "weight": "80",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/386305.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 895,
+            "name": "Como",
+            "logo": "https://media.api-sports.io/football/teams/895.png"
+          },
+          "league": {
+            "id": 135,
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/135.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2025
+          },
+          "games": {
+            "appearences": 15,
+            "lineups": 14,
+            "minutes": 1263,
+            "number": 14,
+            "position": "Defender",
+            "rating": "7.32",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 1,
+            "bench": 2
+          },
+          "shots": {
+            "total": 10,
+            "on": 3
+          },
+          "goals": {
+            "total": 2,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 893,
+            "key": 4,
+            "accuracy": 53
+          },
+          "tackles": {
+            "total": 29,
+            "blocks": 9,
+            "interceptions": 21
+          },
+          "duels": {
+            "total": 141,
+            "won": 86
+          },
+          "dribbles": {
+            "attempts": 7,
+            "success": 5,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 2,
+            "committed": 15
+          },
+          "cards": {
+            "yellow": 4,
+            "yellowred": 0,
+            "red": 1
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 778,
+        "name": "B. Cristante",
+        "firstname": "Bryan",
+        "lastname": "Cristante",
+        "age": 30,
+        "birth": {
+          "date": "1995-03-03",
+          "place": "San Vito al Tagliamento",
+          "country": "Italy"
+        },
+        "nationality": "Italy",
+        "height": "186",
+        "weight": "80",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/778.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 497,
+            "name": "AS Roma",
+            "logo": "https://media.api-sports.io/football/teams/497.png"
+          },
+          "league": {
+            "id": 135,
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://media.api-sports.io/football/leagues/135.png",
+            "flag": "https://media.api-sports.io/flags/it.svg",
+            "season": 2025
+          },
+          "games": {
+            "appearences": 18,
+            "lineups": 18,
+            "minutes": 1491,
+            "number": 4,
+            "position": "Midfielder",
+            "rating": "6.97",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 6,
+            "bench": 0
+          },
+          "shots": {
+            "total": 16,
+            "on": 6
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 0,
+            "saves": null
+          },
+          "passes": {
+            "total": 1019,
+            "key": 13,
+            "accuracy": 46
+          },
+          "tackles": {
+            "total": 36,
+            "blocks": 1,
+            "interceptions": 12
+          },
+          "duels": {
+            "total": 180,
+            "won": 78
+          },
+          "dribbles": {
+            "attempts": 10,
+            "success": 7,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 4,
+            "committed": 28
+          },
+          "cards": {
+            "yellow": 4,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -29,6 +29,11 @@ public sealed class ApiSportsHttpClient(HttpClient http)
             throw new ApiSportsApiException($"API request failed ({(int)res.StatusCode}).", res.StatusCode, endpoint, errors);
         }
 
+        if (res.StatusCode == HttpStatusCode.NoContent)
+        {
+            return new ApiResponse<TResponse> { Results = 0 };
+        }
+
         await using Stream stream = await res.Content.ReadAsStreamAsync(ct).ConfigureAwait(false);
 
         ApiResponse<TResponse>? parsed = await JsonSerializer.DeserializeAsync(
