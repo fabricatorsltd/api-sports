@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+    <PropertyGroup>
+        <TargetFramework>net10.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <LangVersion>latest</LangVersion>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <ProjectReference Include="..\ApiSports.Sdk.Abstractions\ApiSports.Sdk.Abstractions.csproj" />
+        <ProjectReference Include="..\ApiSports.Sdk.Core\ApiSports.Sdk.Core.csproj" />
+    </ItemGroup>
+</Project>
