@@ -1,0 +1,242 @@
+{
+    "get": "games",
+    "parameters": {
+        "game": "370289"
+    },
+    "errors": [],
+    "results": 14,
+    "response": [
+        {
+            "game_id": 370289,
+            "period": "P1",
+            "minute": "03",
+            "team": {
+                "id": 681,
+                "name": "Dallas Stars",
+                "logo": "https://media.api-sports.io/hockey/teams/681.png"
+            },
+            "players": [
+                "M. Marchment"
+            ],
+            "assists": [],
+            "comment": "Roughing",
+            "type": "penalty"
+        },
+        {
+            "game_id": 370289,
+            "period": "P1",
+            "minute": "03",
+            "team": {
+                "id": 698,
+                "name": "St. Louis Blues",
+                "logo": "https://media.api-sports.io/hockey/teams/698.png"
+            },
+            "players": [
+                "T. Tucker"
+            ],
+            "assists": [],
+            "comment": "Roughing",
+            "type": "penalty"
+        },
+        {
+            "game_id": 370289,
+            "period": "P1",
+            "minute": "08",
+            "team": {
+                "id": 698,
+                "name": "St. Louis Blues",
+                "logo": "https://media.api-sports.io/hockey/teams/698.png"
+            },
+            "players": [
+                "Q. Burns"
+            ],
+            "assists": [],
+            "comment": "Roughing",
+            "type": "penalty"
+        },
+        {
+            "game_id": 370289,
+            "period": "P1",
+            "minute": "11",
+            "team": {
+                "id": 681,
+                "name": "Dallas Stars",
+                "logo": "https://media.api-sports.io/hockey/teams/681.png"
+            },
+            "players": [
+                "M. Pettersen"
+            ],
+            "assists": [],
+            "comment": "Interference",
+            "type": "penalty"
+        },
+        {
+            "game_id": 370289,
+            "period": "P1",
+            "minute": "17",
+            "team": {
+                "id": 681,
+                "name": "Dallas Stars",
+                "logo": "https://media.api-sports.io/hockey/teams/681.png"
+            },
+            "players": [
+                "A. Petrovic"
+            ],
+            "assists": [],
+            "comment": "Roughing",
+            "type": "penalty"
+        },
+        {
+            "game_id": 370289,
+            "period": "P1",
+            "minute": "19",
+            "team": {
+                "id": 698,
+                "name": "St. Louis Blues",
+                "logo": "https://media.api-sports.io/hockey/teams/698.png"
+            },
+            "players": [
+                "P. Joseph"
+            ],
+            "assists": [],
+            "comment": "Delay of game",
+            "type": "penalty"
+        },
+        {
+            "game_id": 370289,
+            "period": "P2",
+            "minute": "03",
+            "team": {
+                "id": 698,
+                "name": "St. Louis Blues",
+                "logo": "https://media.api-sports.io/hockey/teams/698.png"
+            },
+            "players": [
+                "S. Johannesson"
+            ],
+            "assists": [],
+            "comment": "High sticking",
+            "type": "penalty"
+        },
+        {
+            "game_id": 370289,
+            "period": "P2",
+            "minute": "07",
+            "team": {
+                "id": 681,
+                "name": "Dallas Stars",
+                "logo": "https://media.api-sports.io/hockey/teams/681.png"
+            },
+            "players": [
+                "J. Hryckowian"
+            ],
+            "assists": [],
+            "comment": "Fighting",
+            "type": "penalty"
+        },
+        {
+            "game_id": 370289,
+            "period": "P2",
+            "minute": "07",
+            "team": {
+                "id": 698,
+                "name": "St. Louis Blues",
+                "logo": "https://media.api-sports.io/hockey/teams/698.png"
+            },
+            "players": [
+                "Q. Burns"
+            ],
+            "assists": [],
+            "comment": "Fighting",
+            "type": "penalty"
+        },
+        {
+            "game_id": 370289,
+            "period": "P2",
+            "minute": "09",
+            "team": {
+                "id": 698,
+                "name": "St. Louis Blues",
+                "logo": "https://media.api-sports.io/hockey/teams/698.png"
+            },
+            "players": [
+                "T. Tucker"
+            ],
+            "assists": [],
+            "comment": "Roughing",
+            "type": "penalty"
+        },
+        {
+            "game_id": 370289,
+            "period": "P2",
+            "minute": "17",
+            "team": {
+                "id": 681,
+                "name": "Dallas Stars",
+                "logo": "https://media.api-sports.io/hockey/teams/681.png"
+            },
+            "players": [
+                "K. Capobianco"
+            ],
+            "assists": [
+                "A. Petrovic",
+                "O. Back"
+            ],
+            "comment": null,
+            "type": "goal"
+        },
+        {
+            "game_id": 370289,
+            "period": "P3",
+            "minute": "01",
+            "team": {
+                "id": 681,
+                "name": "Dallas Stars",
+                "logo": "https://media.api-sports.io/hockey/teams/681.png"
+            },
+            "players": [
+                "L. Bichsel"
+            ],
+            "assists": [],
+            "comment": "High sticking",
+            "type": "penalty"
+        },
+        {
+            "game_id": 370289,
+            "period": "P3",
+            "minute": "10",
+            "team": {
+                "id": 681,
+                "name": "Dallas Stars",
+                "logo": "https://media.api-sports.io/hockey/teams/681.png"
+            },
+            "players": [
+                "C. Blackwell"
+            ],
+            "assists": [
+                "L. Bichsel",
+                "Y. Dadonov"
+            ],
+            "comment": null,
+            "type": "goal"
+        },
+        {
+            "game_id": 370289,
+            "period": "P3",
+            "minute": "14",
+            "team": {
+                "id": 698,
+                "name": "St. Louis Blues",
+                "logo": "https://media.api-sports.io/hockey/teams/698.png"
+            },
+            "players": [
+                "K. Kapanen"
+            ],
+            "assists": [
+                "Z. Dean"
+            ],
+            "comment": null,
+            "type": "goal"
+        }
+    ]
+}

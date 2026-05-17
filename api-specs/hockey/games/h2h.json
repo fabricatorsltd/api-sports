@@ -1,0 +1,112 @@
+{
+    "get": "games",
+    "parameters": {
+        "h2h": "670-673",
+        "league": "57",
+        "season": "2024"
+    },
+    "errors": [],
+    "results": 2,
+    "response": [
+        {
+            "id": 387132,
+            "date": "2025-02-23T00:00:00+00:00",
+            "time": "00:00",
+            "timestamp": 1740268800,
+            "timezone": "UTC",
+            "week": null,
+            "timer": null,
+            "status": {
+                "long": "After Over Time",
+                "short": "AOT"
+            },
+            "country": {
+                "id": 31,
+                "name": "USA",
+                "code": "US",
+                "flag": "https://media.api-sports.io/flags/us.svg"
+            },
+            "league": {
+                "id": 57,
+                "name": "NHL",
+                "type": "League",
+                "logo": "https://media.api-sports.io/hockey/leagues/57.png",
+                "season": 2024
+            },
+            "teams": {
+                "home": {
+                    "id": 673,
+                    "name": "Boston Bruins",
+                    "logo": "https://media.api-sports.io/hockey/teams/673.png"
+                },
+                "away": {
+                    "id": 670,
+                    "name": "Anaheim Ducks",
+                    "logo": "https://media.api-sports.io/hockey/teams/670.png"
+                }
+            },
+            "scores": {
+                "home": 2,
+                "away": 3
+            },
+            "periods": {
+                "first": "0-2",
+                "second": "1-0",
+                "third": "1-0",
+                "overtime": "0-1",
+                "penalties": null
+            },
+            "events": true
+        },
+        {
+            "id": 387372,
+            "date": "2025-03-27T02:00:00+00:00",
+            "time": "02:00",
+            "timestamp": 1743040800,
+            "timezone": "UTC",
+            "week": null,
+            "timer": null,
+            "status": {
+                "long": "Finished",
+                "short": "FT"
+            },
+            "country": {
+                "id": 31,
+                "name": "USA",
+                "code": "US",
+                "flag": "https://media.api-sports.io/flags/us.svg"
+            },
+            "league": {
+                "id": 57,
+                "name": "NHL",
+                "type": "League",
+                "logo": "https://media.api-sports.io/hockey/leagues/57.png",
+                "season": 2024
+            },
+            "teams": {
+                "home": {
+                    "id": 670,
+                    "name": "Anaheim Ducks",
+                    "logo": "https://media.api-sports.io/hockey/teams/670.png"
+                },
+                "away": {
+                    "id": 673,
+                    "name": "Boston Bruins",
+                    "logo": "https://media.api-sports.io/hockey/teams/673.png"
+                }
+            },
+            "scores": {
+                "home": 6,
+                "away": 2
+            },
+            "periods": {
+                "first": "1-0",
+                "second": "3-1",
+                "third": "2-1",
+                "overtime": null,
+                "penalties": null
+            },
+            "events": true
+        }
+    ]
+}

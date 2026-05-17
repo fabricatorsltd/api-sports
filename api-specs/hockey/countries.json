@@ -1,0 +1,224 @@
+{
+    "get": "countries",
+    "parameters": [],
+    "errors": [],
+    "results": 36,
+    "response": [
+        {
+            "id": 1,
+            "name": "Australia",
+            "code": "AU",
+            "flag": "https://media.api-sports.io/flags/au.svg"
+        },
+        {
+            "id": 2,
+            "name": "Austria",
+            "code": "AT",
+            "flag": "https://media.api-sports.io/flags/at.svg"
+        },
+        {
+            "id": 3,
+            "name": "Belarus",
+            "code": "BY",
+            "flag": "https://media.api-sports.io/flags/by.svg"
+        },
+        {
+            "id": 4,
+            "name": "Canada",
+            "code": "CA",
+            "flag": "https://media.api-sports.io/flags/ca.svg"
+        },
+        {
+            "id": 5,
+            "name": "Czech-Republic",
+            "code": "CZ",
+            "flag": "https://media.api-sports.io/flags/cz.svg"
+        },
+        {
+            "id": 6,
+            "name": "Denmark",
+            "code": "DK",
+            "flag": "https://media.api-sports.io/flags/dk.svg"
+        },
+        {
+            "id": 7,
+            "name": "Estonia",
+            "code": "EE",
+            "flag": "https://media.api-sports.io/flags/ee.svg"
+        },
+        {
+            "id": 8,
+            "name": "Finland",
+            "code": "FI",
+            "flag": "https://media.api-sports.io/flags/fi.svg"
+        },
+        {
+            "id": 9,
+            "name": "France",
+            "code": "FR",
+            "flag": "https://media.api-sports.io/flags/fr.svg"
+        },
+        {
+            "id": 10,
+            "name": "Germany",
+            "code": "DE",
+            "flag": "https://media.api-sports.io/flags/de.svg"
+        },
+        {
+            "id": 11,
+            "name": "Hungary",
+            "code": "HU",
+            "flag": "https://media.api-sports.io/flags/hu.svg"
+        },
+        {
+            "id": 12,
+            "name": "Italy",
+            "code": "IT",
+            "flag": "https://media.api-sports.io/flags/it.svg"
+        },
+        {
+            "id": 13,
+            "name": "Kazakhstan",
+            "code": "KZ",
+            "flag": "https://media.api-sports.io/flags/kz.svg"
+        },
+        {
+            "id": 14,
+            "name": "Latvia",
+            "code": "LV",
+            "flag": "https://media.api-sports.io/flags/lv.svg"
+        },
+        {
+            "id": 15,
+            "name": "Lithuania",
+            "code": "LT",
+            "flag": "https://media.api-sports.io/flags/lt.svg"
+        },
+        {
+            "id": 16,
+            "name": "Netherlands",
+            "code": "NL",
+            "flag": "https://media.api-sports.io/flags/nl.svg"
+        },
+        {
+            "id": 17,
+            "name": "New-Zealand",
+            "code": "NZ",
+            "flag": "https://media.api-sports.io/flags/nz.svg"
+        },
+        {
+            "id": 18,
+            "name": "Norway",
+            "code": "NO",
+            "flag": "https://media.api-sports.io/flags/no.svg"
+        },
+        {
+            "id": 19,
+            "name": "Poland",
+            "code": "PL",
+            "flag": "https://media.api-sports.io/flags/pl.svg"
+        },
+        {
+            "id": 20,
+            "name": "Romania",
+            "code": "RO",
+            "flag": "https://media.api-sports.io/flags/ro.svg"
+        },
+        {
+            "id": 21,
+            "name": "Russia",
+            "code": "RU",
+            "flag": "https://media.api-sports.io/flags/ru.svg"
+        },
+        {
+            "id": 22,
+            "name": "Serbia",
+            "code": "RS",
+            "flag": "https://media.api-sports.io/flags/rs.svg"
+        },
+        {
+            "id": 23,
+            "name": "Slovakia",
+            "code": "SK",
+            "flag": "https://media.api-sports.io/flags/sk.svg"
+        },
+        {
+            "id": 24,
+            "name": "Slovenia",
+            "code": "SI",
+            "flag": "https://media.api-sports.io/flags/si.svg"
+        },
+        {
+            "id": 25,
+            "name": "Spain",
+            "code": "ES",
+            "flag": "https://media.api-sports.io/flags/es.svg"
+        },
+        {
+            "id": 26,
+            "name": "Sweden",
+            "code": "SE",
+            "flag": "https://media.api-sports.io/flags/se.svg"
+        },
+        {
+            "id": 27,
+            "name": "Switzerland",
+            "code": "CH",
+            "flag": "https://media.api-sports.io/flags/ch.svg"
+        },
+        {
+            "id": 28,
+            "name": "Turkey",
+            "code": "TR",
+            "flag": "https://media.api-sports.io/flags/tr.svg"
+        },
+        {
+            "id": 29,
+            "name": "Ukraine",
+            "code": "UA",
+            "flag": "https://media.api-sports.io/flags/ua.svg"
+        },
+        {
+            "id": 30,
+            "name": "United-Kingdom",
+            "code": "GB",
+            "flag": "https://media.api-sports.io/flags/gb.svg"
+        },
+        {
+            "id": 31,
+            "name": "USA",
+            "code": "US",
+            "flag": "https://media.api-sports.io/flags/us.svg"
+        },
+        {
+            "id": 32,
+            "name": "Japan",
+            "code": "JP",
+            "flag": "https://media.api-sports.io/flags/jp.svg"
+        },
+        {
+            "id": 33,
+            "name": "Asia",
+            "code": "AS",
+            "flag": "https://media.api-sports.io/flags/as.svg"
+        },
+        {
+            "id": 34,
+            "name": "World",
+            "code": null,
+            "flag": null
+        },
+        {
+            "id": 35,
+            "name": "Europe",
+            "code": null,
+            "flag": null
+        },
+        {
+            "id": 36,
+            "name": "Belgium",
+            "code": "BE",
+            "flag": "https://media.api-sports.io/flags/be.svg"
+        }
+    ]
+}

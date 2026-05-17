@@ -1,0 +1,4911 @@
+{
+    "get": "standings",
+    "parameters": {
+        "league": "57",
+        "season": "2024"
+    },
+    "errors": [],
+    "results": 2,
+    "response": [
+        [
+            {
+                "position": 1,
+                "stage": "NHL - Regular Season",
+                "group": {
+                    "name": "Western Conference"
+                },
+                "team": {
+                    "id": 704,
+                    "name": "Winnipeg Jets",
+                    "logo": "https://media.api-sports.io/hockey/teams/704.png"
+                },
+                "league": {
+                    "id": 57,
+                    "name": "NHL",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/hockey/leagues/57.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 31,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 82,
+                    "win": {
+                        "total": 43,
+                        "percentage": "0.524"
+                    },
+                    "win_overtime": {
+                        "total": 13,
+                        "percentage": "0.159"
+                    },
+                    "lose": {
+                        "total": 22,
+                        "percentage": "0.268"
+                    },
+                    "lose_overtime": {
+                        "total": 4,
+                        "percentage": "0.049"
+                    }
+                },
+                "goals": {
+                    "for": 277,
+                    "against": 191
+                },
+                "points": 116,
+                "form": "WLWWW",
+                "description": "Promotion - NHL (Play Offs: )"
+            },
+            {
+                "position": 2,
+                "stage": "NHL - Regular Season",
+                "group": {
+                    "name": "Western Conference"
+                },
+                "team": {
+                    "id": 702,
+                    "name": "Vegas Golden Knights",
+                    "logo": "https://media.api-sports.io/hockey/teams/702.png"
+                },
+                "league": {
+                    "id": 57,
+                    "name": "NHL",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/hockey/leagues/57.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 31,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 82,
+                    "win": {
+                        "total": 46,
+                        "percentage": "0.561"
+                    },
+                    "win_overtime": {
+                        "total": 4,
+                        "percentage": "0.049"
+                    },
+                    "lose": {
+                        "total": 22,
+                        "percentage": "0.268"
+                    },
+                    "lose_overtime": {
+                        "total": 10,
+                        "percentage": "0.122"
+                    }
+                },
+                "goals": {
+                    "for": 275,
+                    "against": 219
+                },
+                "points": 110,
+                "form": "WLWWL",
+                "description": "Promotion - NHL (Play Offs: )"
+            },
+            {
+                "position": 3,
+                "stage": "NHL - Regular Season",
+                "group": {
+                    "name": "Western Conference"
+                },
+                "team": {
+                    "id": 681,
+                    "name": "Dallas Stars",
+                    "logo": "https://media.api-sports.io/hockey/teams/681.png"
+                },
+                "league": {
+                    "id": 57,
+                    "name": "NHL",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/hockey/leagues/57.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 31,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 82,
+                    "win": {
+                        "total": 41,
+                        "percentage": "0.500"
+                    },
+                    "win_overtime": {
+                        "total": 9,
+                        "percentage": "0.110"
+                    },
+                    "lose": {
+                        "total": 26,
+                        "percentage": "0.317"
+                    },
+                    "lose_overtime": {
+                        "total": 6,
+                        "percentage": "0.073"
+                    }
+                },
+                "goals": {
+                    "for": 277,
+                    "against": 224
+                },
+                "points": 106,
+                "form": "LLLLL",
+                "description": "Promotion - NHL (Play Offs: )"
+            },
+            {
+                "position": 4,
+                "stage": "NHL - Regular Season",
+                "group": {
+                    "name": "Western Conference"
+                },
+                "team": {
+                    "id": 685,
+                    "name": "Los Angeles Kings",
+                    "logo": "https://media.api-sports.io/hockey/teams/685.png"
+                },
+                "league": {
+                    "id": 57,
+                    "name": "NHL",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/hockey/leagues/57.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 31,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 82,
+                    "win": {
+                        "total": 43,
+                        "percentage": "0.524"
+                    },
+                    "win_overtime": {
+                        "total": 5,
+                        "percentage": "0.061"
+                    },
+                    "lose": {
+                        "total": 25,
+                        "percentage": "0.305"
+                    },
+                    "lose_overtime": {
+                        "total": 9,
+                        "percentage": "0.110"
+                    }
+                },
+                "goals": {
+                    "for": 250,
+                    "against": 206
+                },
+                "points": 105,
+                "form": "LWWWW",
+                "description": "Promotion - NHL (Play Offs: )"
+            },
+            {
+                "position": 5,
+                "stage": "NHL - Regular Season",
+                "group": {
+                    "name": "Western Conference"
+                },
+                "team": {
+                    "id": 679,
+                    "name": "Colorado Avalanche",
+                    "logo": "https://media.api-sports.io/hockey/teams/679.png"
+                },
+                "league": {
+                    "id": 57,
+                    "name": "NHL",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/hockey/leagues/57.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 31,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 82,
+                    "win": {
+                        "total": 40,
+                        "percentage": "0.488"
+                    },
+                    "win_overtime": {
+                        "total": 9,
+                        "percentage": "0.110"
+                    },
+                    "lose": {
+                        "total": 29,
+                        "percentage": "0.354"
+                    },
+                    "lose_overtime": {
+                        "total": 4,
+                        "percentage": "0.049"
+                    }
+                },
+                "goals": {
+                    "for": 277,
+                    "against": 234
+                },
+                "points": 102,
+                "form": "WLLWL",
+                "description": "Promotion - NHL (Play Offs: )"
+            },
+            {
+                "position": 6,
+                "stage": "NHL - Regular Season",
+                "group": {
+                    "name": "Western Conference"
+                },
+                "team": {
+                    "id": 683,
+                    "name": "Edmonton Oilers",
+                    "logo": "https://media.api-sports.io/hockey/teams/683.png"
+                },
+                "league": {
+                    "id": 57,
+                    "name": "NHL",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/hockey/leagues/57.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 31,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 82,
+                    "win": {
+                        "total": 36,
+                        "percentage": "0.439"
+                    },
+                    "win_overtime": {
+                        "total": 12,
+                        "percentage": "0.146"
+                    },
+                    "lose": {
+                        "total": 29,
+                        "percentage": "0.354"
+                    },
+                    "lose_overtime": {
+                        "total": 5,
+                        "percentage": "0.061"
+                    }
+                },
+                "goals": {
+                    "for": 259,
+                    "against": 236
+                },
+                "points": 101,
+                "form": "WLWWW",
+                "description": "Promotion - NHL (Play Offs: )"
+            },
+            {
+                "position": 7,
+                "stage": "NHL - Regular Season",
+                "group": {
+                    "name": "Western Conference"
+                },
+                "team": {
+                    "id": 687,
+                    "name": "Minnesota Wild",
+                    "logo": "https://media.api-sports.io/hockey/teams/687.png"
+                },
+                "league": {
+                    "id": 57,
+                    "name": "NHL",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/hockey/leagues/57.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 31,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 82,
+                    "win": {
+                        "total": 33,
+                        "percentage": "0.402"
+                    },
+                    "win_overtime": {
+                        "total": 12,
+                        "percentage": "0.146"
+                    },
+                    "lose": {
+                        "total": 30,
+                        "percentage": "0.366"
+                    },
+                    "lose_overtime": {
+                        "total": 7,
+                        "percentage": "0.085"
+                    }
+                },
+                "goals": {
+                    "for": 228,
+                    "against": 239
+                },
+                "points": 97,
+                "form": "WWLWW",
+                "description": "Promotion - NHL (Play Offs: )"
+            },
+            {
+                "position": 8,
+                "stage": "NHL - Regular Season",
+                "group": {
+                    "name": "Western Conference"
+                },
+                "team": {
+                    "id": 698,
+                    "name": "St. Louis Blues",
+                    "logo": "https://media.api-sports.io/hockey/teams/698.png"
+                },
+                "league": {
+                    "id": 57,
+                    "name": "NHL",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/hockey/leagues/57.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 31,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 82,
+                    "win": {
+                        "total": 32,
+                        "percentage": "0.390"
+                    },
+                    "win_overtime": {
+                        "total": 12,
+                        "percentage": "0.146"
+                    },
+                    "lose": {
+                        "total": 30,
+                        "percentage": "0.366"
+                    },
+                    "lose_overtime": {
+                        "total": 8,
+                        "percentage": "0.098"
+                    }
+                },
+                "goals": {
+                    "for": 254,
+                    "against": 233
+                },
+                "points": 96,
+                "form": "WLLLW",
+                "description": "Promotion - NHL (Play Offs: )"
+            },
+            {
+                "position": 9,
+                "stage": "NHL - Regular Season",
+                "group": {
+                    "name": "Western Conference"
+                },
+                "team": {
+                    "id": 675,
+                    "name": "Calgary Flames",
+                    "logo": "https://media.api-sports.io/hockey/teams/675.png"
+                },
+                "league": {
+                    "id": 57,
+                    "name": "NHL",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/hockey/leagues/57.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 31,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 82,
+                    "win": {
+                        "total": 31,
+                        "percentage": "0.378"
+                    },
+                    "win_overtime": {
+                        "total": 10,
+                        "percentage": "0.122"
+                    },
+                    "lose": {
+                        "total": 27,
+                        "percentage": "0.329"
+                    },
+                    "lose_overtime": {
+                        "total": 14,
+                        "percentage": "0.171"
+                    }
+                },
+                "goals": {
+                    "for": 225,
+                    "against": 238
+                },
+                "points": 96,
+                "form": "WWWWL",
+                "description": null
+            },
+            {
+                "position": 10,
+                "stage": "NHL - Regular Season",
+                "group": {
+                    "name": "Western Conference"
+                },
+                "team": {
+                    "id": 701,
+                    "name": "Vancouver Canucks",
+                    "logo": "https://media.api-sports.io/hockey/teams/701.png"
+                },
+                "league": {
+                    "id": 57,
+                    "name": "NHL",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/hockey/leagues/57.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 31,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 82,
+                    "win": {
+                        "total": 28,
+                        "percentage": "0.341"
+                    },
+                    "win_overtime": {
+                        "total": 10,
+                        "percentage": "0.122"
+                    },
+                    "lose": {
+                        "total": 30,
+                        "percentage": "0.366"
+                    },
+                    "lose_overtime": {
+                        "total": 14,
+                        "percentage": "0.171"
+                    }
+                },
+                "goals": {
+                    "for": 236,
+                    "against": 253
+                },
+                "points": 90,
+                "form": "LWLWW",
+                "description": null
+            },
+            {
+                "position": 11,
+                "stage": "NHL - Regular Season",
+                "group": {
+                    "name": "Western Conference"
+                },
+                "team": {
+                    "id": 0,
+                    "name": "Utah Mammoth",
+                    "logo": "https://media.api-sports.io/hockey/teams/0.png"
+                },
+                "league": {
+                    "id": 57,
+                    "name": "NHL",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/hockey/leagues/57.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 31,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 82,
+                    "win": {
+                        "total": 30,
+                        "percentage": "0.366"
+                    },
+                    "win_overtime": {
+                        "total": 8,
+                        "percentage": "0.098"
+                    },
+                    "lose": {
+                        "total": 31,
+                        "percentage": "0.378"
+                    },
+                    "lose_overtime": {
+                        "total": 13,
+                        "percentage": "0.159"
+                    }
+                },
+                "goals": {
+                    "for": 241,
+                    "against": 251
+                },
+                "points": 89,
+                "form": "LWWLW",
+                "description": null
+            },
+            {
+                "position": 12,
+                "stage": "NHL - Regular Season",
+                "group": {
+                    "name": "Western Conference"
+                },
+                "team": {
+                    "id": 670,
+                    "name": "Anaheim Ducks",
+                    "logo": "https://media.api-sports.io/hockey/teams/670.png"
+                },
+                "league": {
+                    "id": 57,
+                    "name": "NHL",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/hockey/leagues/57.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 31,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 82,
+                    "win": {
+                        "total": 24,
+                        "percentage": "0.293"
+                    },
+                    "win_overtime": {
+                        "total": 11,
+                        "percentage": "0.134"
+                    },
+                    "lose": {
+                        "total": 37,
+                        "percentage": "0.451"
+                    },
+                    "lose_overtime": {
+                        "total": 10,
+                        "percentage": "0.122"
+                    }
+                },
+                "goals": {
+                    "for": 221,
+                    "against": 263
+                },
+                "points": 80,
+                "form": "LLLLW",
+                "description": null
+            },
+            {
+                "position": 13,
+                "stage": "NHL - Regular Season",
+                "group": {
+                    "name": "Western Conference"
+                },
+                "team": {
+                    "id": 1436,
+                    "name": "Seattle Kraken",
+                    "logo": "https://media.api-sports.io/hockey/teams/1436.png"
+                },
+                "league": {
+                    "id": 57,
+                    "name": "NHL",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/hockey/leagues/57.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 31,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 82,
+                    "win": {
+                        "total": 28,
+                        "percentage": "0.341"
+                    },
+                    "win_overtime": {
+                        "total": 7,
+                        "percentage": "0.085"
+                    },
+                    "lose": {
+                        "total": 41,
+                        "percentage": "0.500"
+                    },
+                    "lose_overtime": {
+                        "total": 6,
+                        "percentage": "0.073"
+                    }
+                },
+                "goals": {
+                    "for": 247,
+                    "against": 265
+                },
+                "points": 76,
+                "form": "LWLLW",
+                "description": null
+            },
+            {
+                "position": 14,
+                "stage": "NHL - Regular Season",
+                "group": {
+                    "name": "Western Conference"
+                },
+                "team": {
+                    "id": 689,
+                    "name": "Nashville Predators",
+                    "logo": "https://media.api-sports.io/hockey/teams/689.png"
+                },
+                "league": {
+                    "id": 57,
+                    "name": "NHL",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/hockey/leagues/57.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 31,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 82,
+                    "win": {
+                        "total": 24,
+                        "percentage": "0.293"
+                    },
+                    "win_overtime": {
+                        "total": 6,
+                        "percentage": "0.073"
+                    },
+                    "lose": {
+                        "total": 44,
+                        "percentage": "0.537"
+                    },
+                    "lose_overtime": {
+                        "total": 8,
+                        "percentage": "0.098"
+                    }
+                },
+                "goals": {
+                    "for": 214,
+                    "against": 274
+                },
+                "points": 68,
+                "form": "WLLWW",
+                "description": null
+            },
+            {
+                "position": 15,
+                "stage": "NHL - Regular Season",
+                "group": {
+                    "name": "Western Conference"
+                },
+                "team": {
+                    "id": 678,
+                    "name": "Chicago Blackhawks",
+                    "logo": "https://media.api-sports.io/hockey/teams/678.png"
+                },
+                "league": {
+                    "id": 57,
+                    "name": "NHL",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/hockey/leagues/57.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 31,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 82,
+                    "win": {
+                        "total": 20,
+                        "percentage": "0.244"
+                    },
+                    "win_overtime": {
+                        "total": 5,
+                        "percentage": "0.061"
+                    },
+                    "lose": {
+                        "total": 46,
+                        "percentage": "0.561"
+                    },
+                    "lose_overtime": {
+                        "total": 11,
+                        "percentage": "0.134"
+                    }
+                },
+                "goals": {
+                    "for": 226,
+                    "against": 296
+                },
+                "points": 61,
+                "form": "WWLWL",
+                "description": null
+            },
+            {
+                "position": 16,
+                "stage": "NHL - Regular Season",
+                "group": {
+                    "name": "Western Conference"
+                },
+                "team": {
+                    "id": 697,
+                    "name": "San Jose Sharks",
+                    "logo": "https://media.api-sports.io/hockey/teams/697.png"
+                },
+                "league": {
+                    "id": 57,
+                    "name": "NHL",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/hockey/leagues/57.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 31,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 82,
+                    "win": {
+                        "total": 14,
+                        "percentage": "0.171"
+                    },
+                    "win_overtime": {
+                        "total": 6,
+                        "percentage": "0.073"
+                    },
+                    "lose": {
+                        "total": 50,
+                        "percentage": "0.610"
+                    },
+                    "lose_overtime": {
+                        "total": 12,
+                        "percentage": "0.146"
+                    }
+                },
+                "goals": {
+                    "for": 210,
+                    "against": 315
+                },
+                "points": 52,
+                "form": "LLLLL",
+                "description": null
+            },
+            {
+                "position": 1,
+                "stage": "NHL - Regular Season",
+                "group": {
+                    "name": "Eastern Conference"
+                },
+                "team": {
+                    "id": 703,
+                    "name": "Washington Capitals",
+                    "logo": "https://media.api-sports.io/hockey/teams/703.png"
+                },
+                "league": {
+                    "id": 57,
+                    "name": "NHL",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/hockey/leagues/57.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 31,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 82,
+                    "win": {
+                        "total": 43,
+                        "percentage": "0.524"
+                    },
+                    "win_overtime": {
+                        "total": 8,
+                        "percentage": "0.098"
+                    },
+                    "lose": {
+                        "total": 22,
+                        "percentage": "0.268"
+                    },
+                    "lose_overtime": {
+                        "total": 9,
+                        "percentage": "0.110"
+                    }
+                },
+                "goals": {
+                    "for": 288,
+                    "against": 232
+                },
+                "points": 111,
+                "form": "LWLLW",
+                "description": "Promotion - NHL (Play Offs: )"
+            },
+            {
+                "position": 2,
+                "stage": "NHL - Regular Season",
+                "group": {
+                    "name": "Eastern Conference"
+                },
+                "team": {
+                    "id": 700,
+                    "name": "Toronto Maple Leafs",
+                    "logo": "https://media.api-sports.io/hockey/teams/700.png"
+                },
+                "league": {
+                    "id": 57,
+                    "name": "NHL",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/hockey/leagues/57.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 31,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 82,
+                    "win": {
+                        "total": 41,
+                        "percentage": "0.500"
+                    },
+                    "win_overtime": {
+                        "total": 11,
+                        "percentage": "0.134"
+                    },
+                    "lose": {
+                        "total": 26,
+                        "percentage": "0.317"
+                    },
+                    "lose_overtime": {
+                        "total": 4,
+                        "percentage": "0.049"
+                    }
+                },
+                "goals": {
+                    "for": 268,
+                    "against": 231
+                },
+                "points": 108,
+                "form": "WWWWW",
+                "description": "Promotion - NHL (Play Offs: )"
+            },
+            {
+                "position": 3,
+                "stage": "NHL - Regular Season",
+                "group": {
+                    "name": "Eastern Conference"
+                },
+                "team": {
+                    "id": 699,
+                    "name": "Tampa Bay Lightning",
+                    "logo": "https://media.api-sports.io/hockey/teams/699.png"
+                },
+                "league": {
+                    "id": 57,
+                    "name": "NHL",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/hockey/leagues/57.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 31,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 82,
+                    "win": {
+                        "total": 41,
+                        "percentage": "0.500"
+                    },
+                    "win_overtime": {
+                        "total": 6,
+                        "percentage": "0.073"
+                    },
+                    "lose": {
+                        "total": 27,
+                        "percentage": "0.329"
+                    },
+                    "lose_overtime": {
+                        "total": 8,
+                        "percentage": "0.098"
+                    }
+                },
+                "goals": {
+                    "for": 294,
+                    "against": 219
+                },
+                "points": 102,
+                "form": "LWWLL",
+                "description": "Promotion - NHL (Play Offs: )"
+            },
+            {
+                "position": 4,
+                "stage": "NHL - Regular Season",
+                "group": {
+                    "name": "Eastern Conference"
+                },
+                "team": {
+                    "id": 676,
+                    "name": "Carolina Hurricanes",
+                    "logo": "https://media.api-sports.io/hockey/teams/676.png"
+                },
+                "league": {
+                    "id": 57,
+                    "name": "NHL",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/hockey/leagues/57.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 31,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 82,
+                    "win": {
+                        "total": 42,
+                        "percentage": "0.512"
+                    },
+                    "win_overtime": {
+                        "total": 5,
+                        "percentage": "0.061"
+                    },
+                    "lose": {
+                        "total": 30,
+                        "percentage": "0.366"
+                    },
+                    "lose_overtime": {
+                        "total": 5,
+                        "percentage": "0.061"
+                    }
+                },
+                "goals": {
+                    "for": 266,
+                    "against": 233
+                },
+                "points": 99,
+                "form": "LLLWL",
+                "description": "Promotion - NHL (Play Offs: )"
+            },
+            {
+                "position": 5,
+                "stage": "NHL - Regular Season",
+                "group": {
+                    "name": "Eastern Conference"
+                },
+                "team": {
+                    "id": 684,
+                    "name": "Florida Panthers",
+                    "logo": "https://media.api-sports.io/hockey/teams/684.png"
+                },
+                "league": {
+                    "id": 57,
+                    "name": "NHL",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/hockey/leagues/57.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 31,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 82,
+                    "win": {
+                        "total": 37,
+                        "percentage": "0.451"
+                    },
+                    "win_overtime": {
+                        "total": 10,
+                        "percentage": "0.122"
+                    },
+                    "lose": {
+                        "total": 31,
+                        "percentage": "0.378"
+                    },
+                    "lose_overtime": {
+                        "total": 4,
+                        "percentage": "0.049"
+                    }
+                },
+                "goals": {
+                    "for": 252,
+                    "against": 223
+                },
+                "points": 98,
+                "form": "LLWWW",
+                "description": "Promotion - NHL (Play Offs: )"
+            },
+            {
+                "position": 6,
+                "stage": "NHL - Regular Season",
+                "group": {
+                    "name": "Eastern Conference"
+                },
+                "team": {
+                    "id": 693,
+                    "name": "Ottawa Senators",
+                    "logo": "https://media.api-sports.io/hockey/teams/693.png"
+                },
+                "league": {
+                    "id": 57,
+                    "name": "NHL",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/hockey/leagues/57.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 31,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 82,
+                    "win": {
+                        "total": 35,
+                        "percentage": "0.427"
+                    },
+                    "win_overtime": {
+                        "total": 10,
+                        "percentage": "0.122"
+                    },
+                    "lose": {
+                        "total": 30,
+                        "percentage": "0.366"
+                    },
+                    "lose_overtime": {
+                        "total": 7,
+                        "percentage": "0.085"
+                    }
+                },
+                "goals": {
+                    "for": 243,
+                    "against": 234
+                },
+                "points": 97,
+                "form": "WLWWL",
+                "description": "Promotion - NHL (Play Offs: )"
+            },
+            {
+                "position": 7,
+                "stage": "NHL - Regular Season",
+                "group": {
+                    "name": "Eastern Conference"
+                },
+                "team": {
+                    "id": 690,
+                    "name": "New Jersey Devils",
+                    "logo": "https://media.api-sports.io/hockey/teams/690.png"
+                },
+                "league": {
+                    "id": 57,
+                    "name": "NHL",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/hockey/leagues/57.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 31,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 82,
+                    "win": {
+                        "total": 36,
+                        "percentage": "0.439"
+                    },
+                    "win_overtime": {
+                        "total": 6,
+                        "percentage": "0.073"
+                    },
+                    "lose": {
+                        "total": 33,
+                        "percentage": "0.402"
+                    },
+                    "lose_overtime": {
+                        "total": 7,
+                        "percentage": "0.085"
+                    }
+                },
+                "goals": {
+                    "for": 242,
+                    "against": 222
+                },
+                "points": 91,
+                "form": "LWLLL",
+                "description": "Promotion - NHL (Play Offs: )"
+            },
+            {
+                "position": 8,
+                "stage": "NHL - Regular Season",
+                "group": {
+                    "name": "Eastern Conference"
+                },
+                "team": {
+                    "id": 688,
+                    "name": "Montreal Canadiens",
+                    "logo": "https://media.api-sports.io/hockey/teams/688.png"
+                },
+                "league": {
+                    "id": 57,
+                    "name": "NHL",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/hockey/leagues/57.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 31,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 82,
+                    "win": {
+                        "total": 30,
+                        "percentage": "0.366"
+                    },
+                    "win_overtime": {
+                        "total": 10,
+                        "percentage": "0.122"
+                    },
+                    "lose": {
+                        "total": 31,
+                        "percentage": "0.378"
+                    },
+                    "lose_overtime": {
+                        "total": 11,
+                        "percentage": "0.134"
+                    }
+                },
+                "goals": {
+                    "for": 245,
+                    "against": 265
+                },
+                "points": 91,
+                "form": "WLLLW",
+                "description": "Promotion - NHL (Play Offs: )"
+            },
+            {
+                "position": 9,
+                "stage": "NHL - Regular Season",
+                "group": {
+                    "name": "Eastern Conference"
+                },
+                "team": {
+                    "id": 680,
+                    "name": "Columbus Blue Jackets",
+                    "logo": "https://media.api-sports.io/hockey/teams/680.png"
+                },
+                "league": {
+                    "id": 57,
+                    "name": "NHL",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/hockey/leagues/57.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 31,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 82,
+                    "win": {
+                        "total": 30,
+                        "percentage": "0.366"
+                    },
+                    "win_overtime": {
+                        "total": 10,
+                        "percentage": "0.122"
+                    },
+                    "lose": {
+                        "total": 33,
+                        "percentage": "0.402"
+                    },
+                    "lose_overtime": {
+                        "total": 9,
+                        "percentage": "0.110"
+                    }
+                },
+                "goals": {
+                    "for": 273,
+                    "against": 268
+                },
+                "points": 89,
+                "form": "WWWWW",
+                "description": null
+            },
+            {
+                "position": 10,
+                "stage": "NHL - Regular Season",
+                "group": {
+                    "name": "Eastern Conference"
+                },
+                "team": {
+                    "id": 682,
+                    "name": "Detroit Red Wings",
+                    "logo": "https://media.api-sports.io/hockey/teams/682.png"
+                },
+                "league": {
+                    "id": 57,
+                    "name": "NHL",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/hockey/leagues/57.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 31,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 82,
+                    "win": {
+                        "total": 30,
+                        "percentage": "0.366"
+                    },
+                    "win_overtime": {
+                        "total": 9,
+                        "percentage": "0.110"
+                    },
+                    "lose": {
+                        "total": 35,
+                        "percentage": "0.427"
+                    },
+                    "lose_overtime": {
+                        "total": 8,
+                        "percentage": "0.098"
+                    }
+                },
+                "goals": {
+                    "for": 238,
+                    "against": 259
+                },
+                "points": 86,
+                "form": "LWWWL",
+                "description": null
+            },
+            {
+                "position": 11,
+                "stage": "NHL - Regular Season",
+                "group": {
+                    "name": "Eastern Conference"
+                },
+                "team": {
+                    "id": 692,
+                    "name": "New York Rangers",
+                    "logo": "https://media.api-sports.io/hockey/teams/692.png"
+                },
+                "league": {
+                    "id": 57,
+                    "name": "NHL",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/hockey/leagues/57.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 31,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 82,
+                    "win": {
+                        "total": 35,
+                        "percentage": "0.427"
+                    },
+                    "win_overtime": {
+                        "total": 4,
+                        "percentage": "0.049"
+                    },
+                    "lose": {
+                        "total": 36,
+                        "percentage": "0.439"
+                    },
+                    "lose_overtime": {
+                        "total": 7,
+                        "percentage": "0.085"
+                    }
+                },
+                "goals": {
+                    "for": 256,
+                    "against": 255
+                },
+                "points": 85,
+                "form": "WWLWL",
+                "description": null
+            },
+            {
+                "position": 12,
+                "stage": "NHL - Regular Season",
+                "group": {
+                    "name": "Eastern Conference"
+                },
+                "team": {
+                    "id": 691,
+                    "name": "New York Islanders",
+                    "logo": "https://media.api-sports.io/hockey/teams/691.png"
+                },
+                "league": {
+                    "id": 57,
+                    "name": "NHL",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/hockey/leagues/57.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 31,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 82,
+                    "win": {
+                        "total": 28,
+                        "percentage": "0.341"
+                    },
+                    "win_overtime": {
+                        "total": 7,
+                        "percentage": "0.085"
+                    },
+                    "lose": {
+                        "total": 35,
+                        "percentage": "0.427"
+                    },
+                    "lose_overtime": {
+                        "total": 12,
+                        "percentage": "0.146"
+                    }
+                },
+                "goals": {
+                    "for": 224,
+                    "against": 260
+                },
+                "points": 82,
+                "form": "LLWLL",
+                "description": null
+            },
+            {
+                "position": 13,
+                "stage": "NHL - Regular Season",
+                "group": {
+                    "name": "Eastern Conference"
+                },
+                "team": {
+                    "id": 696,
+                    "name": "Pittsburgh Penguins",
+                    "logo": "https://media.api-sports.io/hockey/teams/696.png"
+                },
+                "league": {
+                    "id": 57,
+                    "name": "NHL",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/hockey/leagues/57.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 31,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 82,
+                    "win": {
+                        "total": 24,
+                        "percentage": "0.293"
+                    },
+                    "win_overtime": {
+                        "total": 10,
+                        "percentage": "0.122"
+                    },
+                    "lose": {
+                        "total": 36,
+                        "percentage": "0.439"
+                    },
+                    "lose_overtime": {
+                        "total": 12,
+                        "percentage": "0.146"
+                    }
+                },
+                "goals": {
+                    "for": 243,
+                    "against": 293
+                },
+                "points": 80,
+                "form": "WLWWL",
+                "description": null
+            },
+            {
+                "position": 14,
+                "stage": "NHL - Regular Season",
+                "group": {
+                    "name": "Eastern Conference"
+                },
+                "team": {
+                    "id": 674,
+                    "name": "Buffalo Sabres",
+                    "logo": "https://media.api-sports.io/hockey/teams/674.png"
+                },
+                "league": {
+                    "id": 57,
+                    "name": "NHL",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/hockey/leagues/57.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 31,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 82,
+                    "win": {
+                        "total": 29,
+                        "percentage": "0.354"
+                    },
+                    "win_overtime": {
+                        "total": 7,
+                        "percentage": "0.085"
+                    },
+                    "lose": {
+                        "total": 39,
+                        "percentage": "0.476"
+                    },
+                    "lose_overtime": {
+                        "total": 7,
+                        "percentage": "0.085"
+                    }
+                },
+                "goals": {
+                    "for": 269,
+                    "against": 289
+                },
+                "points": 79,
+                "form": "WLLLL",
+                "description": null
+            },
+            {
+                "position": 15,
+                "stage": "NHL - Regular Season",
+                "group": {
+                    "name": "Eastern Conference"
+                },
+                "team": {
+                    "id": 673,
+                    "name": "Boston Bruins",
+                    "logo": "https://media.api-sports.io/hockey/teams/673.png"
+                },
+                "league": {
+                    "id": 57,
+                    "name": "NHL",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/hockey/leagues/57.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 31,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 82,
+                    "win": {
+                        "total": 26,
+                        "percentage": "0.317"
+                    },
+                    "win_overtime": {
+                        "total": 7,
+                        "percentage": "0.085"
+                    },
+                    "lose": {
+                        "total": 39,
+                        "percentage": "0.476"
+                    },
+                    "lose_overtime": {
+                        "total": 10,
+                        "percentage": "0.122"
+                    }
+                },
+                "goals": {
+                    "for": 222,
+                    "against": 272
+                },
+                "points": 76,
+                "form": "LWLWL",
+                "description": null
+            },
+            {
+                "position": 16,
+                "stage": "NHL - Regular Season",
+                "group": {
+                    "name": "Eastern Conference"
+                },
+                "team": {
+                    "id": 695,
+                    "name": "Philadelphia Flyers",
+                    "logo": "https://media.api-sports.io/hockey/teams/695.png"
+                },
+                "league": {
+                    "id": 57,
+                    "name": "NHL",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/hockey/leagues/57.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 31,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 82,
+                    "win": {
+                        "total": 21,
+                        "percentage": "0.256"
+                    },
+                    "win_overtime": {
+                        "total": 12,
+                        "percentage": "0.146"
+                    },
+                    "lose": {
+                        "total": 39,
+                        "percentage": "0.476"
+                    },
+                    "lose_overtime": {
+                        "total": 10,
+                        "percentage": "0.122"
+                    }
+                },
+                "goals": {
+                    "for": 238,
+                    "against": 286
+                },
+                "points": 76,
+                "form": "LLLWW",
+                "description": null
+            },
+            {
+                "position": 1,
+                "stage": "NHL - Regular Season",
+                "group": {
+                    "name": "Atlantic Division"
+                },
+                "team": {
+                    "id": 700,
+                    "name": "Toronto Maple Leafs",
+                    "logo": "https://media.api-sports.io/hockey/teams/700.png"
+                },
+                "league": {
+                    "id": 57,
+                    "name": "NHL",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/hockey/leagues/57.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 31,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 82,
+                    "win": {
+                        "total": 41,
+                        "percentage": "0.500"
+                    },
+                    "win_overtime": {
+                        "total": 11,
+                        "percentage": "0.134"
+                    },
+                    "lose": {
+                        "total": 26,
+                        "percentage": "0.317"
+                    },
+                    "lose_overtime": {
+                        "total": 4,
+                        "percentage": "0.049"
+                    }
+                },
+                "goals": {
+                    "for": 268,
+                    "against": 231
+                },
+                "points": 108,
+                "form": "WWWWW",
+                "description": "Promotion - NHL (Play Offs: )"
+            },
+            {
+                "position": 2,
+                "stage": "NHL - Regular Season",
+                "group": {
+                    "name": "Atlantic Division"
+                },
+                "team": {
+                    "id": 699,
+                    "name": "Tampa Bay Lightning",
+                    "logo": "https://media.api-sports.io/hockey/teams/699.png"
+                },
+                "league": {
+                    "id": 57,
+                    "name": "NHL",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/hockey/leagues/57.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 31,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 82,
+                    "win": {
+                        "total": 41,
+                        "percentage": "0.500"
+                    },
+                    "win_overtime": {
+                        "total": 6,
+                        "percentage": "0.073"
+                    },
+                    "lose": {
+                        "total": 27,
+                        "percentage": "0.329"
+                    },
+                    "lose_overtime": {
+                        "total": 8,
+                        "percentage": "0.098"
+                    }
+                },
+                "goals": {
+                    "for": 294,
+                    "against": 219
+                },
+                "points": 102,
+                "form": "LWWLL",
+                "description": "Promotion - NHL (Play Offs: )"
+            },
+            {
+                "position": 3,
+                "stage": "NHL - Regular Season",
+                "group": {
+                    "name": "Atlantic Division"
+                },
+                "team": {
+                    "id": 684,
+                    "name": "Florida Panthers",
+                    "logo": "https://media.api-sports.io/hockey/teams/684.png"
+                },
+                "league": {
+                    "id": 57,
+                    "name": "NHL",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/hockey/leagues/57.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 31,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 82,
+                    "win": {
+                        "total": 37,
+                        "percentage": "0.451"
+                    },
+                    "win_overtime": {
+                        "total": 10,
+                        "percentage": "0.122"
+                    },
+                    "lose": {
+                        "total": 31,
+                        "percentage": "0.378"
+                    },
+                    "lose_overtime": {
+                        "total": 4,
+                        "percentage": "0.049"
+                    }
+                },
+                "goals": {
+                    "for": 252,
+                    "against": 223
+                },
+                "points": 98,
+                "form": "LLWWW",
+                "description": "Promotion - NHL (Play Offs: )"
+            },
+            {
+                "position": 4,
+                "stage": "NHL - Regular Season",
+                "group": {
+                    "name": "Atlantic Division"
+                },
+                "team": {
+                    "id": 693,
+                    "name": "Ottawa Senators",
+                    "logo": "https://media.api-sports.io/hockey/teams/693.png"
+                },
+                "league": {
+                    "id": 57,
+                    "name": "NHL",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/hockey/leagues/57.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 31,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 82,
+                    "win": {
+                        "total": 35,
+                        "percentage": "0.427"
+                    },
+                    "win_overtime": {
+                        "total": 10,
+                        "percentage": "0.122"
+                    },
+                    "lose": {
+                        "total": 30,
+                        "percentage": "0.366"
+                    },
+                    "lose_overtime": {
+                        "total": 7,
+                        "percentage": "0.085"
+                    }
+                },
+                "goals": {
+                    "for": 243,
+                    "against": 234
+                },
+                "points": 97,
+                "form": "WLWWL",
+                "description": "Promotion - NHL (Play Offs: )"
+            },
+            {
+                "position": 5,
+                "stage": "NHL - Regular Season",
+                "group": {
+                    "name": "Atlantic Division"
+                },
+                "team": {
+                    "id": 688,
+                    "name": "Montreal Canadiens",
+                    "logo": "https://media.api-sports.io/hockey/teams/688.png"
+                },
+                "league": {
+                    "id": 57,
+                    "name": "NHL",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/hockey/leagues/57.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 31,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 82,
+                    "win": {
+                        "total": 30,
+                        "percentage": "0.366"
+                    },
+                    "win_overtime": {
+                        "total": 10,
+                        "percentage": "0.122"
+                    },
+                    "lose": {
+                        "total": 31,
+                        "percentage": "0.378"
+                    },
+                    "lose_overtime": {
+                        "total": 11,
+                        "percentage": "0.134"
+                    }
+                },
+                "goals": {
+                    "for": 245,
+                    "against": 265
+                },
+                "points": 91,
+                "form": "WLLLW",
+                "description": "Promotion - NHL (Play Offs: )"
+            },
+            {
+                "position": 6,
+                "stage": "NHL - Regular Season",
+                "group": {
+                    "name": "Atlantic Division"
+                },
+                "team": {
+                    "id": 682,
+                    "name": "Detroit Red Wings",
+                    "logo": "https://media.api-sports.io/hockey/teams/682.png"
+                },
+                "league": {
+                    "id": 57,
+                    "name": "NHL",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/hockey/leagues/57.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 31,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 82,
+                    "win": {
+                        "total": 30,
+                        "percentage": "0.366"
+                    },
+                    "win_overtime": {
+                        "total": 9,
+                        "percentage": "0.110"
+                    },
+                    "lose": {
+                        "total": 35,
+                        "percentage": "0.427"
+                    },
+                    "lose_overtime": {
+                        "total": 8,
+                        "percentage": "0.098"
+                    }
+                },
+                "goals": {
+                    "for": 238,
+                    "against": 259
+                },
+                "points": 86,
+                "form": "LWWWL",
+                "description": null
+            },
+            {
+                "position": 7,
+                "stage": "NHL - Regular Season",
+                "group": {
+                    "name": "Atlantic Division"
+                },
+                "team": {
+                    "id": 674,
+                    "name": "Buffalo Sabres",
+                    "logo": "https://media.api-sports.io/hockey/teams/674.png"
+                },
+                "league": {
+                    "id": 57,
+                    "name": "NHL",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/hockey/leagues/57.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 31,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 82,
+                    "win": {
+                        "total": 29,
+                        "percentage": "0.354"
+                    },
+                    "win_overtime": {
+                        "total": 7,
+                        "percentage": "0.085"
+                    },
+                    "lose": {
+                        "total": 39,
+                        "percentage": "0.476"
+                    },
+                    "lose_overtime": {
+                        "total": 7,
+                        "percentage": "0.085"
+                    }
+                },
+                "goals": {
+                    "for": 269,
+                    "against": 289
+                },
+                "points": 79,
+                "form": "WLLLL",
+                "description": null
+            },
+            {
+                "position": 8,
+                "stage": "NHL - Regular Season",
+                "group": {
+                    "name": "Atlantic Division"
+                },
+                "team": {
+                    "id": 673,
+                    "name": "Boston Bruins",
+                    "logo": "https://media.api-sports.io/hockey/teams/673.png"
+                },
+                "league": {
+                    "id": 57,
+                    "name": "NHL",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/hockey/leagues/57.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 31,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 82,
+                    "win": {
+                        "total": 26,
+                        "percentage": "0.317"
+                    },
+                    "win_overtime": {
+                        "total": 7,
+                        "percentage": "0.085"
+                    },
+                    "lose": {
+                        "total": 39,
+                        "percentage": "0.476"
+                    },
+                    "lose_overtime": {
+                        "total": 10,
+                        "percentage": "0.122"
+                    }
+                },
+                "goals": {
+                    "for": 222,
+                    "against": 272
+                },
+                "points": 76,
+                "form": "LWLWL",
+                "description": null
+            },
+            {
+                "position": 1,
+                "stage": "NHL - Regular Season",
+                "group": {
+                    "name": "Central Division"
+                },
+                "team": {
+                    "id": 704,
+                    "name": "Winnipeg Jets",
+                    "logo": "https://media.api-sports.io/hockey/teams/704.png"
+                },
+                "league": {
+                    "id": 57,
+                    "name": "NHL",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/hockey/leagues/57.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 31,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 82,
+                    "win": {
+                        "total": 43,
+                        "percentage": "0.524"
+                    },
+                    "win_overtime": {
+                        "total": 13,
+                        "percentage": "0.159"
+                    },
+                    "lose": {
+                        "total": 22,
+                        "percentage": "0.268"
+                    },
+                    "lose_overtime": {
+                        "total": 4,
+                        "percentage": "0.049"
+                    }
+                },
+                "goals": {
+                    "for": 277,
+                    "against": 191
+                },
+                "points": 116,
+                "form": "WLWWW",
+                "description": "Promotion - NHL (Play Offs: )"
+            },
+            {
+                "position": 2,
+                "stage": "NHL - Regular Season",
+                "group": {
+                    "name": "Central Division"
+                },
+                "team": {
+                    "id": 681,
+                    "name": "Dallas Stars",
+                    "logo": "https://media.api-sports.io/hockey/teams/681.png"
+                },
+                "league": {
+                    "id": 57,
+                    "name": "NHL",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/hockey/leagues/57.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 31,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 82,
+                    "win": {
+                        "total": 41,
+                        "percentage": "0.500"
+                    },
+                    "win_overtime": {
+                        "total": 9,
+                        "percentage": "0.110"
+                    },
+                    "lose": {
+                        "total": 26,
+                        "percentage": "0.317"
+                    },
+                    "lose_overtime": {
+                        "total": 6,
+                        "percentage": "0.073"
+                    }
+                },
+                "goals": {
+                    "for": 277,
+                    "against": 224
+                },
+                "points": 106,
+                "form": "LLLLL",
+                "description": "Promotion - NHL (Play Offs: )"
+            },
+            {
+                "position": 3,
+                "stage": "NHL - Regular Season",
+                "group": {
+                    "name": "Central Division"
+                },
+                "team": {
+                    "id": 679,
+                    "name": "Colorado Avalanche",
+                    "logo": "https://media.api-sports.io/hockey/teams/679.png"
+                },
+                "league": {
+                    "id": 57,
+                    "name": "NHL",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/hockey/leagues/57.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 31,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 82,
+                    "win": {
+                        "total": 40,
+                        "percentage": "0.488"
+                    },
+                    "win_overtime": {
+                        "total": 9,
+                        "percentage": "0.110"
+                    },
+                    "lose": {
+                        "total": 29,
+                        "percentage": "0.354"
+                    },
+                    "lose_overtime": {
+                        "total": 4,
+                        "percentage": "0.049"
+                    }
+                },
+                "goals": {
+                    "for": 277,
+                    "against": 234
+                },
+                "points": 102,
+                "form": "WLLWL",
+                "description": "Promotion - NHL (Play Offs: )"
+            },
+            {
+                "position": 4,
+                "stage": "NHL - Regular Season",
+                "group": {
+                    "name": "Central Division"
+                },
+                "team": {
+                    "id": 687,
+                    "name": "Minnesota Wild",
+                    "logo": "https://media.api-sports.io/hockey/teams/687.png"
+                },
+                "league": {
+                    "id": 57,
+                    "name": "NHL",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/hockey/leagues/57.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 31,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 82,
+                    "win": {
+                        "total": 33,
+                        "percentage": "0.402"
+                    },
+                    "win_overtime": {
+                        "total": 12,
+                        "percentage": "0.146"
+                    },
+                    "lose": {
+                        "total": 30,
+                        "percentage": "0.366"
+                    },
+                    "lose_overtime": {
+                        "total": 7,
+                        "percentage": "0.085"
+                    }
+                },
+                "goals": {
+                    "for": 228,
+                    "against": 239
+                },
+                "points": 97,
+                "form": "WWLWW",
+                "description": "Promotion - NHL (Play Offs: )"
+            },
+            {
+                "position": 5,
+                "stage": "NHL - Regular Season",
+                "group": {
+                    "name": "Central Division"
+                },
+                "team": {
+                    "id": 698,
+                    "name": "St. Louis Blues",
+                    "logo": "https://media.api-sports.io/hockey/teams/698.png"
+                },
+                "league": {
+                    "id": 57,
+                    "name": "NHL",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/hockey/leagues/57.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 31,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 82,
+                    "win": {
+                        "total": 32,
+                        "percentage": "0.390"
+                    },
+                    "win_overtime": {
+                        "total": 12,
+                        "percentage": "0.146"
+                    },
+                    "lose": {
+                        "total": 30,
+                        "percentage": "0.366"
+                    },
+                    "lose_overtime": {
+                        "total": 8,
+                        "percentage": "0.098"
+                    }
+                },
+                "goals": {
+                    "for": 254,
+                    "against": 233
+                },
+                "points": 96,
+                "form": "WLLLW",
+                "description": "Promotion - NHL (Play Offs: )"
+            },
+            {
+                "position": 6,
+                "stage": "NHL - Regular Season",
+                "group": {
+                    "name": "Central Division"
+                },
+                "team": {
+                    "id": 0,
+                    "name": "Utah Mammoth",
+                    "logo": "https://media.api-sports.io/hockey/teams/0.png"
+                },
+                "league": {
+                    "id": 57,
+                    "name": "NHL",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/hockey/leagues/57.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 31,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 82,
+                    "win": {
+                        "total": 30,
+                        "percentage": "0.366"
+                    },
+                    "win_overtime": {
+                        "total": 8,
+                        "percentage": "0.098"
+                    },
+                    "lose": {
+                        "total": 31,
+                        "percentage": "0.378"
+                    },
+                    "lose_overtime": {
+                        "total": 13,
+                        "percentage": "0.159"
+                    }
+                },
+                "goals": {
+                    "for": 241,
+                    "against": 251
+                },
+                "points": 89,
+                "form": "LWWLW",
+                "description": null
+            },
+            {
+                "position": 7,
+                "stage": "NHL - Regular Season",
+                "group": {
+                    "name": "Central Division"
+                },
+                "team": {
+                    "id": 689,
+                    "name": "Nashville Predators",
+                    "logo": "https://media.api-sports.io/hockey/teams/689.png"
+                },
+                "league": {
+                    "id": 57,
+                    "name": "NHL",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/hockey/leagues/57.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 31,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 82,
+                    "win": {
+                        "total": 24,
+                        "percentage": "0.293"
+                    },
+                    "win_overtime": {
+                        "total": 6,
+                        "percentage": "0.073"
+                    },
+                    "lose": {
+                        "total": 44,
+                        "percentage": "0.537"
+                    },
+                    "lose_overtime": {
+                        "total": 8,
+                        "percentage": "0.098"
+                    }
+                },
+                "goals": {
+                    "for": 214,
+                    "against": 274
+                },
+                "points": 68,
+                "form": "WLLWW",
+                "description": null
+            },
+            {
+                "position": 8,
+                "stage": "NHL - Regular Season",
+                "group": {
+                    "name": "Central Division"
+                },
+                "team": {
+                    "id": 678,
+                    "name": "Chicago Blackhawks",
+                    "logo": "https://media.api-sports.io/hockey/teams/678.png"
+                },
+                "league": {
+                    "id": 57,
+                    "name": "NHL",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/hockey/leagues/57.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 31,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 82,
+                    "win": {
+                        "total": 20,
+                        "percentage": "0.244"
+                    },
+                    "win_overtime": {
+                        "total": 5,
+                        "percentage": "0.061"
+                    },
+                    "lose": {
+                        "total": 46,
+                        "percentage": "0.561"
+                    },
+                    "lose_overtime": {
+                        "total": 11,
+                        "percentage": "0.134"
+                    }
+                },
+                "goals": {
+                    "for": 226,
+                    "against": 296
+                },
+                "points": 61,
+                "form": "WWLWL",
+                "description": null
+            },
+            {
+                "position": 1,
+                "stage": "NHL - Regular Season",
+                "group": {
+                    "name": "Pacific Division"
+                },
+                "team": {
+                    "id": 702,
+                    "name": "Vegas Golden Knights",
+                    "logo": "https://media.api-sports.io/hockey/teams/702.png"
+                },
+                "league": {
+                    "id": 57,
+                    "name": "NHL",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/hockey/leagues/57.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 31,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 82,
+                    "win": {
+                        "total": 46,
+                        "percentage": "0.561"
+                    },
+                    "win_overtime": {
+                        "total": 4,
+                        "percentage": "0.049"
+                    },
+                    "lose": {
+                        "total": 22,
+                        "percentage": "0.268"
+                    },
+                    "lose_overtime": {
+                        "total": 10,
+                        "percentage": "0.122"
+                    }
+                },
+                "goals": {
+                    "for": 275,
+                    "against": 219
+                },
+                "points": 110,
+                "form": "WLWWL",
+                "description": "Promotion - NHL (Play Offs: )"
+            },
+            {
+                "position": 2,
+                "stage": "NHL - Regular Season",
+                "group": {
+                    "name": "Pacific Division"
+                },
+                "team": {
+                    "id": 685,
+                    "name": "Los Angeles Kings",
+                    "logo": "https://media.api-sports.io/hockey/teams/685.png"
+                },
+                "league": {
+                    "id": 57,
+                    "name": "NHL",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/hockey/leagues/57.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 31,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 82,
+                    "win": {
+                        "total": 43,
+                        "percentage": "0.524"
+                    },
+                    "win_overtime": {
+                        "total": 5,
+                        "percentage": "0.061"
+                    },
+                    "lose": {
+                        "total": 25,
+                        "percentage": "0.305"
+                    },
+                    "lose_overtime": {
+                        "total": 9,
+                        "percentage": "0.110"
+                    }
+                },
+                "goals": {
+                    "for": 250,
+                    "against": 206
+                },
+                "points": 105,
+                "form": "LWWWW",
+                "description": "Promotion - NHL (Play Offs: )"
+            },
+            {
+                "position": 3,
+                "stage": "NHL - Regular Season",
+                "group": {
+                    "name": "Pacific Division"
+                },
+                "team": {
+                    "id": 683,
+                    "name": "Edmonton Oilers",
+                    "logo": "https://media.api-sports.io/hockey/teams/683.png"
+                },
+                "league": {
+                    "id": 57,
+                    "name": "NHL",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/hockey/leagues/57.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 31,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 82,
+                    "win": {
+                        "total": 36,
+                        "percentage": "0.439"
+                    },
+                    "win_overtime": {
+                        "total": 12,
+                        "percentage": "0.146"
+                    },
+                    "lose": {
+                        "total": 29,
+                        "percentage": "0.354"
+                    },
+                    "lose_overtime": {
+                        "total": 5,
+                        "percentage": "0.061"
+                    }
+                },
+                "goals": {
+                    "for": 259,
+                    "against": 236
+                },
+                "points": 101,
+                "form": "WLWWW",
+                "description": "Promotion - NHL (Play Offs: )"
+            },
+            {
+                "position": 4,
+                "stage": "NHL - Regular Season",
+                "group": {
+                    "name": "Pacific Division"
+                },
+                "team": {
+                    "id": 675,
+                    "name": "Calgary Flames",
+                    "logo": "https://media.api-sports.io/hockey/teams/675.png"
+                },
+                "league": {
+                    "id": 57,
+                    "name": "NHL",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/hockey/leagues/57.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 31,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 82,
+                    "win": {
+                        "total": 31,
+                        "percentage": "0.378"
+                    },
+                    "win_overtime": {
+                        "total": 10,
+                        "percentage": "0.122"
+                    },
+                    "lose": {
+                        "total": 27,
+                        "percentage": "0.329"
+                    },
+                    "lose_overtime": {
+                        "total": 14,
+                        "percentage": "0.171"
+                    }
+                },
+                "goals": {
+                    "for": 225,
+                    "against": 238
+                },
+                "points": 96,
+                "form": "WWWWL",
+                "description": null
+            },
+            {
+                "position": 5,
+                "stage": "NHL - Regular Season",
+                "group": {
+                    "name": "Pacific Division"
+                },
+                "team": {
+                    "id": 701,
+                    "name": "Vancouver Canucks",
+                    "logo": "https://media.api-sports.io/hockey/teams/701.png"
+                },
+                "league": {
+                    "id": 57,
+                    "name": "NHL",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/hockey/leagues/57.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 31,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 82,
+                    "win": {
+                        "total": 28,
+                        "percentage": "0.341"
+                    },
+                    "win_overtime": {
+                        "total": 10,
+                        "percentage": "0.122"
+                    },
+                    "lose": {
+                        "total": 30,
+                        "percentage": "0.366"
+                    },
+                    "lose_overtime": {
+                        "total": 14,
+                        "percentage": "0.171"
+                    }
+                },
+                "goals": {
+                    "for": 236,
+                    "against": 253
+                },
+                "points": 90,
+                "form": "LWLWW",
+                "description": null
+            },
+            {
+                "position": 6,
+                "stage": "NHL - Regular Season",
+                "group": {
+                    "name": "Pacific Division"
+                },
+                "team": {
+                    "id": 670,
+                    "name": "Anaheim Ducks",
+                    "logo": "https://media.api-sports.io/hockey/teams/670.png"
+                },
+                "league": {
+                    "id": 57,
+                    "name": "NHL",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/hockey/leagues/57.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 31,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 82,
+                    "win": {
+                        "total": 24,
+                        "percentage": "0.293"
+                    },
+                    "win_overtime": {
+                        "total": 11,
+                        "percentage": "0.134"
+                    },
+                    "lose": {
+                        "total": 37,
+                        "percentage": "0.451"
+                    },
+                    "lose_overtime": {
+                        "total": 10,
+                        "percentage": "0.122"
+                    }
+                },
+                "goals": {
+                    "for": 221,
+                    "against": 263
+                },
+                "points": 80,
+                "form": "LLLLW",
+                "description": null
+            },
+            {
+                "position": 7,
+                "stage": "NHL - Regular Season",
+                "group": {
+                    "name": "Pacific Division"
+                },
+                "team": {
+                    "id": 1436,
+                    "name": "Seattle Kraken",
+                    "logo": "https://media.api-sports.io/hockey/teams/1436.png"
+                },
+                "league": {
+                    "id": 57,
+                    "name": "NHL",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/hockey/leagues/57.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 31,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 82,
+                    "win": {
+                        "total": 28,
+                        "percentage": "0.341"
+                    },
+                    "win_overtime": {
+                        "total": 7,
+                        "percentage": "0.085"
+                    },
+                    "lose": {
+                        "total": 41,
+                        "percentage": "0.500"
+                    },
+                    "lose_overtime": {
+                        "total": 6,
+                        "percentage": "0.073"
+                    }
+                },
+                "goals": {
+                    "for": 247,
+                    "against": 265
+                },
+                "points": 76,
+                "form": "LWLLW",
+                "description": null
+            },
+            {
+                "position": 8,
+                "stage": "NHL - Regular Season",
+                "group": {
+                    "name": "Pacific Division"
+                },
+                "team": {
+                    "id": 697,
+                    "name": "San Jose Sharks",
+                    "logo": "https://media.api-sports.io/hockey/teams/697.png"
+                },
+                "league": {
+                    "id": 57,
+                    "name": "NHL",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/hockey/leagues/57.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 31,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 82,
+                    "win": {
+                        "total": 14,
+                        "percentage": "0.171"
+                    },
+                    "win_overtime": {
+                        "total": 6,
+                        "percentage": "0.073"
+                    },
+                    "lose": {
+                        "total": 50,
+                        "percentage": "0.610"
+                    },
+                    "lose_overtime": {
+                        "total": 12,
+                        "percentage": "0.146"
+                    }
+                },
+                "goals": {
+                    "for": 210,
+                    "against": 315
+                },
+                "points": 52,
+                "form": "LLLLL",
+                "description": null
+            },
+            {
+                "position": 1,
+                "stage": "NHL - Regular Season",
+                "group": {
+                    "name": "Metropolitan Division"
+                },
+                "team": {
+                    "id": 703,
+                    "name": "Washington Capitals",
+                    "logo": "https://media.api-sports.io/hockey/teams/703.png"
+                },
+                "league": {
+                    "id": 57,
+                    "name": "NHL",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/hockey/leagues/57.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 31,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 82,
+                    "win": {
+                        "total": 43,
+                        "percentage": "0.524"
+                    },
+                    "win_overtime": {
+                        "total": 8,
+                        "percentage": "0.098"
+                    },
+                    "lose": {
+                        "total": 22,
+                        "percentage": "0.268"
+                    },
+                    "lose_overtime": {
+                        "total": 9,
+                        "percentage": "0.110"
+                    }
+                },
+                "goals": {
+                    "for": 288,
+                    "against": 232
+                },
+                "points": 111,
+                "form": "LWLLW",
+                "description": "Promotion - NHL (Play Offs: )"
+            },
+            {
+                "position": 2,
+                "stage": "NHL - Regular Season",
+                "group": {
+                    "name": "Metropolitan Division"
+                },
+                "team": {
+                    "id": 676,
+                    "name": "Carolina Hurricanes",
+                    "logo": "https://media.api-sports.io/hockey/teams/676.png"
+                },
+                "league": {
+                    "id": 57,
+                    "name": "NHL",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/hockey/leagues/57.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 31,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 82,
+                    "win": {
+                        "total": 42,
+                        "percentage": "0.512"
+                    },
+                    "win_overtime": {
+                        "total": 5,
+                        "percentage": "0.061"
+                    },
+                    "lose": {
+                        "total": 30,
+                        "percentage": "0.366"
+                    },
+                    "lose_overtime": {
+                        "total": 5,
+                        "percentage": "0.061"
+                    }
+                },
+                "goals": {
+                    "for": 266,
+                    "against": 233
+                },
+                "points": 99,
+                "form": "LLLWL",
+                "description": "Promotion - NHL (Play Offs: )"
+            },
+            {
+                "position": 3,
+                "stage": "NHL - Regular Season",
+                "group": {
+                    "name": "Metropolitan Division"
+                },
+                "team": {
+                    "id": 690,
+                    "name": "New Jersey Devils",
+                    "logo": "https://media.api-sports.io/hockey/teams/690.png"
+                },
+                "league": {
+                    "id": 57,
+                    "name": "NHL",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/hockey/leagues/57.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 31,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 82,
+                    "win": {
+                        "total": 36,
+                        "percentage": "0.439"
+                    },
+                    "win_overtime": {
+                        "total": 6,
+                        "percentage": "0.073"
+                    },
+                    "lose": {
+                        "total": 33,
+                        "percentage": "0.402"
+                    },
+                    "lose_overtime": {
+                        "total": 7,
+                        "percentage": "0.085"
+                    }
+                },
+                "goals": {
+                    "for": 242,
+                    "against": 222
+                },
+                "points": 91,
+                "form": "LWLLL",
+                "description": "Promotion - NHL (Play Offs: )"
+            },
+            {
+                "position": 4,
+                "stage": "NHL - Regular Season",
+                "group": {
+                    "name": "Metropolitan Division"
+                },
+                "team": {
+                    "id": 680,
+                    "name": "Columbus Blue Jackets",
+                    "logo": "https://media.api-sports.io/hockey/teams/680.png"
+                },
+                "league": {
+                    "id": 57,
+                    "name": "NHL",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/hockey/leagues/57.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 31,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 82,
+                    "win": {
+                        "total": 30,
+                        "percentage": "0.366"
+                    },
+                    "win_overtime": {
+                        "total": 10,
+                        "percentage": "0.122"
+                    },
+                    "lose": {
+                        "total": 33,
+                        "percentage": "0.402"
+                    },
+                    "lose_overtime": {
+                        "total": 9,
+                        "percentage": "0.110"
+                    }
+                },
+                "goals": {
+                    "for": 273,
+                    "against": 268
+                },
+                "points": 89,
+                "form": "WWWWW",
+                "description": null
+            },
+            {
+                "position": 5,
+                "stage": "NHL - Regular Season",
+                "group": {
+                    "name": "Metropolitan Division"
+                },
+                "team": {
+                    "id": 692,
+                    "name": "New York Rangers",
+                    "logo": "https://media.api-sports.io/hockey/teams/692.png"
+                },
+                "league": {
+                    "id": 57,
+                    "name": "NHL",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/hockey/leagues/57.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 31,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 82,
+                    "win": {
+                        "total": 35,
+                        "percentage": "0.427"
+                    },
+                    "win_overtime": {
+                        "total": 4,
+                        "percentage": "0.049"
+                    },
+                    "lose": {
+                        "total": 36,
+                        "percentage": "0.439"
+                    },
+                    "lose_overtime": {
+                        "total": 7,
+                        "percentage": "0.085"
+                    }
+                },
+                "goals": {
+                    "for": 256,
+                    "against": 255
+                },
+                "points": 85,
+                "form": "WWLWL",
+                "description": null
+            },
+            {
+                "position": 6,
+                "stage": "NHL - Regular Season",
+                "group": {
+                    "name": "Metropolitan Division"
+                },
+                "team": {
+                    "id": 691,
+                    "name": "New York Islanders",
+                    "logo": "https://media.api-sports.io/hockey/teams/691.png"
+                },
+                "league": {
+                    "id": 57,
+                    "name": "NHL",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/hockey/leagues/57.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 31,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 82,
+                    "win": {
+                        "total": 28,
+                        "percentage": "0.341"
+                    },
+                    "win_overtime": {
+                        "total": 7,
+                        "percentage": "0.085"
+                    },
+                    "lose": {
+                        "total": 35,
+                        "percentage": "0.427"
+                    },
+                    "lose_overtime": {
+                        "total": 12,
+                        "percentage": "0.146"
+                    }
+                },
+                "goals": {
+                    "for": 224,
+                    "against": 260
+                },
+                "points": 82,
+                "form": "LLWLL",
+                "description": null
+            },
+            {
+                "position": 7,
+                "stage": "NHL - Regular Season",
+                "group": {
+                    "name": "Metropolitan Division"
+                },
+                "team": {
+                    "id": 696,
+                    "name": "Pittsburgh Penguins",
+                    "logo": "https://media.api-sports.io/hockey/teams/696.png"
+                },
+                "league": {
+                    "id": 57,
+                    "name": "NHL",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/hockey/leagues/57.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 31,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 82,
+                    "win": {
+                        "total": 24,
+                        "percentage": "0.293"
+                    },
+                    "win_overtime": {
+                        "total": 10,
+                        "percentage": "0.122"
+                    },
+                    "lose": {
+                        "total": 36,
+                        "percentage": "0.439"
+                    },
+                    "lose_overtime": {
+                        "total": 12,
+                        "percentage": "0.146"
+                    }
+                },
+                "goals": {
+                    "for": 243,
+                    "against": 293
+                },
+                "points": 80,
+                "form": "WLWWL",
+                "description": null
+            },
+            {
+                "position": 8,
+                "stage": "NHL - Regular Season",
+                "group": {
+                    "name": "Metropolitan Division"
+                },
+                "team": {
+                    "id": 695,
+                    "name": "Philadelphia Flyers",
+                    "logo": "https://media.api-sports.io/hockey/teams/695.png"
+                },
+                "league": {
+                    "id": 57,
+                    "name": "NHL",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/hockey/leagues/57.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 31,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 82,
+                    "win": {
+                        "total": 21,
+                        "percentage": "0.256"
+                    },
+                    "win_overtime": {
+                        "total": 12,
+                        "percentage": "0.146"
+                    },
+                    "lose": {
+                        "total": 39,
+                        "percentage": "0.476"
+                    },
+                    "lose_overtime": {
+                        "total": 10,
+                        "percentage": "0.122"
+                    }
+                },
+                "goals": {
+                    "for": 238,
+                    "against": 286
+                },
+                "points": 76,
+                "form": "LLLWW",
+                "description": null
+            }
+        ],
+        [
+            {
+                "position": 1,
+                "stage": "NHL - Pre-season",
+                "group": {
+                    "name": "Atlantic Division"
+                },
+                "team": {
+                    "id": 693,
+                    "name": "Ottawa Senators",
+                    "logo": "https://media.api-sports.io/hockey/teams/693.png"
+                },
+                "league": {
+                    "id": 57,
+                    "name": "NHL",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/hockey/leagues/57.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 31,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 7,
+                    "win": {
+                        "total": 3,
+                        "percentage": "0.429"
+                    },
+                    "win_overtime": {
+                        "total": 2,
+                        "percentage": "0.286"
+                    },
+                    "lose": {
+                        "total": 1,
+                        "percentage": "0.143"
+                    },
+                    "lose_overtime": {
+                        "total": 1,
+                        "percentage": "0.143"
+                    }
+                },
+                "goals": {
+                    "for": 24,
+                    "against": 22
+                },
+                "points": 11,
+                "form": "WWWLL",
+                "description": null
+            },
+            {
+                "position": 2,
+                "stage": "NHL - Pre-season",
+                "group": {
+                    "name": "Atlantic Division"
+                },
+                "team": {
+                    "id": 674,
+                    "name": "Buffalo Sabres",
+                    "logo": "https://media.api-sports.io/hockey/teams/674.png"
+                },
+                "league": {
+                    "id": 57,
+                    "name": "NHL",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/hockey/leagues/57.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 31,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 6,
+                    "win": {
+                        "total": 3,
+                        "percentage": "0.500"
+                    },
+                    "win_overtime": {
+                        "total": 2,
+                        "percentage": "0.333"
+                    },
+                    "lose": {
+                        "total": 1,
+                        "percentage": "0.167"
+                    },
+                    "lose_overtime": {
+                        "total": 0,
+                        "percentage": "0.000"
+                    }
+                },
+                "goals": {
+                    "for": 26,
+                    "against": 17
+                },
+                "points": 10,
+                "form": "WLWWW",
+                "description": null
+            },
+            {
+                "position": 3,
+                "stage": "NHL - Pre-season",
+                "group": {
+                    "name": "Atlantic Division"
+                },
+                "team": {
+                    "id": 684,
+                    "name": "Florida Panthers",
+                    "logo": "https://media.api-sports.io/hockey/teams/684.png"
+                },
+                "league": {
+                    "id": 57,
+                    "name": "NHL",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/hockey/leagues/57.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 31,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 8,
+                    "win": {
+                        "total": 3,
+                        "percentage": "0.375"
+                    },
+                    "win_overtime": {
+                        "total": 2,
+                        "percentage": "0.250"
+                    },
+                    "lose": {
+                        "total": 3,
+                        "percentage": "0.375"
+                    },
+                    "lose_overtime": {
+                        "total": 0,
+                        "percentage": "0.000"
+                    }
+                },
+                "goals": {
+                    "for": 30,
+                    "against": 30
+                },
+                "points": 10,
+                "form": "WWLWL",
+                "description": null
+            },
+            {
+                "position": 4,
+                "stage": "NHL - Pre-season",
+                "group": {
+                    "name": "Atlantic Division"
+                },
+                "team": {
+                    "id": 700,
+                    "name": "Toronto Maple Leafs",
+                    "logo": "https://media.api-sports.io/hockey/teams/700.png"
+                },
+                "league": {
+                    "id": 57,
+                    "name": "NHL",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/hockey/leagues/57.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 31,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 6,
+                    "win": {
+                        "total": 4,
+                        "percentage": "0.667"
+                    },
+                    "win_overtime": {
+                        "total": 0,
+                        "percentage": "0.000"
+                    },
+                    "lose": {
+                        "total": 1,
+                        "percentage": "0.167"
+                    },
+                    "lose_overtime": {
+                        "total": 1,
+                        "percentage": "0.167"
+                    }
+                },
+                "goals": {
+                    "for": 15,
+                    "against": 12
+                },
+                "points": 9,
+                "form": "WWWWL",
+                "description": null
+            },
+            {
+                "position": 5,
+                "stage": "NHL - Pre-season",
+                "group": {
+                    "name": "Atlantic Division"
+                },
+                "team": {
+                    "id": 682,
+                    "name": "Detroit Red Wings",
+                    "logo": "https://media.api-sports.io/hockey/teams/682.png"
+                },
+                "league": {
+                    "id": 57,
+                    "name": "NHL",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/hockey/leagues/57.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 31,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 8,
+                    "win": {
+                        "total": 3,
+                        "percentage": "0.375"
+                    },
+                    "win_overtime": {
+                        "total": 0,
+                        "percentage": "0.000"
+                    },
+                    "lose": {
+                        "total": 3,
+                        "percentage": "0.375"
+                    },
+                    "lose_overtime": {
+                        "total": 2,
+                        "percentage": "0.250"
+                    }
+                },
+                "goals": {
+                    "for": 17,
+                    "against": 21
+                },
+                "points": 8,
+                "form": "LLLWL",
+                "description": null
+            },
+            {
+                "position": 6,
+                "stage": "NHL - Pre-season",
+                "group": {
+                    "name": "Atlantic Division"
+                },
+                "team": {
+                    "id": 699,
+                    "name": "Tampa Bay Lightning",
+                    "logo": "https://media.api-sports.io/hockey/teams/699.png"
+                },
+                "league": {
+                    "id": 57,
+                    "name": "NHL",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/hockey/leagues/57.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 31,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 6,
+                    "win": {
+                        "total": 2,
+                        "percentage": "0.333"
+                    },
+                    "win_overtime": {
+                        "total": 0,
+                        "percentage": "0.000"
+                    },
+                    "lose": {
+                        "total": 2,
+                        "percentage": "0.333"
+                    },
+                    "lose_overtime": {
+                        "total": 2,
+                        "percentage": "0.333"
+                    }
+                },
+                "goals": {
+                    "for": 14,
+                    "against": 20
+                },
+                "points": 6,
+                "form": "LLWLW",
+                "description": null
+            },
+            {
+                "position": 7,
+                "stage": "NHL - Pre-season",
+                "group": {
+                    "name": "Atlantic Division"
+                },
+                "team": {
+                    "id": 673,
+                    "name": "Boston Bruins",
+                    "logo": "https://media.api-sports.io/hockey/teams/673.png"
+                },
+                "league": {
+                    "id": 57,
+                    "name": "NHL",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/hockey/leagues/57.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 31,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 7,
+                    "win": {
+                        "total": 2,
+                        "percentage": "0.286"
+                    },
+                    "win_overtime": {
+                        "total": 0,
+                        "percentage": "0.000"
+                    },
+                    "lose": {
+                        "total": 4,
+                        "percentage": "0.571"
+                    },
+                    "lose_overtime": {
+                        "total": 1,
+                        "percentage": "0.143"
+                    }
+                },
+                "goals": {
+                    "for": 15,
+                    "against": 20
+                },
+                "points": 5,
+                "form": "LLWLL",
+                "description": null
+            },
+            {
+                "position": 8,
+                "stage": "NHL - Pre-season",
+                "group": {
+                    "name": "Atlantic Division"
+                },
+                "team": {
+                    "id": 688,
+                    "name": "Montreal Canadiens",
+                    "logo": "https://media.api-sports.io/hockey/teams/688.png"
+                },
+                "league": {
+                    "id": 57,
+                    "name": "NHL",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/hockey/leagues/57.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 31,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 6,
+                    "win": {
+                        "total": 2,
+                        "percentage": "0.333"
+                    },
+                    "win_overtime": {
+                        "total": 0,
+                        "percentage": "0.000"
+                    },
+                    "lose": {
+                        "total": 4,
+                        "percentage": "0.667"
+                    },
+                    "lose_overtime": {
+                        "total": 0,
+                        "percentage": "0.000"
+                    }
+                },
+                "goals": {
+                    "for": 15,
+                    "against": 12
+                },
+                "points": 4,
+                "form": "LLLLW",
+                "description": null
+            },
+            {
+                "position": 1,
+                "stage": "NHL - Pre-season",
+                "group": {
+                    "name": "Central Division"
+                },
+                "team": {
+                    "id": 681,
+                    "name": "Dallas Stars",
+                    "logo": "https://media.api-sports.io/hockey/teams/681.png"
+                },
+                "league": {
+                    "id": 57,
+                    "name": "NHL",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/hockey/leagues/57.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 31,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 6,
+                    "win": {
+                        "total": 5,
+                        "percentage": "0.833"
+                    },
+                    "win_overtime": {
+                        "total": 0,
+                        "percentage": "0.000"
+                    },
+                    "lose": {
+                        "total": 0,
+                        "percentage": "0.000"
+                    },
+                    "lose_overtime": {
+                        "total": 1,
+                        "percentage": "0.167"
+                    }
+                },
+                "goals": {
+                    "for": 21,
+                    "against": 13
+                },
+                "points": 11,
+                "form": "LWWWW",
+                "description": null
+            },
+            {
+                "position": 2,
+                "stage": "NHL - Pre-season",
+                "group": {
+                    "name": "Central Division"
+                },
+                "team": {
+                    "id": 0,
+                    "name": "Utah Mammoth",
+                    "logo": "https://media.api-sports.io/hockey/teams/0.png"
+                },
+                "league": {
+                    "id": 57,
+                    "name": "NHL",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/hockey/leagues/57.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 31,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 7,
+                    "win": {
+                        "total": 4,
+                        "percentage": "0.571"
+                    },
+                    "win_overtime": {
+                        "total": 1,
+                        "percentage": "0.143"
+                    },
+                    "lose": {
+                        "total": 2,
+                        "percentage": "0.286"
+                    },
+                    "lose_overtime": {
+                        "total": 0,
+                        "percentage": "0.000"
+                    }
+                },
+                "goals": {
+                    "for": 23,
+                    "against": 20
+                },
+                "points": 10,
+                "form": "WLWWL",
+                "description": null
+            },
+            {
+                "position": 3,
+                "stage": "NHL - Pre-season",
+                "group": {
+                    "name": "Central Division"
+                },
+                "team": {
+                    "id": 687,
+                    "name": "Minnesota Wild",
+                    "logo": "https://media.api-sports.io/hockey/teams/687.png"
+                },
+                "league": {
+                    "id": 57,
+                    "name": "NHL",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/hockey/leagues/57.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 31,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 6,
+                    "win": {
+                        "total": 4,
+                        "percentage": "0.667"
+                    },
+                    "win_overtime": {
+                        "total": 0,
+                        "percentage": "0.000"
+                    },
+                    "lose": {
+                        "total": 2,
+                        "percentage": "0.333"
+                    },
+                    "lose_overtime": {
+                        "total": 0,
+                        "percentage": "0.000"
+                    }
+                },
+                "goals": {
+                    "for": 30,
+                    "against": 19
+                },
+                "points": 8,
+                "form": "WWLWL",
+                "description": null
+            },
+            {
+                "position": 4,
+                "stage": "NHL - Pre-season",
+                "group": {
+                    "name": "Central Division"
+                },
+                "team": {
+                    "id": 704,
+                    "name": "Winnipeg Jets",
+                    "logo": "https://media.api-sports.io/hockey/teams/704.png"
+                },
+                "league": {
+                    "id": 57,
+                    "name": "NHL",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/hockey/leagues/57.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 31,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 6,
+                    "win": {
+                        "total": 3,
+                        "percentage": "0.500"
+                    },
+                    "win_overtime": {
+                        "total": 0,
+                        "percentage": "0.000"
+                    },
+                    "lose": {
+                        "total": 2,
+                        "percentage": "0.333"
+                    },
+                    "lose_overtime": {
+                        "total": 1,
+                        "percentage": "0.167"
+                    }
+                },
+                "goals": {
+                    "for": 23,
+                    "against": 21
+                },
+                "points": 7,
+                "form": "WWLWL",
+                "description": null
+            },
+            {
+                "position": 5,
+                "stage": "NHL - Pre-season",
+                "group": {
+                    "name": "Central Division"
+                },
+                "team": {
+                    "id": 689,
+                    "name": "Nashville Predators",
+                    "logo": "https://media.api-sports.io/hockey/teams/689.png"
+                },
+                "league": {
+                    "id": 57,
+                    "name": "NHL",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/hockey/leagues/57.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 31,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 5,
+                    "win": {
+                        "total": 2,
+                        "percentage": "0.400"
+                    },
+                    "win_overtime": {
+                        "total": 0,
+                        "percentage": "0.000"
+                    },
+                    "lose": {
+                        "total": 3,
+                        "percentage": "0.600"
+                    },
+                    "lose_overtime": {
+                        "total": 0,
+                        "percentage": "0.000"
+                    }
+                },
+                "goals": {
+                    "for": 19,
+                    "against": 18
+                },
+                "points": 4,
+                "form": "LWWLL",
+                "description": null
+            },
+            {
+                "position": 6,
+                "stage": "NHL - Pre-season",
+                "group": {
+                    "name": "Central Division"
+                },
+                "team": {
+                    "id": 698,
+                    "name": "St. Louis Blues",
+                    "logo": "https://media.api-sports.io/hockey/teams/698.png"
+                },
+                "league": {
+                    "id": 57,
+                    "name": "NHL",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/hockey/leagues/57.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 31,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 7,
+                    "win": {
+                        "total": 0,
+                        "percentage": "0.000"
+                    },
+                    "win_overtime": {
+                        "total": 2,
+                        "percentage": "0.000"
+                    },
+                    "lose": {
+                        "total": 5,
+                        "percentage": "0.000"
+                    },
+                    "lose_overtime": {
+                        "total": 0,
+                        "percentage": "0.000"
+                    }
+                },
+                "goals": {
+                    "for": 14,
+                    "against": 24
+                },
+                "points": 4,
+                "form": "LWLWL",
+                "description": null
+            },
+            {
+                "position": 7,
+                "stage": "NHL - Pre-season",
+                "group": {
+                    "name": "Central Division"
+                },
+                "team": {
+                    "id": 678,
+                    "name": "Chicago Blackhawks",
+                    "logo": "https://media.api-sports.io/hockey/teams/678.png"
+                },
+                "league": {
+                    "id": 57,
+                    "name": "NHL",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/hockey/leagues/57.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 31,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 6,
+                    "win": {
+                        "total": 1,
+                        "percentage": "0.167"
+                    },
+                    "win_overtime": {
+                        "total": 0,
+                        "percentage": "0.000"
+                    },
+                    "lose": {
+                        "total": 4,
+                        "percentage": "0.667"
+                    },
+                    "lose_overtime": {
+                        "total": 1,
+                        "percentage": "0.167"
+                    }
+                },
+                "goals": {
+                    "for": 13,
+                    "against": 24
+                },
+                "points": 3,
+                "form": "WLLLL",
+                "description": null
+            },
+            {
+                "position": 8,
+                "stage": "NHL - Pre-season",
+                "group": {
+                    "name": "Central Division"
+                },
+                "team": {
+                    "id": 679,
+                    "name": "Colorado Avalanche",
+                    "logo": "https://media.api-sports.io/hockey/teams/679.png"
+                },
+                "league": {
+                    "id": 57,
+                    "name": "NHL",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/hockey/leagues/57.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 31,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 6,
+                    "win": {
+                        "total": 1,
+                        "percentage": "0.167"
+                    },
+                    "win_overtime": {
+                        "total": 0,
+                        "percentage": "0.000"
+                    },
+                    "lose": {
+                        "total": 5,
+                        "percentage": "0.833"
+                    },
+                    "lose_overtime": {
+                        "total": 0,
+                        "percentage": "0.000"
+                    }
+                },
+                "goals": {
+                    "for": 12,
+                    "against": 22
+                },
+                "points": 2,
+                "form": "LWLLL",
+                "description": null
+            },
+            {
+                "position": 1,
+                "stage": "NHL - Pre-season",
+                "group": {
+                    "name": "Pacific Division"
+                },
+                "team": {
+                    "id": 675,
+                    "name": "Calgary Flames",
+                    "logo": "https://media.api-sports.io/hockey/teams/675.png"
+                },
+                "league": {
+                    "id": 57,
+                    "name": "NHL",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/hockey/leagues/57.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 31,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 8,
+                    "win": {
+                        "total": 4,
+                        "percentage": "0.500"
+                    },
+                    "win_overtime": {
+                        "total": 1,
+                        "percentage": "0.125"
+                    },
+                    "lose": {
+                        "total": 2,
+                        "percentage": "0.250"
+                    },
+                    "lose_overtime": {
+                        "total": 1,
+                        "percentage": "0.125"
+                    }
+                },
+                "goals": {
+                    "for": 33,
+                    "against": 22
+                },
+                "points": 11,
+                "form": "LLWWL",
+                "description": null
+            },
+            {
+                "position": 2,
+                "stage": "NHL - Pre-season",
+                "group": {
+                    "name": "Pacific Division"
+                },
+                "team": {
+                    "id": 685,
+                    "name": "Los Angeles Kings",
+                    "logo": "https://media.api-sports.io/hockey/teams/685.png"
+                },
+                "league": {
+                    "id": 57,
+                    "name": "NHL",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/hockey/leagues/57.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 31,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 6,
+                    "win": {
+                        "total": 4,
+                        "percentage": "0.667"
+                    },
+                    "win_overtime": {
+                        "total": 0,
+                        "percentage": "0.000"
+                    },
+                    "lose": {
+                        "total": 1,
+                        "percentage": "0.167"
+                    },
+                    "lose_overtime": {
+                        "total": 1,
+                        "percentage": "0.167"
+                    }
+                },
+                "goals": {
+                    "for": 18,
+                    "against": 12
+                },
+                "points": 9,
+                "form": "LWWWW",
+                "description": null
+            },
+            {
+                "position": 3,
+                "stage": "NHL - Pre-season",
+                "group": {
+                    "name": "Pacific Division"
+                },
+                "team": {
+                    "id": 701,
+                    "name": "Vancouver Canucks",
+                    "logo": "https://media.api-sports.io/hockey/teams/701.png"
+                },
+                "league": {
+                    "id": 57,
+                    "name": "NHL",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/hockey/leagues/57.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 31,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 6,
+                    "win": {
+                        "total": 2,
+                        "percentage": "0.333"
+                    },
+                    "win_overtime": {
+                        "total": 1,
+                        "percentage": "0.167"
+                    },
+                    "lose": {
+                        "total": 2,
+                        "percentage": "0.333"
+                    },
+                    "lose_overtime": {
+                        "total": 1,
+                        "percentage": "0.167"
+                    }
+                },
+                "goals": {
+                    "for": 16,
+                    "against": 15
+                },
+                "points": 7,
+                "form": "WLLLW",
+                "description": null
+            },
+            {
+                "position": 4,
+                "stage": "NHL - Pre-season",
+                "group": {
+                    "name": "Pacific Division"
+                },
+                "team": {
+                    "id": 670,
+                    "name": "Anaheim Ducks",
+                    "logo": "https://media.api-sports.io/hockey/teams/670.png"
+                },
+                "league": {
+                    "id": 57,
+                    "name": "NHL",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/hockey/leagues/57.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 31,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 6,
+                    "win": {
+                        "total": 2,
+                        "percentage": "0.333"
+                    },
+                    "win_overtime": {
+                        "total": 1,
+                        "percentage": "0.167"
+                    },
+                    "lose": {
+                        "total": 2,
+                        "percentage": "0.333"
+                    },
+                    "lose_overtime": {
+                        "total": 1,
+                        "percentage": "0.167"
+                    }
+                },
+                "goals": {
+                    "for": 16,
+                    "against": 17
+                },
+                "points": 7,
+                "form": "WWLLL",
+                "description": null
+            },
+            {
+                "position": 5,
+                "stage": "NHL - Pre-season",
+                "group": {
+                    "name": "Pacific Division"
+                },
+                "team": {
+                    "id": 702,
+                    "name": "Vegas Golden Knights",
+                    "logo": "https://media.api-sports.io/hockey/teams/702.png"
+                },
+                "league": {
+                    "id": 57,
+                    "name": "NHL",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/hockey/leagues/57.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 31,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 6,
+                    "win": {
+                        "total": 3,
+                        "percentage": "0.500"
+                    },
+                    "win_overtime": {
+                        "total": 0,
+                        "percentage": "0.000"
+                    },
+                    "lose": {
+                        "total": 3,
+                        "percentage": "0.500"
+                    },
+                    "lose_overtime": {
+                        "total": 0,
+                        "percentage": "0.000"
+                    }
+                },
+                "goals": {
+                    "for": 23,
+                    "against": 17
+                },
+                "points": 6,
+                "form": "LLWWL",
+                "description": null
+            },
+            {
+                "position": 6,
+                "stage": "NHL - Pre-season",
+                "group": {
+                    "name": "Pacific Division"
+                },
+                "team": {
+                    "id": 683,
+                    "name": "Edmonton Oilers",
+                    "logo": "https://media.api-sports.io/hockey/teams/683.png"
+                },
+                "league": {
+                    "id": 57,
+                    "name": "NHL",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/hockey/leagues/57.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 31,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 8,
+                    "win": {
+                        "total": 1,
+                        "percentage": "0.125"
+                    },
+                    "win_overtime": {
+                        "total": 2,
+                        "percentage": "0.250"
+                    },
+                    "lose": {
+                        "total": 5,
+                        "percentage": "0.625"
+                    },
+                    "lose_overtime": {
+                        "total": 0,
+                        "percentage": "0.000"
+                    }
+                },
+                "goals": {
+                    "for": 19,
+                    "against": 36
+                },
+                "points": 6,
+                "form": "LLWWL",
+                "description": null
+            },
+            {
+                "position": 7,
+                "stage": "NHL - Pre-season",
+                "group": {
+                    "name": "Pacific Division"
+                },
+                "team": {
+                    "id": 1436,
+                    "name": "Seattle Kraken",
+                    "logo": "https://media.api-sports.io/hockey/teams/1436.png"
+                },
+                "league": {
+                    "id": 57,
+                    "name": "NHL",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/hockey/leagues/57.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 31,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 6,
+                    "win": {
+                        "total": 2,
+                        "percentage": "0.333"
+                    },
+                    "win_overtime": {
+                        "total": 0,
+                        "percentage": "0.000"
+                    },
+                    "lose": {
+                        "total": 3,
+                        "percentage": "0.500"
+                    },
+                    "lose_overtime": {
+                        "total": 1,
+                        "percentage": "0.167"
+                    }
+                },
+                "goals": {
+                    "for": 18,
+                    "against": 21
+                },
+                "points": 5,
+                "form": "WLLWL",
+                "description": null
+            },
+            {
+                "position": 8,
+                "stage": "NHL - Pre-season",
+                "group": {
+                    "name": "Pacific Division"
+                },
+                "team": {
+                    "id": 697,
+                    "name": "San Jose Sharks",
+                    "logo": "https://media.api-sports.io/hockey/teams/697.png"
+                },
+                "league": {
+                    "id": 57,
+                    "name": "NHL",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/hockey/leagues/57.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 31,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 6,
+                    "win": {
+                        "total": 1,
+                        "percentage": "0.167"
+                    },
+                    "win_overtime": {
+                        "total": 1,
+                        "percentage": "0.167"
+                    },
+                    "lose": {
+                        "total": 3,
+                        "percentage": "0.500"
+                    },
+                    "lose_overtime": {
+                        "total": 1,
+                        "percentage": "0.167"
+                    }
+                },
+                "goals": {
+                    "for": 17,
+                    "against": 21
+                },
+                "points": 5,
+                "form": "WLLWL",
+                "description": null
+            },
+            {
+                "position": 1,
+                "stage": "NHL - Pre-season",
+                "group": {
+                    "name": "Metropolitan Division"
+                },
+                "team": {
+                    "id": 676,
+                    "name": "Carolina Hurricanes",
+                    "logo": "https://media.api-sports.io/hockey/teams/676.png"
+                },
+                "league": {
+                    "id": 57,
+                    "name": "NHL",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/hockey/leagues/57.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 31,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 6,
+                    "win": {
+                        "total": 3,
+                        "percentage": "0.500"
+                    },
+                    "win_overtime": {
+                        "total": 1,
+                        "percentage": "0.167"
+                    },
+                    "lose": {
+                        "total": 1,
+                        "percentage": "0.167"
+                    },
+                    "lose_overtime": {
+                        "total": 1,
+                        "percentage": "0.167"
+                    }
+                },
+                "goals": {
+                    "for": 25,
+                    "against": 18
+                },
+                "points": 9,
+                "form": "WWLLW",
+                "description": null
+            },
+            {
+                "position": 2,
+                "stage": "NHL - Pre-season",
+                "group": {
+                    "name": "Metropolitan Division"
+                },
+                "team": {
+                    "id": 691,
+                    "name": "New York Islanders",
+                    "logo": "https://media.api-sports.io/hockey/teams/691.png"
+                },
+                "league": {
+                    "id": 57,
+                    "name": "NHL",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/hockey/leagues/57.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 31,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 6,
+                    "win": {
+                        "total": 4,
+                        "percentage": "0.667"
+                    },
+                    "win_overtime": {
+                        "total": 0,
+                        "percentage": "0.000"
+                    },
+                    "lose": {
+                        "total": 2,
+                        "percentage": "0.333"
+                    },
+                    "lose_overtime": {
+                        "total": 0,
+                        "percentage": "0.000"
+                    }
+                },
+                "goals": {
+                    "for": 22,
+                    "against": 16
+                },
+                "points": 8,
+                "form": "WWWLL",
+                "description": null
+            },
+            {
+                "position": 3,
+                "stage": "NHL - Pre-season",
+                "group": {
+                    "name": "Metropolitan Division"
+                },
+                "team": {
+                    "id": 695,
+                    "name": "Philadelphia Flyers",
+                    "logo": "https://media.api-sports.io/hockey/teams/695.png"
+                },
+                "league": {
+                    "id": 57,
+                    "name": "NHL",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/hockey/leagues/57.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 31,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 7,
+                    "win": {
+                        "total": 3,
+                        "percentage": "0.429"
+                    },
+                    "win_overtime": {
+                        "total": 1,
+                        "percentage": "0.143"
+                    },
+                    "lose": {
+                        "total": 3,
+                        "percentage": "0.429"
+                    },
+                    "lose_overtime": {
+                        "total": 0,
+                        "percentage": "0.000"
+                    }
+                },
+                "goals": {
+                    "for": 20,
+                    "against": 21
+                },
+                "points": 8,
+                "form": "WLLWW",
+                "description": null
+            },
+            {
+                "position": 4,
+                "stage": "NHL - Pre-season",
+                "group": {
+                    "name": "Metropolitan Division"
+                },
+                "team": {
+                    "id": 692,
+                    "name": "New York Rangers",
+                    "logo": "https://media.api-sports.io/hockey/teams/692.png"
+                },
+                "league": {
+                    "id": 57,
+                    "name": "NHL",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/hockey/leagues/57.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 31,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 6,
+                    "win": {
+                        "total": 4,
+                        "percentage": "0.667"
+                    },
+                    "win_overtime": {
+                        "total": 0,
+                        "percentage": "0.000"
+                    },
+                    "lose": {
+                        "total": 2,
+                        "percentage": "0.333"
+                    },
+                    "lose_overtime": {
+                        "total": 0,
+                        "percentage": "0.000"
+                    }
+                },
+                "goals": {
+                    "for": 22,
+                    "against": 20
+                },
+                "points": 8,
+                "form": "LWLWW",
+                "description": null
+            },
+            {
+                "position": 5,
+                "stage": "NHL - Pre-season",
+                "group": {
+                    "name": "Metropolitan Division"
+                },
+                "team": {
+                    "id": 696,
+                    "name": "Pittsburgh Penguins",
+                    "logo": "https://media.api-sports.io/hockey/teams/696.png"
+                },
+                "league": {
+                    "id": 57,
+                    "name": "NHL",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/hockey/leagues/57.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 31,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 7,
+                    "win": {
+                        "total": 4,
+                        "percentage": "0.571"
+                    },
+                    "win_overtime": {
+                        "total": 0,
+                        "percentage": "0.000"
+                    },
+                    "lose": {
+                        "total": 3,
+                        "percentage": "0.429"
+                    },
+                    "lose_overtime": {
+                        "total": 0,
+                        "percentage": "0.000"
+                    }
+                },
+                "goals": {
+                    "for": 26,
+                    "against": 19
+                },
+                "points": 8,
+                "form": "WWLWW",
+                "description": null
+            },
+            {
+                "position": 6,
+                "stage": "NHL - Pre-season",
+                "group": {
+                    "name": "Metropolitan Division"
+                },
+                "team": {
+                    "id": 680,
+                    "name": "Columbus Blue Jackets",
+                    "logo": "https://media.api-sports.io/hockey/teams/680.png"
+                },
+                "league": {
+                    "id": 57,
+                    "name": "NHL",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/hockey/leagues/57.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 31,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 8,
+                    "win": {
+                        "total": 4,
+                        "percentage": "0.500"
+                    },
+                    "win_overtime": {
+                        "total": 0,
+                        "percentage": "0.000"
+                    },
+                    "lose": {
+                        "total": 4,
+                        "percentage": "0.500"
+                    },
+                    "lose_overtime": {
+                        "total": 0,
+                        "percentage": "0.000"
+                    }
+                },
+                "goals": {
+                    "for": 27,
+                    "against": 27
+                },
+                "points": 8,
+                "form": "LLWLW",
+                "description": null
+            },
+            {
+                "position": 7,
+                "stage": "NHL - Pre-season",
+                "group": {
+                    "name": "Metropolitan Division"
+                },
+                "team": {
+                    "id": 703,
+                    "name": "Washington Capitals",
+                    "logo": "https://media.api-sports.io/hockey/teams/703.png"
+                },
+                "league": {
+                    "id": 57,
+                    "name": "NHL",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/hockey/leagues/57.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 31,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 6,
+                    "win": {
+                        "total": 3,
+                        "percentage": "0.500"
+                    },
+                    "win_overtime": {
+                        "total": 0,
+                        "percentage": "0.000"
+                    },
+                    "lose": {
+                        "total": 3,
+                        "percentage": "0.500"
+                    },
+                    "lose_overtime": {
+                        "total": 0,
+                        "percentage": "0.000"
+                    }
+                },
+                "goals": {
+                    "for": 18,
+                    "against": 23
+                },
+                "points": 6,
+                "form": "WWLWL",
+                "description": null
+            },
+            {
+                "position": 8,
+                "stage": "NHL - Pre-season",
+                "group": {
+                    "name": "Metropolitan Division"
+                },
+                "team": {
+                    "id": 690,
+                    "name": "New Jersey Devils",
+                    "logo": "https://media.api-sports.io/hockey/teams/690.png"
+                },
+                "league": {
+                    "id": 57,
+                    "name": "NHL",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/hockey/leagues/57.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 31,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 7,
+                    "win": {
+                        "total": 1,
+                        "percentage": "0.143"
+                    },
+                    "win_overtime": {
+                        "total": 0,
+                        "percentage": "0.000"
+                    },
+                    "lose": {
+                        "total": 6,
+                        "percentage": "0.857"
+                    },
+                    "lose_overtime": {
+                        "total": 0,
+                        "percentage": "0.000"
+                    }
+                },
+                "goals": {
+                    "for": 17,
+                    "against": 28
+                },
+                "points": 2,
+                "form": "LLWLL",
+                "description": null
+            }
+        ]
+    ]
+}

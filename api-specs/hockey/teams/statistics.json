@@ -1,0 +1,91 @@
+{
+    "get": "teams",
+    "parameters": {
+        "league": "57",
+        "season": "2024",
+        "team": "670"
+    },
+    "errors": [],
+    "results": 5,
+    "response": {
+        "country": {
+            "id": 31,
+            "name": "USA",
+            "code": "US",
+            "flag": "https://media.api-sports.io/flags/us.svg"
+        },
+        "league": {
+            "id": 57,
+            "name": "NHL",
+            "type": "League",
+            "logo": "https://media.api-sports.io/hockey/leagues/57.png",
+            "season": 2024
+        },
+        "team": {
+            "id": 670,
+            "name": "Anaheim Ducks",
+            "logo": "https://media.api-sports.io/hockey/teams/670.png"
+        },
+        "games": {
+            "played": {
+                "home": 44,
+                "away": 44,
+                "all": 88
+            },
+            "wins": {
+                "home": {
+                    "total": 22,
+                    "percentage": "0.500"
+                },
+                "away": {
+                    "total": 16,
+                    "percentage": "0.364"
+                },
+                "all": {
+                    "total": 38,
+                    "percentage": "0.432"
+                }
+            },
+            "loses": {
+                "home": {
+                    "total": 22,
+                    "percentage": "0.500"
+                },
+                "away": {
+                    "total": 28,
+                    "percentage": "0.636"
+                },
+                "all": {
+                    "total": 50,
+                    "percentage": "0.568"
+                }
+            }
+        },
+        "goals": {
+            "for": {
+                "total": {
+                    "home": 130,
+                    "away": 107,
+                    "all": 237
+                },
+                "average": {
+                    "home": "3.0",
+                    "away": "2.4",
+                    "all": "2.7"
+                }
+            },
+            "against": {
+                "total": {
+                    "home": 137,
+                    "away": 143,
+                    "all": 280
+                },
+                "average": {
+                    "home": "3.1",
+                    "away": "3.3",
+                    "all": "3.2"
+                }
+            }
+        }
+    }
+}

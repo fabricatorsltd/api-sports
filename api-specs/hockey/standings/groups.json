@@ -1,0 +1,17 @@
+{
+    "get": "standings",
+    "parameters": {
+        "league": "57",
+        "season": "2024"
+    },
+    "errors": [],
+    "results": 6,
+    "response": [
+        "Western Conference",
+        "Eastern Conference",
+        "Atlantic Division",
+        "Central Division",
+        "Pacific Division",
+        "Metropolitan Division"
+    ]
+}

@@ -1,0 +1,892 @@
+{
+    "get": "odds",
+    "parameters": [],
+    "errors": [],
+    "results": 221,
+    "response": [
+        {
+            "id": 1,
+            "name": "3Way Result"
+        },
+        {
+            "id": 2,
+            "name": "Home/Away"
+        },
+        {
+            "id": 3,
+            "name": "Asian Handicap"
+        },
+        {
+            "id": 4,
+            "name": "Over/Under"
+        },
+        {
+            "id": 5,
+            "name": "Both Teams To Score"
+        },
+        {
+            "id": 6,
+            "name": "Handicap Result"
+        },
+        {
+            "id": 7,
+            "name": "Correct Score"
+        },
+        {
+            "id": 8,
+            "name": "Highest Scoring Half"
+        },
+        {
+            "id": 9,
+            "name": "Double Chance"
+        },
+        {
+            "id": 10,
+            "name": "Total - Home"
+        },
+        {
+            "id": 11,
+            "name": "Total - Away"
+        },
+        {
+            "id": 12,
+            "name": "Odd/Even (Including OT)"
+        },
+        {
+            "id": 13,
+            "name": "Odd/Even"
+        },
+        {
+            "id": 14,
+            "name": "Over/Under (1st Period)"
+        },
+        {
+            "id": 15,
+            "name": "Both Teams To Score (2nd Period)"
+        },
+        {
+            "id": 16,
+            "name": "3Way Result (2st Period)"
+        },
+        {
+            "id": 17,
+            "name": "3Way Result 3rdPeriod)"
+        },
+        {
+            "id": 18,
+            "name": "Asian Handicap (3rd Period)"
+        },
+        {
+            "id": 19,
+            "name": "Over/Under (2nd Period)"
+        },
+        {
+            "id": 20,
+            "name": "Over/Under (3rd Period)"
+        },
+        {
+            "id": 21,
+            "name": "1x2 (1st Period)"
+        },
+        {
+            "id": 22,
+            "name": "Double Chance (3rd Period)"
+        },
+        {
+            "id": 23,
+            "name": "Both Teams To Score (1st Period)"
+        },
+        {
+            "id": 24,
+            "name": "Both Teams To Score (3rd Period)"
+        },
+        {
+            "id": 25,
+            "name": "Asian Handicap (1st Period)"
+        },
+        {
+            "id": 26,
+            "name": "Asian Handicap (2nd Period)"
+        },
+        {
+            "id": 27,
+            "name": "Double Chance (1st Period)"
+        },
+        {
+            "id": 28,
+            "name": "Double Chance (2nd Period)"
+        },
+        {
+            "id": 29,
+            "name": "Home Team Total Goals (1st Period)"
+        },
+        {
+            "id": 30,
+            "name": "Home Team Total Goals (2nd Period)"
+        },
+        {
+            "id": 31,
+            "name": "Home Team Total Goals (3rd Period)"
+        },
+        {
+            "id": 32,
+            "name": "Away Team Total Goals (1st Period)"
+        },
+        {
+            "id": 33,
+            "name": "Away Team Total Goals (2nd Period)"
+        },
+        {
+            "id": 34,
+            "name": "Away Team Total Goals (3rd Period)"
+        },
+        {
+            "id": 35,
+            "name": "Correct Score (1st Period)"
+        },
+        {
+            "id": 36,
+            "name": "Draw No Bet (1st Period)"
+        },
+        {
+            "id": 37,
+            "name": "Draw No Bet (2nd Period)"
+        },
+        {
+            "id": 38,
+            "name": "Draw No Bet (3rd Period)"
+        },
+        {
+            "id": 39,
+            "name": "Correct Score (2nd Period)"
+        },
+        {
+            "id": 40,
+            "name": "Correct Score (3rd Period)"
+        },
+        {
+            "id": 41,
+            "name": "Will match go to overtime?"
+        },
+        {
+            "id": 42,
+            "name": "Home/Away (1st Period)"
+        },
+        {
+            "id": 43,
+            "name": "Odd/Even (1st Period)"
+        },
+        {
+            "id": 44,
+            "name": "Odd/Even (2nd Period)"
+        },
+        {
+            "id": 45,
+            "name": "Odd/Even (3rd Period)"
+        },
+        {
+            "id": 46,
+            "name": "Home/Away (2nd Period)"
+        },
+        {
+            "id": 47,
+            "name": "Home/Away (3rd Period)"
+        },
+        {
+            "id": 48,
+            "name": "European Handicap (1st Q"
+        },
+        {
+            "id": 49,
+            "name": "European Handicap (2nd Q"
+        },
+        {
+            "id": 50,
+            "name": "European Handicap (3rd Q"
+        },
+        {
+            "id": 51,
+            "name": "Home/Away (Reg Time)"
+        },
+        {
+            "id": 52,
+            "name": "Over/Under (Reg Time)"
+        },
+        {
+            "id": 53,
+            "name": "Asian Handicap (Reg Time)"
+        },
+        {
+            "id": 54,
+            "name": "Home Team Total Goals (Including OT)"
+        },
+        {
+            "id": 55,
+            "name": "Away Team Total Goals (Including OT)"
+        },
+        {
+            "id": 56,
+            "name": "Team To Score Last"
+        },
+        {
+            "id": 57,
+            "name": "Team To Score First"
+        },
+        {
+            "id": 58,
+            "name": "Result/Total Goals"
+        },
+        {
+            "id": 59,
+            "name": "Home team will score a goal"
+        },
+        {
+            "id": 60,
+            "name": "Away team will score a goal"
+        },
+        {
+            "id": 61,
+            "name": "Home team will score a goal (1st Period)"
+        },
+        {
+            "id": 62,
+            "name": "Home team will score a goal (2nd Period)"
+        },
+        {
+            "id": 63,
+            "name": "Home team will score a goal (3rd Period)"
+        },
+        {
+            "id": 64,
+            "name": "Away team will score a goal (1st Period)"
+        },
+        {
+            "id": 65,
+            "name": "Away team will score a goal (2nd Period)"
+        },
+        {
+            "id": 66,
+            "name": "Away team will score a goal (3rd Period)"
+        },
+        {
+            "id": 67,
+            "name": "Match ends in Regular Time"
+        },
+        {
+            "id": 68,
+            "name": "Match ends in Over Time"
+        },
+        {
+            "id": 69,
+            "name": "Match ends in Penalty Shoot-out"
+        },
+        {
+            "id": 70,
+            "name": "Either Team Win To Nill"
+        },
+        {
+            "id": 71,
+            "name": "Either Team Win By 1 Goal"
+        },
+        {
+            "id": 72,
+            "name": "Either Team Win By 2 Goal"
+        },
+        {
+            "id": 73,
+            "name": "Either Team Win By 3 Goal"
+        },
+        {
+            "id": 74,
+            "name": "Correct Score"
+        },
+        {
+            "id": 75,
+            "name": "1x2(face offs)"
+        },
+        {
+            "id": 76,
+            "name": "Asian Handicap(face offs 1st Period)"
+        },
+        {
+            "id": 77,
+            "name": "Over/Under(face offs 1st Period)"
+        },
+        {
+            "id": 78,
+            "name": "Double Chance(face offs 1st Period)"
+        },
+        {
+            "id": 79,
+            "name": "Asian Handicap(Penalty time)"
+        },
+        {
+            "id": 80,
+            "name": "Over/Under(Penalty time)"
+        },
+        {
+            "id": 81,
+            "name": "Over/Under(Penalty time 1st Period)"
+        },
+        {
+            "id": 82,
+            "name": "1x2(Blocked shots)"
+        },
+        {
+            "id": 83,
+            "name": "Over/Under(Blocked shots)"
+        },
+        {
+            "id": 84,
+            "name": "1x2(Shots on goal)"
+        },
+        {
+            "id": 85,
+            "name": "Asian Handicap(Shots on goal)"
+        },
+        {
+            "id": 86,
+            "name": "Over/Under(Shots on goal)"
+        },
+        {
+            "id": 87,
+            "name": "Home Team Total Goals(Shots on goal)"
+        },
+        {
+            "id": 88,
+            "name": "Away Team Total Goals(Shots on goal)"
+        },
+        {
+            "id": 89,
+            "name": "1x2(Shots on goal P1)"
+        },
+        {
+            "id": 90,
+            "name": "Asian Handicap(Shots on goal P1)"
+        },
+        {
+            "id": 91,
+            "name": "Over/Under(Shots on goal P1)"
+        },
+        {
+            "id": 92,
+            "name": "Home Total (Shots on goal P1)"
+        },
+        {
+            "id": 93,
+            "name": "Double Chance(Shots on goal)"
+        },
+        {
+            "id": 94,
+            "name": "Double Chance(Shots on goal P1)"
+        },
+        {
+            "id": 95,
+            "name": "Away Total (Shots on goal P1)"
+        },
+        {
+            "id": 96,
+            "name": "To win more periods"
+        },
+        {
+            "id": 97,
+            "name": "Win From behind (Player 2)"
+        },
+        {
+            "id": 98,
+            "name": "Win From Behind (Player 1)"
+        },
+        {
+            "id": 99,
+            "name": "Win From Behind"
+        },
+        {
+            "id": 100,
+            "name": "Away To score first and win in a regular time"
+        },
+        {
+            "id": 101,
+            "name": "Home To score first and win in a regular time"
+        },
+        {
+            "id": 102,
+            "name": "Away Team Total Goals(Penalty time)"
+        },
+        {
+            "id": 103,
+            "name": "Home Team Total Goals(Penalty time)"
+        },
+        {
+            "id": 104,
+            "name": "1x2(Penalty time)"
+        },
+        {
+            "id": 105,
+            "name": "1x2(Penalty time 1st Period)"
+        },
+        {
+            "id": 106,
+            "name": "Asian Handicap(Penalty time 1st Period)"
+        },
+        {
+            "id": 107,
+            "name": "Double Chance(Penalty time 1st Period)"
+        },
+        {
+            "id": 108,
+            "name": "Home Team Total Goals(Penalty time 1st Period)"
+        },
+        {
+            "id": 109,
+            "name": "Away Team Total Goals(Penalty time 1st Period)"
+        },
+        {
+            "id": 110,
+            "name": "Double Chance(Penalty time)"
+        },
+        {
+            "id": 111,
+            "name": "Asian Handicap(Blocked shots)"
+        },
+        {
+            "id": 112,
+            "name": "Double Chance(Blocked shots)"
+        },
+        {
+            "id": 113,
+            "name": "To Qualify"
+        },
+        {
+            "id": 114,
+            "name": "Number of powerplay goals"
+        },
+        {
+            "id": 115,
+            "name": "Win to Nil - Home"
+        },
+        {
+            "id": 116,
+            "name": "Win to Nil - Away"
+        },
+        {
+            "id": 117,
+            "name": "Away Total(Powerplay)"
+        },
+        {
+            "id": 118,
+            "name": "Home Total(Powerplay)"
+        },
+        {
+            "id": 119,
+            "name": "1x2(Powerplay)"
+        },
+        {
+            "id": 120,
+            "name": "Asian Handicap(Powerplay)"
+        },
+        {
+            "id": 121,
+            "name": "Over/Under(Powerplay)"
+        },
+        {
+            "id": 122,
+            "name": "Double Chance(Powerplay)"
+        },
+        {
+            "id": 123,
+            "name": "1x2 (10 min.)"
+        },
+        {
+            "id": 124,
+            "name": "Double Chance (10 min.)"
+        },
+        {
+            "id": 125,
+            "name": "Asian Handicap (10 min.)"
+        },
+        {
+            "id": 126,
+            "name": "Over/Under (10 min.)"
+        },
+        {
+            "id": 127,
+            "name": "Asian Handicap(Powerplay 1st Period)"
+        },
+        {
+            "id": 128,
+            "name": "Over/Under(Powerplay 1st Period)"
+        },
+        {
+            "id": 129,
+            "name": "Double Chance(Powerplay 1st Period)"
+        },
+        {
+            "id": 130,
+            "name": "Home Total (Powerplay 1st Period)"
+        },
+        {
+            "id": 131,
+            "name": "Away Total (Powerplay 1st Period)"
+        },
+        {
+            "id": 132,
+            "name": "Will be a empty net goal"
+        },
+        {
+            "id": 133,
+            "name": "HT/FT Double"
+        },
+        {
+            "id": 134,
+            "name": "1x2(Powerplay 1st Period)"
+        },
+        {
+            "id": 135,
+            "name": "Away To win in overtime"
+        },
+        {
+            "id": 136,
+            "name": "Home To win in overtime"
+        },
+        {
+            "id": 137,
+            "name": "1x2 (Checking)"
+        },
+        {
+            "id": 138,
+            "name": "Asian Handicap (Checking)"
+        },
+        {
+            "id": 139,
+            "name": "Home Win All Three Periods"
+        },
+        {
+            "id": 140,
+            "name": "Away Win All Three Periods"
+        },
+        {
+            "id": 141,
+            "name": "Exact Goals Number"
+        },
+        {
+            "id": 142,
+            "name": "Home Team Exact Goals Number"
+        },
+        {
+            "id": 143,
+            "name": "Away Team Exact Goals Number"
+        },
+        {
+            "id": 144,
+            "name": "Home Winning Margin"
+        },
+        {
+            "id": 145,
+            "name": "Away Winning Margin"
+        },
+        {
+            "id": 146,
+            "name": "Total Goals Number By Ranges"
+        },
+        {
+            "id": 147,
+            "name": "Goal In Each Period"
+        },
+        {
+            "id": 148,
+            "name": "Player Singles"
+        },
+        {
+            "id": 149,
+            "name": "Player Assists"
+        },
+        {
+            "id": 150,
+            "name": "Home Odd/Even"
+        },
+        {
+            "id": 151,
+            "name": "Away Odd/Even"
+        },
+        {
+            "id": 152,
+            "name": "Race To"
+        },
+        {
+            "id": 153,
+            "name": "Total (3W)"
+        },
+        {
+            "id": 154,
+            "name": "Time Of 1st Score"
+        },
+        {
+            "id": 155,
+            "name": "Tied after Regulation"
+        },
+        {
+            "id": 156,
+            "name": "Team Time Of 1st Score"
+        },
+        {
+            "id": 157,
+            "name": "Team Scoring 1st Wins Game"
+        },
+        {
+            "id": 158,
+            "name": "When will Match End"
+        },
+        {
+            "id": 159,
+            "name": "Player Shots on Goal"
+        },
+        {
+            "id": 160,
+            "name": "Home Player Shots"
+        },
+        {
+            "id": 161,
+            "name": "Away Player Shots"
+        },
+        {
+            "id": 162,
+            "name": "Both Teams To Score 10m"
+        },
+        {
+            "id": 163,
+            "name": "European Handicap 10m"
+        },
+        {
+            "id": 164,
+            "name": "Away Team Total Goals"
+        },
+        {
+            "id": 165,
+            "name": "Home Team Total Goals"
+        },
+        {
+            "id": 166,
+            "name": "Both Teams To Score (Goals)"
+        },
+        {
+            "id": 167,
+            "name": "Team To Score (Goals)"
+        },
+        {
+            "id": 168,
+            "name": "Team To Score 10 min"
+        },
+        {
+            "id": 169,
+            "name": "Home/Away 10m"
+        },
+        {
+            "id": 170,
+            "name": "Correct Score 10m"
+        },
+        {
+            "id": 171,
+            "name": "Over/Under (3W) 1st Period"
+        },
+        {
+            "id": 172,
+            "name": "Player Points Milestones"
+        },
+        {
+            "id": 173,
+            "name": "Home Player Points Milestones"
+        },
+        {
+            "id": 174,
+            "name": "Away Player Points Milestones"
+        },
+        {
+            "id": 175,
+            "name": "Player Power Play Points Milestones"
+        },
+        {
+            "id": 176,
+            "name": "Home Player Power Play Points Milestones"
+        },
+        {
+            "id": 177,
+            "name": "Player Shots on Goal Milestones"
+        },
+        {
+            "id": 178,
+            "name": "Away Player Shots on Goal Milestones"
+        },
+        {
+            "id": 179,
+            "name": "Over/Under (Checking)"
+        },
+        {
+            "id": 180,
+            "name": "Over/Under (3W) 10m"
+        },
+        {
+            "id": 181,
+            "name": "Home Player Shots on Goal"
+        },
+        {
+            "id": 182,
+            "name": "Away Player Shots on Goal"
+        },
+        {
+            "id": 183,
+            "name": "Player Assists Milestones"
+        },
+        {
+            "id": 184,
+            "name": "Home Player Assists Milestones"
+        },
+        {
+            "id": 185,
+            "name": "Away Player Assists Milestones"
+        },
+        {
+            "id": 186,
+            "name": "Away Player Power Play Points Milestones"
+        },
+        {
+            "id": 187,
+            "name": "Home Player Shots on Goal Milestones"
+        },
+        {
+            "id": 188,
+            "name": "Player to record a Sack"
+        },
+        {
+            "id": 189,
+            "name": "Home Player to Record a Sack"
+        },
+        {
+            "id": 190,
+            "name": "Player Saves Milestones"
+        },
+        {
+            "id": 191,
+            "name": "Over/Under(face offs)"
+        },
+        {
+            "id": 192,
+            "name": "Player Blocked Shots"
+        },
+        {
+            "id": 193,
+            "name": "Home Player Blocked Shots"
+        },
+        {
+            "id": 194,
+            "name": "Away Player Blocked Shots"
+        },
+        {
+            "id": 195,
+            "name": "Asian Handicap(face offs)"
+        },
+        {
+            "id": 196,
+            "name": "1x2(face offs)"
+        },
+        {
+            "id": 197,
+            "name": "Double Chance(face offs)"
+        },
+        {
+            "id": 198,
+            "name": "Away Player to Record a Sack"
+        },
+        {
+            "id": 199,
+            "name": "Player Saves"
+        },
+        {
+            "id": 200,
+            "name": "Away Player Saves"
+        },
+        {
+            "id": 201,
+            "name": "Double Chance (Checking)"
+        },
+        {
+            "id": 202,
+            "name": "To Score Two or More Goals"
+        },
+        {
+            "id": 203,
+            "name": "To Score 3 or More Goals"
+        },
+        {
+            "id": 204,
+            "name": "Anytime Goal Scorer"
+        },
+        {
+            "id": 205,
+            "name": "First Goal Scorer"
+        },
+        {
+            "id": 206,
+            "name": "Last Goal Scorer"
+        },
+        {
+            "id": 207,
+            "name": "Player Points"
+        },
+        {
+            "id": 208,
+            "name": "Home/Away (2nd Period)"
+        },
+        {
+            "id": 209,
+            "name": "Home/Away (3rd Period)"
+        },
+        {
+            "id": 210,
+            "name": "Away Anytime Goal Scorer"
+        },
+        {
+            "id": 211,
+            "name": "Away First Goal Scorer"
+        },
+        {
+            "id": 212,
+            "name": "Away Last Goal Scorer"
+        },
+        {
+            "id": 213,
+            "name": "Home Anytime Goal Scorer"
+        },
+        {
+            "id": 214,
+            "name": "Home First Goal Scorer"
+        },
+        {
+            "id": 215,
+            "name": "Home Last Goal Scorer"
+        },
+        {
+            "id": 216,
+            "name": "Away Player Assists"
+        },
+        {
+            "id": 217,
+            "name": "Player Points Milestones"
+        },
+        {
+            "id": 218,
+            "name": "Player Shots On Goal"
+        },
+        {
+            "id": 219,
+            "name": "Away Anytime Goal Scorer"
+        },
+        {
+            "id": 220,
+            "name": "Total Passing Touchdowns"
+        },
+        {
+            "id": 221,
+            "name": "Player Powerplay Points"
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "get": "standings",
+    "parameters": {
+        "league": "57",
+        "season": "2024"
+    },
+    "errors": [],
+    "results": 2,
+    "response": [
+        "NHL - Regular Season",
+        "NHL - Pre-season"
+    ]
+}
