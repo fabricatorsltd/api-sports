@@ -4,6 +4,7 @@
     <ApiSportsSdkCoreVersion>1.0.4</ApiSportsSdkCoreVersion>
     <ApiSportsSdkAflVersion>0.1.0</ApiSportsSdkAflVersion>
     <ApiSportsSdkBaseballVersion>0.1.0</ApiSportsSdkBaseballVersion>
+    <ApiSportsSdkBasketballVersion>0.1.0</ApiSportsSdkBasketballVersion>
     <ApiSportsSdkFootballVersion>1.0.4</ApiSportsSdkFootballVersion>
     <ApiSportsSdkFormula1Version>1.0.3</ApiSportsSdkFormula1Version>
     <ApiSportsSdkLoggingMicrosoftVersion>1.0.0</ApiSportsSdkLoggingMicrosoftVersion>
