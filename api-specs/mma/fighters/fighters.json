@@ -1,0 +1,29 @@
+{
+    "get": "fighters",
+    "parameters": {
+        "id": "691"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+        {
+            "id": 691,
+            "name": "Conor McGregor",
+            "nickname": "The Notorious",
+            "photo": "https://media.api-sports.io/mma/fighters/691.png",
+            "gender": "M",
+            "birth_date": null,
+            "age": null,
+            "height": "5' 9'",
+            "weight": "156 lbs",
+            "reach": "74'",
+            "stance": "Southpaw",
+            "category": "Welterweight",
+            "team": {
+                "id": 40,
+                "name": "SBG Ireland"
+            },
+            "last_update": "2025-06-04T18:56:03+00:00"
+        }
+    ]
+}

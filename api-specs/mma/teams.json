@@ -1,0 +1,3436 @@
+{
+    "get": "teams",
+    "parameters": [],
+    "errors": [],
+    "results": 857,
+    "response": [
+        {
+            "id": 1,
+            "name": "MMA LAB"
+        },
+        {
+            "id": 2,
+            "name": "Fortis MMA"
+        },
+        {
+            "id": 3,
+            "name": "Alliance MMA"
+        },
+        {
+            "id": 4,
+            "name": "BMF Ranch"
+        },
+        {
+            "id": 5,
+            "name": "Nunes"
+        },
+        {
+            "id": 6,
+            "name": "Five Rounds"
+        },
+        {
+            "id": 7,
+            "name": "Treigning Lab"
+        },
+        {
+            "id": 8,
+            "name": "Rubao Carioca BJJ"
+        },
+        {
+            "id": 9,
+            "name": "Hakuilua"
+        },
+        {
+            "id": 10,
+            "name": "Combat Sports Academy"
+        },
+        {
+            "id": 11,
+            "name": "Jesus is Lord"
+        },
+        {
+            "id": 12,
+            "name": "Glory MMA & Fitness"
+        },
+        {
+            "id": 13,
+            "name": "Long Island MMA"
+        },
+        {
+            "id": 14,
+            "name": "Roufusport"
+        },
+        {
+            "id": 15,
+            "name": "Arizona Combat Sports"
+        },
+        {
+            "id": 16,
+            "name": "FactoryX Muay Thai"
+        },
+        {
+            "id": 17,
+            "name": "Syndicate MMA"
+        },
+        {
+            "id": 18,
+            "name": "Saekson Muay Thai"
+        },
+        {
+            "id": 19,
+            "name": "Elevation Fight"
+        },
+        {
+            "id": 20,
+            "name": "Fight Ready"
+        },
+        {
+            "id": 21,
+            "name": "American Top"
+        },
+        {
+            "id": 22,
+            "name": "Bellmore Kickboxing Academy"
+        },
+        {
+            "id": 23,
+            "name": "Alpha Male"
+        },
+        {
+            "id": 24,
+            "name": "Gracie Barra Portland"
+        },
+        {
+            "id": 25,
+            "name": "Teixeira MMA & Fitness"
+        },
+        {
+            "id": 26,
+            "name": "Viscardi Andrade"
+        },
+        {
+            "id": 27,
+            "name": "MMAGold Fight"
+        },
+        {
+            "id": 28,
+            "name": "Taila Santos"
+        },
+        {
+            "id": 29,
+            "name": "Nova Uniao"
+        },
+        {
+            "id": 30,
+            "name": "Nogueira"
+        },
+        {
+            "id": 31,
+            "name": "Xtreme Couture"
+        },
+        {
+            "id": 32,
+            "name": "Gile Ribeiro  / Noguchi"
+        },
+        {
+            "id": 33,
+            "name": "Akhmat Fight"
+        },
+        {
+            "id": 34,
+            "name": "Ascension MMA"
+        },
+        {
+            "id": 35,
+            "name": "Tiger Muay Thai"
+        },
+        {
+            "id": 36,
+            "name": "Tiger Schulman"
+        },
+        {
+            "id": 37,
+            "name": "Demian Maia Jiu-Jitsu"
+        },
+        {
+            "id": 38,
+            "name": "Chute Boxe"
+        },
+        {
+            "id": 39,
+            "name": "Allstars Training Center"
+        },
+        {
+            "id": 40,
+            "name": "SBG Ireland"
+        },
+        {
+            "id": 41,
+            "name": "Gracie Barra Katy"
+        },
+        {
+            "id": 42,
+            "name": "Maximo"
+        },
+        {
+            "id": 43,
+            "name": "Astra Fight"
+        },
+        {
+            "id": 44,
+            "name": "Jackson's MMA Acoma"
+        },
+        {
+            "id": 45,
+            "name": "Killer Bees"
+        },
+        {
+            "id": 46,
+            "name": "Australian Top"
+        },
+        {
+            "id": 47,
+            "name": "Carlson Gracie Riverside"
+        },
+        {
+            "id": 48,
+            "name": "City Kickboxing"
+        },
+        {
+            "id": 49,
+            "name": "Sikjitsu"
+        },
+        {
+            "id": 50,
+            "name": "Busan  M.A.D."
+        },
+        {
+            "id": 51,
+            "name": "PMA Super Martial Arts Centre"
+        },
+        {
+            "id": 52,
+            "name": "American Top  Portland"
+        },
+        {
+            "id": 53,
+            "name": "Greco and Stewie's House"
+        },
+        {
+            "id": 54,
+            "name": "Quest -Portland"
+        },
+        {
+            "id": 55,
+            "name": "Jackson-Wink MMA"
+        },
+        {
+            "id": 56,
+            "name": "Nashville MMA"
+        },
+        {
+            "id": 57,
+            "name": "MMA-KEGI"
+        },
+        {
+            "id": 58,
+            "name": "Serra-Longo Fight"
+        },
+        {
+            "id": 59,
+            "name": "South Shore Sport"
+        },
+        {
+            "id": 60,
+            "name": "Reign MMA"
+        },
+        {
+            "id": 61,
+            "name": "Karate Mafia"
+        },
+        {
+            "id": 62,
+            "name": "Sanford MMA"
+        },
+        {
+            "id": 63,
+            "name": "Shield Systems MMA"
+        },
+        {
+            "id": 64,
+            "name": "AKA (American Kickboxing Academy)"
+        },
+        {
+            "id": 65,
+            "name": "Lloyd Irvin"
+        },
+        {
+            "id": 66,
+            "name": "Kron Gracie Jiu-Jitsu"
+        },
+        {
+            "id": 67,
+            "name": "Kill Cliff FC"
+        },
+        {
+            "id": 68,
+            "name": "Gym-O"
+        },
+        {
+            "id": 69,
+            "name": "Gorets"
+        },
+        {
+            "id": 70,
+            "name": "MMA Red Star"
+        },
+        {
+            "id": 71,
+            "name": "Frankiko"
+        },
+        {
+            "id": 72,
+            "name": "Gorec"
+        },
+        {
+            "id": 73,
+            "name": "Ankos MMA"
+        },
+        {
+            "id": 74,
+            "name": "Berkut WCA Fight"
+        },
+        {
+            "id": 75,
+            "name": "Hurricane Awesome"
+        },
+        {
+            "id": 76,
+            "name": "Schrijber"
+        },
+        {
+            "id": 77,
+            "name": "Next Generation UK"
+        },
+        {
+            "id": 78,
+            "name": "Arte Suave Copenhagen"
+        },
+        {
+            "id": 79,
+            "name": "Entram Gym"
+        },
+        {
+            "id": 80,
+            "name": "RVCA"
+        },
+        {
+            "id": 81,
+            "name": "Knoxville MMA"
+        },
+        {
+            "id": 82,
+            "name": "ONX Sports"
+        },
+        {
+            "id": 83,
+            "name": "American Top  Evolution"
+        },
+        {
+            "id": 84,
+            "name": "Ricardo Almeida Jiu-Jitsu"
+        },
+        {
+            "id": 85,
+            "name": "Pound 4 Pound Fitness"
+        },
+        {
+            "id": 86,
+            "name": "Beijing Black Tiger"
+        },
+        {
+            "id": 87,
+            "name": "School of Self-Awareness"
+        },
+        {
+            "id": 88,
+            "name": "Strong Style Fight"
+        },
+        {
+            "id": 89,
+            "name": "4oz Fight Club"
+        },
+        {
+            "id": 90,
+            "name": "Kings MMA"
+        },
+        {
+            "id": 91,
+            "name": "Alliance Jiu-Jitsu"
+        },
+        {
+            "id": 92,
+            "name": "Rothwell MMA"
+        },
+        {
+            "id": 93,
+            "name": "Barbarian Combat Sports"
+        },
+        {
+            "id": 94,
+            "name": "Elite Training Centre"
+        },
+        {
+            "id": 95,
+            "name": "CM System"
+        },
+        {
+            "id": 96,
+            "name": "CSW"
+        },
+        {
+            "id": 97,
+            "name": "TriStar Gym"
+        },
+        {
+            "id": 98,
+            "name": "MMA Masters"
+        },
+        {
+            "id": 99,
+            "name": "Kaobon"
+        },
+        {
+            "id": 100,
+            "name": "UTC Birmingham"
+        },
+        {
+            "id": 101,
+            "name": "Mjolnir"
+        },
+        {
+            "id": 102,
+            "name": "Tillery Combat MMA Academy"
+        },
+        {
+            "id": 103,
+            "name": "London Shootfighters"
+        },
+        {
+            "id": 104,
+            "name": "Mike's Gym"
+        },
+        {
+            "id": 105,
+            "name": "Legion Fight"
+        },
+        {
+            "id": 106,
+            "name": "Figueiredo"
+        },
+        {
+            "id": 107,
+            "name": "Upstate Karate"
+        },
+        {
+            "id": 108,
+            "name": "Michigan Top"
+        },
+        {
+            "id": 109,
+            "name": "Higher Level Martial Arts"
+        },
+        {
+            "id": 110,
+            "name": "Lobo Gym MMA"
+        },
+        {
+            "id": 111,
+            "name": "Thai Brasil"
+        },
+        {
+            "id": 112,
+            "name": "Renegade MMA"
+        },
+        {
+            "id": 113,
+            "name": "MMA Factory"
+        },
+        {
+            "id": 114,
+            "name": "The Goat Shed"
+        },
+        {
+            "id": 115,
+            "name": "Gloria Fight Center"
+        },
+        {
+            "id": 116,
+            "name": "Centro Deportivo Tibet"
+        },
+        {
+            "id": 117,
+            "name": "Evolucao Thai"
+        },
+        {
+            "id": 118,
+            "name": "Embrace Martial Arts"
+        },
+        {
+            "id": 119,
+            "name": "Oyama"
+        },
+        {
+            "id": 120,
+            "name": "Pura Vida BJJ"
+        },
+        {
+            "id": 121,
+            "name": "Destruction"
+        },
+        {
+            "id": 122,
+            "name": "Minnesota Martial Arts Academy"
+        },
+        {
+            "id": 123,
+            "name": "Fit NHB"
+        },
+        {
+            "id": 124,
+            "name": "BKK Fighters"
+        },
+        {
+            "id": 125,
+            "name": "R.O.C."
+        },
+        {
+            "id": 126,
+            "name": "Great Britain Top"
+        },
+        {
+            "id": 127,
+            "name": "Delincuentes MMA"
+        },
+        {
+            "id": 128,
+            "name": "Top  Salzburg"
+        },
+        {
+            "id": 129,
+            "name": "Triton Fight Center"
+        },
+        {
+            "id": 130,
+            "name": "Frontline Academy"
+        },
+        {
+            "id": 131,
+            "name": "Renzo Gracie Jiu-Jitsu"
+        },
+        {
+            "id": 132,
+            "name": "Arena Dortmund"
+        },
+        {
+            "id": 133,
+            "name": "Brazilian Jiu-Jitsu United"
+        },
+        {
+            "id": 134,
+            "name": "YK Promotion"
+        },
+        {
+            "id": 135,
+            "name": "Gracie Technics"
+        },
+        {
+            "id": 136,
+            "name": "Corinthians MMA"
+        },
+        {
+            "id": 137,
+            "name": "Rati"
+        },
+        {
+            "id": 138,
+            "name": "Finnfighters Gym"
+        },
+        {
+            "id": 139,
+            "name": "K Dojo"
+        },
+        {
+            "id": 140,
+            "name": "Strela"
+        },
+        {
+            "id": 141,
+            "name": "Peresvet FT"
+        },
+        {
+            "id": 142,
+            "name": "American Top  Atlanta"
+        },
+        {
+            "id": 143,
+            "name": "The Pit Elevated Fight"
+        },
+        {
+            "id": 144,
+            "name": "Millennia MMA"
+        },
+        {
+            "id": 145,
+            "name": "Sussex County MMA"
+        },
+        {
+            "id": 146,
+            "name": "Emporium"
+        },
+        {
+            "id": 147,
+            "name": "Troop MMA"
+        },
+        {
+            "id": 148,
+            "name": "Toshida MMA"
+        },
+        {
+            "id": 149,
+            "name": "Paradigm Training Center"
+        },
+        {
+            "id": 150,
+            "name": "Ryan's MMA - Checkmat Vancouver"
+        },
+        {
+            "id": 151,
+            "name": "Barata MMA"
+        },
+        {
+            "id": 152,
+            "name": "Pitbull Martial Arts Center"
+        },
+        {
+            "id": 153,
+            "name": "Luttrell-Yee MMA"
+        },
+        {
+            "id": 154,
+            "name": "Rodrigo Pinheiro BJJ"
+        },
+        {
+            "id": 155,
+            "name": "Longview MMA"
+        },
+        {
+            "id": 156,
+            "name": "Disorderly Conduct"
+        },
+        {
+            "id": 157,
+            "name": "Travis Lutter BJJ"
+        },
+        {
+            "id": 158,
+            "name": "American Top  D'Iberville"
+        },
+        {
+            "id": 159,
+            "name": "Black House"
+        },
+        {
+            "id": 160,
+            "name": "Kaizen MMA"
+        },
+        {
+            "id": 161,
+            "name": "K-Taro Dojo"
+        },
+        {
+            "id": 162,
+            "name": "Fight Club Berkut"
+        },
+        {
+            "id": 163,
+            "name": "Eagles MMA"
+        },
+        {
+            "id": 164,
+            "name": "Fusion X-Cel"
+        },
+        {
+            "id": 165,
+            "name": "Baltic Challenge"
+        },
+        {
+            "id": 166,
+            "name": "ATS  Tres Rios"
+        },
+        {
+            "id": 167,
+            "name": "Adrenaline Combat Sports"
+        },
+        {
+            "id": 168,
+            "name": "House Of Champions"
+        },
+        {
+            "id": 169,
+            "name": "Joel Diaz Training Camp"
+        },
+        {
+            "id": 170,
+            "name": "Spartan Fitness"
+        },
+        {
+            "id": 171,
+            "name": "Imperio Fight"
+        },
+        {
+            "id": 172,
+            "name": "Pitbull Brothers"
+        },
+        {
+            "id": 173,
+            "name": "Lucas Mineiro"
+        },
+        {
+            "id": 174,
+            "name": "Invictus MMA"
+        },
+        {
+            "id": 175,
+            "name": "Parana Vale Tudo"
+        },
+        {
+            "id": 176,
+            "name": "303 Training Center"
+        },
+        {
+            "id": 177,
+            "name": "Jungle MMA"
+        },
+        {
+            "id": 178,
+            "name": "Catone MMA"
+        },
+        {
+            "id": 179,
+            "name": "W4R Training Center"
+        },
+        {
+            "id": 180,
+            "name": "Valle Flow Striking"
+        },
+        {
+            "id": 181,
+            "name": "Lions High Performance Centre"
+        },
+        {
+            "id": 182,
+            "name": "The MMA Clinic"
+        },
+        {
+            "id": 183,
+            "name": "Vos Gym"
+        },
+        {
+            "id": 184,
+            "name": "Quest"
+        },
+        {
+            "id": 185,
+            "name": "MOB Training Center"
+        },
+        {
+            "id": 186,
+            "name": "Academia Fight House"
+        },
+        {
+            "id": 187,
+            "name": "Conquest"
+        },
+        {
+            "id": 188,
+            "name": "Polar Bear"
+        },
+        {
+            "id": 189,
+            "name": "Rizzo RVT"
+        },
+        {
+            "id": 190,
+            "name": "Gracie United"
+        },
+        {
+            "id": 191,
+            "name": "BJ Penn MMA"
+        },
+        {
+            "id": 192,
+            "name": "Constrictor"
+        },
+        {
+            "id": 193,
+            "name": "American Top  Zagreb"
+        },
+        {
+            "id": 194,
+            "name": "Redline Training Center"
+        },
+        {
+            "id": 195,
+            "name": "Clube do Leao"
+        },
+        {
+            "id": 196,
+            "name": "New England Cartel"
+        },
+        {
+            "id": 197,
+            "name": "Maximum Training Centre"
+        },
+        {
+            "id": 198,
+            "name": "The Sound Martial Arts"
+        },
+        {
+            "id": 199,
+            "name": "Cerrado MMA"
+        },
+        {
+            "id": 200,
+            "name": "Academie Pro Star MMA"
+        },
+        {
+            "id": 201,
+            "name": "Overcome Academy"
+        },
+        {
+            "id": 202,
+            "name": "515"
+        },
+        {
+            "id": 203,
+            "name": "Industrials"
+        },
+        {
+            "id": 204,
+            "name": "Tata Fight"
+        },
+        {
+            "id": 205,
+            "name": "Stabile Fight"
+        },
+        {
+            "id": 206,
+            "name": "Stun Gun"
+        },
+        {
+            "id": 207,
+            "name": "Duneland Vale Tudo"
+        },
+        {
+            "id": 208,
+            "name": "Snap Down City Academy"
+        },
+        {
+            "id": 209,
+            "name": "Port City Sports Performance"
+        },
+        {
+            "id": 210,
+            "name": "Mosside Ground and Pound"
+        },
+        {
+            "id": 211,
+            "name": "Algeo MMA and Kickboxing"
+        },
+        {
+            "id": 212,
+            "name": "Regiment Traing Center"
+        },
+        {
+            "id": 213,
+            "name": "Skrap Pack"
+        },
+        {
+            "id": 214,
+            "name": "Babuino Gold"
+        },
+        {
+            "id": 215,
+            "name": "APEX MMA"
+        },
+        {
+            "id": 216,
+            "name": "Budokan Martial Arts Academy"
+        },
+        {
+            "id": 217,
+            "name": "Martinez BJJ"
+        },
+        {
+            "id": 218,
+            "name": "Marathon MMA"
+        },
+        {
+            "id": 219,
+            "name": "BST MMA & Fitness"
+        },
+        {
+            "id": 220,
+            "name": "Impact Jiu Jitsu"
+        },
+        {
+            "id": 221,
+            "name": "Camp Fight"
+        },
+        {
+            "id": 222,
+            "name": "Ribas Family"
+        },
+        {
+            "id": 223,
+            "name": "MSP"
+        },
+        {
+            "id": 224,
+            "name": "Oklahoma Martial Arts Academy"
+        },
+        {
+            "id": 225,
+            "name": "El Nino Training Center"
+        },
+        {
+            "id": 226,
+            "name": "Salty Dog Jiu Jitsu"
+        },
+        {
+            "id": 227,
+            "name": "Fighting Arts Academy"
+        },
+        {
+            "id": 228,
+            "name": "West Oahu MMA"
+        },
+        {
+            "id": 229,
+            "name": "Lauzon MMA"
+        },
+        {
+            "id": 230,
+            "name": "Hawaii Elite MMA"
+        },
+        {
+            "id": 231,
+            "name": "Marajo Brothers"
+        },
+        {
+            "id": 232,
+            "name": "Pellegrino MMA"
+        },
+        {
+            "id": 233,
+            "name": "Bronx Hill MMA"
+        },
+        {
+            "id": 234,
+            "name": "Para Bellum MMA"
+        },
+        {
+            "id": 235,
+            "name": "Revolution Dojo"
+        },
+        {
+            "id": 236,
+            "name": "Korean Zombie MMA"
+        },
+        {
+            "id": 237,
+            "name": "Altitude MMA"
+        },
+        {
+            "id": 238,
+            "name": "Warrior Camp MMA"
+        },
+        {
+            "id": 239,
+            "name": "Darkwolf MMA"
+        },
+        {
+            "id": 240,
+            "name": "Munich MMA"
+        },
+        {
+            "id": 241,
+            "name": "Black Lion Jiu-Jitsu"
+        },
+        {
+            "id": 242,
+            "name": "Siege MMA"
+        },
+        {
+            "id": 243,
+            "name": "Gracie Tampa South"
+        },
+        {
+            "id": 244,
+            "name": "Renzo Gracie Houston"
+        },
+        {
+            "id": 245,
+            "name": "Titans MMA"
+        },
+        {
+            "id": 246,
+            "name": "American Top  Sunrise"
+        },
+        {
+            "id": 247,
+            "name": "Reinders MMA"
+        },
+        {
+            "id": 248,
+            "name": "Cesar Gracie Jiu-Jitsu"
+        },
+        {
+            "id": 249,
+            "name": "Taisumov"
+        },
+        {
+            "id": 250,
+            "name": "Murcielago MMA"
+        },
+        {
+            "id": 251,
+            "name": "Shaved Bears MMA"
+        },
+        {
+            "id": 252,
+            "name": "Champion's Creed MMA"
+        },
+        {
+            "id": 253,
+            "name": "Grappling Krakow"
+        },
+        {
+            "id": 254,
+            "name": "Inside Muay Thai"
+        },
+        {
+            "id": 255,
+            "name": "Boets MMA"
+        },
+        {
+            "id": 256,
+            "name": "Pro Fighting Peru"
+        },
+        {
+            "id": 257,
+            "name": "CT Fronteira Fight"
+        },
+        {
+            "id": 258,
+            "name": "Piranha Grappling"
+        },
+        {
+            "id": 259,
+            "name": "Chosen Few Gym"
+        },
+        {
+            "id": 260,
+            "name": "Charlie's Combat Club"
+        },
+        {
+            "id": 261,
+            "name": "Mexican Pride"
+        },
+        {
+            "id": 262,
+            "name": "Pittsburgh Academy"
+        },
+        {
+            "id": 263,
+            "name": "Korean Top"
+        },
+        {
+            "id": 264,
+            "name": "Sambo-Piter"
+        },
+        {
+            "id": 265,
+            "name": "Berkut FC"
+        },
+        {
+            "id": 266,
+            "name": "Fight Fit Militia"
+        },
+        {
+            "id": 267,
+            "name": "Manchester Top"
+        },
+        {
+            "id": 268,
+            "name": "Krepost"
+        },
+        {
+            "id": 269,
+            "name": "Jupps Fight"
+        },
+        {
+            "id": 270,
+            "name": "Takedown"
+        },
+        {
+            "id": 271,
+            "name": "Checkmat Vancouver"
+        },
+        {
+            "id": 272,
+            "name": "Sports Lab"
+        },
+        {
+            "id": 273,
+            "name": "Wolves Den Training Center"
+        },
+        {
+            "id": 274,
+            "name": "Force Of One Martial Arts"
+        },
+        {
+            "id": 275,
+            "name": "KO Zone"
+        },
+        {
+            "id": 276,
+            "name": "Thornton Martial Arts"
+        },
+        {
+            "id": 277,
+            "name": "Port City Kickboxing Academy"
+        },
+        {
+            "id": 278,
+            "name": "American Elite MMA"
+        },
+        {
+            "id": 279,
+            "name": "Brazilian Top  Texas"
+        },
+        {
+            "id": 280,
+            "name": "Secutor"
+        },
+        {
+            "id": 281,
+            "name": "Sityodtong Boston"
+        },
+        {
+            "id": 282,
+            "name": "Zugec Ultimate Martial Arts"
+        },
+        {
+            "id": 283,
+            "name": "Resilience Training Centre"
+        },
+        {
+            "id": 284,
+            "name": "Westside Fight"
+        },
+        {
+            "id": 285,
+            "name": "Monster Gym"
+        },
+        {
+            "id": 286,
+            "name": "Shore Mixed Martial Arts Centre of Excellence"
+        },
+        {
+            "id": 287,
+            "name": "Rumble Sports"
+        },
+        {
+            "id": 288,
+            "name": "Magnus MMA"
+        },
+        {
+            "id": 289,
+            "name": "Nexus"
+        },
+        {
+            "id": 290,
+            "name": "NTG Fight & Fitness"
+        },
+        {
+            "id": 291,
+            "name": "10eme Round"
+        },
+        {
+            "id": 292,
+            "name": "Phuket Top"
+        },
+        {
+            "id": 293,
+            "name": "GrindHouse MMA"
+        },
+        {
+            "id": 294,
+            "name": "Torture Athletics"
+        },
+        {
+            "id": 295,
+            "name": "Longo-Weidman MMA"
+        },
+        {
+            "id": 296,
+            "name": "The Kennel Fight Club"
+        },
+        {
+            "id": 297,
+            "name": "SBG Bishop Auckland"
+        },
+        {
+            "id": 298,
+            "name": "Ring Demon Jiu-Jitsu"
+        },
+        {
+            "id": 299,
+            "name": "Icon MMA"
+        },
+        {
+            "id": 300,
+            "name": "Immortal Martial Arts"
+        },
+        {
+            "id": 301,
+            "name": "American Combat Gym"
+        },
+        {
+            "id": 302,
+            "name": "Broadway Jiu-Jitsu"
+        },
+        {
+            "id": 303,
+            "name": "Renzo Gracie Philly"
+        },
+        {
+            "id": 304,
+            "name": "Bangtao Muay Thai"
+        },
+        {
+            "id": 305,
+            "name": "Combat Sport and Fitness"
+        },
+        {
+            "id": 306,
+            "name": "Janjira Muay Thai"
+        },
+        {
+            "id": 307,
+            "name": "Chris Rees Academy"
+        },
+        {
+            "id": 308,
+            "name": "Souto"
+        },
+        {
+            "id": 309,
+            "name": "Our Town MMA"
+        },
+        {
+            "id": 310,
+            "name": "Igor MMA"
+        },
+        {
+            "id": 311,
+            "name": "Pinnacle MMA"
+        },
+        {
+            "id": 312,
+            "name": "All Sports Academy"
+        },
+        {
+            "id": 313,
+            "name": "Werdum Combat"
+        },
+        {
+            "id": 314,
+            "name": "Blackzilians"
+        },
+        {
+            "id": 315,
+            "name": "Lions Fight Martial Arts"
+        },
+        {
+            "id": 316,
+            "name": "Brazilian Top"
+        },
+        {
+            "id": 317,
+            "name": "Zenith Jiu-Jitsu"
+        },
+        {
+            "id": 318,
+            "name": "Lion Club"
+        },
+        {
+            "id": 319,
+            "name": "Gintas Combat"
+        },
+        {
+            "id": 320,
+            "name": "Nogueira Dubai"
+        },
+        {
+            "id": 321,
+            "name": "Life MMA"
+        },
+        {
+            "id": 322,
+            "name": "Pit MMA"
+        },
+        {
+            "id": 323,
+            "name": "Shogun MMA"
+        },
+        {
+            "id": 324,
+            "name": "Planet Eater"
+        },
+        {
+            "id": 325,
+            "name": "Genesis BJJ"
+        },
+        {
+            "id": 326,
+            "name": "10th Planet Jiu Jitsu"
+        },
+        {
+            "id": 327,
+            "name": "Adrenaline Training Center"
+        },
+        {
+            "id": 328,
+            "name": "EFL Martial Arts Academy"
+        },
+        {
+            "id": 329,
+            "name": "Headkicks MMA"
+        },
+        {
+            "id": 330,
+            "name": "Renegade Jiu-Jitsu"
+        },
+        {
+            "id": 331,
+            "name": "The Academy"
+        },
+        {
+            "id": 332,
+            "name": "Escobar Training Grounds"
+        },
+        {
+            "id": 333,
+            "name": "ADAM Coatzacoalcos"
+        },
+        {
+            "id": 334,
+            "name": "Next Generation Northern Ireland"
+        },
+        {
+            "id": 335,
+            "name": "StrKings"
+        },
+        {
+            "id": 336,
+            "name": "Salvation Mixed Martial Arts"
+        },
+        {
+            "id": 337,
+            "name": "Tactica BJJ"
+        },
+        {
+            "id": 338,
+            "name": "Frankers Fight"
+        },
+        {
+            "id": 339,
+            "name": "Dragon House MMA"
+        },
+        {
+            "id": 340,
+            "name": "Metro Fight Club"
+        },
+        {
+            "id": 341,
+            "name": "Marquez MMA"
+        },
+        {
+            "id": 342,
+            "name": "A4 Fitness"
+        },
+        {
+            "id": 343,
+            "name": "Gladiator MMA"
+        },
+        {
+            "id": 344,
+            "name": "Fighter House"
+        },
+        {
+            "id": 345,
+            "name": "CQuence Jiu-Jitsu"
+        },
+        {
+            "id": 346,
+            "name": "USMMA"
+        },
+        {
+            "id": 347,
+            "name": "WCF Tulsa"
+        },
+        {
+            "id": 348,
+            "name": "Lost Boys Jiu Jitsu and Muay Thai"
+        },
+        {
+            "id": 349,
+            "name": "Scorpion Fighting System"
+        },
+        {
+            "id": 350,
+            "name": "Finney's HIT Squad"
+        },
+        {
+            "id": 351,
+            "name": "Underdog BJJ"
+        },
+        {
+            "id": 352,
+            "name": "VFS Academy"
+        },
+        {
+            "id": 353,
+            "name": "Family Combat Fitness"
+        },
+        {
+            "id": 354,
+            "name": "Tatsujin Dojo"
+        },
+        {
+            "id": 355,
+            "name": "X3 Sports"
+        },
+        {
+            "id": 356,
+            "name": "Borneo Tribal Squad"
+        },
+        {
+            "id": 357,
+            "name": "Crazy 88 Brazilian Jiu-Jitsu"
+        },
+        {
+            "id": 358,
+            "name": "Avalanche Wrestling Association"
+        },
+        {
+            "id": 359,
+            "name": "Vida BJJ"
+        },
+        {
+            "id": 360,
+            "name": "Glendale Fighting Club"
+        },
+        {
+            "id": 361,
+            "name": "Forza Combat Sports"
+        },
+        {
+            "id": 362,
+            "name": "MMA Science Academy"
+        },
+        {
+            "id": 363,
+            "name": "Ground Control Academy"
+        },
+        {
+            "id": 364,
+            "name": "Legacy Jiu-Jitsu"
+        },
+        {
+            "id": 365,
+            "name": "Red's Boxing Club"
+        },
+        {
+            "id": 366,
+            "name": "Fight Move Academy"
+        },
+        {
+            "id": 367,
+            "name": "Fight Club Scorpion"
+        },
+        {
+            "id": 368,
+            "name": "Macomb Martial Arts"
+        },
+        {
+            "id": 369,
+            "name": "Victory MMA"
+        },
+        {
+            "id": 370,
+            "name": "Juniko"
+        },
+        {
+            "id": 371,
+            "name": "California Mixed Martial Marts"
+        },
+        {
+            "id": 372,
+            "name": "Huntington Beach Ultimate Training Center"
+        },
+        {
+            "id": 373,
+            "name": "Erkin Kush"
+        },
+        {
+            "id": 374,
+            "name": "Spike 22"
+        },
+        {
+            "id": 375,
+            "name": "Spartakus Fight Gym"
+        },
+        {
+            "id": 376,
+            "name": "Hammers"
+        },
+        {
+            "id": 377,
+            "name": "Climent Club"
+        },
+        {
+            "id": 378,
+            "name": "CIT Performance Institute"
+        },
+        {
+            "id": 379,
+            "name": "Buddy Gym MMA St. Gallen"
+        },
+        {
+            "id": 380,
+            "name": "Winnipeg Academy of MMA"
+        },
+        {
+            "id": 381,
+            "name": "Caes Do Ringue"
+        },
+        {
+            "id": 382,
+            "name": "Old School MMA"
+        },
+        {
+            "id": 383,
+            "name": "Combined Martial Science"
+        },
+        {
+            "id": 384,
+            "name": "Kimura Training Center"
+        },
+        {
+            "id": 385,
+            "name": "AK-49 Martial Arts"
+        },
+        {
+            "id": 386,
+            "name": "Beacon MMA"
+        },
+        {
+            "id": 387,
+            "name": "Nick Diaz Academy"
+        },
+        {
+            "id": 388,
+            "name": "Potential Unlimited Mixed Martial Arts"
+        },
+        {
+            "id": 389,
+            "name": "Elite Fitness and Martial Arts"
+        },
+        {
+            "id": 390,
+            "name": "AKA Thailand"
+        },
+        {
+            "id": 391,
+            "name": "Absolute Mixed Martial Arts"
+        },
+        {
+            "id": 392,
+            "name": "Boxing Squad"
+        },
+        {
+            "id": 393,
+            "name": "Osman Gym"
+        },
+        {
+            "id": 394,
+            "name": "Kharkov Top"
+        },
+        {
+            "id": 395,
+            "name": "Combat Club Cologne"
+        },
+        {
+            "id": 396,
+            "name": "SoCal Fight Factory"
+        },
+        {
+            "id": 397,
+            "name": "Family Fight"
+        },
+        {
+            "id": 398,
+            "name": "Longyun MMA Gym"
+        },
+        {
+            "id": 399,
+            "name": "Gracie Humaita"
+        },
+        {
+            "id": 400,
+            "name": "Lion's Den"
+        },
+        {
+            "id": 401,
+            "name": "Punishment"
+        },
+        {
+            "id": 402,
+            "name": "Kiboju"
+        },
+        {
+            "id": 403,
+            "name": "The Pit"
+        },
+        {
+            "id": 404,
+            "name": "Wand Fight"
+        },
+        {
+            "id": 405,
+            "name": "Macaco Gold"
+        },
+        {
+            "id": 406,
+            "name": "TapouT Training Center"
+        },
+        {
+            "id": 407,
+            "name": "Curran"
+        },
+        {
+            "id": 408,
+            "name": "UWF-USA"
+        },
+        {
+            "id": 409,
+            "name": "Freelance"
+        },
+        {
+            "id": 410,
+            "name": "VMAT"
+        },
+        {
+            "id": 411,
+            "name": "AMC Pankration"
+        },
+        {
+            "id": 412,
+            "name": "Frank Mir Gym"
+        },
+        {
+            "id": 413,
+            "name": "Miletich Martial Arts"
+        },
+        {
+            "id": 414,
+            "name": "Icon Fitness MMA"
+        },
+        {
+            "id": 415,
+            "name": "Dynamix MMA"
+        },
+        {
+            "id": 416,
+            "name": "Grapplers Lair Fight"
+        },
+        {
+            "id": 417,
+            "name": "Fiore MMA"
+        },
+        {
+            "id": 418,
+            "name": "High Altitude Martial Arts"
+        },
+        {
+            "id": 419,
+            "name": "Kugayama Rascal"
+        },
+        {
+            "id": 420,
+            "name": "Power MMA"
+        },
+        {
+            "id": 421,
+            "name": "Integrated MMA"
+        },
+        {
+            "id": 422,
+            "name": "Gracie NEPA"
+        },
+        {
+            "id": 423,
+            "name": "Des Moines Jiu Jitsu"
+        },
+        {
+            "id": 424,
+            "name": "Mohler MMA"
+        },
+        {
+            "id": 425,
+            "name": "Rough House"
+        },
+        {
+            "id": 426,
+            "name": "Grudge Training Center"
+        },
+        {
+            "id": 427,
+            "name": "Minnesota Fight Factory"
+        },
+        {
+            "id": 428,
+            "name": "Thugjitsu"
+        },
+        {
+            "id": 429,
+            "name": "Faito Tamashii Combat Club"
+        },
+        {
+            "id": 430,
+            "name": "Gym01"
+        },
+        {
+            "id": 431,
+            "name": "Jorge Gurgel"
+        },
+        {
+            "id": 432,
+            "name": "Santa Fe Brazilian Jiu-Jitsu"
+        },
+        {
+            "id": 433,
+            "name": "Evolve MMA"
+        },
+        {
+            "id": 434,
+            "name": "Cobra Kai MMA Dojo"
+        },
+        {
+            "id": 435,
+            "name": "AMA Fight Club"
+        },
+        {
+            "id": 436,
+            "name": "Temple MMA"
+        },
+        {
+            "id": 437,
+            "name": "St. Charles MMA"
+        },
+        {
+            "id": 438,
+            "name": "Cold Steel MMA"
+        },
+        {
+            "id": 439,
+            "name": "Ryano MMA"
+        },
+        {
+            "id": 440,
+            "name": "Titan"
+        },
+        {
+            "id": 441,
+            "name": "Bushido Academie"
+        },
+        {
+            "id": 442,
+            "name": "United Gym"
+        },
+        {
+            "id": 443,
+            "name": "Link"
+        },
+        {
+            "id": 444,
+            "name": "Academy of Combat Arts"
+        },
+        {
+            "id": 445,
+            "name": "Nor-Cal Fighting Alliance"
+        },
+        {
+            "id": 446,
+            "name": "Wajutsu Keishukai Tokyo"
+        },
+        {
+            "id": 447,
+            "name": "Pancrase Gym Sweden"
+        },
+        {
+            "id": 448,
+            "name": "The Arena"
+        },
+        {
+            "id": 449,
+            "name": "Hilti NHB"
+        },
+        {
+            "id": 450,
+            "name": "Pittsburgh Fight Club"
+        },
+        {
+            "id": 451,
+            "name": "Forge Combat Academy"
+        },
+        {
+            "id": 452,
+            "name": "Brave Legion"
+        },
+        {
+            "id": 453,
+            "name": "Last Stand Fight"
+        },
+        {
+            "id": 454,
+            "name": "Wildman Vale Tudo"
+        },
+        {
+            "id": 455,
+            "name": "Zingano BJJ"
+        },
+        {
+            "id": 456,
+            "name": "Striker's House"
+        },
+        {
+            "id": 457,
+            "name": "Titan Martial Arts"
+        },
+        {
+            "id": 458,
+            "name": "BombSquad"
+        },
+        {
+            "id": 459,
+            "name": "Champions Gym"
+        },
+        {
+            "id": 460,
+            "name": "Miller Brothers MMA"
+        },
+        {
+            "id": 461,
+            "name": "PKG"
+        },
+        {
+            "id": 462,
+            "name": "Remix MMA"
+        },
+        {
+            "id": 463,
+            "name": "Gladiators Training Academy"
+        },
+        {
+            "id": 464,
+            "name": "Vision"
+        },
+        {
+            "id": 465,
+            "name": "ALIVE Shooto & Jiu-Jitsu Academy"
+        },
+        {
+            "id": 466,
+            "name": "Lovato's Brazilian Jiu-Jitsu"
+        },
+        {
+            "id": 467,
+            "name": "Paradigm/Main Street Boxing Gym"
+        },
+        {
+            "id": 468,
+            "name": "IFG"
+        },
+        {
+            "id": 469,
+            "name": "Tompkins"
+        },
+        {
+            "id": 470,
+            "name": "Integrated Fighting Academy"
+        },
+        {
+            "id": 471,
+            "name": "Nostos MMA"
+        },
+        {
+            "id": 472,
+            "name": "Bastion Tychy"
+        },
+        {
+            "id": 473,
+            "name": "UFD Gym"
+        },
+        {
+            "id": 474,
+            "name": "Ludus Magnus"
+        },
+        {
+            "id": 475,
+            "name": "Dragon's Lair MMA"
+        },
+        {
+            "id": 476,
+            "name": "American Top  Wolfpack"
+        },
+        {
+            "id": 477,
+            "name": "Impact"
+        },
+        {
+            "id": 478,
+            "name": "Unrivaled Athletics"
+        },
+        {
+            "id": 479,
+            "name": "Systems Training Center"
+        },
+        {
+            "id": 480,
+            "name": "Voodoo"
+        },
+        {
+            "id": 481,
+            "name": "Sityodtong"
+        },
+        {
+            "id": 482,
+            "name": "One Kick's MMA"
+        },
+        {
+            "id": 483,
+            "name": "Florian Martial Arts Center"
+        },
+        {
+            "id": 484,
+            "name": "Joe Stevenson's Cobra Kai"
+        },
+        {
+            "id": 485,
+            "name": "Flawless MMA"
+        },
+        {
+            "id": 486,
+            "name": "Capital City Fighting Alliance"
+        },
+        {
+            "id": 487,
+            "name": "Wolfslair Academy"
+        },
+        {
+            "id": 488,
+            "name": "Sinosic Perosh Martial Arts"
+        },
+        {
+            "id": 489,
+            "name": "Pure Fitness and MMA"
+        },
+        {
+            "id": 490,
+            "name": "BTT Canada"
+        },
+        {
+            "id": 491,
+            "name": "Las Vegas Combat Club"
+        },
+        {
+            "id": 492,
+            "name": "Machida"
+        },
+        {
+            "id": 493,
+            "name": "Cro Cop Squad Gym"
+        },
+        {
+            "id": 494,
+            "name": "Supreme"
+        },
+        {
+            "id": 495,
+            "name": "Hayastan Studio"
+        },
+        {
+            "id": 496,
+            "name": "Yoshida Dojo"
+        },
+        {
+            "id": 497,
+            "name": "The Armory"
+        },
+        {
+            "id": 498,
+            "name": "DeathClutch"
+        },
+        {
+            "id": 499,
+            "name": "Throwdown"
+        },
+        {
+            "id": 500,
+            "name": "FAF Kickboxing"
+        },
+        {
+            "id": 501,
+            "name": "X-Gym"
+        },
+        {
+            "id": 502,
+            "name": "Fit Plus"
+        },
+        {
+            "id": 503,
+            "name": "Complete Martial Arts and Fitness"
+        },
+        {
+            "id": 504,
+            "name": "Colorado Fight Factory"
+        },
+        {
+            "id": 505,
+            "name": "Lightning MMA"
+        },
+        {
+            "id": 506,
+            "name": "Elite Performance"
+        },
+        {
+            "id": 507,
+            "name": "Black House MMA"
+        },
+        {
+            "id": 508,
+            "name": "Country Club"
+        },
+        {
+            "id": 509,
+            "name": "Knoxville Martial Arts Academy"
+        },
+        {
+            "id": 510,
+            "name": "Pirtek Athletic Allstars"
+        },
+        {
+            "id": 511,
+            "name": "Snake"
+        },
+        {
+            "id": 512,
+            "name": "Elite Mixed Fighters"
+        },
+        {
+            "id": 513,
+            "name": "Nevt"
+        },
+        {
+            "id": 514,
+            "name": "Independent MMA"
+        },
+        {
+            "id": 515,
+            "name": "Gracie Barra Orlando"
+        },
+        {
+            "id": 516,
+            "name": "Ma Du Academy"
+        },
+        {
+            "id": 517,
+            "name": "Grant Brothers MMA"
+        },
+        {
+            "id": 518,
+            "name": "Fight and Fitness"
+        },
+        {
+            "id": 519,
+            "name": "Krazy Bee"
+        },
+        {
+            "id": 520,
+            "name": "China Top"
+        },
+        {
+            "id": 521,
+            "name": "Grabaka"
+        },
+        {
+            "id": 522,
+            "name": "American Combat Association"
+        },
+        {
+            "id": 523,
+            "name": "Twisted Genetiks"
+        },
+        {
+            "id": 524,
+            "name": "United Mixed Martial Arts"
+        },
+        {
+            "id": 525,
+            "name": "Gracie Jiu-Jitsu"
+        },
+        {
+            "id": 526,
+            "name": "Bronx's Gold"
+        },
+        {
+            "id": 527,
+            "name": "Bushido Bulgaria"
+        },
+        {
+            "id": 528,
+            "name": "Xplode MMA"
+        },
+        {
+            "id": 529,
+            "name": "Iron Clutch Fitness"
+        },
+        {
+            "id": 530,
+            "name": "Tsunami Gym"
+        },
+        {
+            "id": 531,
+            "name": "Trojan Free Fighters"
+        },
+        {
+            "id": 532,
+            "name": "Ultimate Training Centre"
+        },
+        {
+            "id": 533,
+            "name": "Cung Le's Universal Strength Headquarters"
+        },
+        {
+            "id": 534,
+            "name": "Disciple MMA"
+        },
+        {
+            "id": 535,
+            "name": "All American MMA"
+        },
+        {
+            "id": 536,
+            "name": "Damage Inc."
+        },
+        {
+            "id": 537,
+            "name": "Fitness Fight Factory"
+        },
+        {
+            "id": 538,
+            "name": "Hayabusa Training Centre"
+        },
+        {
+            "id": 539,
+            "name": "Bruckmann MMA"
+        },
+        {
+            "id": 540,
+            "name": "Champion"
+        },
+        {
+            "id": 541,
+            "name": "Ambition Training Academy"
+        },
+        {
+            "id": 542,
+            "name": "Ronin MMA"
+        },
+        {
+            "id": 543,
+            "name": "Pro Buhawe"
+        },
+        {
+            "id": 544,
+            "name": "Perfect"
+        },
+        {
+            "id": 545,
+            "name": "Midwest MMA"
+        },
+        {
+            "id": 546,
+            "name": "TP Fight"
+        },
+        {
+            "id": 547,
+            "name": "ZT Fight Skool"
+        },
+        {
+            "id": 548,
+            "name": "Tooke"
+        },
+        {
+            "id": 549,
+            "name": "Young Tigers"
+        },
+        {
+            "id": 550,
+            "name": "Gladius MMA"
+        },
+        {
+            "id": 551,
+            "name": "Aggression"
+        },
+        {
+            "id": 552,
+            "name": "Hardcore Gym"
+        },
+        {
+            "id": 553,
+            "name": "Raging Warriors"
+        },
+        {
+            "id": 554,
+            "name": "Marcio Cupim"
+        },
+        {
+            "id": 555,
+            "name": "Caveira"
+        },
+        {
+            "id": 556,
+            "name": "Atherton Submission Wrestling"
+        },
+        {
+            "id": 557,
+            "name": "Zen Jiu-Jitsu"
+        },
+        {
+            "id": 558,
+            "name": "Vanguard"
+        },
+        {
+            "id": 559,
+            "name": "Fight Firm"
+        },
+        {
+            "id": 560,
+            "name": "Paraestra Hachioji"
+        },
+        {
+            "id": 561,
+            "name": "Cave"
+        },
+        {
+            "id": 562,
+            "name": "Canadian Martial Arts Centre"
+        },
+        {
+            "id": 563,
+            "name": "J-Sect"
+        },
+        {
+            "id": 564,
+            "name": "Red Devil Sport Club"
+        },
+        {
+            "id": 565,
+            "name": "Gracie Fusion"
+        },
+        {
+            "id": 566,
+            "name": "Fight Nights"
+        },
+        {
+            "id": 567,
+            "name": "Top Life Amazonas"
+        },
+        {
+            "id": 568,
+            "name": "Marc Laimon's Cobra Kai"
+        },
+        {
+            "id": 569,
+            "name": "Gracie Barra Alaska"
+        },
+        {
+            "id": 570,
+            "name": "Tribe Tokyo MMA"
+        },
+        {
+            "id": 571,
+            "name": "Total MMA Studios"
+        },
+        {
+            "id": 572,
+            "name": "Posse"
+        },
+        {
+            "id": 573,
+            "name": "Lakay MMA"
+        },
+        {
+            "id": 574,
+            "name": "Xian Sports University"
+        },
+        {
+            "id": 575,
+            "name": "Fight Emperor"
+        },
+        {
+            "id": 576,
+            "name": "AVT Fight"
+        },
+        {
+            "id": 577,
+            "name": "Des Moines MMA Academy"
+        },
+        {
+            "id": 578,
+            "name": "Ronin Training Center"
+        },
+        {
+            "id": 579,
+            "name": "KnuckleHeadz Boxing"
+        },
+        {
+            "id": 580,
+            "name": "Mark Robinson MMA"
+        },
+        {
+            "id": 581,
+            "name": "Full Contact Fight Academy"
+        },
+        {
+            "id": 582,
+            "name": "Reversal Gym Yokohama Ground Slam"
+        },
+        {
+            "id": 583,
+            "name": "Wulfrun MMA"
+        },
+        {
+            "id": 584,
+            "name": "R-1 MMA"
+        },
+        {
+            "id": 585,
+            "name": "Brazos Valley MMA"
+        },
+        {
+            "id": 586,
+            "name": "Black & Blue MMA"
+        },
+        {
+            "id": 587,
+            "name": "Wai Kru MMA"
+        },
+        {
+            "id": 588,
+            "name": "Cambridge Martial Arts"
+        },
+        {
+            "id": 589,
+            "name": "RNC Sport Club"
+        },
+        {
+            "id": 590,
+            "name": "American Top  OKC"
+        },
+        {
+            "id": 591,
+            "name": "Gracie Barra BH"
+        },
+        {
+            "id": 592,
+            "name": "Fit or Fight"
+        },
+        {
+            "id": 593,
+            "name": "Central Valley Combat Academy"
+        },
+        {
+            "id": 594,
+            "name": "Pancrase Venus"
+        },
+        {
+            "id": 595,
+            "name": "Elemental Dojo"
+        },
+        {
+            "id": 596,
+            "name": "United Training Center"
+        },
+        {
+            "id": 597,
+            "name": "Coalizao Fight"
+        },
+        {
+            "id": 598,
+            "name": "Crossfight"
+        },
+        {
+            "id": 599,
+            "name": "Drysdale Jiu-Jitsu"
+        },
+        {
+            "id": 600,
+            "name": "Academy Octavio Almeida"
+        },
+        {
+            "id": 601,
+            "name": "The Steamrolla"
+        },
+        {
+            "id": 602,
+            "name": "Indy Boxing & Grappling"
+        },
+        {
+            "id": 603,
+            "name": "Tavares"
+        },
+        {
+            "id": 604,
+            "name": "Climb"
+        },
+        {
+            "id": 605,
+            "name": "Alan Belcher MMA Club"
+        },
+        {
+            "id": 606,
+            "name": "Triumph"
+        },
+        {
+            "id": 607,
+            "name": "Lutadores Opole"
+        },
+        {
+            "id": 608,
+            "name": "Frontier MMA"
+        },
+        {
+            "id": 609,
+            "name": "Minhoca Top"
+        },
+        {
+            "id": 610,
+            "name": "Epic MMA"
+        },
+        {
+            "id": 611,
+            "name": "Chicago Fight"
+        },
+        {
+            "id": 612,
+            "name": "Scottish Hit Squad"
+        },
+        {
+            "id": 613,
+            "name": "Capanay"
+        },
+        {
+            "id": 614,
+            "name": "Dragon Kombat"
+        },
+        {
+            "id": 615,
+            "name": "Kukje Gym"
+        },
+        {
+            "id": 616,
+            "name": "Biagtian Muay Thai"
+        },
+        {
+            "id": 617,
+            "name": "Hakushinkai Karate"
+        },
+        {
+            "id": 618,
+            "name": "De Tomas MMA"
+        },
+        {
+            "id": 619,
+            "name": "Gracie Barra Woodlands"
+        },
+        {
+            "id": 620,
+            "name": "Contemporary Martial Arts"
+        },
+        {
+            "id": 621,
+            "name": "Mash Fight"
+        },
+        {
+            "id": 622,
+            "name": "Premier Combat Center"
+        },
+        {
+            "id": 623,
+            "name": "Top Notch Fitness"
+        },
+        {
+            "id": 624,
+            "name": "Hybrid Training Centre"
+        },
+        {
+            "id": 625,
+            "name": "Cage Combat Academy"
+        },
+        {
+            "id": 626,
+            "name": "HMC"
+        },
+        {
+            "id": 627,
+            "name": "AKS Chorzow"
+        },
+        {
+            "id": 628,
+            "name": "Superhuman Gym"
+        },
+        {
+            "id": 629,
+            "name": "ET MMA"
+        },
+        {
+            "id": 630,
+            "name": "Fight Ugly"
+        },
+        {
+            "id": 631,
+            "name": "Budapest Top"
+        },
+        {
+            "id": 632,
+            "name": "Balance"
+        },
+        {
+            "id": 633,
+            "name": "GOR MMA"
+        },
+        {
+            "id": 634,
+            "name": "Renegade Fighting Systems"
+        },
+        {
+            "id": 635,
+            "name": "Lionheart"
+        },
+        {
+            "id": 636,
+            "name": "Combat-Do"
+        },
+        {
+            "id": 637,
+            "name": "Bulldog Boxing"
+        },
+        {
+            "id": 638,
+            "name": "Tigre MMA"
+        },
+        {
+            "id": 639,
+            "name": "I & I Training Center"
+        },
+        {
+            "id": 640,
+            "name": "Checkmat"
+        },
+        {
+            "id": 641,
+            "name": "AllStar BJJ"
+        },
+        {
+            "id": 642,
+            "name": "Sabens Martial Arts"
+        },
+        {
+            "id": 643,
+            "name": "BH Rhinos"
+        },
+        {
+            "id": 644,
+            "name": "Fight or Die"
+        },
+        {
+            "id": 645,
+            "name": "Without Limits MMA"
+        },
+        {
+            "id": 646,
+            "name": "Renovacao Fight"
+        },
+        {
+            "id": 647,
+            "name": "Paragon BJJ"
+        },
+        {
+            "id": 648,
+            "name": "Elevate MMA"
+        },
+        {
+            "id": 649,
+            "name": "Kickside Martial Arts"
+        },
+        {
+            "id": 650,
+            "name": "Milestone Martial Arts"
+        },
+        {
+            "id": 651,
+            "name": "Hulett House MMA"
+        },
+        {
+            "id": 652,
+            "name": "LG System"
+        },
+        {
+            "id": 653,
+            "name": "Double Five Mid-Cities"
+        },
+        {
+            "id": 654,
+            "name": "Gladiators Academy Of Lafayette"
+        },
+        {
+            "id": 655,
+            "name": "Strike MMA"
+        },
+        {
+            "id": 656,
+            "name": "Universal Fight  Rzeszow"
+        },
+        {
+            "id": 657,
+            "name": "Pete Spratt Muay Thai"
+        },
+        {
+            "id": 658,
+            "name": "Carlson Gracie  Ohio"
+        },
+        {
+            "id": 659,
+            "name": "Hayastan MMA Charlotte"
+        },
+        {
+            "id": 660,
+            "name": "DEFWAR"
+        },
+        {
+            "id": 661,
+            "name": "Roxo Strike"
+        },
+        {
+            "id": 662,
+            "name": "Scrappy MMA"
+        },
+        {
+            "id": 663,
+            "name": "Niagara Top"
+        },
+        {
+            "id": 664,
+            "name": "CWB Fighter"
+        },
+        {
+            "id": 665,
+            "name": "Aurum Sport Club"
+        },
+        {
+            "id": 666,
+            "name": "Ferreira"
+        },
+        {
+            "id": 667,
+            "name": "Fighting Nerds"
+        },
+        {
+            "id": 668,
+            "name": "Kioshi"
+        },
+        {
+            "id": 669,
+            "name": "pact Holon"
+        },
+        {
+            "id": 670,
+            "name": "American Top  Asheville"
+        },
+        {
+            "id": 671,
+            "name": "GBG MMA"
+        },
+        {
+            "id": 672,
+            "name": "Freedom Fighters"
+        },
+        {
+            "id": 673,
+            "name": "Black Sails MMA"
+        },
+        {
+            "id": 674,
+            "name": "Fearless MMA"
+        },
+        {
+            "id": 675,
+            "name": "Fight Science MMA"
+        },
+        {
+            "id": 676,
+            "name": "Woirin  Elite"
+        },
+        {
+            "id": 677,
+            "name": "Machida Karate Academy"
+        },
+        {
+            "id": 678,
+            "name": "Dominate MMA"
+        },
+        {
+            "id": 679,
+            "name": "KHK MMA"
+        },
+        {
+            "id": 680,
+            "name": "Academy MMA"
+        },
+        {
+            "id": 681,
+            "name": "Paraestra Okinawa"
+        },
+        {
+            "id": 682,
+            "name": "Brazilian Top  Canada"
+        },
+        {
+            "id": 683,
+            "name": "SBG Charlestown"
+        },
+        {
+            "id": 684,
+            "name": "Borracha"
+        },
+        {
+            "id": 685,
+            "name": "Enbo Gedou"
+        },
+        {
+            "id": 686,
+            "name": "Soma Fight Club"
+        },
+        {
+            "id": 687,
+            "name": "Killer B Combat Sports Academy"
+        },
+        {
+            "id": 688,
+            "name": "Purebred BJJ Guam"
+        },
+        {
+            "id": 689,
+            "name": "Art Of War MMA"
+        },
+        {
+            "id": 690,
+            "name": "Bonebreakers MMA"
+        },
+        {
+            "id": 691,
+            "name": "UKF Gym"
+        },
+        {
+            "id": 692,
+            "name": "Thriving Training Center"
+        },
+        {
+            "id": 693,
+            "name": "Citadel Martial Arts"
+        },
+        {
+            "id": 694,
+            "name": "Brothers"
+        },
+        {
+            "id": 695,
+            "name": "Antonio Silva Martial Arts School"
+        },
+        {
+            "id": 696,
+            "name": "Pr1mera Fight"
+        },
+        {
+            "id": 697,
+            "name": "Platinum Boxing Club"
+        },
+        {
+            "id": 698,
+            "name": "Brazilian Black Thai"
+        },
+        {
+            "id": 699,
+            "name": "Subfighter MMA"
+        },
+        {
+            "id": 700,
+            "name": "Batam Fighter Club"
+        },
+        {
+            "id": 701,
+            "name": "Goat Shed Academy"
+        },
+        {
+            "id": 702,
+            "name": "Range MMA Academy"
+        },
+        {
+            "id": 703,
+            "name": "Crossface"
+        },
+        {
+            "id": 704,
+            "name": "Remedy BJJ & MMA"
+        },
+        {
+            "id": 705,
+            "name": "Blitz Sport MMA"
+        },
+        {
+            "id": 706,
+            "name": "Agoge Combatives"
+        },
+        {
+            "id": 707,
+            "name": "The Academy MN"
+        },
+        {
+            "id": 708,
+            "name": "Chute Boxe - Diego Lima"
+        },
+        {
+            "id": 709,
+            "name": "Black Sheep MMA"
+        },
+        {
+            "id": 710,
+            "name": "Wilkes Martial Arts"
+        },
+        {
+            "id": 711,
+            "name": "Carioca Academy"
+        },
+        {
+            "id": 712,
+            "name": "Fish Tank"
+        },
+        {
+            "id": 713,
+            "name": "Frontline Muay Thai"
+        },
+        {
+            "id": 714,
+            "name": "Cobrinha Brazilian Jiu-Jitsu & Fitness"
+        },
+        {
+            "id": 715,
+            "name": "Holohan Martial Arts"
+        },
+        {
+            "id": 716,
+            "name": "Dar Pro  Kazakhstan"
+        },
+        {
+            "id": 717,
+            "name": "Free Fight Academy"
+        },
+        {
+            "id": 718,
+            "name": "011 MMA"
+        },
+        {
+            "id": 719,
+            "name": "Uprising MMA"
+        },
+        {
+            "id": 720,
+            "name": "Bulgarian Top"
+        },
+        {
+            "id": 721,
+            "name": "Chapa Quente"
+        },
+        {
+            "id": 722,
+            "name": "Dexter Vale Tudo"
+        },
+        {
+            "id": 723,
+            "name": "Reno Academy of Combat"
+        },
+        {
+            "id": 724,
+            "name": "Galpao Da Luta"
+        },
+        {
+            "id": 725,
+            "name": "Montana Mixed Martial Arts"
+        },
+        {
+            "id": 726,
+            "name": "Lions Gym"
+        },
+        {
+            "id": 727,
+            "name": "FKP MMA Vancouver"
+        },
+        {
+            "id": 728,
+            "name": "K-1 Gym"
+        },
+        {
+            "id": 729,
+            "name": "Revira Black"
+        },
+        {
+            "id": 730,
+            "name": "Paraestra Matsudo"
+        },
+        {
+            "id": 731,
+            "name": "Fifty/50 Martial Arts Academy"
+        },
+        {
+            "id": 732,
+            "name": "Da Vinci Fighting"
+        },
+        {
+            "id": 733,
+            "name": "Law School MMA"
+        },
+        {
+            "id": 734,
+            "name": "Burlington Training Centre"
+        },
+        {
+            "id": 735,
+            "name": "Xinjiang Fight Gym"
+        },
+        {
+            "id": 736,
+            "name": "Contacto Livre"
+        },
+        {
+            "id": 737,
+            "name": "Sombra  MMA"
+        },
+        {
+            "id": 738,
+            "name": "Gordinho Fight"
+        },
+        {
+            "id": 739,
+            "name": "Fighters Land MMA"
+        },
+        {
+            "id": 740,
+            "name": "Demolition Fight"
+        },
+        {
+            "id": 741,
+            "name": "FFC"
+        },
+        {
+            "id": 742,
+            "name": "Santa Fe"
+        },
+        {
+            "id": 743,
+            "name": "Silver Fox BJJ"
+        },
+        {
+            "id": 744,
+            "name": "Broz Martial Arts"
+        },
+        {
+            "id": 745,
+            "name": "Blood Sweat and Tears"
+        },
+        {
+            "id": 746,
+            "name": "Ukmerge Judo Club"
+        },
+        {
+            "id": 747,
+            "name": "Luistro Combat Academy"
+        },
+        {
+            "id": 748,
+            "name": "Combat Brothers"
+        },
+        {
+            "id": 749,
+            "name": "Tri-Force MMA"
+        },
+        {
+            "id": 750,
+            "name": "Rasthai Temple"
+        },
+        {
+            "id": 751,
+            "name": "Mile High Militia"
+        },
+        {
+            "id": 752,
+            "name": "Dagestan Fighter"
+        },
+        {
+            "id": 753,
+            "name": "MTZ Fight Club"
+        },
+        {
+            "id": 754,
+            "name": "Gracie Jiu-Jitsu Smeaton Grange"
+        },
+        {
+            "id": 755,
+            "name": "BK Arkhangel Mikhail"
+        },
+        {
+            "id": 756,
+            "name": "Silverback Fight Club"
+        },
+        {
+            "id": 757,
+            "name": "Fort Collins Martial Arts"
+        },
+        {
+            "id": 758,
+            "name": "Raty"
+        },
+        {
+            "id": 759,
+            "name": "Bloodline Combat"
+        },
+        {
+            "id": 760,
+            "name": "Genesis Training Center"
+        },
+        {
+            "id": 761,
+            "name": "Top Brother MMA"
+        },
+        {
+            "id": 762,
+            "name": "Full House MMA"
+        },
+        {
+            "id": 763,
+            "name": "Brazilian Warriors BJJ"
+        },
+        {
+            "id": 764,
+            "name": "Diaz Combat Sports"
+        },
+        {
+            "id": 765,
+            "name": "Jetsaam Gym Brno"
+        },
+        {
+            "id": 766,
+            "name": "TAG MMA"
+        },
+        {
+            "id": 767,
+            "name": "Gracie Barra South Jax"
+        },
+        {
+            "id": 768,
+            "name": "Chute Boxe - Joao Emilio"
+        },
+        {
+            "id": 769,
+            "name": "Carolina Combat Sports & Fitness"
+        },
+        {
+            "id": 770,
+            "name": "CYFIT"
+        },
+        {
+            "id": 771,
+            "name": "Brazilian TKO"
+        },
+        {
+            "id": 772,
+            "name": "Orion MMA Academy"
+        },
+        {
+            "id": 773,
+            "name": "Berserker's"
+        },
+        {
+            "id": 774,
+            "name": "US Metro Bizot"
+        },
+        {
+            "id": 775,
+            "name": "Damas 013"
+        },
+        {
+            "id": 776,
+            "name": "ECR Fight Center"
+        },
+        {
+            "id": 777,
+            "name": "Reborn Fight"
+        },
+        {
+            "id": 778,
+            "name": "TKMMAFIT"
+        },
+        {
+            "id": 779,
+            "name": "Extreme Combat"
+        },
+        {
+            "id": 780,
+            "name": "Shanxi Xindu Martial Arts Club"
+        },
+        {
+            "id": 781,
+            "name": "Veto  Bielsko-Biala"
+        },
+        {
+            "id": 782,
+            "name": "Spartan MMA"
+        },
+        {
+            "id": 783,
+            "name": "Compton Training Centre"
+        },
+        {
+            "id": 784,
+            "name": "MMA Temple"
+        },
+        {
+            "id": 785,
+            "name": "Gym 23"
+        },
+        {
+            "id": 786,
+            "name": "UFC Performance Institute Shanghai"
+        },
+        {
+            "id": 787,
+            "name": "La Base MMA"
+        },
+        {
+            "id": 788,
+            "name": "Muradov Legion Gym"
+        },
+        {
+            "id": 789,
+            "name": "Pohang  MAD"
+        },
+        {
+            "id": 790,
+            "name": "Von Jiu Jitsu"
+        },
+        {
+            "id": 791,
+            "name": "Wanshi Fight Gym"
+        },
+        {
+            "id": 792,
+            "name": "Chunbo Fighting Club"
+        },
+        {
+            "id": 793,
+            "name": "China Catch Wrestling"
+        },
+        {
+            "id": 794,
+            "name": "ASM BJJ Association"
+        },
+        {
+            "id": 795,
+            "name": "Vasteras Fight Club"
+        },
+        {
+            "id": 796,
+            "name": "Warrior Way Martial Arts"
+        },
+        {
+            "id": 797,
+            "name": "ETTL Bros MMA"
+        },
+        {
+            "id": 798,
+            "name": "Combat 1 MMA"
+        },
+        {
+            "id": 799,
+            "name": "Freestyle Fighting Gym"
+        },
+        {
+            "id": 800,
+            "name": "Fusion"
+        },
+        {
+            "id": 801,
+            "name": "De La Rosa MMA"
+        },
+        {
+            "id": 802,
+            "name": "MMA Sorocaba"
+        },
+        {
+            "id": 803,
+            "name": "FightZone London"
+        },
+        {
+            "id": 804,
+            "name": "JAB Promotions"
+        },
+        {
+            "id": 805,
+            "name": "Ludus"
+        },
+        {
+            "id": 806,
+            "name": "Brothers of Life MMA"
+        },
+        {
+            "id": 807,
+            "name": "Arlan MMA Pro"
+        },
+        {
+            "id": 808,
+            "name": "Storm Shlemenko Fight"
+        },
+        {
+            "id": 809,
+            "name": "Black House Santiago"
+        },
+        {
+            "id": 810,
+            "name": "UFC Gym Lone Tree"
+        },
+        {
+            "id": 811,
+            "name": "Faglier's Mixed Martial Arts"
+        },
+        {
+            "id": 812,
+            "name": "Ignite Jiu-Jitsu"
+        },
+        {
+            "id": 813,
+            "name": "Pedro Bessa BJJ"
+        },
+        {
+            "id": 814,
+            "name": "Next Generation MMA Liverpool"
+        },
+        {
+            "id": 815,
+            "name": "Lookboonmee Muay Thai Gym"
+        },
+        {
+            "id": 816,
+            "name": "Fight Academy Ireland"
+        },
+        {
+            "id": 817,
+            "name": "UFC Gym Costa Mesa"
+        },
+        {
+            "id": 818,
+            "name": "American Top  Brasil"
+        },
+        {
+            "id": 819,
+            "name": "Fight Sports Deerfield Beach"
+        },
+        {
+            "id": 820,
+            "name": "Triple One Gym Dusseldorf"
+        },
+        {
+            "id": 821,
+            "name": "Uluu Kyrgyz"
+        },
+        {
+            "id": 822,
+            "name": "GAEA Project"
+        },
+        {
+            "id": 823,
+            "name": "Victory"
+        },
+        {
+            "id": 824,
+            "name": "BKMMA"
+        },
+        {
+            "id": 825,
+            "name": "Shahrixon MMA"
+        },
+        {
+            "id": 826,
+            "name": "Valon"
+        },
+        {
+            "id": 827,
+            "name": "Tiger Gym"
+        },
+        {
+            "id": 828,
+            "name": "Pound 4 Pound Muay Thai"
+        },
+        {
+            "id": 829,
+            "name": "MMA Story"
+        },
+        {
+            "id": 830,
+            "name": "BKS Skorpion Szczecin"
+        },
+        {
+            "id": 831,
+            "name": "HAVAS Seoul"
+        },
+        {
+            "id": 832,
+            "name": "Gracie Barra Westchase"
+        },
+        {
+            "id": 833,
+            "name": "Abdulmanap Nurmagomedov Martial Arts School"
+        },
+        {
+            "id": 834,
+            "name": "Ex-Fight"
+        },
+        {
+            "id": 835,
+            "name": "One  Fighting Center"
+        },
+        {
+            "id": 836,
+            "name": "Flavio Baiano"
+        },
+        {
+            "id": 837,
+            "name": "Alfa"
+        },
+        {
+            "id": 838,
+            "name": "Dante Rivera BJJ"
+        },
+        {
+            "id": 839,
+            "name": "Chute Boxe - Monstro"
+        },
+        {
+            "id": 840,
+            "name": "Lion's Den Academy"
+        },
+        {
+            "id": 841,
+            "name": "Red Hawk Academy"
+        },
+        {
+            "id": 842,
+            "name": "Bareknuckle MMA"
+        },
+        {
+            "id": 843,
+            "name": "Czerwony Smok"
+        },
+        {
+            "id": 844,
+            "name": "Calmecac"
+        },
+        {
+            "id": 845,
+            "name": "Fight Club Akhmat"
+        },
+        {
+            "id": 846,
+            "name": "Fight Me Combat Sports"
+        },
+        {
+            "id": 847,
+            "name": "Academia Oct\u00c3\u00b3gono"
+        },
+        {
+            "id": 848,
+            "name": "Grove City BJJ Academy"
+        },
+        {
+            "id": 849,
+            "name": "Enbo Fight Club"
+        },
+        {
+            "id": 850,
+            "name": "Gnosis Combat Sports"
+        },
+        {
+            "id": 851,
+            "name": "AFC Villalba"
+        },
+        {
+            "id": 852,
+            "name": "Minnesota Top"
+        },
+        {
+            "id": 853,
+            "name": "Middlesbrough Fight Academy"
+        },
+        {
+            "id": 854,
+            "name": "Lamiro Fight Club"
+        },
+        {
+            "id": 855,
+            "name": "Monarchy MMA"
+        },
+        {
+            "id": 856,
+            "name": "Gibson Kickboxing & Pankration"
+        },
+        {
+            "id": 857,
+            "name": "Renovacao Coari"
+        }
+    ]
+}

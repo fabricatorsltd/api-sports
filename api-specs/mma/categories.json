@@ -1,0 +1,26 @@
+{
+    "get": "categories",
+    "parameters": [],
+    "errors": [],
+    "results": 18,
+    "response": [
+        "Bantamweight",
+        "Catch Weight",
+        "Catchweight",
+        "Featherweight",
+        "Flyweight",
+        "Heavyweight",
+        "Light Heavyweight",
+        "Lightweight",
+        "Middleweight",
+        "Open Weight",
+        "Super Heavyweight",
+        "Welterweight",
+        "Women's Bantamweight",
+        "Women's Catch Weight",
+        "Women's Featherweight",
+        "Women's Flyweight",
+        "Women's Lightweight",
+        "Women's Strawweight"
+    ]
+}

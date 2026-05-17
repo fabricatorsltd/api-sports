@@ -1,0 +1,124 @@
+{
+    "get": "odds/bets",
+    "parameters": [],
+    "errors": [],
+    "results": 29,
+    "response": [
+        {
+            "id": 1,
+            "name": "3Way Result"
+        },
+        {
+            "id": 2,
+            "name": "Home/Away"
+        },
+        {
+            "id": 3,
+            "name": "Asian Handicap"
+        },
+        {
+            "id": 4,
+            "name": "Over/Under"
+        },
+        {
+            "id": 5,
+            "name": "Fight To Go the Distance"
+        },
+        {
+            "id": 6,
+            "name": "Round Betting"
+        },
+        {
+            "id": 7,
+            "name": "Fight To Start Round 2"
+        },
+        {
+            "id": 8,
+            "name": "Fight To Start Round 3"
+        },
+        {
+            "id": 9,
+            "name": "Fight To Start Round 4"
+        },
+        {
+            "id": 10,
+            "name": "Fight To Start Round 5"
+        },
+        {
+            "id": 11,
+            "name": "Win by Unanimous Decisio"
+        },
+        {
+            "id": 12,
+            "name": "Win by Split or Majority Decision"
+        },
+        {
+            "id": 13,
+            "name": "Home Win by Unanimous Decision"
+        },
+        {
+            "id": 14,
+            "name": "Home Win by Split or Majority Decision"
+        },
+        {
+            "id": 15,
+            "name": "Away Win by Unanimous Decision"
+        },
+        {
+            "id": 16,
+            "name": "Away Win by Split or Majority Decision"
+        },
+        {
+            "id": 17,
+            "name": "Home Win by Submission"
+        },
+        {
+            "id": 18,
+            "name": "Home Win by KO/TKO/DQ"
+        },
+        {
+            "id": 19,
+            "name": "Away Win by Submission"
+        },
+        {
+            "id": 20,
+            "name": "Away Win by KO/TKO/DQ"
+        },
+        {
+            "id": 21,
+            "name": null
+        },
+        {
+            "id": 22,
+            "name": "Fight Result (5Way)"
+        },
+        {
+            "id": 23,
+            "name": "Round Betting (Player)"
+        },
+        {
+            "id": 24,
+            "name": "Player Round Betting (Group)"
+        },
+        {
+            "id": 25,
+            "name": "Method of Victory (Player)"
+        },
+        {
+            "id": 26,
+            "name": "Method and Round (Player)"
+        },
+        {
+            "id": 27,
+            "name": "End in the 1st 60 Seconds"
+        },
+        {
+            "id": 28,
+            "name": "Method of Victory (Double Chance)"
+        },
+        {
+            "id": 29,
+            "name": "Method of Victory"
+        }
+    ]
+}

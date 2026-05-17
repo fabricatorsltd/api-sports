@@ -1,0 +1,64 @@
+{
+    "get": "fights/statistics/fighters",
+    "parameters": {
+        "id": "1097"
+    },
+    "errors": [],
+    "results": 2,
+    "response": [
+        {
+            "fight": {
+                "id": 1097
+            },
+            "fighter": {
+                "id": 2554
+            },
+            "strikes": {
+                "total": {
+                    "head": 57,
+                    "body": 14,
+                    "legs": 10
+                },
+                "power": {
+                    "head": 14,
+                    "body": 7,
+                    "legs": 7
+                },
+                "takedowns": {
+                    "attempt": 0,
+                    "landed": 0
+                },
+                "submissions": 0,
+                "control_time": "0:04",
+                "knockdowns": 0
+            }
+        },
+        {
+            "fight": {
+                "id": 1097
+            },
+            "fighter": {
+                "id": 2580
+            },
+            "strikes": {
+                "total": {
+                    "head": 114,
+                    "body": 8,
+                    "legs": 1
+                },
+                "power": {
+                    "head": 57,
+                    "body": 7,
+                    "legs": 1
+                },
+                "takedowns": {
+                    "attempt": 3,
+                    "landed": 1
+                },
+                "submissions": 0,
+                "control_time": "1:47",
+                "knockdowns": 1
+            }
+        }
+    ]
+}

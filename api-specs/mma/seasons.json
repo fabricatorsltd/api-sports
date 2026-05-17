@@ -1,0 +1,13 @@
+{
+    "get": "seasons",
+    "parameters": [],
+    "errors": [],
+    "results": 5,
+    "response": [
+        2022,
+        2023,
+        2024,
+        2025,
+        2026
+    ]
+}

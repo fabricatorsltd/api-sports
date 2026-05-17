@@ -1,0 +1,239 @@
+{
+    "get": "odds",
+    "parameters": {
+        "fight": "2711"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+        {
+            "fight": {
+                "id": 2711
+            },
+            "bookmakers": [
+                {
+                    "id": 1,
+                    "name": "Marathon",
+                    "bets": [
+                        {
+                            "id": 1,
+                            "name": "3Way Result",
+                            "values": [
+                                {
+                                    "value": "Away",
+                                    "odd": "1.29"
+                                },
+                                {
+                                    "value": "Draw",
+                                    "odd": "51.00"
+                                },
+                                {
+                                    "value": "Home",
+                                    "odd": "3.58"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2,
+                            "name": "Home/Away",
+                            "values": [
+                                {
+                                    "value": "Away",
+                                    "odd": "1.28"
+                                },
+                                {
+                                    "value": "Home",
+                                    "odd": "3.50"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "name": "bet365",
+                    "bets": [
+                        {
+                            "id": 2,
+                            "name": "Home/Away",
+                            "values": [
+                                {
+                                    "value": "Away",
+                                    "odd": "1.30"
+                                },
+                                {
+                                    "value": "Home",
+                                    "odd": "3.60"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 3,
+                            "name": "Asian Handicap",
+                            "values": [
+                                {
+                                    "value": "Away -3.5",
+                                    "odd": "1.54"
+                                },
+                                {
+                                    "value": "Home -3.5",
+                                    "odd": "2.45"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 4,
+                            "name": "Over/Under",
+                            "values": [
+                                {
+                                    "value": "Over 1.5",
+                                    "odd": "1.52"
+                                },
+                                {
+                                    "value": "Under 1.5",
+                                    "odd": "2.50"
+                                },
+                                {
+                                    "value": "Over 2.5",
+                                    "odd": "1.95"
+                                },
+                                {
+                                    "value": "Under 2.5",
+                                    "odd": "1.80"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 6,
+                    "name": "Unibet",
+                    "bets": [
+                        {
+                            "id": 2,
+                            "name": "Home/Away",
+                            "values": [
+                                {
+                                    "value": "Away",
+                                    "odd": "1.32"
+                                },
+                                {
+                                    "value": "Home",
+                                    "odd": "3.45"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 18,
+                    "name": "Betfair",
+                    "bets": [
+                        {
+                            "id": 2,
+                            "name": "Home/Away",
+                            "values": [
+                                {
+                                    "value": "Away",
+                                    "odd": "1.29"
+                                },
+                                {
+                                    "value": "Home",
+                                    "odd": "3.50"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 20,
+                    "name": "BetVictor",
+                    "bets": [
+                        {
+                            "id": 2,
+                            "name": "Home/Away",
+                            "values": [
+                                {
+                                    "value": "Away",
+                                    "odd": "1.30"
+                                },
+                                {
+                                    "value": "Home",
+                                    "odd": "3.60"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 4,
+                            "name": "Over/Under",
+                            "values": [
+                                {
+                                    "value": "Over 2.5",
+                                    "odd": "2.20"
+                                },
+                                {
+                                    "value": "Under 2.5",
+                                    "odd": "1.67"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 9,
+                    "name": "Pncl",
+                    "bets": [
+                        {
+                            "id": 2,
+                            "name": "Home/Away",
+                            "values": [
+                                {
+                                    "value": "Away",
+                                    "odd": "1.30"
+                                },
+                                {
+                                    "value": "Home",
+                                    "odd": "3.82"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 4,
+                            "name": "Over/Under",
+                            "values": [
+                                {
+                                    "value": "Over 2.5",
+                                    "odd": "1.96"
+                                },
+                                {
+                                    "value": "Under 2.5",
+                                    "odd": "1.89"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 14,
+                    "name": "Sbo",
+                    "bets": [
+                        {
+                            "id": 2,
+                            "name": "Home/Away",
+                            "values": [
+                                {
+                                    "value": "Away",
+                                    "odd": "1.29"
+                                },
+                                {
+                                    "value": "Home",
+                                    "odd": "3.22"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

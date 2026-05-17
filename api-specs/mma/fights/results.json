@@ -1,0 +1,22 @@
+{
+    "get": "fights/results",
+    "parameters": {
+        "id": "1097"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+        {
+            "fight": {
+                "id": 1097
+            },
+            "won_type": "KO",
+            "round": 2,
+            "minute": "3:29",
+            "ko_type": "Punches",
+            "target": null,
+            "sub_type": null,
+            "score": []
+        }
+    ]
+}
