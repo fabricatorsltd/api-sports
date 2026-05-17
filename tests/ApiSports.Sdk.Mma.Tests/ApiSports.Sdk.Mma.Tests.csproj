@@ -1,0 +1,76 @@
+<Project Sdk="Microsoft.NET.Sdk">
+    <PropertyGroup>
+        <TargetFramework>net10.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <IsPackable>false</IsPackable>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="Microsoft.NET.Test.Sdk" Version="17.12.0" />
+        <PackageReference Include="xunit" Version="2.6.6" />
+        <PackageReference Include="xunit.runner.visualstudio" Version="2.5.6" />
+        <PackageReference Include="xunit.skippablefact" Version="1.4.13" />
+    </ItemGroup>
+
+    <ItemGroup>
+        <ProjectReference Include="..\..\src\ApiSports.Sdk.Abstractions\ApiSports.Sdk.Abstractions.csproj" />
+        <ProjectReference Include="..\..\src\ApiSports.Sdk.Core\ApiSports.Sdk.Core.csproj" />
+        <ProjectReference Include="..\..\src\ApiSports.Sdk.Mma\ApiSports.Sdk.Mma.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+        <Content Include="..\..\api-specs\mma\status.json">
+            <Link>samples\status.json</Link>
+            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        </Content>
+        <Content Include="..\..\api-specs\mma\timezone.json">
+            <Link>samples\timezone.json</Link>
+            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        </Content>
+        <Content Include="..\..\api-specs\mma\seasons.json">
+            <Link>samples\seasons.json</Link>
+            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        </Content>
+        <Content Include="..\..\api-specs\mma\categories.json">
+            <Link>samples\categories.json</Link>
+            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        </Content>
+        <Content Include="..\..\api-specs\mma\teams.json">
+            <Link>samples\teams.json</Link>
+            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        </Content>
+        <Content Include="..\..\api-specs\mma\fighters\fighters.json">
+            <Link>samples\fighters\fighters.json</Link>
+            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        </Content>
+        <Content Include="..\..\api-specs\mma\fighters\records.json">
+            <Link>samples\fighters\records.json</Link>
+            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        </Content>
+        <Content Include="..\..\api-specs\mma\fights\fights.json">
+            <Link>samples\fights\fights.json</Link>
+            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        </Content>
+        <Content Include="..\..\api-specs\mma\fights\results.json">
+            <Link>samples\fights\results.json</Link>
+            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        </Content>
+        <Content Include="..\..\api-specs\mma\fights\statistics\fighters.json">
+            <Link>samples\fights\statistics\fighters.json</Link>
+            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        </Content>
+        <Content Include="..\..\api-specs\mma\odds\odds.json">
+            <Link>samples\odds\odds.json</Link>
+            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        </Content>
+        <Content Include="..\..\api-specs\mma\odds\bets.json">
+            <Link>samples\odds\bets.json</Link>
+            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        </Content>
+        <Content Include="..\..\api-specs\mma\odds\bookmakers.json">
+            <Link>samples\odds\bookmakers.json</Link>
+            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        </Content>
+    </ItemGroup>
+</Project>
