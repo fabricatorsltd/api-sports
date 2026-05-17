@@ -59,6 +59,8 @@ jobs:
             echo "CSPROJ=src/ApiSports.Sdk.Mma/ApiSports.Sdk.Mma.csproj" >> $GITHUB_OUTPUT
           elif [ "$PACKAGE_ID" = "ApiSports.Sdk.Nba" ]; then
             echo "CSPROJ=src/ApiSports.Sdk.Nba/ApiSports.Sdk.Nba.csproj" >> $GITHUB_OUTPUT
+          elif [ "$PACKAGE_ID" = "ApiSports.Sdk.Nfl" ]; then
+            echo "CSPROJ=src/ApiSports.Sdk.Nfl/ApiSports.Sdk.Nfl.csproj" >> $GITHUB_OUTPUT
           elif [ "$PACKAGE_ID" = "ApiSports.Sdk.Logging.Microsoft" ]; then
             echo "CSPROJ=src/ApiSports.Sdk.Logging.Microsoft/ApiSports.Sdk.Logging.Microsoft.csproj" >> $GITHUB_OUTPUT
           else

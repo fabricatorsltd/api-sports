@@ -1,0 +1,96 @@
+<Project Sdk="Microsoft.NET.Sdk">
+    <PropertyGroup>
+        <TargetFramework>net10.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <IsPackable>false</IsPackable>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="Microsoft.NET.Test.Sdk" Version="17.12.0" />
+        <PackageReference Include="xunit" Version="2.6.6" />
+        <PackageReference Include="xunit.runner.visualstudio" Version="2.5.6" />
+        <PackageReference Include="xunit.skippablefact" Version="1.4.13" />
+    </ItemGroup>
+
+    <ItemGroup>
+        <ProjectReference Include="..\..\src\ApiSports.Sdk.Abstractions\ApiSports.Sdk.Abstractions.csproj" />
+        <ProjectReference Include="..\..\src\ApiSports.Sdk.Core\ApiSports.Sdk.Core.csproj" />
+        <ProjectReference Include="..\..\src\ApiSports.Sdk.Nfl\ApiSports.Sdk.Nfl.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+        <Content Include="..\..\api-specs\nfl\status.json">
+            <Link>samples\status.json</Link>
+            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        </Content>
+        <Content Include="..\..\api-specs\nfl\timezone.json">
+            <Link>samples\timezone.json</Link>
+            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        </Content>
+        <Content Include="..\..\api-specs\nfl\seasons.json">
+            <Link>samples\seasons.json</Link>
+            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        </Content>
+        <Content Include="..\..\api-specs\nfl\leagues.json">
+            <Link>samples\leagues.json</Link>
+            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        </Content>
+        <Content Include="..\..\api-specs\nfl\teams.json">
+            <Link>samples\teams.json</Link>
+            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        </Content>
+        <Content Include="..\..\api-specs\nfl\players\players.json">
+            <Link>samples\players\players.json</Link>
+            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        </Content>
+        <Content Include="..\..\api-specs\nfl\players\statistics.json">
+            <Link>samples\players\statistics.json</Link>
+            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        </Content>
+        <Content Include="..\..\api-specs\nfl\injuries.json">
+            <Link>samples\injuries.json</Link>
+            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        </Content>
+        <Content Include="..\..\api-specs\nfl\games\games.json">
+            <Link>samples\games\games.json</Link>
+            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        </Content>
+        <Content Include="..\..\api-specs\nfl\games\events.json">
+            <Link>samples\games\events.json</Link>
+            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        </Content>
+        <Content Include="..\..\api-specs\nfl\games\statistics\teams.json">
+            <Link>samples\games\statistics\teams.json</Link>
+            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        </Content>
+        <Content Include="..\..\api-specs\nfl\games\statistics\players.json">
+            <Link>samples\games\statistics\players.json</Link>
+            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        </Content>
+        <Content Include="..\..\api-specs\nfl\standings\standings.json">
+            <Link>samples\standings\standings.json</Link>
+            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        </Content>
+        <Content Include="..\..\api-specs\nfl\standings\conferences.json">
+            <Link>samples\standings\conferences.json</Link>
+            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        </Content>
+        <Content Include="..\..\api-specs\nfl\standings\divisions.json">
+            <Link>samples\standings\divisions.json</Link>
+            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        </Content>
+        <Content Include="..\..\api-specs\nfl\odds\odds.json">
+            <Link>samples\odds\odds.json</Link>
+            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        </Content>
+        <Content Include="..\..\api-specs\nfl\odds\bets.json">
+            <Link>samples\odds\bets.json</Link>
+            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        </Content>
+        <Content Include="..\..\api-specs\nfl\odds\bookmakers.json">
+            <Link>samples\odds\bookmakers.json</Link>
+            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        </Content>
+    </ItemGroup>
+</Project>

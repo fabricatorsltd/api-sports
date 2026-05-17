@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+    <Import Project="..\..\versions.props" />
+    <PropertyGroup>
+        <Version>$(ApiSportsSdkNflVersion)</Version>
+        <IsPackable>true</IsPackable>
+        <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
+        <PackageId>ApiSports.Sdk.Nfl</PackageId>
+        <Description>NFL / NCAA (American Football) module for the ApiSports .NET SDK. Includes football endpoints and models, designed for AOT-ready System.Text.Json source-generated serialization.</Description>
+        <PackageTags>apisports;nfl;ncaa;american-football;sdk</PackageTags>
+    </PropertyGroup>
+
+    <ItemGroup Condition="'$(UsePackageReferences)' != 'true'">
+        <ProjectReference Include="..\ApiSports.Sdk.Abstractions\ApiSports.Sdk.Abstractions.csproj" />
+        <ProjectReference Include="..\ApiSports.Sdk.Core\ApiSports.Sdk.Core.csproj" />
+    </ItemGroup>
+
+    <ItemGroup Condition="'$(UsePackageReferences)' == 'true'">
+        <PackageReference Include="ApiSports.Sdk.Abstractions" Version="$(ApiSportsSdkAbstractionsVersion)" />
+        <PackageReference Include="ApiSports.Sdk.Core" Version="$(ApiSportsSdkCoreVersion)" />
+    </ItemGroup>
+</Project>
