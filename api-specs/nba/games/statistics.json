@@ -1,0 +1,88 @@
+{
+    "get": "games/statistics",
+    "parameters": {
+        "id": "16831"
+    },
+    "errors": [],
+    "results": 2,
+    "response": [
+        {
+            "team": {
+                "id": 22,
+                "name": "Minnesota Timberwolves",
+                "nickname": "Timberwolves",
+                "code": "MIN",
+                "logo": "https://upload.wikimedia.org/wikipedia/en/c/c2/Minnesota_Timberwolves_logo.svg"
+            },
+            "statistics": [
+                {
+                    "fastBreakPoints": null,
+                    "pointsInPaint": null,
+                    "biggestLead": null,
+                    "secondChancePoints": null,
+                    "pointsOffTurnovers": null,
+                    "longestRun": null,
+                    "points": 109,
+                    "fgm": 40,
+                    "fga": 106,
+                    "fgp": "38",
+                    "ftm": 17,
+                    "fta": 21,
+                    "ftp": "81",
+                    "tpm": 12,
+                    "tpa": 34,
+                    "tpp": "35",
+                    "offReb": 9,
+                    "defReb": 20,
+                    "totReb": 29,
+                    "assists": 25,
+                    "pFouls": 22,
+                    "steals": 9,
+                    "turnovers": 5,
+                    "blocks": 2,
+                    "plusMinus": "-30",
+                    "min": "240:00"
+                }
+            ]
+        },
+        {
+            "team": {
+                "id": 31,
+                "name": "San Antonio Spurs",
+                "nickname": "Spurs",
+                "code": "SAS",
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png"
+            },
+            "statistics": [
+                {
+                    "fastBreakPoints": null,
+                    "pointsInPaint": null,
+                    "biggestLead": null,
+                    "secondChancePoints": null,
+                    "pointsOffTurnovers": null,
+                    "longestRun": null,
+                    "points": 139,
+                    "fgm": 49,
+                    "fga": 88,
+                    "fgp": "56",
+                    "ftm": 23,
+                    "fta": 27,
+                    "ftp": "85",
+                    "tpm": 18,
+                    "tpa": 38,
+                    "tpp": "47",
+                    "offReb": 12,
+                    "defReb": 48,
+                    "totReb": 60,
+                    "assists": 34,
+                    "pFouls": 21,
+                    "steals": 2,
+                    "turnovers": 16,
+                    "blocks": 13,
+                    "plusMinus": "30",
+                    "min": "240:00"
+                }
+            ]
+        }
+    ]
+}

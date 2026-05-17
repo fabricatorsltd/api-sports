@@ -1,0 +1,3053 @@
+{
+    "get": "players/statistics",
+    "parameters": {
+        "id": "265",
+        "season": "2024"
+    },
+    "errors": [],
+    "results": 78,
+    "response": [
+        {
+            "player": {
+                "id": 265,
+                "firstname": "LeBron",
+                "lastname": "James"
+            },
+            "team": {
+                "id": 17,
+                "name": "Los Angeles Lakers",
+                "nickname": "Lakers",
+                "code": "LAL",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Los_Angeles_Lakers_logo.svg"
+            },
+            "game": {
+                "id": 14052
+            },
+            "points": 19,
+            "pos": "SF",
+            "min": "16",
+            "fgm": 8,
+            "fga": 12,
+            "fgp": "66.7",
+            "ftm": 1,
+            "fta": 1,
+            "ftp": "100.0",
+            "tpm": 2,
+            "tpa": 3,
+            "tpp": "66.7",
+            "offReb": 1,
+            "defReb": 4,
+            "totReb": 5,
+            "assists": 4,
+            "pFouls": 0,
+            "steals": 0,
+            "turnovers": 4,
+            "blocks": 2,
+            "plusMinus": "+9",
+            "comment": null
+        },
+        {
+            "player": {
+                "id": 265,
+                "firstname": "LeBron",
+                "lastname": "James"
+            },
+            "team": {
+                "id": 17,
+                "name": "Los Angeles Lakers",
+                "nickname": "Lakers",
+                "code": "LAL",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Los_Angeles_Lakers_logo.svg"
+            },
+            "game": {
+                "id": 14070
+            },
+            "points": 11,
+            "pos": "SF",
+            "min": "16",
+            "fgm": 4,
+            "fga": 11,
+            "fgp": "36.4",
+            "ftm": 1,
+            "fta": 2,
+            "ftp": "50.0",
+            "tpm": 2,
+            "tpa": 4,
+            "tpp": "50.0",
+            "offReb": 0,
+            "defReb": 6,
+            "totReb": 6,
+            "assists": 3,
+            "pFouls": 2,
+            "steals": 0,
+            "turnovers": 2,
+            "blocks": 0,
+            "plusMinus": "+4",
+            "comment": null
+        },
+        {
+            "player": {
+                "id": 265,
+                "firstname": "LeBron",
+                "lastname": "James"
+            },
+            "team": {
+                "id": 17,
+                "name": "Los Angeles Lakers",
+                "nickname": "Lakers",
+                "code": "LAL",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Los_Angeles_Lakers_logo.svg"
+            },
+            "game": {
+                "id": 14097
+            },
+            "points": 6,
+            "pos": "SF",
+            "min": "23",
+            "fgm": 3,
+            "fga": 9,
+            "fgp": "33.3",
+            "ftm": 0,
+            "fta": 0,
+            "ftp": "0",
+            "tpm": 0,
+            "tpa": 0,
+            "tpp": "0",
+            "offReb": 0,
+            "defReb": 2,
+            "totReb": 2,
+            "assists": 4,
+            "pFouls": 0,
+            "steals": 0,
+            "turnovers": 3,
+            "blocks": 0,
+            "plusMinus": "-13",
+            "comment": null
+        },
+        {
+            "player": {
+                "id": 265,
+                "firstname": "LeBron",
+                "lastname": "James"
+            },
+            "team": {
+                "id": 17,
+                "name": "Los Angeles Lakers",
+                "nickname": "Lakers",
+                "code": "LAL",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Los_Angeles_Lakers_logo.svg"
+            },
+            "game": {
+                "id": 14116
+            },
+            "points": 16,
+            "pos": null,
+            "min": "35",
+            "fgm": 7,
+            "fga": 16,
+            "fgp": "43.8",
+            "ftm": 1,
+            "fta": 1,
+            "ftp": "100.0",
+            "tpm": 1,
+            "tpa": 4,
+            "tpp": "25.0",
+            "offReb": 0,
+            "defReb": 5,
+            "totReb": 5,
+            "assists": 4,
+            "pFouls": 3,
+            "steals": 0,
+            "turnovers": 2,
+            "blocks": 2,
+            "plusMinus": "-6",
+            "comment": null
+        },
+        {
+            "player": {
+                "id": 265,
+                "firstname": "LeBron",
+                "lastname": "James"
+            },
+            "team": {
+                "id": 17,
+                "name": "Los Angeles Lakers",
+                "nickname": "Lakers",
+                "code": "LAL",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Los_Angeles_Lakers_logo.svg"
+            },
+            "game": {
+                "id": 14139
+            },
+            "points": 21,
+            "pos": null,
+            "min": "35",
+            "fgm": 7,
+            "fga": 13,
+            "fgp": "53.8",
+            "ftm": 5,
+            "fta": 8,
+            "ftp": "62.5",
+            "tpm": 2,
+            "tpa": 5,
+            "tpp": "40.0",
+            "offReb": 0,
+            "defReb": 4,
+            "totReb": 4,
+            "assists": 8,
+            "pFouls": 1,
+            "steals": 0,
+            "turnovers": 2,
+            "blocks": 0,
+            "plusMinus": "+14",
+            "comment": null
+        },
+        {
+            "player": {
+                "id": 265,
+                "firstname": "LeBron",
+                "lastname": "James"
+            },
+            "team": {
+                "id": 17,
+                "name": "Los Angeles Lakers",
+                "nickname": "Lakers",
+                "code": "LAL",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Los_Angeles_Lakers_logo.svg"
+            },
+            "game": {
+                "id": 14150
+            },
+            "points": 32,
+            "pos": null,
+            "min": "34",
+            "fgm": 12,
+            "fga": 22,
+            "fgp": "54.5",
+            "ftm": 4,
+            "fta": 4,
+            "ftp": "100.0",
+            "tpm": 4,
+            "tpa": 9,
+            "tpp": "44.4",
+            "offReb": 0,
+            "defReb": 14,
+            "totReb": 14,
+            "assists": 10,
+            "pFouls": 3,
+            "steals": 0,
+            "turnovers": 5,
+            "blocks": 1,
+            "plusMinus": "+13",
+            "comment": null
+        },
+        {
+            "player": {
+                "id": 265,
+                "firstname": "LeBron",
+                "lastname": "James"
+            },
+            "team": {
+                "id": 17,
+                "name": "Los Angeles Lakers",
+                "nickname": "Lakers",
+                "code": "LAL",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Los_Angeles_Lakers_logo.svg"
+            },
+            "game": {
+                "id": 14165
+            },
+            "points": 11,
+            "pos": null,
+            "min": "36",
+            "fgm": 3,
+            "fga": 14,
+            "fgp": "21.4",
+            "ftm": 3,
+            "fta": 6,
+            "ftp": "50.0",
+            "tpm": 2,
+            "tpa": 5,
+            "tpp": "40.0",
+            "offReb": 0,
+            "defReb": 5,
+            "totReb": 5,
+            "assists": 8,
+            "pFouls": 1,
+            "steals": 1,
+            "turnovers": 2,
+            "blocks": 0,
+            "plusMinus": "-17",
+            "comment": null
+        },
+        {
+            "player": {
+                "id": 265,
+                "firstname": "LeBron",
+                "lastname": "James"
+            },
+            "team": {
+                "id": 17,
+                "name": "Los Angeles Lakers",
+                "nickname": "Lakers",
+                "code": "LAL",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Los_Angeles_Lakers_logo.svg"
+            },
+            "game": {
+                "id": 14172
+            },
+            "points": 26,
+            "pos": null,
+            "min": "29",
+            "fgm": 9,
+            "fga": 13,
+            "fgp": "69.2",
+            "ftm": 7,
+            "fta": 7,
+            "ftp": "100.0",
+            "tpm": 1,
+            "tpa": 3,
+            "tpp": "33.3",
+            "offReb": 1,
+            "defReb": 5,
+            "totReb": 6,
+            "assists": 3,
+            "pFouls": 2,
+            "steals": 0,
+            "turnovers": 6,
+            "blocks": 0,
+            "plusMinus": "-17",
+            "comment": null
+        },
+        {
+            "player": {
+                "id": 265,
+                "firstname": "LeBron",
+                "lastname": "James"
+            },
+            "team": {
+                "id": 17,
+                "name": "Los Angeles Lakers",
+                "nickname": "Lakers",
+                "code": "LAL",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Los_Angeles_Lakers_logo.svg"
+            },
+            "game": {
+                "id": 14191
+            },
+            "points": 27,
+            "pos": null,
+            "min": "36",
+            "fgm": 9,
+            "fga": 17,
+            "fgp": "52.9",
+            "ftm": 4,
+            "fta": 6,
+            "ftp": "66.7",
+            "tpm": 5,
+            "tpa": 8,
+            "tpp": "62.5",
+            "offReb": 0,
+            "defReb": 6,
+            "totReb": 6,
+            "assists": 10,
+            "pFouls": 1,
+            "steals": 1,
+            "turnovers": 0,
+            "blocks": 0,
+            "plusMinus": "+11",
+            "comment": null
+        },
+        {
+            "player": {
+                "id": 265,
+                "firstname": "LeBron",
+                "lastname": "James"
+            },
+            "team": {
+                "id": 17,
+                "name": "Los Angeles Lakers",
+                "nickname": "Lakers",
+                "code": "LAL",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Los_Angeles_Lakers_logo.svg"
+            },
+            "game": {
+                "id": 14210
+            },
+            "points": 20,
+            "pos": null,
+            "min": "40",
+            "fgm": 7,
+            "fga": 16,
+            "fgp": "43.8",
+            "ftm": 5,
+            "fta": 5,
+            "ftp": "100.0",
+            "tpm": 1,
+            "tpa": 2,
+            "tpp": "50.0",
+            "offReb": 1,
+            "defReb": 7,
+            "totReb": 8,
+            "assists": 11,
+            "pFouls": 1,
+            "steals": 2,
+            "turnovers": 1,
+            "blocks": 0,
+            "plusMinus": "-16",
+            "comment": null
+        },
+        {
+            "player": {
+                "id": 265,
+                "firstname": "LeBron",
+                "lastname": "James"
+            },
+            "team": {
+                "id": 17,
+                "name": "Los Angeles Lakers",
+                "nickname": "Lakers",
+                "code": "LAL",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Los_Angeles_Lakers_logo.svg"
+            },
+            "game": {
+                "id": 14228
+            },
+            "points": 39,
+            "pos": null,
+            "min": "35",
+            "fgm": 15,
+            "fga": 24,
+            "fgp": "62.5",
+            "ftm": 3,
+            "fta": 4,
+            "ftp": "75.0",
+            "tpm": 6,
+            "tpa": 11,
+            "tpp": "54.5",
+            "offReb": 0,
+            "defReb": 7,
+            "totReb": 7,
+            "assists": 6,
+            "pFouls": 2,
+            "steals": 1,
+            "turnovers": 5,
+            "blocks": 0,
+            "plusMinus": "-21",
+            "comment": null
+        },
+        {
+            "player": {
+                "id": 265,
+                "firstname": "LeBron",
+                "lastname": "James"
+            },
+            "team": {
+                "id": 17,
+                "name": "Los Angeles Lakers",
+                "nickname": "Lakers",
+                "code": "LAL",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Los_Angeles_Lakers_logo.svg"
+            },
+            "game": {
+                "id": 14249
+            },
+            "points": 21,
+            "pos": null,
+            "min": "34",
+            "fgm": 9,
+            "fga": 14,
+            "fgp": "64.3",
+            "ftm": 1,
+            "fta": 1,
+            "ftp": "100.0",
+            "tpm": 2,
+            "tpa": 4,
+            "tpp": "50.0",
+            "offReb": 0,
+            "defReb": 12,
+            "totReb": 12,
+            "assists": 13,
+            "pFouls": 0,
+            "steals": 0,
+            "turnovers": 2,
+            "blocks": 3,
+            "plusMinus": "+12",
+            "comment": null
+        },
+        {
+            "player": {
+                "id": 265,
+                "firstname": "LeBron",
+                "lastname": "James"
+            },
+            "team": {
+                "id": 17,
+                "name": "Los Angeles Lakers",
+                "nickname": "Lakers",
+                "code": "LAL",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Los_Angeles_Lakers_logo.svg"
+            },
+            "game": {
+                "id": 14265
+            },
+            "points": 19,
+            "pos": null,
+            "min": "35",
+            "fgm": 6,
+            "fga": 14,
+            "fgp": "42.9",
+            "ftm": 7,
+            "fta": 7,
+            "ftp": "100.0",
+            "tpm": 0,
+            "tpa": 3,
+            "tpp": "0",
+            "offReb": 2,
+            "defReb": 8,
+            "totReb": 10,
+            "assists": 16,
+            "pFouls": 0,
+            "steals": 1,
+            "turnovers": 3,
+            "blocks": 0,
+            "plusMinus": "+13",
+            "comment": null
+        },
+        {
+            "player": {
+                "id": 265,
+                "firstname": "LeBron",
+                "lastname": "James"
+            },
+            "team": {
+                "id": 17,
+                "name": "Los Angeles Lakers",
+                "nickname": "Lakers",
+                "code": "LAL",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Los_Angeles_Lakers_logo.svg"
+            },
+            "game": {
+                "id": 14287
+            },
+            "points": 35,
+            "pos": null,
+            "min": "37",
+            "fgm": 13,
+            "fga": 22,
+            "fgp": "59.1",
+            "ftm": 5,
+            "fta": 8,
+            "ftp": "62.5",
+            "tpm": 4,
+            "tpa": 7,
+            "tpp": "57.1",
+            "offReb": 1,
+            "defReb": 11,
+            "totReb": 12,
+            "assists": 14,
+            "pFouls": 2,
+            "steals": 1,
+            "turnovers": 6,
+            "blocks": 0,
+            "plusMinus": "+3",
+            "comment": null
+        },
+        {
+            "player": {
+                "id": 265,
+                "firstname": "LeBron",
+                "lastname": "James"
+            },
+            "team": {
+                "id": 17,
+                "name": "Los Angeles Lakers",
+                "nickname": "Lakers",
+                "code": "LAL",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Los_Angeles_Lakers_logo.svg"
+            },
+            "game": {
+                "id": 14297
+            },
+            "points": 15,
+            "pos": null,
+            "min": "38",
+            "fgm": 6,
+            "fga": 12,
+            "fgp": "50.0",
+            "ftm": 2,
+            "fta": 4,
+            "ftp": "50.0",
+            "tpm": 1,
+            "tpa": 4,
+            "tpp": "25.0",
+            "offReb": 1,
+            "defReb": 15,
+            "totReb": 16,
+            "assists": 12,
+            "pFouls": 0,
+            "steals": 1,
+            "turnovers": 7,
+            "blocks": 0,
+            "plusMinus": "+3",
+            "comment": null
+        },
+        {
+            "player": {
+                "id": 265,
+                "firstname": "LeBron",
+                "lastname": "James"
+            },
+            "team": {
+                "id": 17,
+                "name": "Los Angeles Lakers",
+                "nickname": "Lakers",
+                "code": "LAL",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Los_Angeles_Lakers_logo.svg"
+            },
+            "game": {
+                "id": 14305
+            },
+            "points": 21,
+            "pos": null,
+            "min": "37",
+            "fgm": 8,
+            "fga": 19,
+            "fgp": "42.1",
+            "ftm": 3,
+            "fta": 5,
+            "ftp": "60.0",
+            "tpm": 2,
+            "tpa": 7,
+            "tpp": "28.6",
+            "offReb": 4,
+            "defReb": 3,
+            "totReb": 7,
+            "assists": 5,
+            "pFouls": 1,
+            "steals": 1,
+            "turnovers": 6,
+            "blocks": 0,
+            "plusMinus": "+1",
+            "comment": null
+        },
+        {
+            "player": {
+                "id": 265,
+                "firstname": "LeBron",
+                "lastname": "James"
+            },
+            "team": {
+                "id": 17,
+                "name": "Los Angeles Lakers",
+                "nickname": "Lakers",
+                "code": "LAL",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Los_Angeles_Lakers_logo.svg"
+            },
+            "game": {
+                "id": 14331
+            },
+            "points": 26,
+            "pos": null,
+            "min": "34",
+            "fgm": 9,
+            "fga": 17,
+            "fgp": "52.9",
+            "ftm": 7,
+            "fta": 11,
+            "ftp": "63.6",
+            "tpm": 1,
+            "tpa": 5,
+            "tpp": "20.0",
+            "offReb": 0,
+            "defReb": 2,
+            "totReb": 2,
+            "assists": 12,
+            "pFouls": 1,
+            "steals": 0,
+            "turnovers": 4,
+            "blocks": 0,
+            "plusMinus": "-5",
+            "comment": null
+        },
+        {
+            "player": {
+                "id": 265,
+                "firstname": "LeBron",
+                "lastname": "James"
+            },
+            "team": {
+                "id": 17,
+                "name": "Los Angeles Lakers",
+                "nickname": "Lakers",
+                "code": "LAL",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Los_Angeles_Lakers_logo.svg"
+            },
+            "game": {
+                "id": 14343
+            },
+            "points": 31,
+            "pos": null,
+            "min": "37",
+            "fgm": 12,
+            "fga": 22,
+            "fgp": "54.5",
+            "ftm": 2,
+            "fta": 4,
+            "ftp": "50.0",
+            "tpm": 5,
+            "tpa": 9,
+            "tpp": "55.6",
+            "offReb": 2,
+            "defReb": 8,
+            "totReb": 10,
+            "assists": 7,
+            "pFouls": 0,
+            "steals": 0,
+            "turnovers": 4,
+            "blocks": 1,
+            "plusMinus": "-8",
+            "comment": null
+        },
+        {
+            "player": {
+                "id": 265,
+                "firstname": "LeBron",
+                "lastname": "James"
+            },
+            "team": {
+                "id": 17,
+                "name": "Los Angeles Lakers",
+                "nickname": "Lakers",
+                "code": "LAL",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Los_Angeles_Lakers_logo.svg"
+            },
+            "game": {
+                "id": 14358
+            },
+            "points": 18,
+            "pos": null,
+            "min": "35",
+            "fgm": 7,
+            "fga": 17,
+            "fgp": "41.2",
+            "ftm": 3,
+            "fta": 3,
+            "ftp": "100.0",
+            "tpm": 1,
+            "tpa": 4,
+            "tpp": "25.0",
+            "offReb": 0,
+            "defReb": 6,
+            "totReb": 6,
+            "assists": 7,
+            "pFouls": 3,
+            "steals": 3,
+            "turnovers": 6,
+            "blocks": 0,
+            "plusMinus": "-25",
+            "comment": null
+        },
+        {
+            "player": {
+                "id": 265,
+                "firstname": "LeBron",
+                "lastname": "James"
+            },
+            "team": {
+                "id": 17,
+                "name": "Los Angeles Lakers",
+                "nickname": "Lakers",
+                "code": "LAL",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Los_Angeles_Lakers_logo.svg"
+            },
+            "game": {
+                "id": 14378
+            },
+            "points": 18,
+            "pos": null,
+            "min": "35",
+            "fgm": 7,
+            "fga": 16,
+            "fgp": "43.8",
+            "ftm": 2,
+            "fta": 2,
+            "ftp": "100.0",
+            "tpm": 2,
+            "tpa": 7,
+            "tpp": "28.6",
+            "offReb": 1,
+            "defReb": 7,
+            "totReb": 8,
+            "assists": 10,
+            "pFouls": 0,
+            "steals": 0,
+            "turnovers": 5,
+            "blocks": 0,
+            "plusMinus": "-30",
+            "comment": null
+        },
+        {
+            "player": {
+                "id": 265,
+                "firstname": "LeBron",
+                "lastname": "James"
+            },
+            "team": {
+                "id": 17,
+                "name": "Los Angeles Lakers",
+                "nickname": "Lakers",
+                "code": "LAL",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Los_Angeles_Lakers_logo.svg"
+            },
+            "game": {
+                "id": 14389
+            },
+            "points": 16,
+            "pos": null,
+            "min": "33",
+            "fgm": 8,
+            "fga": 18,
+            "fgp": "44.4",
+            "ftm": 0,
+            "fta": 0,
+            "ftp": "0",
+            "tpm": 0,
+            "tpa": 2,
+            "tpp": "0",
+            "offReb": 3,
+            "defReb": 7,
+            "totReb": 10,
+            "assists": 11,
+            "pFouls": 0,
+            "steals": 1,
+            "turnovers": 5,
+            "blocks": 1,
+            "plusMinus": "+4",
+            "comment": null
+        },
+        {
+            "player": {
+                "id": 265,
+                "firstname": "LeBron",
+                "lastname": "James"
+            },
+            "team": {
+                "id": 17,
+                "name": "Los Angeles Lakers",
+                "nickname": "Lakers",
+                "code": "LAL",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Los_Angeles_Lakers_logo.svg"
+            },
+            "game": {
+                "id": 14401
+            },
+            "points": 12,
+            "pos": null,
+            "min": "34",
+            "fgm": 5,
+            "fga": 13,
+            "fgp": "38.5",
+            "ftm": 2,
+            "fta": 2,
+            "ftp": "100.0",
+            "tpm": 0,
+            "tpa": 4,
+            "tpp": "0",
+            "offReb": 0,
+            "defReb": 8,
+            "totReb": 8,
+            "assists": 6,
+            "pFouls": 0,
+            "steals": 0,
+            "turnovers": 5,
+            "blocks": 0,
+            "plusMinus": "-12",
+            "comment": null
+        },
+        {
+            "player": {
+                "id": 265,
+                "firstname": "LeBron",
+                "lastname": "James"
+            },
+            "team": {
+                "id": 17,
+                "name": "Los Angeles Lakers",
+                "nickname": "Lakers",
+                "code": "LAL",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Los_Angeles_Lakers_logo.svg"
+            },
+            "game": {
+                "id": 14414
+            },
+            "points": 27,
+            "pos": null,
+            "min": "36",
+            "fgm": 12,
+            "fga": 28,
+            "fgp": "42.9",
+            "ftm": 3,
+            "fta": 3,
+            "ftp": "100.0",
+            "tpm": 0,
+            "tpa": 9,
+            "tpp": "0",
+            "offReb": 1,
+            "defReb": 4,
+            "totReb": 5,
+            "assists": 14,
+            "pFouls": 1,
+            "steals": 0,
+            "turnovers": 3,
+            "blocks": 2,
+            "plusMinus": "0",
+            "comment": null
+        },
+        {
+            "player": {
+                "id": 265,
+                "firstname": "LeBron",
+                "lastname": "James"
+            },
+            "team": {
+                "id": 17,
+                "name": "Los Angeles Lakers",
+                "nickname": "Lakers",
+                "code": "LAL",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Los_Angeles_Lakers_logo.svg"
+            },
+            "game": {
+                "id": 14421
+            },
+            "points": 10,
+            "pos": null,
+            "min": "31",
+            "fgm": 4,
+            "fga": 16,
+            "fgp": "25.0",
+            "ftm": 2,
+            "fta": 4,
+            "ftp": "50.0",
+            "tpm": 0,
+            "tpa": 4,
+            "tpp": "0",
+            "offReb": 3,
+            "defReb": 5,
+            "totReb": 8,
+            "assists": 4,
+            "pFouls": 1,
+            "steals": 0,
+            "turnovers": 6,
+            "blocks": 0,
+            "plusMinus": "-28",
+            "comment": null
+        },
+        {
+            "player": {
+                "id": 265,
+                "firstname": "LeBron",
+                "lastname": "James"
+            },
+            "team": {
+                "id": 17,
+                "name": "Los Angeles Lakers",
+                "nickname": "Lakers",
+                "code": "LAL",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Los_Angeles_Lakers_logo.svg"
+            },
+            "game": {
+                "id": 14435
+            },
+            "points": 29,
+            "pos": null,
+            "min": "29",
+            "fgm": 12,
+            "fga": 18,
+            "fgp": "66.7",
+            "ftm": 4,
+            "fta": 4,
+            "ftp": "100.0",
+            "tpm": 1,
+            "tpa": 4,
+            "tpp": "25.0",
+            "offReb": 1,
+            "defReb": 4,
+            "totReb": 5,
+            "assists": 8,
+            "pFouls": 2,
+            "steals": 1,
+            "turnovers": 5,
+            "blocks": 0,
+            "plusMinus": "-21",
+            "comment": null
+        },
+        {
+            "player": {
+                "id": 265,
+                "firstname": "LeBron",
+                "lastname": "James"
+            },
+            "team": {
+                "id": 17,
+                "name": "Los Angeles Lakers",
+                "nickname": "Lakers",
+                "code": "LAL",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Los_Angeles_Lakers_logo.svg"
+            },
+            "game": {
+                "id": 14448
+            },
+            "points": 39,
+            "pos": null,
+            "min": "43",
+            "fgm": 14,
+            "fga": 25,
+            "fgp": "56.0",
+            "ftm": 5,
+            "fta": 6,
+            "ftp": "83.3",
+            "tpm": 6,
+            "tpa": 11,
+            "tpp": "54.5",
+            "offReb": 0,
+            "defReb": 10,
+            "totReb": 10,
+            "assists": 11,
+            "pFouls": 3,
+            "steals": 2,
+            "turnovers": 4,
+            "blocks": 3,
+            "plusMinus": "+3",
+            "comment": null
+        },
+        {
+            "player": {
+                "id": 265,
+                "firstname": "LeBron",
+                "lastname": "James"
+            },
+            "team": {
+                "id": 17,
+                "name": "Los Angeles Lakers",
+                "nickname": "Lakers",
+                "code": "LAL",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Los_Angeles_Lakers_logo.svg"
+            },
+            "game": {
+                "id": 15336
+            },
+            "points": 18,
+            "pos": null,
+            "min": "34",
+            "fgm": 7,
+            "fga": 17,
+            "fgp": "41.2",
+            "ftm": 1,
+            "fta": 4,
+            "ftp": "25.0",
+            "tpm": 3,
+            "tpa": 6,
+            "tpp": "50.0",
+            "offReb": 4,
+            "defReb": 4,
+            "totReb": 8,
+            "assists": 8,
+            "pFouls": 2,
+            "steals": 1,
+            "turnovers": 5,
+            "blocks": 2,
+            "plusMinus": "0",
+            "comment": null
+        },
+        {
+            "player": {
+                "id": 265,
+                "firstname": "LeBron",
+                "lastname": "James"
+            },
+            "team": {
+                "id": 17,
+                "name": "Los Angeles Lakers",
+                "nickname": "Lakers",
+                "code": "LAL",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Los_Angeles_Lakers_logo.svg"
+            },
+            "game": {
+                "id": 14486
+            },
+            "points": 19,
+            "pos": null,
+            "min": "34",
+            "fgm": 8,
+            "fga": 21,
+            "fgp": "38.1",
+            "ftm": 2,
+            "fta": 2,
+            "ftp": "100.0",
+            "tpm": 1,
+            "tpa": 4,
+            "tpp": "25.0",
+            "offReb": 0,
+            "defReb": 6,
+            "totReb": 6,
+            "assists": 7,
+            "pFouls": 1,
+            "steals": 0,
+            "turnovers": 2,
+            "blocks": 1,
+            "plusMinus": "+13",
+            "comment": null
+        },
+        {
+            "player": {
+                "id": 265,
+                "firstname": "LeBron",
+                "lastname": "James"
+            },
+            "team": {
+                "id": 17,
+                "name": "Los Angeles Lakers",
+                "nickname": "Lakers",
+                "code": "LAL",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Los_Angeles_Lakers_logo.svg"
+            },
+            "game": {
+                "id": 14490
+            },
+            "points": 32,
+            "pos": null,
+            "min": "34",
+            "fgm": 13,
+            "fga": 24,
+            "fgp": "54.2",
+            "ftm": 5,
+            "fta": 6,
+            "ftp": "83.3",
+            "tpm": 1,
+            "tpa": 8,
+            "tpp": "12.5",
+            "offReb": 0,
+            "defReb": 7,
+            "totReb": 7,
+            "assists": 6,
+            "pFouls": 2,
+            "steals": 4,
+            "turnovers": 4,
+            "blocks": 0,
+            "plusMinus": "+10",
+            "comment": null
+        },
+        {
+            "player": {
+                "id": 265,
+                "firstname": "LeBron",
+                "lastname": "James"
+            },
+            "team": {
+                "id": 17,
+                "name": "Los Angeles Lakers",
+                "nickname": "Lakers",
+                "code": "LAL",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Los_Angeles_Lakers_logo.svg"
+            },
+            "game": {
+                "id": 14518
+            },
+            "points": 28,
+            "pos": null,
+            "min": "35",
+            "fgm": 10,
+            "fga": 16,
+            "fgp": "62.5",
+            "ftm": 6,
+            "fta": 7,
+            "ftp": "85.7",
+            "tpm": 2,
+            "tpa": 4,
+            "tpp": "50.0",
+            "offReb": 2,
+            "defReb": 9,
+            "totReb": 11,
+            "assists": 11,
+            "pFouls": 1,
+            "steals": 0,
+            "turnovers": 2,
+            "blocks": 0,
+            "plusMinus": "-1",
+            "comment": null
+        },
+        {
+            "player": {
+                "id": 265,
+                "firstname": "LeBron",
+                "lastname": "James"
+            },
+            "team": {
+                "id": 17,
+                "name": "Los Angeles Lakers",
+                "nickname": "Lakers",
+                "code": "LAL",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Los_Angeles_Lakers_logo.svg"
+            },
+            "game": {
+                "id": 14522
+            },
+            "points": 31,
+            "pos": null,
+            "min": "37",
+            "fgm": 12,
+            "fga": 22,
+            "fgp": "54.5",
+            "ftm": 5,
+            "fta": 5,
+            "ftp": "100.0",
+            "tpm": 2,
+            "tpa": 4,
+            "tpp": "50.0",
+            "offReb": 0,
+            "defReb": 4,
+            "totReb": 4,
+            "assists": 10,
+            "pFouls": 3,
+            "steals": 2,
+            "turnovers": 1,
+            "blocks": 1,
+            "plusMinus": "+4",
+            "comment": null
+        },
+        {
+            "player": {
+                "id": 265,
+                "firstname": "LeBron",
+                "lastname": "James"
+            },
+            "team": {
+                "id": 17,
+                "name": "Los Angeles Lakers",
+                "nickname": "Lakers",
+                "code": "LAL",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Los_Angeles_Lakers_logo.svg"
+            },
+            "game": {
+                "id": 14568
+            },
+            "points": 23,
+            "pos": null,
+            "min": "34",
+            "fgm": 9,
+            "fga": 17,
+            "fgp": "52.9",
+            "ftm": 2,
+            "fta": 2,
+            "ftp": "100.0",
+            "tpm": 3,
+            "tpa": 6,
+            "tpp": "50.0",
+            "offReb": 0,
+            "defReb": 4,
+            "totReb": 4,
+            "assists": 7,
+            "pFouls": 1,
+            "steals": 0,
+            "turnovers": 2,
+            "blocks": 1,
+            "plusMinus": "-11",
+            "comment": null
+        },
+        {
+            "player": {
+                "id": 265,
+                "firstname": "LeBron",
+                "lastname": "James"
+            },
+            "team": {
+                "id": 17,
+                "name": "Los Angeles Lakers",
+                "nickname": "Lakers",
+                "code": "LAL",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Los_Angeles_Lakers_logo.svg"
+            },
+            "game": {
+                "id": 14582
+            },
+            "points": 38,
+            "pos": null,
+            "min": "36",
+            "fgm": 15,
+            "fga": 25,
+            "fgp": "60.0",
+            "ftm": 1,
+            "fta": 2,
+            "ftp": "50.0",
+            "tpm": 7,
+            "tpa": 10,
+            "tpp": "70.0",
+            "offReb": 1,
+            "defReb": 2,
+            "totReb": 3,
+            "assists": 8,
+            "pFouls": 1,
+            "steals": 0,
+            "turnovers": 4,
+            "blocks": 0,
+            "plusMinus": "+4",
+            "comment": null
+        },
+        {
+            "player": {
+                "id": 265,
+                "firstname": "LeBron",
+                "lastname": "James"
+            },
+            "team": {
+                "id": 17,
+                "name": "Los Angeles Lakers",
+                "nickname": "Lakers",
+                "code": "LAL",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Los_Angeles_Lakers_logo.svg"
+            },
+            "game": {
+                "id": 14591
+            },
+            "points": 30,
+            "pos": null,
+            "min": "30",
+            "fgm": 13,
+            "fga": 20,
+            "fgp": "65.0",
+            "ftm": 2,
+            "fta": 2,
+            "ftp": "100.0",
+            "tpm": 2,
+            "tpa": 5,
+            "tpp": "40.0",
+            "offReb": 0,
+            "defReb": 3,
+            "totReb": 3,
+            "assists": 8,
+            "pFouls": 3,
+            "steals": 0,
+            "turnovers": 3,
+            "blocks": 0,
+            "plusMinus": "+4",
+            "comment": null
+        },
+        {
+            "player": {
+                "id": 265,
+                "firstname": "LeBron",
+                "lastname": "James"
+            },
+            "team": {
+                "id": 17,
+                "name": "Los Angeles Lakers",
+                "nickname": "Lakers",
+                "code": "LAL",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Los_Angeles_Lakers_logo.svg"
+            },
+            "game": {
+                "id": 14605
+            },
+            "points": 21,
+            "pos": null,
+            "min": "36",
+            "fgm": 8,
+            "fga": 16,
+            "fgp": "50.0",
+            "ftm": 1,
+            "fta": 2,
+            "ftp": "50.0",
+            "tpm": 4,
+            "tpa": 7,
+            "tpp": "57.1",
+            "offReb": 1,
+            "defReb": 12,
+            "totReb": 13,
+            "assists": 9,
+            "pFouls": 4,
+            "steals": 1,
+            "turnovers": 2,
+            "blocks": 0,
+            "plusMinus": "-13",
+            "comment": null
+        },
+        {
+            "player": {
+                "id": 265,
+                "firstname": "LeBron",
+                "lastname": "James"
+            },
+            "team": {
+                "id": 17,
+                "name": "Los Angeles Lakers",
+                "nickname": "Lakers",
+                "code": "LAL",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Los_Angeles_Lakers_logo.svg"
+            },
+            "game": {
+                "id": 14618
+            },
+            "points": 18,
+            "pos": null,
+            "min": "35",
+            "fgm": 6,
+            "fga": 12,
+            "fgp": "50.0",
+            "ftm": 5,
+            "fta": 6,
+            "ftp": "83.3",
+            "tpm": 1,
+            "tpa": 4,
+            "tpp": "25.0",
+            "offReb": 0,
+            "defReb": 10,
+            "totReb": 10,
+            "assists": 8,
+            "pFouls": 0,
+            "steals": 1,
+            "turnovers": 2,
+            "blocks": 0,
+            "plusMinus": "-12",
+            "comment": null
+        },
+        {
+            "player": {
+                "id": 265,
+                "firstname": "LeBron",
+                "lastname": "James"
+            },
+            "team": {
+                "id": 17,
+                "name": "Los Angeles Lakers",
+                "nickname": "Lakers",
+                "code": "LAL",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Los_Angeles_Lakers_logo.svg"
+            },
+            "game": {
+                "id": 14666
+            },
+            "points": 18,
+            "pos": null,
+            "min": "32",
+            "fgm": 7,
+            "fga": 11,
+            "fgp": "63.6",
+            "ftm": 2,
+            "fta": 4,
+            "ftp": "50.0",
+            "tpm": 2,
+            "tpa": 3,
+            "tpp": "66.7",
+            "offReb": 1,
+            "defReb": 4,
+            "totReb": 5,
+            "assists": 8,
+            "pFouls": 3,
+            "steals": 1,
+            "turnovers": 7,
+            "blocks": 1,
+            "plusMinus": "-15",
+            "comment": null
+        },
+        {
+            "player": {
+                "id": 265,
+                "firstname": "LeBron",
+                "lastname": "James"
+            },
+            "team": {
+                "id": 17,
+                "name": "Los Angeles Lakers",
+                "nickname": "Lakers",
+                "code": "LAL",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Los_Angeles_Lakers_logo.svg"
+            },
+            "game": {
+                "id": 14684
+            },
+            "points": 22,
+            "pos": null,
+            "min": "38",
+            "fgm": 9,
+            "fga": 15,
+            "fgp": "60.0",
+            "ftm": 1,
+            "fta": 2,
+            "ftp": "50.0",
+            "tpm": 3,
+            "tpa": 6,
+            "tpp": "50.0",
+            "offReb": 1,
+            "defReb": 4,
+            "totReb": 5,
+            "assists": 9,
+            "pFouls": 0,
+            "steals": 2,
+            "turnovers": 2,
+            "blocks": 0,
+            "plusMinus": "+14",
+            "comment": null
+        },
+        {
+            "player": {
+                "id": 265,
+                "firstname": "LeBron",
+                "lastname": "James"
+            },
+            "team": {
+                "id": 17,
+                "name": "Los Angeles Lakers",
+                "nickname": "Lakers",
+                "code": "LAL",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Los_Angeles_Lakers_logo.svg"
+            },
+            "game": {
+                "id": 14699
+            },
+            "points": 29,
+            "pos": null,
+            "min": "35",
+            "fgm": 12,
+            "fga": 17,
+            "fgp": "70.6",
+            "ftm": 1,
+            "fta": 2,
+            "ftp": "50.0",
+            "tpm": 4,
+            "tpa": 6,
+            "tpp": "66.7",
+            "offReb": 1,
+            "defReb": 6,
+            "totReb": 7,
+            "assists": 8,
+            "pFouls": 2,
+            "steals": 1,
+            "turnovers": 5,
+            "blocks": 2,
+            "plusMinus": "-11",
+            "comment": null
+        },
+        {
+            "player": {
+                "id": 265,
+                "firstname": "LeBron",
+                "lastname": "James"
+            },
+            "team": {
+                "id": 17,
+                "name": "Los Angeles Lakers",
+                "nickname": "Lakers",
+                "code": "LAL",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Los_Angeles_Lakers_logo.svg"
+            },
+            "game": {
+                "id": 14710
+            },
+            "points": 25,
+            "pos": null,
+            "min": "35",
+            "fgm": 9,
+            "fga": 20,
+            "fgp": "45.0",
+            "ftm": 5,
+            "fta": 6,
+            "ftp": "83.3",
+            "tpm": 2,
+            "tpa": 6,
+            "tpp": "33.3",
+            "offReb": 2,
+            "defReb": 3,
+            "totReb": 5,
+            "assists": 11,
+            "pFouls": 3,
+            "steals": 3,
+            "turnovers": 5,
+            "blocks": 1,
+            "plusMinus": "-3",
+            "comment": null
+        },
+        {
+            "player": {
+                "id": 265,
+                "firstname": "LeBron",
+                "lastname": "James"
+            },
+            "team": {
+                "id": 17,
+                "name": "Los Angeles Lakers",
+                "nickname": "Lakers",
+                "code": "LAL",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Los_Angeles_Lakers_logo.svg"
+            },
+            "game": {
+                "id": 14724
+            },
+            "points": 21,
+            "pos": null,
+            "min": "36",
+            "fgm": 8,
+            "fga": 18,
+            "fgp": "44.4",
+            "ftm": 3,
+            "fta": 3,
+            "ftp": "100.0",
+            "tpm": 2,
+            "tpa": 6,
+            "tpp": "33.3",
+            "offReb": 0,
+            "defReb": 10,
+            "totReb": 10,
+            "assists": 13,
+            "pFouls": 0,
+            "steals": 2,
+            "turnovers": 5,
+            "blocks": 1,
+            "plusMinus": "+19",
+            "comment": null
+        },
+        {
+            "player": {
+                "id": 265,
+                "firstname": "LeBron",
+                "lastname": "James"
+            },
+            "team": {
+                "id": 17,
+                "name": "Los Angeles Lakers",
+                "nickname": "Lakers",
+                "code": "LAL",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Los_Angeles_Lakers_logo.svg"
+            },
+            "game": {
+                "id": 14743
+            },
+            "points": 20,
+            "pos": null,
+            "min": "31",
+            "fgm": 9,
+            "fga": 20,
+            "fgp": "45.0",
+            "ftm": 2,
+            "fta": 2,
+            "ftp": "100.0",
+            "tpm": 0,
+            "tpa": 2,
+            "tpp": "0",
+            "offReb": 3,
+            "defReb": 11,
+            "totReb": 14,
+            "assists": 6,
+            "pFouls": 0,
+            "steals": 0,
+            "turnovers": 2,
+            "blocks": 0,
+            "plusMinus": "+7",
+            "comment": null
+        },
+        {
+            "player": {
+                "id": 265,
+                "firstname": "LeBron",
+                "lastname": "James"
+            },
+            "team": {
+                "id": 17,
+                "name": "Los Angeles Lakers",
+                "nickname": "Lakers",
+                "code": "LAL",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Los_Angeles_Lakers_logo.svg"
+            },
+            "game": {
+                "id": 14758
+            },
+            "points": 25,
+            "pos": null,
+            "min": "35",
+            "fgm": 12,
+            "fga": 25,
+            "fgp": "48.0",
+            "ftm": 1,
+            "fta": 2,
+            "ftp": "50.0",
+            "tpm": 0,
+            "tpa": 1,
+            "tpp": "0",
+            "offReb": 1,
+            "defReb": 4,
+            "totReb": 5,
+            "assists": 12,
+            "pFouls": 0,
+            "steals": 1,
+            "turnovers": 3,
+            "blocks": 0,
+            "plusMinus": "+11",
+            "comment": null
+        },
+        {
+            "player": {
+                "id": 265,
+                "firstname": "LeBron",
+                "lastname": "James"
+            },
+            "team": {
+                "id": 17,
+                "name": "Los Angeles Lakers",
+                "nickname": "Lakers",
+                "code": "LAL",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Los_Angeles_Lakers_logo.svg"
+            },
+            "game": {
+                "id": 14762
+            },
+            "points": 22,
+            "pos": null,
+            "min": "36",
+            "fgm": 9,
+            "fga": 17,
+            "fgp": "52.9",
+            "ftm": 3,
+            "fta": 5,
+            "ftp": "60.0",
+            "tpm": 1,
+            "tpa": 8,
+            "tpp": "12.5",
+            "offReb": 0,
+            "defReb": 7,
+            "totReb": 7,
+            "assists": 8,
+            "pFouls": 0,
+            "steals": 0,
+            "turnovers": 5,
+            "blocks": 0,
+            "plusMinus": "-1",
+            "comment": null
+        },
+        {
+            "player": {
+                "id": 265,
+                "firstname": "LeBron",
+                "lastname": "James"
+            },
+            "team": {
+                "id": 17,
+                "name": "Los Angeles Lakers",
+                "nickname": "Lakers",
+                "code": "LAL",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Los_Angeles_Lakers_logo.svg"
+            },
+            "game": {
+                "id": 14774
+            },
+            "points": 31,
+            "pos": null,
+            "min": "33",
+            "fgm": 10,
+            "fga": 16,
+            "fgp": "62.5",
+            "ftm": 10,
+            "fta": 11,
+            "ftp": "90.9",
+            "tpm": 1,
+            "tpa": 4,
+            "tpp": "25.0",
+            "offReb": 1,
+            "defReb": 7,
+            "totReb": 8,
+            "assists": 9,
+            "pFouls": 1,
+            "steals": 1,
+            "turnovers": 8,
+            "blocks": 0,
+            "plusMinus": "-11",
+            "comment": null
+        },
+        {
+            "player": {
+                "id": 265,
+                "firstname": "LeBron",
+                "lastname": "James"
+            },
+            "team": {
+                "id": 17,
+                "name": "Los Angeles Lakers",
+                "nickname": "Lakers",
+                "code": "LAL",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Los_Angeles_Lakers_logo.svg"
+            },
+            "game": {
+                "id": 14788
+            },
+            "points": 24,
+            "pos": null,
+            "min": "27",
+            "fgm": 9,
+            "fga": 19,
+            "fgp": "47.4",
+            "ftm": 5,
+            "fta": 5,
+            "ftp": "100.0",
+            "tpm": 1,
+            "tpa": 4,
+            "tpp": "25.0",
+            "offReb": 0,
+            "defReb": 3,
+            "totReb": 3,
+            "assists": 11,
+            "pFouls": 1,
+            "steals": 0,
+            "turnovers": 0,
+            "blocks": 0,
+            "plusMinus": "+29",
+            "comment": null
+        },
+        {
+            "player": {
+                "id": 265,
+                "firstname": "LeBron",
+                "lastname": "James"
+            },
+            "team": {
+                "id": 17,
+                "name": "Los Angeles Lakers",
+                "nickname": "Lakers",
+                "code": "LAL",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Los_Angeles_Lakers_logo.svg"
+            },
+            "game": {
+                "id": 14806
+            },
+            "points": 33,
+            "pos": null,
+            "min": "37",
+            "fgm": 14,
+            "fga": 26,
+            "fgp": "53.8",
+            "ftm": 2,
+            "fta": 4,
+            "ftp": "50.0",
+            "tpm": 3,
+            "tpa": 8,
+            "tpp": "37.5",
+            "offReb": 0,
+            "defReb": 11,
+            "totReb": 11,
+            "assists": 12,
+            "pFouls": 3,
+            "steals": 0,
+            "turnovers": 5,
+            "blocks": 0,
+            "plusMinus": "+12",
+            "comment": null
+        },
+        {
+            "player": {
+                "id": 265,
+                "firstname": "LeBron",
+                "lastname": "James"
+            },
+            "team": {
+                "id": 17,
+                "name": "Los Angeles Lakers",
+                "nickname": "Lakers",
+                "code": "LAL",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Los_Angeles_Lakers_logo.svg"
+            },
+            "game": {
+                "id": 14829
+            },
+            "points": 26,
+            "pos": null,
+            "min": "31",
+            "fgm": 8,
+            "fga": 13,
+            "fgp": "61.5",
+            "ftm": 8,
+            "fta": 11,
+            "ftp": "72.7",
+            "tpm": 2,
+            "tpa": 4,
+            "tpp": "50.0",
+            "offReb": 0,
+            "defReb": 8,
+            "totReb": 8,
+            "assists": 9,
+            "pFouls": 4,
+            "steals": 3,
+            "turnovers": 3,
+            "blocks": 0,
+            "plusMinus": "+19",
+            "comment": null
+        },
+        {
+            "player": {
+                "id": 265,
+                "firstname": "LeBron",
+                "lastname": "James"
+            },
+            "team": {
+                "id": 17,
+                "name": "Los Angeles Lakers",
+                "nickname": "Lakers",
+                "code": "LAL",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Los_Angeles_Lakers_logo.svg"
+            },
+            "game": {
+                "id": 14845
+            },
+            "points": 42,
+            "pos": null,
+            "min": "38",
+            "fgm": 14,
+            "fga": 25,
+            "fgp": "56.0",
+            "ftm": 8,
+            "fta": 10,
+            "ftp": "80.0",
+            "tpm": 6,
+            "tpa": 9,
+            "tpp": "66.7",
+            "offReb": 1,
+            "defReb": 16,
+            "totReb": 17,
+            "assists": 8,
+            "pFouls": 1,
+            "steals": 1,
+            "turnovers": 3,
+            "blocks": 1,
+            "plusMinus": "+7",
+            "comment": null
+        },
+        {
+            "player": {
+                "id": 265,
+                "firstname": "LeBron",
+                "lastname": "James"
+            },
+            "team": {
+                "id": 17,
+                "name": "Los Angeles Lakers",
+                "nickname": "Lakers",
+                "code": "LAL",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Los_Angeles_Lakers_logo.svg"
+            },
+            "game": {
+                "id": 14882
+            },
+            "points": 24,
+            "pos": null,
+            "min": "29",
+            "fgm": 10,
+            "fga": 17,
+            "fgp": "58.8",
+            "ftm": 1,
+            "fta": 2,
+            "ftp": "50.0",
+            "tpm": 3,
+            "tpa": 7,
+            "tpp": "42.9",
+            "offReb": 1,
+            "defReb": 6,
+            "totReb": 7,
+            "assists": 8,
+            "pFouls": 2,
+            "steals": 1,
+            "turnovers": 7,
+            "blocks": 0,
+            "plusMinus": "+24",
+            "comment": null
+        },
+        {
+            "player": {
+                "id": 265,
+                "firstname": "LeBron",
+                "lastname": "James"
+            },
+            "team": {
+                "id": 17,
+                "name": "Los Angeles Lakers",
+                "nickname": "Lakers",
+                "code": "LAL",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Los_Angeles_Lakers_logo.svg"
+            },
+            "game": {
+                "id": 14895
+            },
+            "points": 18,
+            "pos": null,
+            "min": "34",
+            "fgm": 6,
+            "fga": 13,
+            "fgp": "46.2",
+            "ftm": 2,
+            "fta": 4,
+            "ftp": "50.0",
+            "tpm": 4,
+            "tpa": 8,
+            "tpp": "50.0",
+            "offReb": 1,
+            "defReb": 5,
+            "totReb": 6,
+            "assists": 7,
+            "pFouls": 3,
+            "steals": 1,
+            "turnovers": 3,
+            "blocks": 0,
+            "plusMinus": "-10",
+            "comment": null
+        },
+        {
+            "player": {
+                "id": 265,
+                "firstname": "LeBron",
+                "lastname": "James"
+            },
+            "team": {
+                "id": 17,
+                "name": "Los Angeles Lakers",
+                "nickname": "Lakers",
+                "code": "LAL",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Los_Angeles_Lakers_logo.svg"
+            },
+            "game": {
+                "id": 15349
+            },
+            "points": 26,
+            "pos": null,
+            "min": "38",
+            "fgm": 10,
+            "fga": 22,
+            "fgp": "45.5",
+            "ftm": 2,
+            "fta": 2,
+            "ftp": "100.0",
+            "tpm": 4,
+            "tpa": 11,
+            "tpp": "36.4",
+            "offReb": 1,
+            "defReb": 6,
+            "totReb": 7,
+            "assists": 11,
+            "pFouls": 0,
+            "steals": 1,
+            "turnovers": 2,
+            "blocks": 2,
+            "plusMinus": "-4",
+            "comment": null
+        },
+        {
+            "player": {
+                "id": 265,
+                "firstname": "LeBron",
+                "lastname": "James"
+            },
+            "team": {
+                "id": 17,
+                "name": "Los Angeles Lakers",
+                "nickname": "Lakers",
+                "code": "LAL",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Los_Angeles_Lakers_logo.svg"
+            },
+            "game": {
+                "id": 14910
+            },
+            "points": 40,
+            "pos": null,
+            "min": "36",
+            "fgm": 14,
+            "fga": 24,
+            "fgp": "58.3",
+            "ftm": 8,
+            "fta": 8,
+            "ftp": "100.0",
+            "tpm": 4,
+            "tpa": 8,
+            "tpp": "50.0",
+            "offReb": 0,
+            "defReb": 8,
+            "totReb": 8,
+            "assists": 4,
+            "pFouls": 2,
+            "steals": 2,
+            "turnovers": 11,
+            "blocks": 1,
+            "plusMinus": "+8",
+            "comment": null
+        },
+        {
+            "player": {
+                "id": 265,
+                "firstname": "LeBron",
+                "lastname": "James"
+            },
+            "team": {
+                "id": 17,
+                "name": "Los Angeles Lakers",
+                "nickname": "Lakers",
+                "code": "LAL",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Los_Angeles_Lakers_logo.svg"
+            },
+            "game": {
+                "id": 14922
+            },
+            "points": 25,
+            "pos": null,
+            "min": "33",
+            "fgm": 11,
+            "fga": 19,
+            "fgp": "57.9",
+            "ftm": 2,
+            "fta": 3,
+            "ftp": "66.7",
+            "tpm": 1,
+            "tpa": 4,
+            "tpp": "25.0",
+            "offReb": 2,
+            "defReb": 7,
+            "totReb": 9,
+            "assists": 5,
+            "pFouls": 2,
+            "steals": 1,
+            "turnovers": 1,
+            "blocks": 3,
+            "plusMinus": "+9",
+            "comment": null
+        },
+        {
+            "player": {
+                "id": 265,
+                "firstname": "LeBron",
+                "lastname": "James"
+            },
+            "team": {
+                "id": 17,
+                "name": "Los Angeles Lakers",
+                "nickname": "Lakers",
+                "code": "LAL",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Los_Angeles_Lakers_logo.svg"
+            },
+            "game": {
+                "id": 14949
+            },
+            "points": 27,
+            "pos": null,
+            "min": "37",
+            "fgm": 11,
+            "fga": 17,
+            "fgp": "64.7",
+            "ftm": 3,
+            "fta": 4,
+            "ftp": "75.0",
+            "tpm": 2,
+            "tpa": 4,
+            "tpp": "50.0",
+            "offReb": 3,
+            "defReb": 9,
+            "totReb": 12,
+            "assists": 3,
+            "pFouls": 2,
+            "steals": 1,
+            "turnovers": 6,
+            "blocks": 0,
+            "plusMinus": "-5",
+            "comment": null
+        },
+        {
+            "player": {
+                "id": 265,
+                "firstname": "LeBron",
+                "lastname": "James"
+            },
+            "team": {
+                "id": 17,
+                "name": "Los Angeles Lakers",
+                "nickname": "Lakers",
+                "code": "LAL",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Los_Angeles_Lakers_logo.svg"
+            },
+            "game": {
+                "id": 14963
+            },
+            "points": 33,
+            "pos": null,
+            "min": "37",
+            "fgm": 11,
+            "fga": 21,
+            "fgp": "52.4",
+            "ftm": 7,
+            "fta": 10,
+            "ftp": "70.0",
+            "tpm": 4,
+            "tpa": 9,
+            "tpp": "44.4",
+            "offReb": 5,
+            "defReb": 12,
+            "totReb": 17,
+            "assists": 6,
+            "pFouls": 1,
+            "steals": 1,
+            "turnovers": 4,
+            "blocks": 1,
+            "plusMinus": "+12",
+            "comment": null
+        },
+        {
+            "player": {
+                "id": 265,
+                "firstname": "LeBron",
+                "lastname": "James"
+            },
+            "team": {
+                "id": 17,
+                "name": "Los Angeles Lakers",
+                "nickname": "Lakers",
+                "code": "LAL",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Los_Angeles_Lakers_logo.svg"
+            },
+            "game": {
+                "id": 14973
+            },
+            "points": 28,
+            "pos": null,
+            "min": "37",
+            "fgm": 12,
+            "fga": 21,
+            "fgp": "57.1",
+            "ftm": 2,
+            "fta": 3,
+            "ftp": "66.7",
+            "tpm": 2,
+            "tpa": 7,
+            "tpp": "28.6",
+            "offReb": 1,
+            "defReb": 12,
+            "totReb": 13,
+            "assists": 3,
+            "pFouls": 0,
+            "steals": 1,
+            "turnovers": 4,
+            "blocks": 0,
+            "plusMinus": "-1",
+            "comment": null
+        },
+        {
+            "player": {
+                "id": 265,
+                "firstname": "LeBron",
+                "lastname": "James"
+            },
+            "team": {
+                "id": 17,
+                "name": "Los Angeles Lakers",
+                "nickname": "Lakers",
+                "code": "LAL",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Los_Angeles_Lakers_logo.svg"
+            },
+            "game": {
+                "id": 14988
+            },
+            "points": 17,
+            "pos": null,
+            "min": "36",
+            "fgm": 6,
+            "fga": 17,
+            "fgp": "35.3",
+            "ftm": 4,
+            "fta": 4,
+            "ftp": "100.0",
+            "tpm": 1,
+            "tpa": 6,
+            "tpp": "16.7",
+            "offReb": 1,
+            "defReb": 4,
+            "totReb": 5,
+            "assists": 9,
+            "pFouls": 2,
+            "steals": 2,
+            "turnovers": 8,
+            "blocks": 1,
+            "plusMinus": "-5",
+            "comment": null
+        },
+        {
+            "player": {
+                "id": 265,
+                "firstname": "LeBron",
+                "lastname": "James"
+            },
+            "team": {
+                "id": 17,
+                "name": "Los Angeles Lakers",
+                "nickname": "Lakers",
+                "code": "LAL",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Los_Angeles_Lakers_logo.svg"
+            },
+            "game": {
+                "id": 15004
+            },
+            "points": 34,
+            "pos": null,
+            "min": "33",
+            "fgm": 10,
+            "fga": 18,
+            "fgp": "55.6",
+            "ftm": 9,
+            "fta": 9,
+            "ftp": "100.0",
+            "tpm": 5,
+            "tpa": 10,
+            "tpp": "50.0",
+            "offReb": 1,
+            "defReb": 7,
+            "totReb": 8,
+            "assists": 6,
+            "pFouls": 1,
+            "steals": 1,
+            "turnovers": 4,
+            "blocks": 2,
+            "plusMinus": "+7",
+            "comment": null
+        },
+        {
+            "player": {
+                "id": 265,
+                "firstname": "LeBron",
+                "lastname": "James"
+            },
+            "team": {
+                "id": 17,
+                "name": "Los Angeles Lakers",
+                "nickname": "Lakers",
+                "code": "LAL",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Los_Angeles_Lakers_logo.svg"
+            },
+            "game": {
+                "id": 15017
+            },
+            "points": 31,
+            "pos": null,
+            "min": "44",
+            "fgm": 11,
+            "fga": 23,
+            "fgp": "47.8",
+            "ftm": 7,
+            "fta": 8,
+            "ftp": "87.5",
+            "tpm": 2,
+            "tpa": 8,
+            "tpp": "25.0",
+            "offReb": 1,
+            "defReb": 11,
+            "totReb": 12,
+            "assists": 8,
+            "pFouls": 3,
+            "steals": 0,
+            "turnovers": 1,
+            "blocks": 1,
+            "plusMinus": "+4",
+            "comment": null
+        },
+        {
+            "player": {
+                "id": 265,
+                "firstname": "LeBron",
+                "lastname": "James"
+            },
+            "team": {
+                "id": 17,
+                "name": "Los Angeles Lakers",
+                "nickname": "Lakers",
+                "code": "LAL",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Los_Angeles_Lakers_logo.svg"
+            },
+            "game": {
+                "id": 15032
+            },
+            "points": 22,
+            "pos": null,
+            "min": "35",
+            "fgm": 11,
+            "fga": 23,
+            "fgp": "47.8",
+            "ftm": 0,
+            "fta": 3,
+            "ftp": "0",
+            "tpm": 0,
+            "tpa": 6,
+            "tpp": "0",
+            "offReb": 2,
+            "defReb": 12,
+            "totReb": 14,
+            "assists": 9,
+            "pFouls": 3,
+            "steals": 0,
+            "turnovers": 1,
+            "blocks": 0,
+            "plusMinus": "-11",
+            "comment": null
+        },
+        {
+            "player": {
+                "id": 265,
+                "firstname": "LeBron",
+                "lastname": "James"
+            },
+            "team": {
+                "id": 17,
+                "name": "Los Angeles Lakers",
+                "nickname": "Lakers",
+                "code": "LAL",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Los_Angeles_Lakers_logo.svg"
+            },
+            "game": {
+                "id": 15142
+            },
+            "points": 17,
+            "pos": null,
+            "min": "31",
+            "fgm": 7,
+            "fga": 16,
+            "fgp": "43.8",
+            "ftm": 2,
+            "fta": 5,
+            "ftp": "40.0",
+            "tpm": 1,
+            "tpa": 2,
+            "tpp": "50.0",
+            "offReb": 0,
+            "defReb": 6,
+            "totReb": 6,
+            "assists": 4,
+            "pFouls": 1,
+            "steals": 3,
+            "turnovers": 5,
+            "blocks": 0,
+            "plusMinus": "-27",
+            "comment": null
+        },
+        {
+            "player": {
+                "id": 265,
+                "firstname": "LeBron",
+                "lastname": "James"
+            },
+            "team": {
+                "id": 17,
+                "name": "Los Angeles Lakers",
+                "nickname": "Lakers",
+                "code": "LAL",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Los_Angeles_Lakers_logo.svg"
+            },
+            "game": {
+                "id": 15152
+            },
+            "points": 24,
+            "pos": null,
+            "min": "38",
+            "fgm": 9,
+            "fga": 18,
+            "fgp": "50.0",
+            "ftm": 6,
+            "fta": 7,
+            "ftp": "85.7",
+            "tpm": 0,
+            "tpa": 3,
+            "tpp": "0",
+            "offReb": 3,
+            "defReb": 3,
+            "totReb": 6,
+            "assists": 7,
+            "pFouls": 0,
+            "steals": 0,
+            "turnovers": 2,
+            "blocks": 0,
+            "plusMinus": "-17",
+            "comment": null
+        },
+        {
+            "player": {
+                "id": 265,
+                "firstname": "LeBron",
+                "lastname": "James"
+            },
+            "team": {
+                "id": 17,
+                "name": "Los Angeles Lakers",
+                "nickname": "Lakers",
+                "code": "LAL",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Los_Angeles_Lakers_logo.svg"
+            },
+            "game": {
+                "id": 15169
+            },
+            "points": 13,
+            "pos": null,
+            "min": "38",
+            "fgm": 4,
+            "fga": 12,
+            "fgp": "33.3",
+            "ftm": 5,
+            "fta": 5,
+            "ftp": "100.0",
+            "tpm": 0,
+            "tpa": 3,
+            "tpp": "0",
+            "offReb": 3,
+            "defReb": 10,
+            "totReb": 13,
+            "assists": 7,
+            "pFouls": 1,
+            "steals": 1,
+            "turnovers": 1,
+            "blocks": 0,
+            "plusMinus": "+5",
+            "comment": null
+        },
+        {
+            "player": {
+                "id": 265,
+                "firstname": "LeBron",
+                "lastname": "James"
+            },
+            "team": {
+                "id": 17,
+                "name": "Los Angeles Lakers",
+                "nickname": "Lakers",
+                "code": "LAL",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Los_Angeles_Lakers_logo.svg"
+            },
+            "game": {
+                "id": 15177
+            },
+            "points": 17,
+            "pos": null,
+            "min": "39",
+            "fgm": 8,
+            "fga": 20,
+            "fgp": "40.0",
+            "ftm": 1,
+            "fta": 2,
+            "ftp": "50.0",
+            "tpm": 0,
+            "tpa": 5,
+            "tpp": "0",
+            "offReb": 1,
+            "defReb": 4,
+            "totReb": 5,
+            "assists": 12,
+            "pFouls": 1,
+            "steals": 2,
+            "turnovers": 4,
+            "blocks": 0,
+            "plusMinus": "-10",
+            "comment": null
+        },
+        {
+            "player": {
+                "id": 265,
+                "firstname": "LeBron",
+                "lastname": "James"
+            },
+            "team": {
+                "id": 17,
+                "name": "Los Angeles Lakers",
+                "nickname": "Lakers",
+                "code": "LAL",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Los_Angeles_Lakers_logo.svg"
+            },
+            "game": {
+                "id": 15192
+            },
+            "points": 25,
+            "pos": null,
+            "min": "37",
+            "fgm": 10,
+            "fga": 21,
+            "fgp": "47.6",
+            "ftm": 3,
+            "fta": 4,
+            "ftp": "75.0",
+            "tpm": 2,
+            "tpa": 5,
+            "tpp": "40.0",
+            "offReb": 1,
+            "defReb": 5,
+            "totReb": 6,
+            "assists": 8,
+            "pFouls": 3,
+            "steals": 3,
+            "turnovers": 3,
+            "blocks": 1,
+            "plusMinus": "-1",
+            "comment": null
+        },
+        {
+            "player": {
+                "id": 265,
+                "firstname": "LeBron",
+                "lastname": "James"
+            },
+            "team": {
+                "id": 17,
+                "name": "Los Angeles Lakers",
+                "nickname": "Lakers",
+                "code": "LAL",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Los_Angeles_Lakers_logo.svg"
+            },
+            "game": {
+                "id": 15210
+            },
+            "points": 16,
+            "pos": null,
+            "min": "38",
+            "fgm": 5,
+            "fga": 12,
+            "fgp": "41.7",
+            "ftm": 4,
+            "fta": 4,
+            "ftp": "100.0",
+            "tpm": 2,
+            "tpa": 4,
+            "tpp": "50.0",
+            "offReb": 0,
+            "defReb": 8,
+            "totReb": 8,
+            "assists": 4,
+            "pFouls": 1,
+            "steals": 2,
+            "turnovers": 3,
+            "blocks": 2,
+            "plusMinus": "+9",
+            "comment": null
+        },
+        {
+            "player": {
+                "id": 265,
+                "firstname": "LeBron",
+                "lastname": "James"
+            },
+            "team": {
+                "id": 17,
+                "name": "Los Angeles Lakers",
+                "nickname": "Lakers",
+                "code": "LAL",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Los_Angeles_Lakers_logo.svg"
+            },
+            "game": {
+                "id": 15231
+            },
+            "points": 33,
+            "pos": null,
+            "min": "40",
+            "fgm": 10,
+            "fga": 15,
+            "fgp": "66.7",
+            "ftm": 8,
+            "fta": 9,
+            "ftp": "88.9",
+            "tpm": 5,
+            "tpa": 8,
+            "tpp": "62.5",
+            "offReb": 1,
+            "defReb": 4,
+            "totReb": 5,
+            "assists": 9,
+            "pFouls": 2,
+            "steals": 1,
+            "turnovers": 4,
+            "blocks": 1,
+            "plusMinus": "-1",
+            "comment": null
+        },
+        {
+            "player": {
+                "id": 265,
+                "firstname": "LeBron",
+                "lastname": "James"
+            },
+            "team": {
+                "id": 17,
+                "name": "Los Angeles Lakers",
+                "nickname": "Lakers",
+                "code": "LAL",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Los_Angeles_Lakers_logo.svg"
+            },
+            "game": {
+                "id": 15240
+            },
+            "points": 27,
+            "pos": null,
+            "min": "33",
+            "fgm": 9,
+            "fga": 17,
+            "fgp": "52.9",
+            "ftm": 7,
+            "fta": 8,
+            "ftp": "87.5",
+            "tpm": 2,
+            "tpa": 7,
+            "tpp": "28.6",
+            "offReb": 0,
+            "defReb": 0,
+            "totReb": 0,
+            "assists": 8,
+            "pFouls": 1,
+            "steals": 2,
+            "turnovers": 1,
+            "blocks": 0,
+            "plusMinus": "+7",
+            "comment": null
+        },
+        {
+            "player": {
+                "id": 265,
+                "firstname": "LeBron",
+                "lastname": "James"
+            },
+            "team": {
+                "id": 17,
+                "name": "Los Angeles Lakers",
+                "nickname": "Lakers",
+                "code": "LAL",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Los_Angeles_Lakers_logo.svg"
+            },
+            "game": {
+                "id": 15249
+            },
+            "points": 19,
+            "pos": null,
+            "min": "34",
+            "fgm": 9,
+            "fga": 16,
+            "fgp": "56.3",
+            "ftm": 0,
+            "fta": 0,
+            "ftp": "0",
+            "tpm": 1,
+            "tpa": 1,
+            "tpp": "100.0",
+            "offReb": 2,
+            "defReb": 1,
+            "totReb": 3,
+            "assists": 7,
+            "pFouls": 0,
+            "steals": 1,
+            "turnovers": 2,
+            "blocks": 0,
+            "plusMinus": "+7",
+            "comment": null
+        },
+        {
+            "player": {
+                "id": 265,
+                "firstname": "LeBron",
+                "lastname": "James"
+            },
+            "team": {
+                "id": 17,
+                "name": "Los Angeles Lakers",
+                "nickname": "Lakers",
+                "code": "LAL",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Los_Angeles_Lakers_logo.svg"
+            },
+            "game": {
+                "id": 15267
+            },
+            "points": 28,
+            "pos": null,
+            "min": "35",
+            "fgm": 8,
+            "fga": 19,
+            "fgp": "42.1",
+            "ftm": 9,
+            "fta": 10,
+            "ftp": "90.0",
+            "tpm": 3,
+            "tpa": 6,
+            "tpp": "50.0",
+            "offReb": 0,
+            "defReb": 7,
+            "totReb": 7,
+            "assists": 3,
+            "pFouls": 1,
+            "steals": 1,
+            "turnovers": 6,
+            "blocks": 0,
+            "plusMinus": "-23",
+            "comment": null
+        },
+        {
+            "player": {
+                "id": 265,
+                "firstname": "LeBron",
+                "lastname": "James"
+            },
+            "team": {
+                "id": 17,
+                "name": "Los Angeles Lakers",
+                "nickname": "Lakers",
+                "code": "LAL",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Los_Angeles_Lakers_logo.svg"
+            },
+            "game": {
+                "id": 15273
+            },
+            "points": 27,
+            "pos": null,
+            "min": "36",
+            "fgm": 11,
+            "fga": 20,
+            "fgp": "55.0",
+            "ftm": 5,
+            "fta": 6,
+            "ftp": "83.3",
+            "tpm": 0,
+            "tpa": 4,
+            "tpp": "0",
+            "offReb": 2,
+            "defReb": 5,
+            "totReb": 7,
+            "assists": 3,
+            "pFouls": 2,
+            "steals": 1,
+            "turnovers": 2,
+            "blocks": 0,
+            "plusMinus": "+18",
+            "comment": null
+        },
+        {
+            "player": {
+                "id": 265,
+                "firstname": "LeBron",
+                "lastname": "James"
+            },
+            "team": {
+                "id": 17,
+                "name": "Los Angeles Lakers",
+                "nickname": "Lakers",
+                "code": "LAL",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Los_Angeles_Lakers_logo.svg"
+            },
+            "game": {
+                "id": 15299
+            },
+            "points": 14,
+            "pos": null,
+            "min": "22",
+            "fgm": 6,
+            "fga": 11,
+            "fgp": "54.5",
+            "ftm": 1,
+            "fta": 1,
+            "ftp": "100.0",
+            "tpm": 1,
+            "tpa": 4,
+            "tpp": "25.0",
+            "offReb": 0,
+            "defReb": 4,
+            "totReb": 4,
+            "assists": 8,
+            "pFouls": 1,
+            "steals": 1,
+            "turnovers": 1,
+            "blocks": 0,
+            "plusMinus": "+5",
+            "comment": null
+        },
+        {
+            "player": {
+                "id": 265,
+                "firstname": "LeBron",
+                "lastname": "James"
+            },
+            "team": {
+                "id": 17,
+                "name": "Los Angeles Lakers",
+                "nickname": "Lakers",
+                "code": "LAL",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Los_Angeles_Lakers_logo.svg"
+            },
+            "game": {
+                "id": 15360
+            },
+            "points": 19,
+            "pos": null,
+            "min": "36",
+            "fgm": 8,
+            "fga": 18,
+            "fgp": "44.4",
+            "ftm": 2,
+            "fta": 2,
+            "ftp": "100.0",
+            "tpm": 1,
+            "tpa": 5,
+            "tpp": "20.0",
+            "offReb": 1,
+            "defReb": 4,
+            "totReb": 5,
+            "assists": 3,
+            "pFouls": 0,
+            "steals": 2,
+            "turnovers": 4,
+            "blocks": 3,
+            "plusMinus": "-22",
+            "comment": null
+        },
+        {
+            "player": {
+                "id": 265,
+                "firstname": "LeBron",
+                "lastname": "James"
+            },
+            "team": {
+                "id": 17,
+                "name": "Los Angeles Lakers",
+                "nickname": "Lakers",
+                "code": "LAL",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Los_Angeles_Lakers_logo.svg"
+            },
+            "game": {
+                "id": 15366
+            },
+            "points": 21,
+            "pos": null,
+            "min": "40",
+            "fgm": 8,
+            "fga": 19,
+            "fgp": "42.1",
+            "ftm": 4,
+            "fta": 4,
+            "ftp": "100.0",
+            "tpm": 1,
+            "tpa": 5,
+            "tpp": "20.0",
+            "offReb": 3,
+            "defReb": 8,
+            "totReb": 11,
+            "assists": 7,
+            "pFouls": 4,
+            "steals": 1,
+            "turnovers": 2,
+            "blocks": 1,
+            "plusMinus": "+9",
+            "comment": null
+        },
+        {
+            "player": {
+                "id": 265,
+                "firstname": "LeBron",
+                "lastname": "James"
+            },
+            "team": {
+                "id": 17,
+                "name": "Los Angeles Lakers",
+                "nickname": "Lakers",
+                "code": "LAL",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Los_Angeles_Lakers_logo.svg"
+            },
+            "game": {
+                "id": 15373
+            },
+            "points": 38,
+            "pos": null,
+            "min": "41",
+            "fgm": 13,
+            "fga": 21,
+            "fgp": "61.9",
+            "ftm": 7,
+            "fta": 10,
+            "ftp": "70.0",
+            "tpm": 5,
+            "tpa": 9,
+            "tpp": "55.6",
+            "offReb": 3,
+            "defReb": 7,
+            "totReb": 10,
+            "assists": 4,
+            "pFouls": 0,
+            "steals": 2,
+            "turnovers": 1,
+            "blocks": 2,
+            "plusMinus": "-10",
+            "comment": null
+        },
+        {
+            "player": {
+                "id": 265,
+                "firstname": "LeBron",
+                "lastname": "James"
+            },
+            "team": {
+                "id": 17,
+                "name": "Los Angeles Lakers",
+                "nickname": "Lakers",
+                "code": "LAL",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Los_Angeles_Lakers_logo.svg"
+            },
+            "game": {
+                "id": 15377
+            },
+            "points": 27,
+            "pos": null,
+            "min": "46",
+            "fgm": 5,
+            "fga": 9,
+            "fgp": "55.6",
+            "ftm": 15,
+            "fta": 18,
+            "ftp": "83.3",
+            "tpm": 2,
+            "tpa": 4,
+            "tpp": "50.0",
+            "offReb": 3,
+            "defReb": 9,
+            "totReb": 12,
+            "assists": 8,
+            "pFouls": 2,
+            "steals": 3,
+            "turnovers": 3,
+            "blocks": 3,
+            "plusMinus": "-4",
+            "comment": null
+        },
+        {
+            "player": {
+                "id": 265,
+                "firstname": "LeBron",
+                "lastname": "James"
+            },
+            "team": {
+                "id": 17,
+                "name": "Los Angeles Lakers",
+                "nickname": "Lakers",
+                "code": "LAL",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Los_Angeles_Lakers_logo.svg"
+            },
+            "game": {
+                "id": 15386
+            },
+            "points": 22,
+            "pos": null,
+            "min": "40",
+            "fgm": 9,
+            "fga": 21,
+            "fgp": "42.9",
+            "ftm": 3,
+            "fta": 6,
+            "ftp": "50.0",
+            "tpm": 1,
+            "tpa": 5,
+            "tpp": "20.0",
+            "offReb": 2,
+            "defReb": 5,
+            "totReb": 7,
+            "assists": 6,
+            "pFouls": 2,
+            "steals": 2,
+            "turnovers": 3,
+            "blocks": 0,
+            "plusMinus": "-14",
+            "comment": null
+        }
+    ]
+}

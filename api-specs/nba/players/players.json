@@ -1,0 +1,41 @@
+{
+    "get": "players/",
+    "parameters": {
+        "id": "265"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+        {
+            "id": 265,
+            "firstname": "LeBron",
+            "lastname": "James",
+            "birth": {
+                "date": "1984-12-30",
+                "country": "USA"
+            },
+            "nba": {
+                "start": 2003,
+                "pro": 18
+            },
+            "height": {
+                "feets": "6",
+                "inches": "9",
+                "meters": "2.06"
+            },
+            "weight": {
+                "pounds": "250",
+                "kilograms": "113.4"
+            },
+            "college": "St. Vincent-St. Mary HS (OH)",
+            "affiliation": "St. Vincent-St. Mary HS (OH)/USA",
+            "leagues": {
+                "standard": {
+                    "jersey": 6,
+                    "active": true,
+                    "pos": "F"
+                }
+            }
+        }
+    ]
+}

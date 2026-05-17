@@ -1,0 +1,1271 @@
+{
+    "get": "standings/",
+    "parameters": {
+        "league": "standard",
+        "season": "2024"
+    },
+    "errors": [],
+    "results": 30,
+    "response": [
+        {
+            "league": "standard",
+            "season": 2024,
+            "team": {
+                "id": 2,
+                "name": "Boston Celtics",
+                "nickname": "Celtics",
+                "code": "BOS",
+                "logo": "https://upload.wikimedia.org/wikipedia/en/8/8f/Boston_Celtics.svg"
+            },
+            "conference": {
+                "name": "east",
+                "rank": 2,
+                "win": 0,
+                "loss": 0
+            },
+            "division": {
+                "name": "atlantic",
+                "rank": 1,
+                "win": 0,
+                "loss": 0,
+                "gamesBehind": null
+            },
+            "win": {
+                "home": 28,
+                "away": 33,
+                "total": 0,
+                "percentage": "0.000",
+                "lastTen": 8
+            },
+            "loss": {
+                "home": 13,
+                "away": 8,
+                "total": 0,
+                "percentage": "0.000",
+                "lastTen": 2
+            },
+            "gamesBehind": null,
+            "streak": 2,
+            "winStreak": true,
+            "tieBreakerPoints": null
+        },
+        {
+            "league": "standard",
+            "season": 2024,
+            "team": {
+                "id": 24,
+                "name": "New York Knicks",
+                "nickname": "Knicks",
+                "code": "NYK",
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/3/34/Knicks_de_NY.png"
+            },
+            "conference": {
+                "name": "east",
+                "rank": 11,
+                "win": 0,
+                "loss": 0
+            },
+            "division": {
+                "name": "atlantic",
+                "rank": 3,
+                "win": 0,
+                "loss": 0,
+                "gamesBehind": "10"
+            },
+            "win": {
+                "home": 27,
+                "away": 24,
+                "total": 0,
+                "percentage": "0.000",
+                "lastTen": 6
+            },
+            "loss": {
+                "home": 14,
+                "away": 17,
+                "total": 0,
+                "percentage": "0.000",
+                "lastTen": 4
+            },
+            "gamesBehind": "10",
+            "streak": 1,
+            "winStreak": true,
+            "tieBreakerPoints": null
+        },
+        {
+            "league": "standard",
+            "season": 2024,
+            "team": {
+                "id": 38,
+                "name": "Toronto Raptors",
+                "nickname": "Raptors",
+                "code": "TOR",
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png"
+            },
+            "conference": {
+                "name": "east",
+                "rank": 14,
+                "win": 0,
+                "loss": 0
+            },
+            "division": {
+                "name": "atlantic",
+                "rank": 5,
+                "win": 0,
+                "loss": 0,
+                "gamesBehind": "31"
+            },
+            "win": {
+                "home": 18,
+                "away": 12,
+                "total": 0,
+                "percentage": "0.000",
+                "lastTen": 5
+            },
+            "loss": {
+                "home": 23,
+                "away": 29,
+                "total": 0,
+                "percentage": "0.000",
+                "lastTen": 5
+            },
+            "gamesBehind": "31",
+            "streak": 2,
+            "winStreak": false,
+            "tieBreakerPoints": null
+        },
+        {
+            "league": "standard",
+            "season": 2024,
+            "team": {
+                "id": 4,
+                "name": "Brooklyn Nets",
+                "nickname": "Nets",
+                "code": "BKN",
+                "logo": "https://upload.wikimedia.org/wikipedia/en/4/40/Brooklyn_Nets_primary_icon_logo_2024.svg"
+            },
+            "conference": {
+                "name": "east",
+                "rank": 10,
+                "win": 0,
+                "loss": 0
+            },
+            "division": {
+                "name": "atlantic",
+                "rank": 2,
+                "win": 0,
+                "loss": 0,
+                "gamesBehind": "35"
+            },
+            "win": {
+                "home": 12,
+                "away": 14,
+                "total": 0,
+                "percentage": "0.000",
+                "lastTen": 3
+            },
+            "loss": {
+                "home": 29,
+                "away": 27,
+                "total": 0,
+                "percentage": "0.000",
+                "lastTen": 7
+            },
+            "gamesBehind": "35",
+            "streak": 3,
+            "winStreak": false,
+            "tieBreakerPoints": null
+        },
+        {
+            "league": "standard",
+            "season": 2024,
+            "team": {
+                "id": 27,
+                "name": "Philadelphia 76ers",
+                "nickname": "76ers",
+                "code": "PHI",
+                "logo": "https://upload.wikimedia.org/wikipedia/en/0/0e/Philadelphia_76ers_logo.svg"
+            },
+            "conference": {
+                "name": "east",
+                "rank": 13,
+                "win": 0,
+                "loss": 0
+            },
+            "division": {
+                "name": "atlantic",
+                "rank": 4,
+                "win": 0,
+                "loss": 0,
+                "gamesBehind": "37"
+            },
+            "win": {
+                "home": 12,
+                "away": 12,
+                "total": 0,
+                "percentage": "0.000",
+                "lastTen": 1
+            },
+            "loss": {
+                "home": 29,
+                "away": 29,
+                "total": 0,
+                "percentage": "0.000",
+                "lastTen": 9
+            },
+            "gamesBehind": "37",
+            "streak": 2,
+            "winStreak": false,
+            "tieBreakerPoints": null
+        },
+        {
+            "league": "standard",
+            "season": 2024,
+            "team": {
+                "id": 7,
+                "name": "Cleveland Cavaliers",
+                "nickname": "Cavaliers",
+                "code": "CLE",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Cleveland_Cavaliers_logo.svg"
+            },
+            "conference": {
+                "name": "east",
+                "rank": 5,
+                "win": 0,
+                "loss": 0
+            },
+            "division": {
+                "name": "central",
+                "rank": 2,
+                "win": 0,
+                "loss": 0,
+                "gamesBehind": null
+            },
+            "win": {
+                "home": 34,
+                "away": 30,
+                "total": 0,
+                "percentage": "0.000",
+                "lastTen": 6
+            },
+            "loss": {
+                "home": 7,
+                "away": 11,
+                "total": 0,
+                "percentage": "0.000",
+                "lastTen": 4
+            },
+            "gamesBehind": null,
+            "streak": 1,
+            "winStreak": false,
+            "tieBreakerPoints": null
+        },
+        {
+            "league": "standard",
+            "season": 2024,
+            "team": {
+                "id": 15,
+                "name": "Indiana Pacers",
+                "nickname": "Pacers",
+                "code": "IND",
+                "logo": "https://upload.wikimedia.org/wikipedia/en/1/1b/Indiana_Pacers.svg"
+            },
+            "conference": {
+                "name": "east",
+                "rank": 7,
+                "win": 0,
+                "loss": 0
+            },
+            "division": {
+                "name": "central",
+                "rank": 4,
+                "win": 0,
+                "loss": 0,
+                "gamesBehind": "14"
+            },
+            "win": {
+                "home": 29,
+                "away": 20,
+                "total": 0,
+                "percentage": "0.000",
+                "lastTen": 8
+            },
+            "loss": {
+                "home": 11,
+                "away": 20,
+                "total": 0,
+                "percentage": "0.000",
+                "lastTen": 2
+            },
+            "gamesBehind": "14",
+            "streak": 1,
+            "winStreak": true,
+            "tieBreakerPoints": null
+        },
+        {
+            "league": "standard",
+            "season": 2024,
+            "team": {
+                "id": 21,
+                "name": "Milwaukee Bucks",
+                "nickname": "Bucks",
+                "code": "MIL",
+                "logo": "https://upload.wikimedia.org/wikipedia/en/4/4a/Milwaukee_Bucks_logo.svg"
+            },
+            "conference": {
+                "name": "east",
+                "rank": 9,
+                "win": 0,
+                "loss": 0
+            },
+            "division": {
+                "name": "central",
+                "rank": 5,
+                "win": 0,
+                "loss": 0,
+                "gamesBehind": "16"
+            },
+            "win": {
+                "home": 27,
+                "away": 20,
+                "total": 0,
+                "percentage": "0.000",
+                "lastTen": 8
+            },
+            "loss": {
+                "home": 14,
+                "away": 20,
+                "total": 0,
+                "percentage": "0.000",
+                "lastTen": 2
+            },
+            "gamesBehind": "16",
+            "streak": 8,
+            "winStreak": true,
+            "tieBreakerPoints": null
+        },
+        {
+            "league": "standard",
+            "season": 2024,
+            "team": {
+                "id": 10,
+                "name": "Detroit Pistons",
+                "nickname": "Pistons",
+                "code": "DET",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_of_the_Detroit_Pistons.svg"
+            },
+            "conference": {
+                "name": "east",
+                "rank": 6,
+                "win": 0,
+                "loss": 0
+            },
+            "division": {
+                "name": "central",
+                "rank": 3,
+                "win": 0,
+                "loss": 0,
+                "gamesBehind": "20"
+            },
+            "win": {
+                "home": 22,
+                "away": 22,
+                "total": 0,
+                "percentage": "0.000",
+                "lastTen": 4
+            },
+            "loss": {
+                "home": 19,
+                "away": 19,
+                "total": 0,
+                "percentage": "0.000",
+                "lastTen": 6
+            },
+            "gamesBehind": "20",
+            "streak": 2,
+            "winStreak": false,
+            "tieBreakerPoints": null
+        },
+        {
+            "league": "standard",
+            "season": 2024,
+            "team": {
+                "id": 6,
+                "name": "Chicago Bulls",
+                "nickname": "Bulls",
+                "code": "CHI",
+                "logo": "https://upload.wikimedia.org/wikipedia/en/6/67/Chicago_Bulls_logo.svg"
+            },
+            "conference": {
+                "name": "east",
+                "rank": 4,
+                "win": 0,
+                "loss": 0
+            },
+            "division": {
+                "name": "central",
+                "rank": 1,
+                "win": 0,
+                "loss": 0,
+                "gamesBehind": "25"
+            },
+            "win": {
+                "home": 18,
+                "away": 21,
+                "total": 0,
+                "percentage": "0.000",
+                "lastTen": 7
+            },
+            "loss": {
+                "home": 23,
+                "away": 20,
+                "total": 0,
+                "percentage": "0.000",
+                "lastTen": 3
+            },
+            "gamesBehind": "25",
+            "streak": 3,
+            "winStreak": true,
+            "tieBreakerPoints": null
+        },
+        {
+            "league": "standard",
+            "season": 2024,
+            "team": {
+                "id": 26,
+                "name": "Orlando Magic",
+                "nickname": "Magic",
+                "code": "ORL",
+                "logo": "https://upload.wikimedia.org/wikipedia/en/1/10/Orlando_Magic_logo.svg"
+            },
+            "conference": {
+                "name": "east",
+                "rank": 12,
+                "win": 0,
+                "loss": 0
+            },
+            "division": {
+                "name": "southeast",
+                "rank": 4,
+                "win": 0,
+                "loss": 0,
+                "gamesBehind": null
+            },
+            "win": {
+                "home": 22,
+                "away": 19,
+                "total": 0,
+                "percentage": "0.000",
+                "lastTen": 7
+            },
+            "loss": {
+                "home": 19,
+                "away": 22,
+                "total": 0,
+                "percentage": "0.000",
+                "lastTen": 3
+            },
+            "gamesBehind": null,
+            "streak": 1,
+            "winStreak": false,
+            "tieBreakerPoints": null
+        },
+        {
+            "league": "standard",
+            "season": 2024,
+            "team": {
+                "id": 20,
+                "name": "Miami Heat",
+                "nickname": "Heat",
+                "code": "MIA",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Miami_Heat_wordmark.gif"
+            },
+            "conference": {
+                "name": "east",
+                "rank": 8,
+                "win": 0,
+                "loss": 0
+            },
+            "division": {
+                "name": "southeast",
+                "rank": 3,
+                "win": 0,
+                "loss": 0,
+                "gamesBehind": "4"
+            },
+            "win": {
+                "home": 19,
+                "away": 17,
+                "total": 0,
+                "percentage": "0.000",
+                "lastTen": 6
+            },
+            "loss": {
+                "home": 22,
+                "away": 23,
+                "total": 0,
+                "percentage": "0.000",
+                "lastTen": 4
+            },
+            "gamesBehind": "4",
+            "streak": 1,
+            "winStreak": false,
+            "tieBreakerPoints": null
+        },
+        {
+            "league": "standard",
+            "season": 2024,
+            "team": {
+                "id": 1,
+                "name": "Atlanta Hawks",
+                "nickname": "Hawks",
+                "code": "ATL",
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png"
+            },
+            "conference": {
+                "name": "east",
+                "rank": 1,
+                "win": 0,
+                "loss": 0
+            },
+            "division": {
+                "name": "southeast",
+                "rank": 1,
+                "win": 0,
+                "loss": 0,
+                "gamesBehind": "1"
+            },
+            "win": {
+                "home": 21,
+                "away": 19,
+                "total": 0,
+                "percentage": "0.000",
+                "lastTen": 5
+            },
+            "loss": {
+                "home": 19,
+                "away": 22,
+                "total": 0,
+                "percentage": "0.000",
+                "lastTen": 5
+            },
+            "gamesBehind": "1",
+            "streak": 3,
+            "winStreak": true,
+            "tieBreakerPoints": null
+        },
+        {
+            "league": "standard",
+            "season": 2024,
+            "team": {
+                "id": 5,
+                "name": "Charlotte Hornets",
+                "nickname": "Hornets",
+                "code": "CHA",
+                "logo": "https://upload.wikimedia.org/wikipedia/en/c/c4/Charlotte_Hornets_(2014).svg"
+            },
+            "conference": {
+                "name": "east",
+                "rank": 3,
+                "win": 0,
+                "loss": 0
+            },
+            "division": {
+                "name": "southeast",
+                "rank": 2,
+                "win": 0,
+                "loss": 0,
+                "gamesBehind": "22"
+            },
+            "win": {
+                "home": 12,
+                "away": 7,
+                "total": 0,
+                "percentage": "0.000",
+                "lastTen": 1
+            },
+            "loss": {
+                "home": 29,
+                "away": 34,
+                "total": 0,
+                "percentage": "0.000",
+                "lastTen": 9
+            },
+            "gamesBehind": "22",
+            "streak": 7,
+            "winStreak": false,
+            "tieBreakerPoints": null
+        },
+        {
+            "league": "standard",
+            "season": 2024,
+            "team": {
+                "id": 41,
+                "name": "Washington Wizards",
+                "nickname": "Wizards",
+                "code": "WAS",
+                "logo": "https://upload.wikimedia.org/wikipedia/en/0/02/Washington_Wizards_logo.svg"
+            },
+            "conference": {
+                "name": "east",
+                "rank": 15,
+                "win": 0,
+                "loss": 0
+            },
+            "division": {
+                "name": "southeast",
+                "rank": 5,
+                "win": 0,
+                "loss": 0,
+                "gamesBehind": "23"
+            },
+            "win": {
+                "home": 8,
+                "away": 10,
+                "total": 0,
+                "percentage": "0.000",
+                "lastTen": 2
+            },
+            "loss": {
+                "home": 32,
+                "away": 31,
+                "total": 0,
+                "percentage": "0.000",
+                "lastTen": 8
+            },
+            "gamesBehind": "23",
+            "streak": 1,
+            "winStreak": true,
+            "tieBreakerPoints": null
+        },
+        {
+            "league": "standard",
+            "season": 2024,
+            "team": {
+                "id": 25,
+                "name": "Oklahoma City Thunder",
+                "nickname": "Thunder",
+                "code": "OKC",
+                "logo": "https://upload.wikimedia.org/wikipedia/en/5/5d/Oklahoma_City_Thunder.svg"
+            },
+            "conference": {
+                "name": "west",
+                "rank": 15,
+                "win": 0,
+                "loss": 0
+            },
+            "division": {
+                "name": "northwest",
+                "rank": 5,
+                "win": 0,
+                "loss": 0,
+                "gamesBehind": null
+            },
+            "win": {
+                "home": 35,
+                "away": 32,
+                "total": 0,
+                "percentage": "0.000",
+                "lastTen": 8
+            },
+            "loss": {
+                "home": 6,
+                "away": 8,
+                "total": 0,
+                "percentage": "0.000",
+                "lastTen": 2
+            },
+            "gamesBehind": null,
+            "streak": 4,
+            "winStreak": true,
+            "tieBreakerPoints": null
+        },
+        {
+            "league": "standard",
+            "season": 2024,
+            "team": {
+                "id": 9,
+                "name": "Denver Nuggets",
+                "nickname": "Nuggets",
+                "code": "DEN",
+                "logo": "https://upload.wikimedia.org/wikipedia/en/7/76/Denver_Nuggets.svg"
+            },
+            "conference": {
+                "name": "west",
+                "rank": 2,
+                "win": 0,
+                "loss": 0
+            },
+            "division": {
+                "name": "northwest",
+                "rank": 1,
+                "win": 0,
+                "loss": 0,
+                "gamesBehind": "18"
+            },
+            "win": {
+                "home": 26,
+                "away": 24,
+                "total": 0,
+                "percentage": "0.000",
+                "lastTen": 5
+            },
+            "loss": {
+                "home": 15,
+                "away": 17,
+                "total": 0,
+                "percentage": "0.000",
+                "lastTen": 5
+            },
+            "gamesBehind": "18",
+            "streak": 3,
+            "winStreak": true,
+            "tieBreakerPoints": null
+        },
+        {
+            "league": "standard",
+            "season": 2024,
+            "team": {
+                "id": 22,
+                "name": "Minnesota Timberwolves",
+                "nickname": "Timberwolves",
+                "code": "MIN",
+                "logo": "https://upload.wikimedia.org/wikipedia/en/c/c2/Minnesota_Timberwolves_logo.svg"
+            },
+            "conference": {
+                "name": "west",
+                "rank": 7,
+                "win": 0,
+                "loss": 0
+            },
+            "division": {
+                "name": "northwest",
+                "rank": 2,
+                "win": 0,
+                "loss": 0,
+                "gamesBehind": "19"
+            },
+            "win": {
+                "home": 25,
+                "away": 24,
+                "total": 0,
+                "percentage": "0.000",
+                "lastTen": 8
+            },
+            "loss": {
+                "home": 16,
+                "away": 17,
+                "total": 0,
+                "percentage": "0.000",
+                "lastTen": 2
+            },
+            "gamesBehind": "19",
+            "streak": 3,
+            "winStreak": true,
+            "tieBreakerPoints": null
+        },
+        {
+            "league": "standard",
+            "season": 2024,
+            "team": {
+                "id": 29,
+                "name": "Portland Trail Blazers",
+                "nickname": "Trail Blazers",
+                "code": "POR",
+                "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/21/Portland_Trail_Blazers_logo.svg/1200px-Portland_Trail_Blazers_logo.svg.png"
+            },
+            "conference": {
+                "name": "west",
+                "rank": 10,
+                "win": 0,
+                "loss": 0
+            },
+            "division": {
+                "name": "northwest",
+                "rank": 3,
+                "win": 0,
+                "loss": 0,
+                "gamesBehind": "32"
+            },
+            "win": {
+                "home": 22,
+                "away": 14,
+                "total": 0,
+                "percentage": "0.000",
+                "lastTen": 4
+            },
+            "loss": {
+                "home": 19,
+                "away": 27,
+                "total": 0,
+                "percentage": "0.000",
+                "lastTen": 6
+            },
+            "gamesBehind": "32",
+            "streak": 1,
+            "winStreak": true,
+            "tieBreakerPoints": null
+        },
+        {
+            "league": "standard",
+            "season": 2024,
+            "team": {
+                "id": 40,
+                "name": "Utah Jazz",
+                "nickname": "Jazz",
+                "code": "UTA",
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/c/c3/Jazz_de_l'Utah_2025.svg"
+            },
+            "conference": {
+                "name": "west",
+                "rank": 13,
+                "win": 0,
+                "loss": 0
+            },
+            "division": {
+                "name": "northwest",
+                "rank": 4,
+                "win": 0,
+                "loss": 0,
+                "gamesBehind": "51"
+            },
+            "win": {
+                "home": 10,
+                "away": 7,
+                "total": 0,
+                "percentage": "0.000",
+                "lastTen": 1
+            },
+            "loss": {
+                "home": 31,
+                "away": 34,
+                "total": 0,
+                "percentage": "0.000",
+                "lastTen": 9
+            },
+            "gamesBehind": "51",
+            "streak": 2,
+            "winStreak": false,
+            "tieBreakerPoints": null
+        },
+        {
+            "league": "standard",
+            "season": 2024,
+            "team": {
+                "id": 17,
+                "name": "Los Angeles Lakers",
+                "nickname": "Lakers",
+                "code": "LAL",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Los_Angeles_Lakers_logo.svg"
+            },
+            "conference": {
+                "name": "west",
+                "rank": 5,
+                "win": 0,
+                "loss": 0
+            },
+            "division": {
+                "name": "pacific",
+                "rank": 2,
+                "win": 0,
+                "loss": 0,
+                "gamesBehind": null
+            },
+            "win": {
+                "home": 31,
+                "away": 19,
+                "total": 0,
+                "percentage": "0.000",
+                "lastTen": 6
+            },
+            "loss": {
+                "home": 10,
+                "away": 22,
+                "total": 0,
+                "percentage": "0.000",
+                "lastTen": 4
+            },
+            "gamesBehind": null,
+            "streak": 1,
+            "winStreak": false,
+            "tieBreakerPoints": null
+        },
+        {
+            "league": "standard",
+            "season": 2024,
+            "team": {
+                "id": 16,
+                "name": "LA Clippers",
+                "nickname": "Clippers",
+                "code": "LAC",
+                "logo": "https://upload.wikimedia.org/wikipedia/en/e/ed/Los_Angeles_Clippers_(2024).svg"
+            },
+            "conference": {
+                "name": "west",
+                "rank": 4,
+                "win": 0,
+                "loss": 0
+            },
+            "division": {
+                "name": "pacific",
+                "rank": 1,
+                "win": 0,
+                "loss": 0,
+                "gamesBehind": null
+            },
+            "win": {
+                "home": 30,
+                "away": 20,
+                "total": 0,
+                "percentage": "0.000",
+                "lastTen": 9
+            },
+            "loss": {
+                "home": 11,
+                "away": 21,
+                "total": 0,
+                "percentage": "0.000",
+                "lastTen": 1
+            },
+            "gamesBehind": null,
+            "streak": 8,
+            "winStreak": true,
+            "tieBreakerPoints": null
+        },
+        {
+            "league": "standard",
+            "season": 2024,
+            "team": {
+                "id": 11,
+                "name": "Golden State Warriors",
+                "nickname": "Warriors",
+                "code": "GSW",
+                "logo": "https://upload.wikimedia.org/wikipedia/en/0/01/Golden_State_Warriors_logo.svg"
+            },
+            "conference": {
+                "name": "west",
+                "rank": 14,
+                "win": 0,
+                "loss": 0
+            },
+            "division": {
+                "name": "pacific",
+                "rank": 5,
+                "win": 0,
+                "loss": 0,
+                "gamesBehind": "2"
+            },
+            "win": {
+                "home": 24,
+                "away": 24,
+                "total": 0,
+                "percentage": "0.000",
+                "lastTen": 7
+            },
+            "loss": {
+                "home": 17,
+                "away": 17,
+                "total": 0,
+                "percentage": "0.000",
+                "lastTen": 3
+            },
+            "gamesBehind": "2",
+            "streak": 1,
+            "winStreak": false,
+            "tieBreakerPoints": null
+        },
+        {
+            "league": "standard",
+            "season": 2024,
+            "team": {
+                "id": 30,
+                "name": "Sacramento Kings",
+                "nickname": "Kings",
+                "code": "SAC",
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/95/Kings_de_Sacramento_logo.svg/1200px-Kings_de_Sacramento_logo.svg.png"
+            },
+            "conference": {
+                "name": "west",
+                "rank": 11,
+                "win": 0,
+                "loss": 0
+            },
+            "division": {
+                "name": "pacific",
+                "rank": 4,
+                "win": 0,
+                "loss": 0,
+                "gamesBehind": "10"
+            },
+            "win": {
+                "home": 20,
+                "away": 20,
+                "total": 0,
+                "percentage": "0.000",
+                "lastTen": 5
+            },
+            "loss": {
+                "home": 21,
+                "away": 21,
+                "total": 0,
+                "percentage": "0.000",
+                "lastTen": 5
+            },
+            "gamesBehind": "10",
+            "streak": 1,
+            "winStreak": true,
+            "tieBreakerPoints": null
+        },
+        {
+            "league": "standard",
+            "season": 2024,
+            "team": {
+                "id": 28,
+                "name": "Phoenix Suns",
+                "nickname": "Suns",
+                "code": "PHX",
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/5/56/Phoenix_Suns_2013.png"
+            },
+            "conference": {
+                "name": "west",
+                "rank": 9,
+                "win": 0,
+                "loss": 0
+            },
+            "division": {
+                "name": "pacific",
+                "rank": 3,
+                "win": 0,
+                "loss": 0,
+                "gamesBehind": "14"
+            },
+            "win": {
+                "home": 24,
+                "away": 12,
+                "total": 0,
+                "percentage": "0.000",
+                "lastTen": 1
+            },
+            "loss": {
+                "home": 17,
+                "away": 29,
+                "total": 0,
+                "percentage": "0.000",
+                "lastTen": 9
+            },
+            "gamesBehind": "14",
+            "streak": 1,
+            "winStreak": false,
+            "tieBreakerPoints": null
+        },
+        {
+            "league": "standard",
+            "season": 2024,
+            "team": {
+                "id": 14,
+                "name": "Houston Rockets",
+                "nickname": "Rockets",
+                "code": "HOU",
+                "logo": "https://upload.wikimedia.org/wikipedia/en/2/28/Houston_Rockets.svg"
+            },
+            "conference": {
+                "name": "west",
+                "rank": 3,
+                "win": 0,
+                "loss": 0
+            },
+            "division": {
+                "name": "southwest",
+                "rank": 2,
+                "win": 0,
+                "loss": 0,
+                "gamesBehind": null
+            },
+            "win": {
+                "home": 29,
+                "away": 23,
+                "total": 0,
+                "percentage": "0.000",
+                "lastTen": 6
+            },
+            "loss": {
+                "home": 12,
+                "away": 17,
+                "total": 0,
+                "percentage": "0.000",
+                "lastTen": 4
+            },
+            "gamesBehind": null,
+            "streak": 3,
+            "winStreak": false,
+            "tieBreakerPoints": null
+        },
+        {
+            "league": "standard",
+            "season": 2024,
+            "team": {
+                "id": 19,
+                "name": "Memphis Grizzlies",
+                "nickname": "Grizzlies",
+                "code": "MEM",
+                "logo": "https://upload.wikimedia.org/wikipedia/en/f/f1/Memphis_Grizzlies.svg"
+            },
+            "conference": {
+                "name": "west",
+                "rank": 6,
+                "win": 0,
+                "loss": 0
+            },
+            "division": {
+                "name": "southwest",
+                "rank": 3,
+                "win": 0,
+                "loss": 0,
+                "gamesBehind": "4"
+            },
+            "win": {
+                "home": 26,
+                "away": 22,
+                "total": 0,
+                "percentage": "0.000",
+                "lastTen": 4
+            },
+            "loss": {
+                "home": 15,
+                "away": 19,
+                "total": 0,
+                "percentage": "0.000",
+                "lastTen": 6
+            },
+            "gamesBehind": "4",
+            "streak": 1,
+            "winStreak": true,
+            "tieBreakerPoints": null
+        },
+        {
+            "league": "standard",
+            "season": 2024,
+            "team": {
+                "id": 8,
+                "name": "Dallas Mavericks",
+                "nickname": "Mavericks",
+                "code": "DAL",
+                "logo": "https://upload.wikimedia.org/wikipedia/en/9/97/Dallas_Mavericks_logo.svg"
+            },
+            "conference": {
+                "name": "west",
+                "rank": 1,
+                "win": 0,
+                "loss": 0
+            },
+            "division": {
+                "name": "southwest",
+                "rank": 1,
+                "win": 0,
+                "loss": 0,
+                "gamesBehind": "13"
+            },
+            "win": {
+                "home": 22,
+                "away": 17,
+                "total": 0,
+                "percentage": "0.000",
+                "lastTen": 4
+            },
+            "loss": {
+                "home": 18,
+                "away": 25,
+                "total": 0,
+                "percentage": "0.000",
+                "lastTen": 6
+            },
+            "gamesBehind": "13",
+            "streak": 1,
+            "winStreak": false,
+            "tieBreakerPoints": null
+        },
+        {
+            "league": "standard",
+            "season": 2024,
+            "team": {
+                "id": 31,
+                "name": "San Antonio Spurs",
+                "nickname": "Spurs",
+                "code": "SAS",
+                "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png"
+            },
+            "conference": {
+                "name": "west",
+                "rank": 12,
+                "win": 0,
+                "loss": 0
+            },
+            "division": {
+                "name": "southwest",
+                "rank": 5,
+                "win": 0,
+                "loss": 0,
+                "gamesBehind": "18"
+            },
+            "win": {
+                "home": 20,
+                "away": 13,
+                "total": 0,
+                "percentage": "0.000",
+                "lastTen": 3
+            },
+            "loss": {
+                "home": 20,
+                "away": 27,
+                "total": 0,
+                "percentage": "0.000",
+                "lastTen": 7
+            },
+            "gamesBehind": "18",
+            "streak": 1,
+            "winStreak": true,
+            "tieBreakerPoints": null
+        },
+        {
+            "league": "standard",
+            "season": 2024,
+            "team": {
+                "id": 23,
+                "name": "New Orleans Pelicans",
+                "nickname": "Pelicans",
+                "code": "NOP",
+                "logo": "https://upload.wikimedia.org/wikipedia/en/0/0d/New_Orleans_Pelicans_logo.svg"
+            },
+            "conference": {
+                "name": "west",
+                "rank": 8,
+                "win": 0,
+                "loss": 0
+            },
+            "division": {
+                "name": "southwest",
+                "rank": 4,
+                "win": 0,
+                "loss": 0,
+                "gamesBehind": "31"
+            },
+            "win": {
+                "home": 14,
+                "away": 7,
+                "total": 0,
+                "percentage": "0.000",
+                "lastTen": 2
+            },
+            "loss": {
+                "home": 27,
+                "away": 34,
+                "total": 0,
+                "percentage": "0.000",
+                "lastTen": 8
+            },
+            "gamesBehind": "31",
+            "streak": 7,
+            "winStreak": false,
+            "tieBreakerPoints": null
+        }
+    ]
+}

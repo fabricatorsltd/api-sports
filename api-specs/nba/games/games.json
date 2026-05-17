@@ -1,0 +1,160 @@
+{
+    "get": "games/",
+    "parameters": {
+        "date": "2026-05-17"
+    },
+    "errors": [],
+    "results": 2,
+    "response": [
+        {
+            "id": 16832,
+            "league": "standard",
+            "season": 2025,
+            "date": {
+                "start": "2026-05-17T04:00:00.000Z",
+                "end": null,
+                "duration": null
+            },
+            "stage": 3,
+            "status": {
+                "clock": null,
+                "halftime": false,
+                "short": 1,
+                "long": "Scheduled"
+            },
+            "periods": {
+                "current": 0,
+                "total": 4,
+                "endOfPeriod": false
+            },
+            "arena": {
+                "name": "Frost Bank Center",
+                "city": "San Antonio",
+                "state": "TX",
+                "country": null
+            },
+            "teams": {
+                "visitors": {
+                    "id": 22,
+                    "name": "Minnesota Timberwolves",
+                    "nickname": "Timberwolves",
+                    "code": "MIN",
+                    "logo": "https://upload.wikimedia.org/wikipedia/en/c/c2/Minnesota_Timberwolves_logo.svg"
+                },
+                "home": {
+                    "id": 31,
+                    "name": "San Antonio Spurs",
+                    "nickname": "Spurs",
+                    "code": "SAS",
+                    "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png"
+                }
+            },
+            "scores": {
+                "visitors": {
+                    "win": null,
+                    "loss": null,
+                    "series": {
+                        "win": null,
+                        "loss": null
+                    },
+                    "linescore": [],
+                    "points": null
+                },
+                "home": {
+                    "win": null,
+                    "loss": null,
+                    "series": {
+                        "win": null,
+                        "loss": null
+                    },
+                    "linescore": [],
+                    "points": null
+                }
+            },
+            "officials": [],
+            "timesTied": null,
+            "leadChanges": null,
+            "nugget": null
+        },
+        {
+            "id": 16853,
+            "league": "standard",
+            "season": 2025,
+            "date": {
+                "start": "2026-05-17T04:00:00.000Z",
+                "end": null,
+                "duration": null
+            },
+            "stage": 3,
+            "status": {
+                "clock": null,
+                "halftime": false,
+                "short": 1,
+                "long": "Scheduled"
+            },
+            "periods": {
+                "current": 0,
+                "total": 4,
+                "endOfPeriod": false
+            },
+            "arena": {
+                "name": "Little Caesars Arena",
+                "city": "Detroit",
+                "state": "MI",
+                "country": null
+            },
+            "teams": {
+                "visitors": {
+                    "id": 7,
+                    "name": "Cleveland Cavaliers",
+                    "nickname": "Cavaliers",
+                    "code": "CLE",
+                    "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Cleveland_Cavaliers_logo.svg"
+                },
+                "home": {
+                    "id": 10,
+                    "name": "Detroit Pistons",
+                    "nickname": "Pistons",
+                    "code": "DET",
+                    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_of_the_Detroit_Pistons.svg"
+                }
+            },
+            "scores": {
+                "visitors": {
+                    "win": 0,
+                    "loss": 0,
+                    "series": {
+                        "win": 0,
+                        "loss": 0
+                    },
+                    "linescore": [
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "points": null
+                },
+                "home": {
+                    "win": 0,
+                    "loss": 0,
+                    "series": {
+                        "win": 0,
+                        "loss": 0
+                    },
+                    "linescore": [
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "points": null
+                }
+            },
+            "officials": [],
+            "timesTied": null,
+            "leadChanges": null,
+            "nugget": null
+        }
+    ]
+}

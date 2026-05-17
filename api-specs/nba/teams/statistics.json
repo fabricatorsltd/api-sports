@@ -1,0 +1,39 @@
+{
+    "get": "teams/statistics",
+    "parameters": {
+        "id": "1",
+        "season": "2024"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+        {
+            "games": 88,
+            "fastBreakPoints": 0,
+            "pointsInPaint": 0,
+            "biggestLead": 0,
+            "secondChancePoints": 0,
+            "pointsOffTurnovers": 0,
+            "longestRun": 0,
+            "points": 10330,
+            "fgm": 3777,
+            "fga": 8046,
+            "fgp": "64.1",
+            "ftm": 1558,
+            "fta": 2011,
+            "ftp": "77.5",
+            "tpm": 1182,
+            "tpa": 3317,
+            "tpp": "35.4",
+            "offReb": 1039,
+            "defReb": 2855,
+            "totReb": 3894,
+            "assists": 2583,
+            "pFouls": 1678,
+            "steals": 854,
+            "turnovers": 1363,
+            "blocks": 436,
+            "plusMinus": -155
+        }
+    ]
+}
