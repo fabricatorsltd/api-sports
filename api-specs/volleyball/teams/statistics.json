@@ -1,0 +1,105 @@
+{
+    "get": "teams",
+    "parameters": {
+        "league": "132",
+        "season": "2024",
+        "team": "1034"
+    },
+    "errors": [],
+    "results": 5,
+    "response": {
+        "country": {
+            "id": 39,
+            "name": "Russia",
+            "code": "RU",
+            "flag": "https://media.api-sports.io/flags/ru.svg"
+        },
+        "league": {
+            "id": 132,
+            "name": "Superleague",
+            "type": "League",
+            "logo": "https://media.api-sports.io/volley/leagues/132.png",
+            "season": 2024
+        },
+        "team": {
+            "id": 1034,
+            "name": "ASK N. Novgorod",
+            "logo": "https://media.api-sports.io/volley/teams/1034.png"
+        },
+        "games": {
+            "played": {
+                "home": 15,
+                "away": 15,
+                "all": 30
+            },
+            "wins": {
+                "home": {
+                    "total": 3,
+                    "percentage": "20.00"
+                },
+                "away": {
+                    "total": 3,
+                    "percentage": "20.00"
+                },
+                "all": {
+                    "total": 6,
+                    "percentage": "20.00"
+                }
+            },
+            "draws": {
+                "home": {
+                    "total": 0,
+                    "percentage": "0.00"
+                },
+                "away": {
+                    "total": 0,
+                    "percentage": "0.00"
+                },
+                "all": {
+                    "total": 0,
+                    "percentage": "0.00"
+                }
+            },
+            "loses": {
+                "home": {
+                    "total": 12,
+                    "percentage": "80.00"
+                },
+                "away": {
+                    "total": 12,
+                    "percentage": "80.00"
+                },
+                "all": {
+                    "total": 24,
+                    "percentage": "80.00"
+                }
+            }
+        },
+        "goals": {
+            "for": {
+                "total": {
+                    "home": 17,
+                    "away": 18,
+                    "all": 35
+                },
+                "average": {
+                    "home": "1.1",
+                    "away": "1.2",
+                    "all": "1.2"
+                }
+            },
+            "against": {
+                "total": {
+                    "home": 38,
+                    "away": 38,
+                    "all": 76
+                },
+                "average": {
+                    "home": "2.5",
+                    "away": "2.5",
+                    "all": "2.5"
+                }
+            }
+        }
+    }
+}

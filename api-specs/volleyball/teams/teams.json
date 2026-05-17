@@ -1,0 +1,203 @@
+{
+    "get": "teams",
+    "parameters": {
+        "league": "132",
+        "season": "2024"
+    },
+    "errors": [],
+    "results": 16,
+    "response": [
+        {
+            "id": 1034,
+            "name": "ASK N. Novgorod",
+            "logo": "https://media.api-sports.io/volley/teams/1034.png",
+            "national": false,
+            "country": {
+                "id": 39,
+                "name": "Russia",
+                "code": "RU",
+                "flag": "https://media.api-sports.io/flags/ru.svg"
+            }
+        },
+        {
+            "id": 1035,
+            "name": "Belgorod",
+            "logo": "https://media.api-sports.io/volley/teams/1035.png",
+            "national": false,
+            "country": {
+                "id": 39,
+                "name": "Russia",
+                "code": "RU",
+                "flag": "https://media.api-sports.io/flags/ru.svg"
+            }
+        },
+        {
+            "id": 1036,
+            "name": "Din. Moscow",
+            "logo": "https://media.api-sports.io/volley/teams/1036.png",
+            "national": false,
+            "country": {
+                "id": 39,
+                "name": "Russia",
+                "code": "RU",
+                "flag": "https://media.api-sports.io/flags/ru.svg"
+            }
+        },
+        {
+            "id": 1037,
+            "name": "Dinamo-Lo",
+            "logo": "https://media.api-sports.io/volley/teams/1037.png",
+            "national": false,
+            "country": {
+                "id": 39,
+                "name": "Russia",
+                "code": "RU",
+                "flag": "https://media.api-sports.io/flags/ru.svg"
+            }
+        },
+        {
+            "id": 1038,
+            "name": "Kemerovo",
+            "logo": "https://media.api-sports.io/volley/teams/1038.png",
+            "national": false,
+            "country": {
+                "id": 39,
+                "name": "Russia",
+                "code": "RU",
+                "flag": "https://media.api-sports.io/flags/ru.svg"
+            }
+        },
+        {
+            "id": 1039,
+            "name": "Krasnoyarsk",
+            "logo": "https://media.api-sports.io/volley/teams/1039.png",
+            "national": false,
+            "country": {
+                "id": 39,
+                "name": "Russia",
+                "code": "RU",
+                "flag": "https://media.api-sports.io/flags/ru.svg"
+            }
+        },
+        {
+            "id": 1078,
+            "name": "MGTU Moscow",
+            "logo": "https://media.api-sports.io/volley/teams/1078.png",
+            "national": false,
+            "country": {
+                "id": 39,
+                "name": "Russia",
+                "code": "RU",
+                "flag": "https://media.api-sports.io/flags/ru.svg"
+            }
+        },
+        {
+            "id": 1081,
+            "name": "Novokuybyshevsk",
+            "logo": "https://media.api-sports.io/volley/teams/1081.png",
+            "national": false,
+            "country": {
+                "id": 39,
+                "name": "Russia",
+                "code": "RU",
+                "flag": "https://media.api-sports.io/flags/ru.svg"
+            }
+        },
+        {
+            "id": 1041,
+            "name": "Novosibirsk",
+            "logo": "https://media.api-sports.io/volley/teams/1041.png",
+            "national": false,
+            "country": {
+                "id": 39,
+                "name": "Russia",
+                "code": "RU",
+                "flag": "https://media.api-sports.io/flags/ru.svg"
+            }
+        },
+        {
+            "id": 1042,
+            "name": "Novyi Urengoy",
+            "logo": "https://media.api-sports.io/volley/teams/1042.png",
+            "national": false,
+            "country": {
+                "id": 39,
+                "name": "Russia",
+                "code": "RU",
+                "flag": "https://media.api-sports.io/flags/ru.svg"
+            }
+        },
+        {
+            "id": 1043,
+            "name": "Orenburg",
+            "logo": "https://media.api-sports.io/volley/teams/1043.png",
+            "national": false,
+            "country": {
+                "id": 39,
+                "name": "Russia",
+                "code": "RU",
+                "flag": "https://media.api-sports.io/flags/ru.svg"
+            }
+        },
+        {
+            "id": 124,
+            "name": "Soligorsk",
+            "logo": "https://media.api-sports.io/volley/teams/124.png",
+            "national": false,
+            "country": {
+                "id": 5,
+                "name": "Belarus",
+                "code": "BY",
+                "flag": "https://media.api-sports.io/flags/by.svg"
+            }
+        },
+        {
+            "id": 1044,
+            "name": "Surgut region",
+            "logo": "https://media.api-sports.io/volley/teams/1044.png",
+            "national": false,
+            "country": {
+                "id": 39,
+                "name": "Russia",
+                "code": "RU",
+                "flag": "https://media.api-sports.io/flags/ru.svg"
+            }
+        },
+        {
+            "id": 1045,
+            "name": "Ufa",
+            "logo": "https://media.api-sports.io/volley/teams/1045.png",
+            "national": false,
+            "country": {
+                "id": 39,
+                "name": "Russia",
+                "code": "RU",
+                "flag": "https://media.api-sports.io/flags/ru.svg"
+            }
+        },
+        {
+            "id": 1046,
+            "name": "Zenit Kazan",
+            "logo": "https://media.api-sports.io/volley/teams/1046.png",
+            "national": false,
+            "country": {
+                "id": 39,
+                "name": "Russia",
+                "code": "RU",
+                "flag": "https://media.api-sports.io/flags/ru.svg"
+            }
+        },
+        {
+            "id": 1047,
+            "name": "Zenit St. Petersburg",
+            "logo": "https://media.api-sports.io/volley/teams/1047.png",
+            "national": false,
+            "country": {
+                "id": 39,
+                "name": "Russia",
+                "code": "RU",
+                "flag": "https://media.api-sports.io/flags/ru.svg"
+            }
+        }
+    ]
+}

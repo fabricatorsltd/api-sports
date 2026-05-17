@@ -1,0 +1,658 @@
+{
+    "get": "standings",
+    "parameters": {
+        "league": "132",
+        "season": "2024"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+        [
+            {
+                "position": 1,
+                "stage": "Superleague - Regular Season",
+                "group": {
+                    "name": null
+                },
+                "team": {
+                    "id": 1046,
+                    "name": "Zenit Kazan",
+                    "logo": "https://media.api-sports.io/volley/teams/1046.png"
+                },
+                "league": {
+                    "id": 132,
+                    "name": "Superleague",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/volley/leagues/132.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 39,
+                    "name": "Russia",
+                    "code": "RU",
+                    "flag": "https://media.api-sports.io/flags/ru.svg"
+                },
+                "games": {
+                    "played": 28,
+                    "win": {
+                        "total": 27,
+                        "percentage": "96.43"
+                    },
+                    "lose": {
+                        "total": 1,
+                        "percentage": "3.57"
+                    }
+                },
+                "goals": {
+                    "for": 82,
+                    "against": 13
+                },
+                "points": 79,
+                "form": "WWWWW",
+                "description": "Promotion - Superleague (Play Offs: Quarter-finals)"
+            },
+            {
+                "position": 2,
+                "stage": "Superleague - Regular Season",
+                "group": {
+                    "name": null
+                },
+                "team": {
+                    "id": 1035,
+                    "name": "Belgorod",
+                    "logo": "https://media.api-sports.io/volley/teams/1035.png"
+                },
+                "league": {
+                    "id": 132,
+                    "name": "Superleague",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/volley/leagues/132.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 39,
+                    "name": "Russia",
+                    "code": "RU",
+                    "flag": "https://media.api-sports.io/flags/ru.svg"
+                },
+                "games": {
+                    "played": 28,
+                    "win": {
+                        "total": 22,
+                        "percentage": "78.57"
+                    },
+                    "lose": {
+                        "total": 6,
+                        "percentage": "21.43"
+                    }
+                },
+                "goals": {
+                    "for": 72,
+                    "against": 32
+                },
+                "points": 64,
+                "form": "WWWWW",
+                "description": "Promotion - Superleague (Play Offs: Quarter-finals)"
+            },
+            {
+                "position": 3,
+                "stage": "Superleague - Regular Season",
+                "group": {
+                    "name": null
+                },
+                "team": {
+                    "id": 1036,
+                    "name": "Din. Moscow",
+                    "logo": "https://media.api-sports.io/volley/teams/1036.png"
+                },
+                "league": {
+                    "id": 132,
+                    "name": "Superleague",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/volley/leagues/132.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 39,
+                    "name": "Russia",
+                    "code": "RU",
+                    "flag": "https://media.api-sports.io/flags/ru.svg"
+                },
+                "games": {
+                    "played": 28,
+                    "win": {
+                        "total": 22,
+                        "percentage": "78.57"
+                    },
+                    "lose": {
+                        "total": 6,
+                        "percentage": "21.43"
+                    }
+                },
+                "goals": {
+                    "for": 71,
+                    "against": 33
+                },
+                "points": 64,
+                "form": "WWWWW",
+                "description": "Promotion - Superleague (Play Offs: Quarter-finals)"
+            },
+            {
+                "position": 4,
+                "stage": "Superleague - Regular Season",
+                "group": {
+                    "name": null
+                },
+                "team": {
+                    "id": 1041,
+                    "name": "Novosibirsk",
+                    "logo": "https://media.api-sports.io/volley/teams/1041.png"
+                },
+                "league": {
+                    "id": 132,
+                    "name": "Superleague",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/volley/leagues/132.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 39,
+                    "name": "Russia",
+                    "code": "RU",
+                    "flag": "https://media.api-sports.io/flags/ru.svg"
+                },
+                "games": {
+                    "played": 28,
+                    "win": {
+                        "total": 22,
+                        "percentage": "78.57"
+                    },
+                    "lose": {
+                        "total": 6,
+                        "percentage": "21.43"
+                    }
+                },
+                "goals": {
+                    "for": 73,
+                    "against": 34
+                },
+                "points": 63,
+                "form": "WLWWL",
+                "description": "Promotion - Superleague (Play Offs: Quarter-finals)"
+            },
+            {
+                "position": 5,
+                "stage": "Superleague - Regular Season",
+                "group": {
+                    "name": null
+                },
+                "team": {
+                    "id": 1047,
+                    "name": "Zenit St. Petersburg",
+                    "logo": "https://media.api-sports.io/volley/teams/1047.png"
+                },
+                "league": {
+                    "id": 132,
+                    "name": "Superleague",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/volley/leagues/132.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 39,
+                    "name": "Russia",
+                    "code": "RU",
+                    "flag": "https://media.api-sports.io/flags/ru.svg"
+                },
+                "games": {
+                    "played": 28,
+                    "win": {
+                        "total": 21,
+                        "percentage": "75.00"
+                    },
+                    "lose": {
+                        "total": 7,
+                        "percentage": "25.00"
+                    }
+                },
+                "goals": {
+                    "for": 69,
+                    "against": 33
+                },
+                "points": 61,
+                "form": "WWLWW",
+                "description": "Promotion - Superleague (Play Offs: 1/8-finals)"
+            },
+            {
+                "position": 6,
+                "stage": "Superleague - Regular Season",
+                "group": {
+                    "name": null
+                },
+                "team": {
+                    "id": 1037,
+                    "name": "Dinamo-Lo",
+                    "logo": "https://media.api-sports.io/volley/teams/1037.png"
+                },
+                "league": {
+                    "id": 132,
+                    "name": "Superleague",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/volley/leagues/132.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 39,
+                    "name": "Russia",
+                    "code": "RU",
+                    "flag": "https://media.api-sports.io/flags/ru.svg"
+                },
+                "games": {
+                    "played": 28,
+                    "win": {
+                        "total": 17,
+                        "percentage": "60.71"
+                    },
+                    "lose": {
+                        "total": 11,
+                        "percentage": "39.29"
+                    }
+                },
+                "goals": {
+                    "for": 59,
+                    "against": 50
+                },
+                "points": 48,
+                "form": "WLWWW",
+                "description": "Promotion - Superleague (Play Offs: 1/8-finals)"
+            },
+            {
+                "position": 7,
+                "stage": "Superleague - Regular Season",
+                "group": {
+                    "name": null
+                },
+                "team": {
+                    "id": 1045,
+                    "name": "Ufa",
+                    "logo": "https://media.api-sports.io/volley/teams/1045.png"
+                },
+                "league": {
+                    "id": 132,
+                    "name": "Superleague",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/volley/leagues/132.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 39,
+                    "name": "Russia",
+                    "code": "RU",
+                    "flag": "https://media.api-sports.io/flags/ru.svg"
+                },
+                "games": {
+                    "played": 28,
+                    "win": {
+                        "total": 15,
+                        "percentage": "53.57"
+                    },
+                    "lose": {
+                        "total": 13,
+                        "percentage": "46.43"
+                    }
+                },
+                "goals": {
+                    "for": 54,
+                    "against": 49
+                },
+                "points": 47,
+                "form": "LLLLW",
+                "description": "Promotion - Superleague (Play Offs: 1/8-finals)"
+            },
+            {
+                "position": 8,
+                "stage": "Superleague - Regular Season",
+                "group": {
+                    "name": null
+                },
+                "team": {
+                    "id": 1039,
+                    "name": "Krasnoyarsk",
+                    "logo": "https://media.api-sports.io/volley/teams/1039.png"
+                },
+                "league": {
+                    "id": 132,
+                    "name": "Superleague",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/volley/leagues/132.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 39,
+                    "name": "Russia",
+                    "code": "RU",
+                    "flag": "https://media.api-sports.io/flags/ru.svg"
+                },
+                "games": {
+                    "played": 28,
+                    "win": {
+                        "total": 15,
+                        "percentage": "53.57"
+                    },
+                    "lose": {
+                        "total": 13,
+                        "percentage": "46.43"
+                    }
+                },
+                "goals": {
+                    "for": 56,
+                    "against": 53
+                },
+                "points": 44,
+                "form": "WLWLL",
+                "description": "Promotion - Superleague (Play Offs: 1/8-finals)"
+            },
+            {
+                "position": 9,
+                "stage": "Superleague - Regular Season",
+                "group": {
+                    "name": null
+                },
+                "team": {
+                    "id": 1038,
+                    "name": "Kemerovo",
+                    "logo": "https://media.api-sports.io/volley/teams/1038.png"
+                },
+                "league": {
+                    "id": 132,
+                    "name": "Superleague",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/volley/leagues/132.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 39,
+                    "name": "Russia",
+                    "code": "RU",
+                    "flag": "https://media.api-sports.io/flags/ru.svg"
+                },
+                "games": {
+                    "played": 28,
+                    "win": {
+                        "total": 11,
+                        "percentage": "39.29"
+                    },
+                    "lose": {
+                        "total": 17,
+                        "percentage": "60.71"
+                    }
+                },
+                "goals": {
+                    "for": 54,
+                    "against": 60
+                },
+                "points": 38,
+                "form": "LWLLW",
+                "description": "Promotion - Superleague (Play Offs: 1/8-finals)"
+            },
+            {
+                "position": 10,
+                "stage": "Superleague - Regular Season",
+                "group": {
+                    "name": null
+                },
+                "team": {
+                    "id": 1042,
+                    "name": "Novyi Urengoy",
+                    "logo": "https://media.api-sports.io/volley/teams/1042.png"
+                },
+                "league": {
+                    "id": 132,
+                    "name": "Superleague",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/volley/leagues/132.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 39,
+                    "name": "Russia",
+                    "code": "RU",
+                    "flag": "https://media.api-sports.io/flags/ru.svg"
+                },
+                "games": {
+                    "played": 28,
+                    "win": {
+                        "total": 10,
+                        "percentage": "35.71"
+                    },
+                    "lose": {
+                        "total": 18,
+                        "percentage": "64.29"
+                    }
+                },
+                "goals": {
+                    "for": 45,
+                    "against": 67
+                },
+                "points": 30,
+                "form": "LWLLL",
+                "description": "Promotion - Superleague (Play Offs: 1/8-finals)"
+            },
+            {
+                "position": 11,
+                "stage": "Superleague - Regular Season",
+                "group": {
+                    "name": null
+                },
+                "team": {
+                    "id": 1044,
+                    "name": "Surgut region",
+                    "logo": "https://media.api-sports.io/volley/teams/1044.png"
+                },
+                "league": {
+                    "id": 132,
+                    "name": "Superleague",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/volley/leagues/132.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 39,
+                    "name": "Russia",
+                    "code": "RU",
+                    "flag": "https://media.api-sports.io/flags/ru.svg"
+                },
+                "games": {
+                    "played": 28,
+                    "win": {
+                        "total": 9,
+                        "percentage": "32.14"
+                    },
+                    "lose": {
+                        "total": 19,
+                        "percentage": "67.86"
+                    }
+                },
+                "goals": {
+                    "for": 36,
+                    "against": 67
+                },
+                "points": 23,
+                "form": "LLWWL",
+                "description": "Promotion - Superleague (Play Offs: 1/8-finals)"
+            },
+            {
+                "position": 12,
+                "stage": "Superleague - Regular Season",
+                "group": {
+                    "name": null
+                },
+                "team": {
+                    "id": 1034,
+                    "name": "ASK N. Novgorod",
+                    "logo": "https://media.api-sports.io/volley/teams/1034.png"
+                },
+                "league": {
+                    "id": 132,
+                    "name": "Superleague",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/volley/leagues/132.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 39,
+                    "name": "Russia",
+                    "code": "RU",
+                    "flag": "https://media.api-sports.io/flags/ru.svg"
+                },
+                "games": {
+                    "played": 28,
+                    "win": {
+                        "total": 6,
+                        "percentage": "21.43"
+                    },
+                    "lose": {
+                        "total": 22,
+                        "percentage": "78.57"
+                    }
+                },
+                "goals": {
+                    "for": 35,
+                    "against": 70
+                },
+                "points": 22,
+                "form": "WWLLL",
+                "description": "Promotion - Superleague (Play Offs: 1/8-finals)"
+            },
+            {
+                "position": 13,
+                "stage": "Superleague - Regular Season",
+                "group": {
+                    "name": null
+                },
+                "team": {
+                    "id": 1043,
+                    "name": "Orenburg",
+                    "logo": "https://media.api-sports.io/volley/teams/1043.png"
+                },
+                "league": {
+                    "id": 132,
+                    "name": "Superleague",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/volley/leagues/132.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 39,
+                    "name": "Russia",
+                    "code": "RU",
+                    "flag": "https://media.api-sports.io/flags/ru.svg"
+                },
+                "games": {
+                    "played": 28,
+                    "win": {
+                        "total": 6,
+                        "percentage": "21.43"
+                    },
+                    "lose": {
+                        "total": 22,
+                        "percentage": "78.57"
+                    }
+                },
+                "goals": {
+                    "for": 31,
+                    "against": 71
+                },
+                "points": 20,
+                "form": "LLWLL",
+                "description": null
+            },
+            {
+                "position": 14,
+                "stage": "Superleague - Regular Season",
+                "group": {
+                    "name": null
+                },
+                "team": {
+                    "id": 1081,
+                    "name": "Novokuybyshevsk",
+                    "logo": "https://media.api-sports.io/volley/teams/1081.png"
+                },
+                "league": {
+                    "id": 132,
+                    "name": "Superleague",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/volley/leagues/132.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 39,
+                    "name": "Russia",
+                    "code": "RU",
+                    "flag": "https://media.api-sports.io/flags/ru.svg"
+                },
+                "games": {
+                    "played": 28,
+                    "win": {
+                        "total": 4,
+                        "percentage": "14.29"
+                    },
+                    "lose": {
+                        "total": 24,
+                        "percentage": "85.71"
+                    }
+                },
+                "goals": {
+                    "for": 28,
+                    "against": 76
+                },
+                "points": 17,
+                "form": "LLLLL",
+                "description": null
+            },
+            {
+                "position": 15,
+                "stage": "Superleague - Regular Season",
+                "group": {
+                    "name": null
+                },
+                "team": {
+                    "id": 1078,
+                    "name": "MGTU Moscow",
+                    "logo": "https://media.api-sports.io/volley/teams/1078.png"
+                },
+                "league": {
+                    "id": 132,
+                    "name": "Superleague",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/volley/leagues/132.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 39,
+                    "name": "Russia",
+                    "code": "RU",
+                    "flag": "https://media.api-sports.io/flags/ru.svg"
+                },
+                "games": {
+                    "played": 28,
+                    "win": {
+                        "total": 3,
+                        "percentage": "10.71"
+                    },
+                    "lose": {
+                        "total": 25,
+                        "percentage": "89.29"
+                    }
+                },
+                "goals": {
+                    "for": 22,
+                    "against": 79
+                },
+                "points": 10,
+                "form": "LLLLL",
+                "description": "Superleague (Relegation)"
+            }
+        ]
+    ]
+}

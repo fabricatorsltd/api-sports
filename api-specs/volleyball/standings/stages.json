@@ -1,0 +1,12 @@
+{
+    "get": "standings",
+    "parameters": {
+        "league": "132",
+        "season": "2024"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+        "Superleague - Regular Season"
+    ]
+}

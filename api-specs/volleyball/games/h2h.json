@@ -1,0 +1,138 @@
+{
+    "get": "games",
+    "parameters": {
+        "h2h": "1034-1035",
+        "league": "132",
+        "season": "2024"
+    },
+    "errors": [],
+    "results": 2,
+    "response": [
+        {
+            "id": 168728,
+            "date": "2024-09-22T14:00:00+00:00",
+            "time": "14:00",
+            "timestamp": 1727013600,
+            "timezone": "UTC",
+            "week": "4",
+            "status": {
+                "long": "Finished",
+                "short": "FT"
+            },
+            "country": {
+                "id": 39,
+                "name": "Russia",
+                "code": "RU",
+                "flag": "https://media.api-sports.io/flags/ru.svg"
+            },
+            "league": {
+                "id": 132,
+                "name": "Superleague",
+                "type": "League",
+                "logo": "https://media.api-sports.io/volley/leagues/132.png",
+                "season": 2024
+            },
+            "teams": {
+                "home": {
+                    "id": 1034,
+                    "name": "ASK N. Novgorod",
+                    "logo": "https://media.api-sports.io/volley/teams/1034.png"
+                },
+                "away": {
+                    "id": 1035,
+                    "name": "Belgorod",
+                    "logo": "https://media.api-sports.io/volley/teams/1035.png"
+                }
+            },
+            "scores": {
+                "home": 0,
+                "away": 3
+            },
+            "periods": {
+                "first": {
+                    "home": 15,
+                    "away": 25
+                },
+                "second": {
+                    "home": 22,
+                    "away": 25
+                },
+                "third": {
+                    "home": 16,
+                    "away": 25
+                },
+                "fourth": {
+                    "home": null,
+                    "away": null
+                },
+                "fifth": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "id": 168843,
+            "date": "2025-01-05T15:00:00+00:00",
+            "time": "15:00",
+            "timestamp": 1736089200,
+            "timezone": "UTC",
+            "week": "19",
+            "status": {
+                "long": "Finished",
+                "short": "FT"
+            },
+            "country": {
+                "id": 39,
+                "name": "Russia",
+                "code": "RU",
+                "flag": "https://media.api-sports.io/flags/ru.svg"
+            },
+            "league": {
+                "id": 132,
+                "name": "Superleague",
+                "type": "League",
+                "logo": "https://media.api-sports.io/volley/leagues/132.png",
+                "season": 2024
+            },
+            "teams": {
+                "home": {
+                    "id": 1035,
+                    "name": "Belgorod",
+                    "logo": "https://media.api-sports.io/volley/teams/1035.png"
+                },
+                "away": {
+                    "id": 1034,
+                    "name": "ASK N. Novgorod",
+                    "logo": "https://media.api-sports.io/volley/teams/1034.png"
+                }
+            },
+            "scores": {
+                "home": 3,
+                "away": 2
+            },
+            "periods": {
+                "first": {
+                    "home": 22,
+                    "away": 25
+                },
+                "second": {
+                    "home": 21,
+                    "away": 25
+                },
+                "third": {
+                    "home": 25,
+                    "away": 15
+                },
+                "fourth": {
+                    "home": 25,
+                    "away": 21
+                },
+                "fifth": {
+                    "home": 15,
+                    "away": 13
+                }
+            }
+        }
+    ]
+}

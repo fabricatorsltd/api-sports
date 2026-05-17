@@ -1,0 +1,384 @@
+{
+    "get": "odds",
+    "parameters": [],
+    "errors": [],
+    "results": 94,
+    "response": [
+        {
+            "id": 1,
+            "name": "Home/Away"
+        },
+        {
+            "id": 2,
+            "name": "Over/Under"
+        },
+        {
+            "id": 3,
+            "name": "HT/FT Double"
+        },
+        {
+            "id": 4,
+            "name": "Correct Score"
+        },
+        {
+            "id": 5,
+            "name": "Total - Home"
+        },
+        {
+            "id": 6,
+            "name": "Total - Away"
+        },
+        {
+            "id": 7,
+            "name": "Odd/Even"
+        },
+        {
+            "id": 8,
+            "name": "Over/Under by Games in Match"
+        },
+        {
+            "id": 9,
+            "name": "Odd/Even (1st Set)"
+        },
+        {
+            "id": 10,
+            "name": "Over/Under (1st Set)"
+        },
+        {
+            "id": 11,
+            "name": "Home/Away (1st Set)"
+        },
+        {
+            "id": 12,
+            "name": "Asian Handicap (1st Set)"
+        },
+        {
+            "id": 13,
+            "name": "Asian Handicap (Sets)"
+        },
+        {
+            "id": 14,
+            "name": "Asian Handicap (Games)"
+        },
+        {
+            "id": 15,
+            "name": "Over/Under by Games (2nd Set)"
+        },
+        {
+            "id": 16,
+            "name": "Home/Away (2nd Set)"
+        },
+        {
+            "id": 17,
+            "name": "Over/Under by Games (3rd Set)"
+        },
+        {
+            "id": 18,
+            "name": "Odd/Even (2nd Set)"
+        },
+        {
+            "id": 19,
+            "name": "Home/Away (3rd Set)"
+        },
+        {
+            "id": 20,
+            "name": "Asian Handicap (3rd Set)"
+        },
+        {
+            "id": 21,
+            "name": "Odd/Even (3rd Set)"
+        },
+        {
+            "id": 22,
+            "name": "Asian Handicap (2nd Set)"
+        },
+        {
+            "id": 23,
+            "name": "Away Team Total (1st Set)"
+        },
+        {
+            "id": 24,
+            "name": "Away Team Total (2nd Set)"
+        },
+        {
+            "id": 25,
+            "name": "Away Team Total (3rd Set)"
+        },
+        {
+            "id": 26,
+            "name": "Home Team Total (1st Set)"
+        },
+        {
+            "id": 27,
+            "name": "Home Team Total (2nd Set)"
+        },
+        {
+            "id": 28,
+            "name": "Home Team Total (3rd Set)"
+        },
+        {
+            "id": 29,
+            "name": "Correct Number of Sets"
+        },
+        {
+            "id": 30,
+            "name": "Score After 3rd Set"
+        },
+        {
+            "id": 31,
+            "name": "Score After 2nd Set"
+        },
+        {
+            "id": 32,
+            "name": "Match Winner"
+        },
+        {
+            "id": 33,
+            "name": "2nd Half Winner"
+        },
+        {
+            "id": 34,
+            "name": "Asian Handicap"
+        },
+        {
+            "id": 35,
+            "name": "Goals Over/Under 1st Half"
+        },
+        {
+            "id": 36,
+            "name": "Goals Over/Under 2nd Half"
+        },
+        {
+            "id": 37,
+            "name": "Clean Sheet - Home"
+        },
+        {
+            "id": 38,
+            "name": "Clean Sheet - Away"
+        },
+        {
+            "id": 39,
+            "name": "Both Teams To Score"
+        },
+        {
+            "id": 40,
+            "name": "Win to Nil - Home"
+        },
+        {
+            "id": 41,
+            "name": "Win to Nil - Away"
+        },
+        {
+            "id": 42,
+            "name": "Handicap Result"
+        },
+        {
+            "id": 43,
+            "name": "Highest Scoring Half"
+        },
+        {
+            "id": 44,
+            "name": "Correct Score 1st Half"
+        },
+        {
+            "id": 45,
+            "name": "Correct Score 2nd Half"
+        },
+        {
+            "id": 46,
+            "name": "Double Chance"
+        },
+        {
+            "id": 47,
+            "name": "1st Half Winner"
+        },
+        {
+            "id": 48,
+            "name": "Team To Score First"
+        },
+        {
+            "id": 49,
+            "name": "Team To Score Last"
+        },
+        {
+            "id": 50,
+            "name": "Win Both Halves"
+        },
+        {
+            "id": 51,
+            "name": "Handicap Result 1st Half"
+        },
+        {
+            "id": 52,
+            "name": "Asian Handicap First Half"
+        },
+        {
+            "id": 53,
+            "name": "Double Chance - 1st Half"
+        },
+        {
+            "id": 54,
+            "name": "Double Chance - 2nd Half"
+        },
+        {
+            "id": 55,
+            "name": "Both Teams To Score - 1st Half"
+        },
+        {
+            "id": 56,
+            "name": "Both Teams To Score - 2nd Half"
+        },
+        {
+            "id": 57,
+            "name": "Odd/Even 1st Half"
+        },
+        {
+            "id": 58,
+            "name": "Home win both halves"
+        },
+        {
+            "id": 59,
+            "name": "Away win both halves"
+        },
+        {
+            "id": 60,
+            "name": "Results/Both Teams To Score"
+        },
+        {
+            "id": 61,
+            "name": "Result/Total Goals"
+        },
+        {
+            "id": 62,
+            "name": "Home Team Score a Goal"
+        },
+        {
+            "id": 63,
+            "name": "Away Team Score a Goal"
+        },
+        {
+            "id": 64,
+            "name": "Exact Goals Number"
+        },
+        {
+            "id": 65,
+            "name": "Extra Point (1st Set)"
+        },
+        {
+            "id": 66,
+            "name": "Home Win/Under Set"
+        },
+        {
+            "id": 67,
+            "name": "Away Win/Over Set"
+        },
+        {
+            "id": 68,
+            "name": "Away Win/Under Set"
+        },
+        {
+            "id": 69,
+            "name": "Home Win/Over Set"
+        },
+        {
+            "id": 70,
+            "name": "Will There Be A 4th Set"
+        },
+        {
+            "id": 71,
+            "name": "Home To Win Exactly 2 Set"
+        },
+        {
+            "id": 72,
+            "name": "Away To Win Exactly 2 Set"
+        },
+        {
+            "id": 73,
+            "name": "Home Win/Over"
+        },
+        {
+            "id": 74,
+            "name": "Home Win/Under"
+        },
+        {
+            "id": 75,
+            "name": "Away Win/Over"
+        },
+        {
+            "id": 76,
+            "name": "Away Win/Under"
+        },
+        {
+            "id": 77,
+            "name": "Correct Score (1st Set)"
+        },
+        {
+            "id": 78,
+            "name": "Will There Be A 5th Set"
+        },
+        {
+            "id": 79,
+            "name": "Result At End 2 Set"
+        },
+        {
+            "id": 80,
+            "name": "Home To Win A Set"
+        },
+        {
+            "id": 81,
+            "name": "Double Chance At End 2 Set"
+        },
+        {
+            "id": 82,
+            "name": "Home Winning Margin (1st Set)"
+        },
+        {
+            "id": 83,
+            "name": "Away Winning Margin (1st Set)"
+        },
+        {
+            "id": 84,
+            "name": "Total At End 2 Set"
+        },
+        {
+            "id": 85,
+            "name": "Result At End 3 Set"
+        },
+        {
+            "id": 86,
+            "name": "Home To Win Exactly 1 Set"
+        },
+        {
+            "id": 87,
+            "name": "Away To Win Exactly 1 Set"
+        },
+        {
+            "id": 88,
+            "name": "Away To Win A Set"
+        },
+        {
+            "id": 89,
+            "name": "Handicap (Aces)"
+        },
+        {
+            "id": 90,
+            "name": "Total Aces"
+        },
+        {
+            "id": 91,
+            "name": "Total Blocks"
+        },
+        {
+            "id": 92,
+            "name": "Total Service Errors"
+        },
+        {
+            "id": 93,
+            "name": "Handicap (Service Errors)"
+        },
+        {
+            "id": 94,
+            "name": "Handicap (Blocks)"
+        }
+    ]
+}
