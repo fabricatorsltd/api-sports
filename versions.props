@@ -10,6 +10,7 @@
     <ApiSportsSdkHandballVersion>0.1.0</ApiSportsSdkHandballVersion>
     <ApiSportsSdkHockeyVersion>0.1.0</ApiSportsSdkHockeyVersion>
     <ApiSportsSdkMmaVersion>0.1.0</ApiSportsSdkMmaVersion>
+    <ApiSportsSdkNbaVersion>0.1.0</ApiSportsSdkNbaVersion>
     <ApiSportsSdkLoggingMicrosoftVersion>1.0.0</ApiSportsSdkLoggingMicrosoftVersion>
   </PropertyGroup>
 </Project>

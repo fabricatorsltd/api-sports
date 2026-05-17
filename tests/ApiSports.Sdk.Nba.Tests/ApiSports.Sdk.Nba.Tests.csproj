@@ -1,0 +1,64 @@
+<Project Sdk="Microsoft.NET.Sdk">
+    <PropertyGroup>
+        <TargetFramework>net10.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <IsPackable>false</IsPackable>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="Microsoft.NET.Test.Sdk" Version="17.12.0" />
+        <PackageReference Include="xunit" Version="2.6.6" />
+        <PackageReference Include="xunit.runner.visualstudio" Version="2.5.6" />
+        <PackageReference Include="xunit.skippablefact" Version="1.4.13" />
+    </ItemGroup>
+
+    <ItemGroup>
+        <ProjectReference Include="..\..\src\ApiSports.Sdk.Abstractions\ApiSports.Sdk.Abstractions.csproj" />
+        <ProjectReference Include="..\..\src\ApiSports.Sdk.Core\ApiSports.Sdk.Core.csproj" />
+        <ProjectReference Include="..\..\src\ApiSports.Sdk.Nba\ApiSports.Sdk.Nba.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+        <Content Include="..\..\api-specs\nba\status.json">
+            <Link>samples\status.json</Link>
+            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        </Content>
+        <Content Include="..\..\api-specs\nba\seasons.json">
+            <Link>samples\seasons.json</Link>
+            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        </Content>
+        <Content Include="..\..\api-specs\nba\leagues.json">
+            <Link>samples\leagues.json</Link>
+            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        </Content>
+        <Content Include="..\..\api-specs\nba\teams\teams.json">
+            <Link>samples\teams\teams.json</Link>
+            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        </Content>
+        <Content Include="..\..\api-specs\nba\teams\statistics.json">
+            <Link>samples\teams\statistics.json</Link>
+            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        </Content>
+        <Content Include="..\..\api-specs\nba\players\players.json">
+            <Link>samples\players\players.json</Link>
+            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        </Content>
+        <Content Include="..\..\api-specs\nba\players\statistics.json">
+            <Link>samples\players\statistics.json</Link>
+            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        </Content>
+        <Content Include="..\..\api-specs\nba\games\games.json">
+            <Link>samples\games\games.json</Link>
+            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        </Content>
+        <Content Include="..\..\api-specs\nba\games\statistics.json">
+            <Link>samples\games\statistics.json</Link>
+            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        </Content>
+        <Content Include="..\..\api-specs\nba\standings.json">
+            <Link>samples\standings.json</Link>
+            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        </Content>
+    </ItemGroup>
+</Project>
