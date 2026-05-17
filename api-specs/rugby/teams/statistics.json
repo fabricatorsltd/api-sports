@@ -1,0 +1,105 @@
+{
+    "get": "teams",
+    "parameters": {
+        "league": "16",
+        "season": "2024",
+        "team": "95"
+    },
+    "errors": [],
+    "results": 5,
+    "response": {
+        "country": {
+            "id": 7,
+            "name": "France",
+            "code": "FR",
+            "flag": "https://media.api-sports.io/flags/fr.svg"
+        },
+        "league": {
+            "id": 16,
+            "name": "Top 14",
+            "type": "League",
+            "logo": "https://media.api-sports.io/rugby/leagues/16.png",
+            "season": 2024
+        },
+        "team": {
+            "id": 95,
+            "name": "Aviron Bayonnais",
+            "logo": "https://media.api-sports.io/rugby/teams/95.png"
+        },
+        "games": {
+            "played": {
+                "home": 14,
+                "away": 14,
+                "all": 28
+            },
+            "wins": {
+                "home": {
+                    "total": 14,
+                    "percentage": "100.00"
+                },
+                "away": {
+                    "total": 2,
+                    "percentage": "14.29"
+                },
+                "all": {
+                    "total": 16,
+                    "percentage": "57.14"
+                }
+            },
+            "draws": {
+                "home": {
+                    "total": 0,
+                    "percentage": "0.00"
+                },
+                "away": {
+                    "total": 1,
+                    "percentage": "7.14"
+                },
+                "all": {
+                    "total": 1,
+                    "percentage": "3.57"
+                }
+            },
+            "loses": {
+                "home": {
+                    "total": 0,
+                    "percentage": "0.00"
+                },
+                "away": {
+                    "total": 11,
+                    "percentage": "78.57"
+                },
+                "all": {
+                    "total": 11,
+                    "percentage": "39.29"
+                }
+            }
+        },
+        "goals": {
+            "for": {
+                "total": {
+                    "home": 382,
+                    "away": 295,
+                    "all": 677
+                },
+                "average": {
+                    "home": "27.3",
+                    "away": "21.1",
+                    "all": "24.2"
+                }
+            },
+            "against": {
+                "total": {
+                    "home": 232,
+                    "away": 453,
+                    "all": 685
+                },
+                "average": {
+                    "home": "16.6",
+                    "away": "32.4",
+                    "all": "24.5"
+                }
+            }
+        }
+    }
+}

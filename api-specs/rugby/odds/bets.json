@@ -1,0 +1,272 @@
+{
+    "get": "odds",
+    "parameters": [],
+    "errors": [],
+    "results": 66,
+    "response": [
+        {
+            "id": 1,
+            "name": "3Way Result"
+        },
+        {
+            "id": 2,
+            "name": "Home/Away"
+        },
+        {
+            "id": 3,
+            "name": "2nd Half 3Way Result"
+        },
+        {
+            "id": 4,
+            "name": "Asian Handicap"
+        },
+        {
+            "id": 5,
+            "name": "HT/FT Double"
+        },
+        {
+            "id": 6,
+            "name": "Handicap Result"
+        },
+        {
+            "id": 7,
+            "name": "Highest Scoring Half"
+        },
+        {
+            "id": 8,
+            "name": "1st Half 3Way Result"
+        },
+        {
+            "id": 9,
+            "name": "Handicap Result 1st Half"
+        },
+        {
+            "id": 10,
+            "name": "Asian Handicap First Half"
+        },
+        {
+            "id": 11,
+            "name": "Odd/Even"
+        },
+        {
+            "id": 12,
+            "name": "Home win both halves"
+        },
+        {
+            "id": 13,
+            "name": "Away win both halves"
+        },
+        {
+            "id": 14,
+            "name": "First Team to Score"
+        },
+        {
+            "id": 15,
+            "name": "Last Team to Score"
+        },
+        {
+            "id": 16,
+            "name": "Asian Handicap (2nd Half)"
+        },
+        {
+            "id": 17,
+            "name": "Home/Away - 1st Half"
+        },
+        {
+            "id": 18,
+            "name": "Home/Away - 2nd Half"
+        },
+        {
+            "id": 19,
+            "name": "European Handicap (2nd Half)"
+        },
+        {
+            "id": 20,
+            "name": "Draw No Bet (1st Half)"
+        },
+        {
+            "id": 21,
+            "name": "Home Trail in Match"
+        },
+        {
+            "id": 22,
+            "name": "Away Trail in Match"
+        },
+        {
+            "id": 23,
+            "name": "Over/Under 1st Half"
+        },
+        {
+            "id": 24,
+            "name": "Over/Under"
+        },
+        {
+            "id": 25,
+            "name": "Over/Under 2nd Half"
+        },
+        {
+            "id": 26,
+            "name": "Total - Home"
+        },
+        {
+            "id": 27,
+            "name": "Total - Away"
+        },
+        {
+            "id": 28,
+            "name": "Number of Tries"
+        },
+        {
+            "id": 29,
+            "name": "Home Team Total Tries"
+        },
+        {
+            "id": 30,
+            "name": "Away Team Total Tries"
+        },
+        {
+            "id": 31,
+            "name": "Home Team Total Goals(1st Half)"
+        },
+        {
+            "id": 32,
+            "name": "Away Team Total Goals(1st Half)"
+        },
+        {
+            "id": 33,
+            "name": "Home Team Total Goals(2nd Half)"
+        },
+        {
+            "id": 34,
+            "name": "Away Team Total Goals(2nd Half)"
+        },
+        {
+            "id": 35,
+            "name": "Number of Tries 1st Half"
+        },
+        {
+            "id": 36,
+            "name": "Number of Tries 2nd Half"
+        },
+        {
+            "id": 37,
+            "name": "Home Winning Margin (4-Way)"
+        },
+        {
+            "id": 38,
+            "name": "Away Winning Margin (4-Way)"
+        },
+        {
+            "id": 39,
+            "name": "Odd/Even 1st Half"
+        },
+        {
+            "id": 40,
+            "name": "Odd/Even (2nd Half)"
+        },
+        {
+            "id": 41,
+            "name": "Double Chance"
+        },
+        {
+            "id": 42,
+            "name": "Home Odd/Even"
+        },
+        {
+            "id": 43,
+            "name": "Away Odd/Even"
+        },
+        {
+            "id": 44,
+            "name": "Home Team Exact Goals Number"
+        },
+        {
+            "id": 45,
+            "name": "Away Team Exact Goals Number"
+        },
+        {
+            "id": 46,
+            "name": "Home Winning Margin"
+        },
+        {
+            "id": 47,
+            "name": "Away Winning Margin"
+        },
+        {
+            "id": 48,
+            "name": "Race To"
+        },
+        {
+            "id": 49,
+            "name": "Team Scoring First Wins The Game"
+        },
+        {
+            "id": 50,
+            "name": "Win Both Halves"
+        },
+        {
+            "id": 51,
+            "name": "Team with Highest Scoring Innings"
+        },
+        {
+            "id": 52,
+            "name": "Tie-break"
+        },
+        {
+            "id": 53,
+            "name": "Either Team Win To Nill"
+        },
+        {
+            "id": 54,
+            "name": "Home team will win either half"
+        },
+        {
+            "id": 55,
+            "name": "Away team will win either half"
+        },
+        {
+            "id": 56,
+            "name": "Method of Victory"
+        },
+        {
+            "id": 57,
+            "name": "First Scoring Play"
+        },
+        {
+            "id": 58,
+            "name": "Multi Touchdown Scorer (2 or More)"
+        },
+        {
+            "id": 59,
+            "name": "Multi Touchdown Scorer (3 or More)"
+        },
+        {
+            "id": 60,
+            "name": "Double Chance - 1st Half"
+        },
+        {
+            "id": 61,
+            "name": "To Qualify"
+        },
+        {
+            "id": 62,
+            "name": "Away Team Total Goals(1st Half)"
+        },
+        {
+            "id": 63,
+            "name": "Last Team to Score"
+        },
+        {
+            "id": 64,
+            "name": "Home Team Total Goals (Including OT)"
+        },
+        {
+            "id": 65,
+            "name": "Away Team Total Goals (Including OT)"
+        },
+        {
+            "id": 66,
+            "name": "Multi Try Scorer (2 or More)"
+        }
+    ]
+}

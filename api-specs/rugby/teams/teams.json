@@ -1,0 +1,281 @@
+{
+    "get": "teams",
+    "parameters": {
+        "league": "16",
+        "season": "2024"
+    },
+    "errors": [],
+    "results": 15,
+    "response": [
+        {
+            "id": 95,
+            "name": "Aviron Bayonnais",
+            "logo": "https://media.api-sports.io/rugby/teams/95.png",
+            "national": false,
+            "founded": 1904,
+            "arena": {
+                "name": "Stade Jean Dauger",
+                "capacity": 16934,
+                "location": "Bayonne, France"
+            },
+            "country": {
+                "id": 7,
+                "name": "France",
+                "code": "FR",
+                "flag": "https://media.api-sports.io/flags/fr.svg"
+            }
+        },
+        {
+            "id": 96,
+            "name": "Bordeaux Begles",
+            "logo": "https://media.api-sports.io/rugby/teams/96.png",
+            "national": false,
+            "founded": 2006,
+            "arena": {
+                "name": "Stade Chaban-delmas",
+                "capacity": 34694,
+                "location": "Bordeaux, France"
+            },
+            "country": {
+                "id": 7,
+                "name": "France",
+                "code": "FR",
+                "flag": "https://media.api-sports.io/flags/fr.svg"
+            }
+        },
+        {
+            "id": 98,
+            "name": "Castres Olympique",
+            "logo": "https://media.api-sports.io/rugby/teams/98.png",
+            "national": false,
+            "founded": 1906,
+            "arena": {
+                "name": "Stade Pierre-fabre",
+                "capacity": 12500,
+                "location": "Castres, France"
+            },
+            "country": {
+                "id": 7,
+                "name": "France",
+                "code": "FR",
+                "flag": "https://media.api-sports.io/flags/fr.svg"
+            }
+        },
+        {
+            "id": 99,
+            "name": "Clermont",
+            "logo": "https://media.api-sports.io/rugby/teams/99.png",
+            "national": false,
+            "founded": 1911,
+            "arena": {
+                "name": "Parc Des Sports Marcel Michelin",
+                "capacity": 19022,
+                "location": "Clermont-ferrand, France"
+            },
+            "country": {
+                "id": 7,
+                "name": "France",
+                "code": "FR",
+                "flag": "https://media.api-sports.io/flags/fr.svg"
+            }
+        },
+        {
+            "id": 114,
+            "name": "Grenoble FC",
+            "logo": "https://media.api-sports.io/rugby/teams/114.png",
+            "national": false,
+            "founded": 1892,
+            "arena": {
+                "name": "Stade Des Alpes",
+                "capacity": 20068,
+                "location": "Grenoble, France"
+            },
+            "country": {
+                "id": 7,
+                "name": "France",
+                "code": "FR",
+                "flag": "https://media.api-sports.io/flags/fr.svg"
+            }
+        },
+        {
+            "id": 101,
+            "name": "Lyon",
+            "logo": "https://media.api-sports.io/rugby/teams/101.png",
+            "national": false,
+            "founded": 1896,
+            "arena": {
+                "name": "Stade De Gerland",
+                "capacity": 35000,
+                "location": "Lyon, France"
+            },
+            "country": {
+                "id": 7,
+                "name": "France",
+                "code": "FR",
+                "flag": "https://media.api-sports.io/flags/fr.svg"
+            }
+        },
+        {
+            "id": 102,
+            "name": "Montpellier",
+            "logo": "https://media.api-sports.io/rugby/teams/102.png",
+            "national": false,
+            "founded": 1986,
+            "arena": {
+                "name": "Septeo Stadium",
+                "capacity": 15697,
+                "location": "Montpellier, France"
+            },
+            "country": {
+                "id": 7,
+                "name": "France",
+                "code": "FR",
+                "flag": "https://media.api-sports.io/flags/fr.svg"
+            }
+        },
+        {
+            "id": 104,
+            "name": "Racing 92",
+            "logo": "https://media.api-sports.io/rugby/teams/104.png",
+            "national": false,
+            "founded": 1890,
+            "arena": {
+                "name": "Paris La Defense Arena",
+                "capacity": 30681,
+                "location": "Nanterre, France"
+            },
+            "country": {
+                "id": 7,
+                "name": "France",
+                "code": "FR",
+                "flag": "https://media.api-sports.io/flags/fr.svg"
+            }
+        },
+        {
+            "id": 103,
+            "name": "RC Toulonnais",
+            "logo": "https://media.api-sports.io/rugby/teams/103.png",
+            "national": false,
+            "founded": 1908,
+            "arena": {
+                "name": "Stade Mayol",
+                "capacity": 18200,
+                "location": "Toulon, France"
+            },
+            "country": {
+                "id": 7,
+                "name": "France",
+                "code": "FR",
+                "flag": "https://media.api-sports.io/flags/fr.svg"
+            }
+        },
+        {
+            "id": 105,
+            "name": "Section Paloise",
+            "logo": "https://media.api-sports.io/rugby/teams/105.png",
+            "national": false,
+            "founded": 1902,
+            "arena": {
+                "name": "Stade Du Hameau",
+                "capacity": 18324,
+                "location": "Pau, France"
+            },
+            "country": {
+                "id": 7,
+                "name": "France",
+                "code": "FR",
+                "flag": "https://media.api-sports.io/flags/fr.svg"
+            }
+        },
+        {
+            "id": 106,
+            "name": "Stade Francais Paris",
+            "logo": "https://media.api-sports.io/rugby/teams/106.png",
+            "national": false,
+            "founded": 1883,
+            "arena": {
+                "name": "Stade Jean-bouin",
+                "capacity": 20000,
+                "location": "Paris, France"
+            },
+            "country": {
+                "id": 7,
+                "name": "France",
+                "code": "FR",
+                "flag": "https://media.api-sports.io/flags/fr.svg"
+            }
+        },
+        {
+            "id": 100,
+            "name": "Stade Rochelais",
+            "logo": "https://media.api-sports.io/rugby/teams/100.png",
+            "national": false,
+            "founded": null,
+            "arena": {
+                "name": "Stade Marcel Deflandre",
+                "capacity": null,
+                "location": null
+            },
+            "country": {
+                "id": 7,
+                "name": "France",
+                "code": "FR",
+                "flag": "https://media.api-sports.io/flags/fr.svg"
+            }
+        },
+        {
+            "id": 107,
+            "name": "Stade Toulousain",
+            "logo": "https://media.api-sports.io/rugby/teams/107.png",
+            "national": true,
+            "founded": 1907,
+            "arena": {
+                "name": "Stade Ernest-wallon",
+                "capacity": 19500,
+                "location": "Toulouse, France"
+            },
+            "country": {
+                "id": 7,
+                "name": "France",
+                "code": "FR",
+                "flag": "https://media.api-sports.io/flags/fr.svg"
+            }
+        },
+        {
+            "id": 120,
+            "name": "USA Perpignan",
+            "logo": "https://media.api-sports.io/rugby/teams/120.png",
+            "national": false,
+            "founded": 1902,
+            "arena": {
+                "name": "Stade Aim\u00e9 Giral",
+                "capacity": 14593,
+                "location": "Perpignan, France"
+            },
+            "country": {
+                "id": 7,
+                "name": "France",
+                "code": "Fr",
+                "flag": "https://media.api-sports.io/flags/fr.svg"
+            }
+        },
+        {
+            "id": 123,
+            "name": "Vannes",
+            "logo": "https://media.api-sports.io/rugby/teams/123.png",
+            "national": false,
+            "founded": 1950,
+            "arena": {
+                "name": "Stade De La Rabine",
+                "capacity": 9500,
+                "location": "Vannes, France"
+            },
+            "country": {
+                "id": 7,
+                "name": "France",
+                "code": "FR",
+                "flag": "https://media.api-sports.io/flags/fr.svg"
+            }
+        }
+    ]
+}

@@ -1,0 +1,170 @@
+{
+    "get": "countries",
+    "parameters": [],
+    "errors": [],
+    "results": 27,
+    "response": [
+        {
+            "id": 1,
+            "name": "Argentina",
+            "code": "AR",
+            "flag": "https://media.api-sports.io/flags/ar.svg"
+        },
+        {
+            "id": 2,
+            "name": "Australia",
+            "code": "AU",
+            "flag": "https://media.api-sports.io/flags/au.svg"
+        },
+        {
+            "id": 3,
+            "name": "Austria",
+            "code": "AT",
+            "flag": "https://media.api-sports.io/flags/at.svg"
+        },
+        {
+            "id": 4,
+            "name": "Canada",
+            "code": "CA",
+            "flag": "https://media.api-sports.io/flags/ca.svg"
+        },
+        {
+            "id": 5,
+            "name": "Czech-Republic",
+            "code": "CZ",
+            "flag": "https://media.api-sports.io/flags/cz.svg"
+        },
+        {
+            "id": 6,
+            "name": "England",
+            "code": "GB",
+            "flag": "https://media.api-sports.io/flags/gb.svg"
+        },
+        {
+            "id": 7,
+            "name": "France",
+            "code": "FR",
+            "flag": "https://media.api-sports.io/flags/fr.svg"
+        },
+        {
+            "id": 8,
+            "name": "Georgia",
+            "code": "GE",
+            "flag": "https://media.api-sports.io/flags/ge.svg"
+        },
+        {
+            "id": 9,
+            "name": "Germany",
+            "code": "DE",
+            "flag": "https://media.api-sports.io/flags/de.svg"
+        },
+        {
+            "id": 10,
+            "name": "Ireland",
+            "code": "IE",
+            "flag": "https://media.api-sports.io/flags/ie.svg"
+        },
+        {
+            "id": 11,
+            "name": "Italy",
+            "code": "IT",
+            "flag": "https://media.api-sports.io/flags/it.svg"
+        },
+        {
+            "id": 12,
+            "name": "Japan",
+            "code": "JP",
+            "flag": "https://media.api-sports.io/flags/jp.svg"
+        },
+        {
+            "id": 13,
+            "name": "Netherlands",
+            "code": "NL",
+            "flag": "https://media.api-sports.io/flags/nl.svg"
+        },
+        {
+            "id": 14,
+            "name": "New-Zealand",
+            "code": "NZ",
+            "flag": "https://media.api-sports.io/flags/nz.svg"
+        },
+        {
+            "id": 15,
+            "name": "Poland",
+            "code": "PL",
+            "flag": "https://media.api-sports.io/flags/pl.svg"
+        },
+        {
+            "id": 16,
+            "name": "Portugal",
+            "code": "PT",
+            "flag": "https://media.api-sports.io/flags/pt.svg"
+        },
+        {
+            "id": 17,
+            "name": "Romania",
+            "code": "RO",
+            "flag": "https://media.api-sports.io/flags/ro.svg"
+        },
+        {
+            "id": 18,
+            "name": "Russia",
+            "code": "RU",
+            "flag": "https://media.api-sports.io/flags/ru.svg"
+        },
+        {
+            "id": 19,
+            "name": "Scotland",
+            "code": "GB",
+            "flag": "https://media.api-sports.io/flags/gb.svg"
+        },
+        {
+            "id": 20,
+            "name": "South-Africa",
+            "code": "ZA",
+            "flag": "https://media.api-sports.io/flags/za.svg"
+        },
+        {
+            "id": 21,
+            "name": "Spain",
+            "code": "ES",
+            "flag": "https://media.api-sports.io/flags/es.svg"
+        },
+        {
+            "id": 22,
+            "name": "USA",
+            "code": "US",
+            "flag": "https://media.api-sports.io/flags/us.svg"
+        },
+        {
+            "id": 23,
+            "name": "Wales",
+            "code": "GB",
+            "flag": "https://media.api-sports.io/flags/gb.svg"
+        },
+        {
+            "id": 24,
+            "name": "Australia-Oceania",
+            "code": "AU",
+            "flag": "https://media.api-sports.io/flags/au.svg"
+        },
+        {
+            "id": 25,
+            "name": "Europe",
+            "code": null,
+            "flag": null
+        },
+        {
+            "id": 26,
+            "name": "World",
+            "code": null,
+            "flag": null
+        },
+        {
+            "id": 27,
+            "name": "Kenya",
+            "code": "KE",
+            "flag": "https://media.api-sports.io/flags/ke.svg"
+        }
+    ]
+}

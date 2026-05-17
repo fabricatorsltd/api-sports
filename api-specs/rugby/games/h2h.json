@@ -1,0 +1,130 @@
+{
+    "get": "games",
+    "parameters": {
+        "h2h": "95-96",
+        "league": "16",
+        "season": "2024"
+    },
+    "errors": [],
+    "results": 2,
+    "response": [
+        {
+            "id": 45946,
+            "date": "2024-10-05T14:30:00+00:00",
+            "time": "14:30",
+            "timestamp": 1728138600,
+            "timezone": "UTC",
+            "week": "5",
+            "status": {
+                "long": "Finished",
+                "short": "FT"
+            },
+            "country": {
+                "id": 7,
+                "name": "France",
+                "code": "FR",
+                "flag": "https://media.api-sports.io/flags/fr.svg"
+            },
+            "league": {
+                "id": 16,
+                "name": "Top 14",
+                "type": "League",
+                "logo": "https://media.api-sports.io/rugby/leagues/16.png",
+                "season": 2024
+            },
+            "teams": {
+                "home": {
+                    "id": 96,
+                    "name": "Bordeaux Begles",
+                    "logo": "https://media.api-sports.io/rugby/teams/96.png"
+                },
+                "away": {
+                    "id": 95,
+                    "name": "Aviron Bayonnais",
+                    "logo": "https://media.api-sports.io/rugby/teams/95.png"
+                }
+            },
+            "scores": {
+                "home": 30,
+                "away": 27
+            },
+            "periods": {
+                "first": {
+                    "home": 15,
+                    "away": 10
+                },
+                "second": {
+                    "home": 15,
+                    "away": 17
+                },
+                "overtime": {
+                    "home": null,
+                    "away": null
+                },
+                "second_overtime": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "id": 46025,
+            "date": "2025-02-15T13:30:00+00:00",
+            "time": "13:30",
+            "timestamp": 1739626200,
+            "timezone": "UTC",
+            "week": "16",
+            "status": {
+                "long": "Finished",
+                "short": "FT"
+            },
+            "country": {
+                "id": 7,
+                "name": "France",
+                "code": "FR",
+                "flag": "https://media.api-sports.io/flags/fr.svg"
+            },
+            "league": {
+                "id": 16,
+                "name": "Top 14",
+                "type": "League",
+                "logo": "https://media.api-sports.io/rugby/leagues/16.png",
+                "season": 2024
+            },
+            "teams": {
+                "home": {
+                    "id": 95,
+                    "name": "Aviron Bayonnais",
+                    "logo": "https://media.api-sports.io/rugby/teams/95.png"
+                },
+                "away": {
+                    "id": 96,
+                    "name": "Bordeaux Begles",
+                    "logo": "https://media.api-sports.io/rugby/teams/96.png"
+                }
+            },
+            "scores": {
+                "home": 36,
+                "away": 32
+            },
+            "periods": {
+                "first": {
+                    "home": 16,
+                    "away": 8
+                },
+                "second": {
+                    "home": 20,
+                    "away": 24
+                },
+                "overtime": {
+                    "home": null,
+                    "away": null
+                },
+                "second_overtime": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        }
+    ]
+}

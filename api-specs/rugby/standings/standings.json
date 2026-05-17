@@ -1,0 +1,671 @@
+{
+    "get": "standings",
+    "parameters": {
+        "league": "16",
+        "season": "2024"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+        [
+            {
+                "position": 1,
+                "stage": null,
+                "group": {
+                    "name": null
+                },
+                "team": {
+                    "id": 107,
+                    "name": "Lousa",
+                    "logo": "https://media.api-sports.io/rugby/teams/107.png"
+                },
+                "league": {
+                    "id": 16,
+                    "name": "Top 14",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/rugby/leagues/16.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 7,
+                    "name": "France",
+                    "code": "FR",
+                    "flag": "https://media.api-sports.io/flags/fr.svg"
+                },
+                "games": {
+                    "played": 26,
+                    "win": {
+                        "total": 18,
+                        "percentage": "69.23"
+                    },
+                    "draw": {
+                        "total": 1,
+                        "percentage": "3.85"
+                    },
+                    "lose": {
+                        "total": 7,
+                        "percentage": "26.92"
+                    }
+                },
+                "goals": {
+                    "for": 891,
+                    "against": 462
+                },
+                "points": 90,
+                "form": "WLWLW",
+                "description": "Playoffs"
+            },
+            {
+                "position": 2,
+                "stage": null,
+                "group": {
+                    "name": null
+                },
+                "team": {
+                    "id": 96,
+                    "name": "Bordeaux Begles",
+                    "logo": "https://media.api-sports.io/rugby/teams/96.png"
+                },
+                "league": {
+                    "id": 16,
+                    "name": "Top 14",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/rugby/leagues/16.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 7,
+                    "name": "France",
+                    "code": "FR",
+                    "flag": "https://media.api-sports.io/flags/fr.svg"
+                },
+                "games": {
+                    "played": 26,
+                    "win": {
+                        "total": 17,
+                        "percentage": "65.38"
+                    },
+                    "draw": {
+                        "total": 0,
+                        "percentage": "0.00"
+                    },
+                    "lose": {
+                        "total": 9,
+                        "percentage": "34.62"
+                    }
+                },
+                "goals": {
+                    "for": 762,
+                    "against": 609
+                },
+                "points": 78,
+                "form": "WWLWL",
+                "description": "Playoffs"
+            },
+            {
+                "position": 3,
+                "stage": null,
+                "group": {
+                    "name": null
+                },
+                "team": {
+                    "id": 103,
+                    "name": "RC Toulonnais",
+                    "logo": "https://media.api-sports.io/rugby/teams/103.png"
+                },
+                "league": {
+                    "id": 16,
+                    "name": "Top 14",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/rugby/leagues/16.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 7,
+                    "name": "France",
+                    "code": "FR",
+                    "flag": "https://media.api-sports.io/flags/fr.svg"
+                },
+                "games": {
+                    "played": 26,
+                    "win": {
+                        "total": 15,
+                        "percentage": "57.69"
+                    },
+                    "draw": {
+                        "total": 0,
+                        "percentage": "0.00"
+                    },
+                    "lose": {
+                        "total": 11,
+                        "percentage": "42.31"
+                    }
+                },
+                "goals": {
+                    "for": 680,
+                    "against": 595
+                },
+                "points": 72,
+                "form": "LWLWL",
+                "description": "Qualification Playoffs"
+            },
+            {
+                "position": 4,
+                "stage": null,
+                "group": {
+                    "name": null
+                },
+                "team": {
+                    "id": 95,
+                    "name": "Aviron Bayonnais",
+                    "logo": "https://media.api-sports.io/rugby/teams/95.png"
+                },
+                "league": {
+                    "id": 16,
+                    "name": "Top 14",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/rugby/leagues/16.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 7,
+                    "name": "France",
+                    "code": "FR",
+                    "flag": "https://media.api-sports.io/flags/fr.svg"
+                },
+                "games": {
+                    "played": 26,
+                    "win": {
+                        "total": 15,
+                        "percentage": "57.69"
+                    },
+                    "draw": {
+                        "total": 1,
+                        "percentage": "3.85"
+                    },
+                    "lose": {
+                        "total": 10,
+                        "percentage": "38.46"
+                    }
+                },
+                "goals": {
+                    "for": 632,
+                    "against": 650
+                },
+                "points": 68,
+                "form": "LWWLW",
+                "description": "Qualification Playoffs"
+            },
+            {
+                "position": 5,
+                "stage": null,
+                "group": {
+                    "name": null
+                },
+                "team": {
+                    "id": 99,
+                    "name": "Clermont",
+                    "logo": "https://media.api-sports.io/rugby/teams/99.png"
+                },
+                "league": {
+                    "id": 16,
+                    "name": "Top 14",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/rugby/leagues/16.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 7,
+                    "name": "France",
+                    "code": "FR",
+                    "flag": "https://media.api-sports.io/flags/fr.svg"
+                },
+                "games": {
+                    "played": 26,
+                    "win": {
+                        "total": 13,
+                        "percentage": "50.00"
+                    },
+                    "draw": {
+                        "total": 0,
+                        "percentage": "0.00"
+                    },
+                    "lose": {
+                        "total": 13,
+                        "percentage": "50.00"
+                    }
+                },
+                "goals": {
+                    "for": 674,
+                    "against": 627
+                },
+                "points": 63,
+                "form": "LWWLW",
+                "description": "Qualification Playoffs"
+            },
+            {
+                "position": 6,
+                "stage": null,
+                "group": {
+                    "name": null
+                },
+                "team": {
+                    "id": 98,
+                    "name": "Castres Olympique",
+                    "logo": "https://media.api-sports.io/rugby/teams/98.png"
+                },
+                "league": {
+                    "id": 16,
+                    "name": "Top 14",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/rugby/leagues/16.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 7,
+                    "name": "France",
+                    "code": "FR",
+                    "flag": "https://media.api-sports.io/flags/fr.svg"
+                },
+                "games": {
+                    "played": 26,
+                    "win": {
+                        "total": 13,
+                        "percentage": "50.00"
+                    },
+                    "draw": {
+                        "total": 2,
+                        "percentage": "7.69"
+                    },
+                    "lose": {
+                        "total": 11,
+                        "percentage": "42.31"
+                    }
+                },
+                "goals": {
+                    "for": 626,
+                    "against": 658
+                },
+                "points": 63,
+                "form": "LLWWL",
+                "description": "Qualification Playoffs"
+            },
+            {
+                "position": 7,
+                "stage": null,
+                "group": {
+                    "name": null
+                },
+                "team": {
+                    "id": 100,
+                    "name": "Stade Rochelais",
+                    "logo": "https://media.api-sports.io/rugby/teams/100.png"
+                },
+                "league": {
+                    "id": 16,
+                    "name": "Top 14",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/rugby/leagues/16.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 7,
+                    "name": "France",
+                    "code": "FR",
+                    "flag": "https://media.api-sports.io/flags/fr.svg"
+                },
+                "games": {
+                    "played": 26,
+                    "win": {
+                        "total": 13,
+                        "percentage": "50.00"
+                    },
+                    "draw": {
+                        "total": 1,
+                        "percentage": "3.85"
+                    },
+                    "lose": {
+                        "total": 12,
+                        "percentage": "46.15"
+                    }
+                },
+                "goals": {
+                    "for": 617,
+                    "against": 635
+                },
+                "points": 62,
+                "form": "LWWWW",
+                "description": null
+            },
+            {
+                "position": 8,
+                "stage": null,
+                "group": {
+                    "name": null
+                },
+                "team": {
+                    "id": 105,
+                    "name": "Section Paloise",
+                    "logo": "https://media.api-sports.io/rugby/teams/105.png"
+                },
+                "league": {
+                    "id": 16,
+                    "name": "Top 14",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/rugby/leagues/16.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 7,
+                    "name": "France",
+                    "code": "FR",
+                    "flag": "https://media.api-sports.io/flags/fr.svg"
+                },
+                "games": {
+                    "played": 26,
+                    "win": {
+                        "total": 13,
+                        "percentage": "50.00"
+                    },
+                    "draw": {
+                        "total": 0,
+                        "percentage": "0.00"
+                    },
+                    "lose": {
+                        "total": 13,
+                        "percentage": "50.00"
+                    }
+                },
+                "goals": {
+                    "for": 682,
+                    "against": 719
+                },
+                "points": 61,
+                "form": "WWWWL",
+                "description": null
+            },
+            {
+                "position": 9,
+                "stage": null,
+                "group": {
+                    "name": null
+                },
+                "team": {
+                    "id": 102,
+                    "name": "Montpellier",
+                    "logo": "https://media.api-sports.io/rugby/teams/102.png"
+                },
+                "league": {
+                    "id": 16,
+                    "name": "Top 14",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/rugby/leagues/16.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 7,
+                    "name": "France",
+                    "code": "FR",
+                    "flag": "https://media.api-sports.io/flags/fr.svg"
+                },
+                "games": {
+                    "played": 26,
+                    "win": {
+                        "total": 12,
+                        "percentage": "46.15"
+                    },
+                    "draw": {
+                        "total": 0,
+                        "percentage": "0.00"
+                    },
+                    "lose": {
+                        "total": 14,
+                        "percentage": "53.85"
+                    }
+                },
+                "goals": {
+                    "for": 623,
+                    "against": 609
+                },
+                "points": 56,
+                "form": "LWLWW",
+                "description": null
+            },
+            {
+                "position": 10,
+                "stage": null,
+                "group": {
+                    "name": null
+                },
+                "team": {
+                    "id": 104,
+                    "name": "Racing 92",
+                    "logo": "https://media.api-sports.io/rugby/teams/104.png"
+                },
+                "league": {
+                    "id": 16,
+                    "name": "Top 14",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/rugby/leagues/16.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 7,
+                    "name": "France",
+                    "code": "FR",
+                    "flag": "https://media.api-sports.io/flags/fr.svg"
+                },
+                "games": {
+                    "played": 26,
+                    "win": {
+                        "total": 11,
+                        "percentage": "42.31"
+                    },
+                    "draw": {
+                        "total": 2,
+                        "percentage": "7.69"
+                    },
+                    "lose": {
+                        "total": 13,
+                        "percentage": "50.00"
+                    }
+                },
+                "goals": {
+                    "for": 710,
+                    "against": 720
+                },
+                "points": 56,
+                "form": "WLWDW",
+                "description": null
+            },
+            {
+                "position": 11,
+                "stage": null,
+                "group": {
+                    "name": null
+                },
+                "team": {
+                    "id": 101,
+                    "name": "Lyon",
+                    "logo": "https://media.api-sports.io/rugby/teams/101.png"
+                },
+                "league": {
+                    "id": 16,
+                    "name": "Top 14",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/rugby/leagues/16.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 7,
+                    "name": "France",
+                    "code": "FR",
+                    "flag": "https://media.api-sports.io/flags/fr.svg"
+                },
+                "games": {
+                    "played": 26,
+                    "win": {
+                        "total": 10,
+                        "percentage": "38.46"
+                    },
+                    "draw": {
+                        "total": 2,
+                        "percentage": "7.69"
+                    },
+                    "lose": {
+                        "total": 14,
+                        "percentage": "53.85"
+                    }
+                },
+                "goals": {
+                    "for": 675,
+                    "against": 722
+                },
+                "points": 50,
+                "form": "LLLLL",
+                "description": null
+            },
+            {
+                "position": 12,
+                "stage": null,
+                "group": {
+                    "name": null
+                },
+                "team": {
+                    "id": 106,
+                    "name": "Stade Francais Paris",
+                    "logo": "https://media.api-sports.io/rugby/teams/106.png"
+                },
+                "league": {
+                    "id": 16,
+                    "name": "Top 14",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/rugby/leagues/16.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 7,
+                    "name": "France",
+                    "code": "FR",
+                    "flag": "https://media.api-sports.io/flags/fr.svg"
+                },
+                "games": {
+                    "played": 26,
+                    "win": {
+                        "total": 10,
+                        "percentage": "38.46"
+                    },
+                    "draw": {
+                        "total": 0,
+                        "percentage": "0.00"
+                    },
+                    "lose": {
+                        "total": 16,
+                        "percentage": "61.54"
+                    }
+                },
+                "goals": {
+                    "for": 597,
+                    "against": 755
+                },
+                "points": 45,
+                "form": "WLWLL",
+                "description": null
+            },
+            {
+                "position": 13,
+                "stage": null,
+                "group": {
+                    "name": null
+                },
+                "team": {
+                    "id": 120,
+                    "name": "USA Perpignan",
+                    "logo": "https://media.api-sports.io/rugby/teams/120.png"
+                },
+                "league": {
+                    "id": 16,
+                    "name": "Top 14",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/rugby/leagues/16.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 7,
+                    "name": "France",
+                    "code": "FR",
+                    "flag": "https://media.api-sports.io/flags/fr.svg"
+                },
+                "games": {
+                    "played": 26,
+                    "win": {
+                        "total": 9,
+                        "percentage": "34.62"
+                    },
+                    "draw": {
+                        "total": 2,
+                        "percentage": "7.69"
+                    },
+                    "lose": {
+                        "total": 15,
+                        "percentage": "57.69"
+                    }
+                },
+                "goals": {
+                    "for": 469,
+                    "against": 647
+                },
+                "points": 44,
+                "form": "WWLLW",
+                "description": "Relegation Playoffs"
+            },
+            {
+                "position": 14,
+                "stage": null,
+                "group": {
+                    "name": null
+                },
+                "team": {
+                    "id": 123,
+                    "name": "Vannes",
+                    "logo": "https://media.api-sports.io/rugby/teams/123.png"
+                },
+                "league": {
+                    "id": 16,
+                    "name": "Top 14",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/rugby/leagues/16.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 7,
+                    "name": "France",
+                    "code": "FR",
+                    "flag": "https://media.api-sports.io/flags/fr.svg"
+                },
+                "games": {
+                    "played": 26,
+                    "win": {
+                        "total": 7,
+                        "percentage": "26.92"
+                    },
+                    "draw": {
+                        "total": 1,
+                        "percentage": "3.85"
+                    },
+                    "lose": {
+                        "total": 18,
+                        "percentage": "69.23"
+                    }
+                },
+                "goals": {
+                    "for": 661,
+                    "against": 891
+                },
+                "points": 36,
+                "form": "LLLLW",
+                "description": "Relegation"
+            }
+        ]
+    ]
+}
