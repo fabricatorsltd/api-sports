@@ -73,10 +73,10 @@ jobs:
           fi
 
       - name: Restore
-        run: dotnet restore -p:UsePackageReferences=true
+        run: dotnet restore "${{ steps.proj.outputs.CSPROJ }}" -p:UsePackageReferences=true
 
       - name: Build
-        run: dotnet build -c Release --no-restore -p:UsePackageReferences=true
+        run: dotnet build "${{ steps.proj.outputs.CSPROJ }}" -c Release --no-restore -p:UsePackageReferences=true
 
       - name: Pack selected project
         run: >
