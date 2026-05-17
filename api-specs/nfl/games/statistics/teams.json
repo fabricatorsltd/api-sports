@@ -1,0 +1,148 @@
+{
+    "get": "games/statistics/teams",
+    "parameters": {
+        "id": "13146"
+    },
+    "errors": [],
+    "results": 2,
+    "response": [
+        {
+            "team": {
+                "id": 16,
+                "name": "Chicago Bears",
+                "logo": "https://media.api-sports.io/american-football/teams/16.png"
+            },
+            "statistics": {
+                "first_downs": {
+                    "total": 13,
+                    "passing": 9,
+                    "rushing": 4,
+                    "from_penalties": 0,
+                    "third_down_efficiency": "3-6",
+                    "fourth_down_efficiency": "0-0"
+                },
+                "plays": {
+                    "total": 35
+                },
+                "yards": {
+                    "total": 278,
+                    "yards_per_play": "6",
+                    "total_drives": "7.9"
+                },
+                "passing": {
+                    "total": 192,
+                    "comp_att": "15-20",
+                    "yards_per_pass": "9.6",
+                    "interceptions_thrown": 0,
+                    "sacks_yards_lost": "0-0"
+                },
+                "rushings": {
+                    "total": 86,
+                    "attempts": 15,
+                    "yards_per_rush": "5.7"
+                },
+                "red_zone": {
+                    "made_att": "1-1"
+                },
+                "penalties": {
+                    "total": "3-15"
+                },
+                "turnovers": {
+                    "total": 1,
+                    "lost_fumbles": 1,
+                    "interceptions": 0
+                },
+                "posession": {
+                    "total": "16:55"
+                },
+                "interceptions": {
+                    "total": 0
+                },
+                "fumbles_recovered": {
+                    "total": 0
+                },
+                "sacks": {
+                    "total": 1
+                },
+                "safeties": {
+                    "total": 0
+                },
+                "int_touchdowns": {
+                    "total": 0
+                },
+                "points_against": {
+                    "total": 17
+                }
+            }
+        },
+        {
+            "team": {
+                "id": 26,
+                "name": "Houston Texans",
+                "logo": "https://media.api-sports.io/american-football/teams/26.png"
+            },
+            "statistics": {
+                "first_downs": {
+                    "total": 15,
+                    "passing": 10,
+                    "rushing": 4,
+                    "from_penalties": 1,
+                    "third_down_efficiency": "2-8",
+                    "fourth_down_efficiency": "1-1"
+                },
+                "plays": {
+                    "total": 49
+                },
+                "yards": {
+                    "total": 244,
+                    "yards_per_play": "8",
+                    "total_drives": "5.0"
+                },
+                "passing": {
+                    "total": 190,
+                    "comp_att": "19-27",
+                    "yards_per_pass": "6.8",
+                    "interceptions_thrown": 0,
+                    "sacks_yards_lost": "1-7"
+                },
+                "rushings": {
+                    "total": 54,
+                    "attempts": 21,
+                    "yards_per_rush": "2.6"
+                },
+                "red_zone": {
+                    "made_att": "2-3"
+                },
+                "penalties": {
+                    "total": "4-30"
+                },
+                "turnovers": {
+                    "total": 0,
+                    "lost_fumbles": 0,
+                    "interceptions": 0
+                },
+                "posession": {
+                    "total": "24:34"
+                },
+                "interceptions": {
+                    "total": 0
+                },
+                "fumbles_recovered": {
+                    "total": 1
+                },
+                "sacks": {
+                    "total": 0
+                },
+                "safeties": {
+                    "total": 0
+                },
+                "int_touchdowns": {
+                    "total": 0
+                },
+                "points_against": {
+                    "total": 21
+                }
+            }
+        }
+    ]
+}

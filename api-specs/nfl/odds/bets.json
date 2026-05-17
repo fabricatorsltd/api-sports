@@ -1,0 +1,1452 @@
+{
+    "get": "odds/bets",
+    "parameters": [],
+    "errors": [],
+    "results": 361,
+    "response": [
+        {
+            "id": 1,
+            "name": "Home/Away"
+        },
+        {
+            "id": 2,
+            "name": "Asian Handicap"
+        },
+        {
+            "id": 3,
+            "name": "Over/Under"
+        },
+        {
+            "id": 4,
+            "name": "Over/Under 1st Half"
+        },
+        {
+            "id": 5,
+            "name": "HT/FT Double"
+        },
+        {
+            "id": 6,
+            "name": "Handicap Result"
+        },
+        {
+            "id": 7,
+            "name": "1st Half 3Way Result"
+        },
+        {
+            "id": 8,
+            "name": "Total - Home"
+        },
+        {
+            "id": 9,
+            "name": "Total - Away"
+        },
+        {
+            "id": 10,
+            "name": "Handicap Result 1st Half"
+        },
+        {
+            "id": 11,
+            "name": "Asian Handicap First Half"
+        },
+        {
+            "id": 12,
+            "name": "Overtime"
+        },
+        {
+            "id": 13,
+            "name": "Odd/Even"
+        },
+        {
+            "id": 14,
+            "name": "Odd/Even 1st Half"
+        },
+        {
+            "id": 15,
+            "name": "Home Odd/Even"
+        },
+        {
+            "id": 16,
+            "name": "Away Odd/Even"
+        },
+        {
+            "id": 17,
+            "name": "3Way Result - 1st Qtr"
+        },
+        {
+            "id": 18,
+            "name": "Home Winning Margin (14-Way)"
+        },
+        {
+            "id": 19,
+            "name": "Away Winning Margin (14-Way)"
+        },
+        {
+            "id": 20,
+            "name": "Over/Under 1st Qtr"
+        },
+        {
+            "id": 21,
+            "name": "Asian Handicap 1st Qtr"
+        },
+        {
+            "id": 22,
+            "name": "Home/Away - 1st Half"
+        },
+        {
+            "id": 23,
+            "name": "Home/Away - 1st Qtr"
+        },
+        {
+            "id": 24,
+            "name": "Home Team Total Goals(1st Half)"
+        },
+        {
+            "id": 25,
+            "name": "Away Team Total Goals(1st Half)"
+        },
+        {
+            "id": 26,
+            "name": "Home Team Total Points (1st Quarter)"
+        },
+        {
+            "id": 27,
+            "name": "Away Team Total Points (1st Quarter)"
+        },
+        {
+            "id": 28,
+            "name": "Odd/Even (1st Quarter)"
+        },
+        {
+            "id": 29,
+            "name": "European Handicap (1st Quarter)"
+        },
+        {
+            "id": 30,
+            "name": "Over/Under 2nd Half"
+        },
+        {
+            "id": 31,
+            "name": "Highest Scoring Half"
+        },
+        {
+            "id": 32,
+            "name": "Asian Handicap 4th Qtr"
+        },
+        {
+            "id": 33,
+            "name": "Over/Under 2nd Qtr"
+        },
+        {
+            "id": 34,
+            "name": "Over/Under 3rd Qtr"
+        },
+        {
+            "id": 35,
+            "name": "Over/Under 4th Qtr"
+        },
+        {
+            "id": 36,
+            "name": "Asian Handicap (2nd Half)"
+        },
+        {
+            "id": 37,
+            "name": "Home/Away - 2nd Half"
+        },
+        {
+            "id": 38,
+            "name": "Home/Away - 2nd Qtr"
+        },
+        {
+            "id": 39,
+            "name": "Home/Away - 3rd Qtr"
+        },
+        {
+            "id": 40,
+            "name": "Home/Away - 4th Qtr"
+        },
+        {
+            "id": 41,
+            "name": "Highest Scoring Quarter"
+        },
+        {
+            "id": 42,
+            "name": "Odd/Even (2nd Half)"
+        },
+        {
+            "id": 43,
+            "name": "Odd/Even (2nd Quarter)"
+        },
+        {
+            "id": 44,
+            "name": "Odd/Even (3rd Quarter)"
+        },
+        {
+            "id": 45,
+            "name": "Asian Handicap 2nd Qtr"
+        },
+        {
+            "id": 46,
+            "name": "Asian Handicap (3rd Quarter)"
+        },
+        {
+            "id": 47,
+            "name": "Anytime Goal Scorer"
+        },
+        {
+            "id": 48,
+            "name": "First Goal Scorer"
+        },
+        {
+            "id": 49,
+            "name": "Last Goal Scorer"
+        },
+        {
+            "id": 50,
+            "name": "Multi Touchdown Scorer (2 or More)"
+        },
+        {
+            "id": 51,
+            "name": "Multi Touchdown Scorer (3 or More)"
+        },
+        {
+            "id": 52,
+            "name": "First Team to Score"
+        },
+        {
+            "id": 53,
+            "name": "Last Team to Score"
+        },
+        {
+            "id": 54,
+            "name": "Total Touchdowns"
+        },
+        {
+            "id": 55,
+            "name": "3Way Result"
+        },
+        {
+            "id": 56,
+            "name": "2nd Half 3Way Result"
+        },
+        {
+            "id": 57,
+            "name": "3Way Result - 2nd Qtr"
+        },
+        {
+            "id": 58,
+            "name": "3Way Result - 3rd Qtr"
+        },
+        {
+            "id": 59,
+            "name": "3Way Result - 4th Qtr"
+        },
+        {
+            "id": 60,
+            "name": "Home Team Total Goals(2nd Half)"
+        },
+        {
+            "id": 61,
+            "name": "Away Team Total Goals(2nd Half)"
+        },
+        {
+            "id": 62,
+            "name": "Odd/Even (4th Quarter)"
+        },
+        {
+            "id": 63,
+            "name": "European Handicap (2nd Half)"
+        },
+        {
+            "id": 64,
+            "name": "Shortest touchdown scored"
+        },
+        {
+            "id": 65,
+            "name": "Total Touchdowns (1st Half)"
+        },
+        {
+            "id": 66,
+            "name": "Home Total Touchdowns (1st Half)"
+        },
+        {
+            "id": 67,
+            "name": "Home Total Field Goals (1st Half)"
+        },
+        {
+            "id": 68,
+            "name": "Away Total Touchdowns (1st Half)"
+        },
+        {
+            "id": 69,
+            "name": "Away Total Field Goals (1st Half)"
+        },
+        {
+            "id": 70,
+            "name": "Home Total Touchdowns"
+        },
+        {
+            "id": 71,
+            "name": "Away Total Touchdowns"
+        },
+        {
+            "id": 72,
+            "name": "Race to 10 Points"
+        },
+        {
+            "id": 73,
+            "name": "Race to 20 Points"
+        },
+        {
+            "id": 74,
+            "name": "Race to 15 Points"
+        },
+        {
+            "id": 75,
+            "name": "Total Field Goals"
+        },
+        {
+            "id": 76,
+            "name": "Total field goals (1st Half)"
+        },
+        {
+            "id": 77,
+            "name": "Home Total Field Goals"
+        },
+        {
+            "id": 78,
+            "name": "Away Total Field Goals"
+        },
+        {
+            "id": 79,
+            "name": "Longest touchdown scored"
+        },
+        {
+            "id": 80,
+            "name": "Team to score longest touchdown"
+        },
+        {
+            "id": 81,
+            "name": "Away Odd/Even (1st Half)"
+        },
+        {
+            "id": 82,
+            "name": "Home Odd/Even (1st Half)"
+        },
+        {
+            "id": 83,
+            "name": "First to Score Points (2 way)"
+        },
+        {
+            "id": 84,
+            "name": "Total Touchdowns (2nd Half)"
+        },
+        {
+            "id": 85,
+            "name": "Player Assists"
+        },
+        {
+            "id": 86,
+            "name": null
+        },
+        {
+            "id": 87,
+            "name": "Home Total Touchdowns (1st Quarter)"
+        },
+        {
+            "id": 88,
+            "name": "Home Total Field Goals (1st Quarter)"
+        },
+        {
+            "id": 89,
+            "name": "Away Total Touchdowns (1st Quarter)"
+        },
+        {
+            "id": 90,
+            "name": "Away Total Field Goals (1st Quarter)"
+        },
+        {
+            "id": 91,
+            "name": "Total Touchdowns (1st Quarter)"
+        },
+        {
+            "id": 92,
+            "name": "Total field goals (1st Quarter)"
+        },
+        {
+            "id": 93,
+            "name": "Home Total Touchdowns (2nd Half)"
+        },
+        {
+            "id": 94,
+            "name": "Away Total Touchdowns (2nd Half)"
+        },
+        {
+            "id": 95,
+            "name": "Player Interceptions"
+        },
+        {
+            "id": 96,
+            "name": "Player Kicking Points"
+        },
+        {
+            "id": 97,
+            "name": "Player Defensive Interceptions"
+        },
+        {
+            "id": 98,
+            "name": "Home team will score in both halves"
+        },
+        {
+            "id": 99,
+            "name": "Away team will score in both halves"
+        },
+        {
+            "id": 100,
+            "name": "Total field goals (2nd Half)"
+        },
+        {
+            "id": 101,
+            "name": "Both Teams To Score"
+        },
+        {
+            "id": 102,
+            "name": "Home win both halves"
+        },
+        {
+            "id": 103,
+            "name": "Away win both halves"
+        },
+        {
+            "id": 104,
+            "name": "Tie-break"
+        },
+        {
+            "id": 105,
+            "name": "1st Half Exact Goals Number"
+        },
+        {
+            "id": 106,
+            "name": "Over/Under(Penalty time)"
+        },
+        {
+            "id": 107,
+            "name": "Home Total Field Goals (2nd Half)"
+        },
+        {
+            "id": 108,
+            "name": "Away Total Field Goals (2nd Half)"
+        },
+        {
+            "id": 109,
+            "name": "Safety"
+        },
+        {
+            "id": 110,
+            "name": "Home Win To Nill (1st Half)"
+        },
+        {
+            "id": 111,
+            "name": "Home Team Total Tries"
+        },
+        {
+            "id": 112,
+            "name": "Player Rebounds"
+        },
+        {
+            "id": 113,
+            "name": "Win to Nil - Home"
+        },
+        {
+            "id": 114,
+            "name": "Away Team Total Tries"
+        },
+        {
+            "id": 115,
+            "name": "Away Anytime Goal Scorer"
+        },
+        {
+            "id": 116,
+            "name": "Away First Goal Scorer"
+        },
+        {
+            "id": 117,
+            "name": "Away Last Goal Scorer"
+        },
+        {
+            "id": 118,
+            "name": "Home Anytime Goal Scorer"
+        },
+        {
+            "id": 119,
+            "name": "Home First Goal Scorer"
+        },
+        {
+            "id": 120,
+            "name": "Home Last Goal Scorer"
+        },
+        {
+            "id": 121,
+            "name": "Away Player Rebounds"
+        },
+        {
+            "id": 122,
+            "name": "Home Player Rebounds"
+        },
+        {
+            "id": 123,
+            "name": "Team Touchdown Scorer First"
+        },
+        {
+            "id": 124,
+            "name": "Team Touchdown Scorer Last"
+        },
+        {
+            "id": 125,
+            "name": "First Touchdown Scorer (2nd Half)"
+        },
+        {
+            "id": 126,
+            "name": "Anytime Touchdown Scorer (1st Half)"
+        },
+        {
+            "id": 127,
+            "name": "Anytime Touchdown Scorer (2nd Half)"
+        },
+        {
+            "id": 128,
+            "name": "Race To"
+        },
+        {
+            "id": 129,
+            "name": "Total (3W)"
+        },
+        {
+            "id": 130,
+            "name": "Total (3W) (1st Half)"
+        },
+        {
+            "id": 131,
+            "name": "Total (3W) (1st Q)"
+        },
+        {
+            "id": 132,
+            "name": "Race to (1st Quarter)"
+        },
+        {
+            "id": 133,
+            "name": "Total Field Goals (3W) (1st Half)"
+        },
+        {
+            "id": 134,
+            "name": "Total Touchdowns (3W) (1st Half)"
+        },
+        {
+            "id": 135,
+            "name": "Total Touchdowns (3W) (1st Quarter)"
+        },
+        {
+            "id": 136,
+            "name": "Total Touchdowns (3W)"
+        },
+        {
+            "id": 137,
+            "name": "Total Field Goals (3W)"
+        },
+        {
+            "id": 138,
+            "name": "First Touchdown Shirt Odd/Even"
+        },
+        {
+            "id": 139,
+            "name": "Home Winning Margin (1st Half)"
+        },
+        {
+            "id": 140,
+            "name": "Away Winning Margin (1st Half)"
+        },
+        {
+            "id": 141,
+            "name": "Home Winning Margin (1st Quarter)"
+        },
+        {
+            "id": 142,
+            "name": "Away Winning Margin (1st Quarter)"
+        },
+        {
+            "id": 143,
+            "name": "Exact Touchdowns"
+        },
+        {
+            "id": 144,
+            "name": "Home Exact Touchdowns"
+        },
+        {
+            "id": 145,
+            "name": "Away Exact Touchdowns"
+        },
+        {
+            "id": 146,
+            "name": "Time Of 1st Score"
+        },
+        {
+            "id": 147,
+            "name": "Time Of 1st Touchdown"
+        },
+        {
+            "id": 148,
+            "name": "Time Of 1st Field Goal"
+        },
+        {
+            "id": 149,
+            "name": "Total Field Goals (3W) (1st Quarter)"
+        },
+        {
+            "id": 150,
+            "name": "Home Total Field Goals(3W)"
+        },
+        {
+            "id": 151,
+            "name": "Away Total Field Goals(3W)"
+        },
+        {
+            "id": 152,
+            "name": "Home Total Touchdowns (3W)"
+        },
+        {
+            "id": 153,
+            "name": "Home Total Touchdowns (3W)"
+        },
+        {
+            "id": 154,
+            "name": "Away Total Touchdowns (3W)"
+        },
+        {
+            "id": 155,
+            "name": "Shortest Total Touchdowns"
+        },
+        {
+            "id": 156,
+            "name": "Longest Total Touchdowns"
+        },
+        {
+            "id": 157,
+            "name": "Longest Total Field Goals"
+        },
+        {
+            "id": 158,
+            "name": "First Touchdown Shirt Total"
+        },
+        {
+            "id": 159,
+            "name": "1st Quarter/Half Time"
+        },
+        {
+            "id": 160,
+            "name": "1st Quarter/Full Time"
+        },
+        {
+            "id": 161,
+            "name": "Any Quarter to End Scoreless"
+        },
+        {
+            "id": 162,
+            "name": "A Score in Last Two Minutes of the 1st Half"
+        },
+        {
+            "id": 163,
+            "name": "Special Team or Defensive Touchdown Scored"
+        },
+        {
+            "id": 164,
+            "name": "Successful 2 Point Conversion"
+        },
+        {
+            "id": 165,
+            "name": "Team Scoring First Wins The Game"
+        },
+        {
+            "id": 166,
+            "name": "Team to Win Every Quarter 2"
+        },
+        {
+            "id": 167,
+            "name": "Both Teams to Score X Field Goals"
+        },
+        {
+            "id": 168,
+            "name": "Both Teams to Score X Points"
+        },
+        {
+            "id": 169,
+            "name": "Both Teams to Score X Touchdowns"
+        },
+        {
+            "id": 170,
+            "name": "Home Win To Nill (1st Quarter)"
+        },
+        {
+            "id": 171,
+            "name": "Away Win To Nill (1st Quarter)"
+        },
+        {
+            "id": 172,
+            "name": "Home to Score (1st Quarter)"
+        },
+        {
+            "id": 173,
+            "name": "Away to Score (1st Quarter)"
+        },
+        {
+            "id": 174,
+            "name": "Home Score in Both Halves"
+        },
+        {
+            "id": 175,
+            "name": "Away Score in Both Halves"
+        },
+        {
+            "id": 176,
+            "name": "Outcome of 1st Team Drive (2-Way)"
+        },
+        {
+            "id": 177,
+            "name": "Team to Lead After Every Quarter"
+        },
+        {
+            "id": 178,
+            "name": "Team To Make First Score 2-Way"
+        },
+        {
+            "id": 179,
+            "name": "Team to Score Last"
+        },
+        {
+            "id": 180,
+            "name": "Both Teams To Score (1st Quarter)"
+        },
+        {
+            "id": 181,
+            "name": "Both Teams To Score (2nd Quarter)"
+        },
+        {
+            "id": 182,
+            "name": "Both Teams To Score (3rd Quarter)"
+        },
+        {
+            "id": 183,
+            "name": "Both Teams To Score (4th Quarter)"
+        },
+        {
+            "id": 184,
+            "name": "Player Rebounds Milestones"
+        },
+        {
+            "id": 185,
+            "name": "Team to Win Every Quarter 1"
+        },
+        {
+            "id": 186,
+            "name": "Total Tackles and Assists"
+        },
+        {
+            "id": 187,
+            "name": "Outcome of 1st Team Drive (4-Way)"
+        },
+        {
+            "id": 188,
+            "name": "Home Anytime Touchdown Scorer (2nd Half)"
+        },
+        {
+            "id": 189,
+            "name": "Away Anytime Touchdown Scorer (2nd Half)"
+        },
+        {
+            "id": 190,
+            "name": "Home First Touchdown Scorer (2nd Half)"
+        },
+        {
+            "id": 191,
+            "name": "Away First Touchdown Scorer (2nd Half)"
+        },
+        {
+            "id": 192,
+            "name": "Home Team Touchdown Scorer First"
+        },
+        {
+            "id": 193,
+            "name": "Home Team Touchdown Scorer Last"
+        },
+        {
+            "id": 194,
+            "name": "Away Team Touchdown Scorer First"
+        },
+        {
+            "id": 195,
+            "name": "Away Team Touchdown Scorer Last"
+        },
+        {
+            "id": 196,
+            "name": "Home Multi Touchdown Scorer (2 or More)"
+        },
+        {
+            "id": 197,
+            "name": "Home Multi Touchdown Scorer (3 or More)"
+        },
+        {
+            "id": 198,
+            "name": "Away Multi Touchdown Scorer (2 or More)"
+        },
+        {
+            "id": 199,
+            "name": "Away Multi Touchdown Scorer (3 or More)"
+        },
+        {
+            "id": 200,
+            "name": "Player Points and Assists"
+        },
+        {
+            "id": 201,
+            "name": "Home Player Points and Assists"
+        },
+        {
+            "id": 202,
+            "name": "Away Player Points and Assists"
+        },
+        {
+            "id": 203,
+            "name": "Home Player Rebounds Milestones"
+        },
+        {
+            "id": 204,
+            "name": "Away Player Rebounds Milestones"
+        },
+        {
+            "id": 205,
+            "name": "Home Total Rushing Touchdowns"
+        },
+        {
+            "id": 206,
+            "name": "AwayTotal Rushing Touchdowns"
+        },
+        {
+            "id": 207,
+            "name": "Player Passing Touchdowns"
+        },
+        {
+            "id": 208,
+            "name": "Home Player Passing Touchdowns"
+        },
+        {
+            "id": 209,
+            "name": "Away Player Passing Touchdowns"
+        },
+        {
+            "id": 210,
+            "name": "Player Passing Yards"
+        },
+        {
+            "id": 211,
+            "name": "Away Player Passing Yards"
+        },
+        {
+            "id": 212,
+            "name": "Home Player Kicking Points"
+        },
+        {
+            "id": 213,
+            "name": "Player Passing Touchdowns Milestones"
+        },
+        {
+            "id": 214,
+            "name": "Home Player Passing Touchdowns Milestones"
+        },
+        {
+            "id": 215,
+            "name": "Away Player Passing Touchdowns Milestones"
+        },
+        {
+            "id": 216,
+            "name": "Total Passing Attempts"
+        },
+        {
+            "id": 217,
+            "name": "Total Passing Completions"
+        },
+        {
+            "id": 218,
+            "name": "Total Rushing Touchdowns"
+        },
+        {
+            "id": 219,
+            "name": "Total Passing Yards"
+        },
+        {
+            "id": 220,
+            "name": "Player Longest Pass Completion Milestones"
+        },
+        {
+            "id": 221,
+            "name": "Home Player Longest Pass Completion Milestones"
+        },
+        {
+            "id": 222,
+            "name": "Away Player Longest Pass Completion Milestones"
+        },
+        {
+            "id": 223,
+            "name": "Player Passing Yards Milestones"
+        },
+        {
+            "id": 224,
+            "name": "Home Player Passing Yards Milestones"
+        },
+        {
+            "id": 225,
+            "name": "Away Player Passing Yards Milestones"
+        },
+        {
+            "id": 226,
+            "name": "Player Passing Completions Milestones"
+        },
+        {
+            "id": 227,
+            "name": "Away Player Passing Completions"
+        },
+        {
+            "id": 228,
+            "name": "Player Passing Completions"
+        },
+        {
+            "id": 229,
+            "name": "Player Longest Pass Completion"
+        },
+        {
+            "id": 230,
+            "name": "Home Player Longest Pass Completion"
+        },
+        {
+            "id": 231,
+            "name": "Player Passing Attempts Milestones"
+        },
+        {
+            "id": 232,
+            "name": "Total Rushing Yards"
+        },
+        {
+            "id": 233,
+            "name": "Home Total Rushing Yards"
+        },
+        {
+            "id": 234,
+            "name": "Away Total Rushing Yards"
+        },
+        {
+            "id": 235,
+            "name": "Home Player Passing Yards"
+        },
+        {
+            "id": 236,
+            "name": "Player Rushing Yards"
+        },
+        {
+            "id": 237,
+            "name": "Home Player Rushing Yards"
+        },
+        {
+            "id": 238,
+            "name": "Away Player Rushing Yards"
+        },
+        {
+            "id": 239,
+            "name": "Player Rushing Yards Milestones"
+        },
+        {
+            "id": 240,
+            "name": "Home Player Rushing Yards Milestones"
+        },
+        {
+            "id": 241,
+            "name": "Away Player Rushing Yards Milestones"
+        },
+        {
+            "id": 242,
+            "name": "Away Player Interceptions"
+        },
+        {
+            "id": 243,
+            "name": "Away Player Longest Rushing Attempt Milestones"
+        },
+        {
+            "id": 244,
+            "name": "Home Player Passing Completions"
+        },
+        {
+            "id": 245,
+            "name": "Player Longest Rushing Attempt Milestones"
+        },
+        {
+            "id": 246,
+            "name": "Player Interceptions Milestones"
+        },
+        {
+            "id": 247,
+            "name": "Away Player Interceptions Milestones"
+        },
+        {
+            "id": 248,
+            "name": "Player to record a Sack"
+        },
+        {
+            "id": 249,
+            "name": "Home Player to Record a Sack"
+        },
+        {
+            "id": 250,
+            "name": "Player Receiving Yards Milestones"
+        },
+        {
+            "id": 251,
+            "name": "Away Player Kicking Points"
+        },
+        {
+            "id": 252,
+            "name": "Home Player Receiving Yards Milestones"
+        },
+        {
+            "id": 253,
+            "name": "Away Player Receiving Yards Milestones"
+        },
+        {
+            "id": 254,
+            "name": "Player Longest Reception"
+        },
+        {
+            "id": 255,
+            "name": "Home Player Longest Reception"
+        },
+        {
+            "id": 256,
+            "name": "Away Player Longest Reception"
+        },
+        {
+            "id": 257,
+            "name": "Player Longest Reception Milestones"
+        },
+        {
+            "id": 258,
+            "name": "Home Player Longest Reception Milestones"
+        },
+        {
+            "id": 259,
+            "name": "Player Rushing Attempts"
+        },
+        {
+            "id": 260,
+            "name": "Home Player Rushing Attempts"
+        },
+        {
+            "id": 261,
+            "name": "Home Player Defensive Interceptions"
+        },
+        {
+            "id": 262,
+            "name": "Player Longest Rushing Attempt"
+        },
+        {
+            "id": 263,
+            "name": "Home Player Longest Rushing Attempt"
+        },
+        {
+            "id": 264,
+            "name": "Player Tackles and Assists Milestones"
+        },
+        {
+            "id": 265,
+            "name": "Home Player Tackles and Assists Milestones"
+        },
+        {
+            "id": 266,
+            "name": "Player Receiving Yards"
+        },
+        {
+            "id": 267,
+            "name": "Home Player Receiving Yards"
+        },
+        {
+            "id": 268,
+            "name": "Away Player Receiving Yards"
+        },
+        {
+            "id": 269,
+            "name": "Player Rushing and Receiving Yards Milestones"
+        },
+        {
+            "id": 270,
+            "name": "Home Player Rushing and Receiving Yards Milestones"
+        },
+        {
+            "id": 271,
+            "name": "Player Rushing and Receiving Yards"
+        },
+        {
+            "id": 272,
+            "name": "Home Player Rushing and Receiving Yards"
+        },
+        {
+            "id": 273,
+            "name": "Away Player Longest Reception Milestones"
+        },
+        {
+            "id": 274,
+            "name": "Away Player Longest Rushing Attempt"
+        },
+        {
+            "id": 275,
+            "name": "Home Player Interceptions Milestones"
+        },
+        {
+            "id": 276,
+            "name": "Away Player Rushing and Receiving Yards Milestones"
+        },
+        {
+            "id": 277,
+            "name": "Away Player Defensive Interceptions"
+        },
+        {
+            "id": 278,
+            "name": "Player Rushing Attempts Milestones"
+        },
+        {
+            "id": 279,
+            "name": "Home Player Rushing Attempts Milestones"
+        },
+        {
+            "id": 280,
+            "name": "Player Passing and Rushing Yards"
+        },
+        {
+            "id": 281,
+            "name": "Home Player Passing and Rushing Yards"
+        },
+        {
+            "id": 282,
+            "name": "Away Player Rushing and Receiving Yards"
+        },
+        {
+            "id": 283,
+            "name": "Home Player Longest Rushing Attempt Milestones"
+        },
+        {
+            "id": 284,
+            "name": "Player Tackles and Assists"
+        },
+        {
+            "id": 285,
+            "name": "Home Player Tackles and Assists"
+        },
+        {
+            "id": 286,
+            "name": "Home Total Sacks"
+        },
+        {
+            "id": 287,
+            "name": "Home Total Rushing Attempts"
+        },
+        {
+            "id": 288,
+            "name": "Away Total Rushing Attempts"
+        },
+        {
+            "id": 289,
+            "name": "Total Rushing Attempts"
+        },
+        {
+            "id": 290,
+            "name": "Away Player Rushing Attempts"
+        },
+        {
+            "id": 291,
+            "name": "Away Player Tackles and Assists Milestones"
+        },
+        {
+            "id": 292,
+            "name": "Away Player Tackles and Assists"
+        },
+        {
+            "id": 293,
+            "name": "Away Player Rushing Attempts Milestones"
+        },
+        {
+            "id": 294,
+            "name": "Longest field goal scored"
+        },
+        {
+            "id": 295,
+            "name": "Home Player Interceptions"
+        },
+        {
+            "id": 296,
+            "name": "Away Player to Record a Sack"
+        },
+        {
+            "id": 297,
+            "name": "Home Total Tackles and Assists"
+        },
+        {
+            "id": 298,
+            "name": "Away Total Sacks"
+        },
+        {
+            "id": 299,
+            "name": "Away Player Passing and Rushing Yards"
+        },
+        {
+            "id": 300,
+            "name": "Team With Highest Scoring Quarter"
+        },
+        {
+            "id": 301,
+            "name": "Result/Total Goals (1st Quarter)"
+        },
+        {
+            "id": 302,
+            "name": "Away Player Longest Pass Completion"
+        },
+        {
+            "id": 303,
+            "name": "Away Win To Nill (1st Half)"
+        },
+        {
+            "id": 304,
+            "name": "Home Make 1st Down on Their 1st Drive"
+        },
+        {
+            "id": 305,
+            "name": "Away Make 1st Down on Their 1st Drive"
+        },
+        {
+            "id": 306,
+            "name": "Total Touchdowns (2nd Quarter)"
+        },
+        {
+            "id": 307,
+            "name": "Total Touchdowns (3rd Quarter)"
+        },
+        {
+            "id": 308,
+            "name": "Total Touchdowns (4th Quarter)"
+        },
+        {
+            "id": 309,
+            "name": "Either Team to Score 3 Unanswered Times"
+        },
+        {
+            "id": 310,
+            "name": "Team To"
+        },
+        {
+            "id": 311,
+            "name": "First Score Method (3 Way)"
+        },
+        {
+            "id": 312,
+            "name": "Total Tackles and Assists"
+        },
+        {
+            "id": 313,
+            "name": "Away Total Tackles and Assists"
+        },
+        {
+            "id": 314,
+            "name": "Total Punts"
+        },
+        {
+            "id": 315,
+            "name": "Team to score longest field goal"
+        },
+        {
+            "id": 316,
+            "name": "Result/Total Goals"
+        },
+        {
+            "id": 317,
+            "name": "Win to Nil - Away"
+        },
+        {
+            "id": 318,
+            "name": "Player Triples"
+        },
+        {
+            "id": 319,
+            "name": "Total Sacks"
+        },
+        {
+            "id": 320,
+            "name": "Away Team Total Goals(1st Half)"
+        },
+        {
+            "id": 321,
+            "name": "Last Team to Score"
+        },
+        {
+            "id": 322,
+            "name": "Away Anytime Goal Scorer"
+        },
+        {
+            "id": 323,
+            "name": "Away Player Assists"
+        },
+        {
+            "id": 324,
+            "name": "Double Chance (1st Quarter)"
+        },
+        {
+            "id": 325,
+            "name": "Player Points and Assists"
+        },
+        {
+            "id": 326,
+            "name": "Player Passing Completions"
+        },
+        {
+            "id": 327,
+            "name": "Player Longest Reception"
+        },
+        {
+            "id": 328,
+            "name": "Player Rushing Yards"
+        },
+        {
+            "id": 329,
+            "name": "Player Interceptions Milestones"
+        },
+        {
+            "id": 330,
+            "name": "Longest Total Field Goals"
+        },
+        {
+            "id": 331,
+            "name": "Team to Lead After Every Quarter"
+        },
+        {
+            "id": 332,
+            "name": "Player Rushing Attempts"
+        },
+        {
+            "id": 333,
+            "name": "Special Team or Defensive Touchdown Scored"
+        },
+        {
+            "id": 334,
+            "name": "Player Kicking Points"
+        },
+        {
+            "id": 335,
+            "name": "Player Passing Touchdowns"
+        },
+        {
+            "id": 336,
+            "name": "Player Passing Yards"
+        },
+        {
+            "id": 337,
+            "name": "Total Field Goals"
+        },
+        {
+            "id": 338,
+            "name": "Total Touchdowns"
+        },
+        {
+            "id": 339,
+            "name": "Any Quarter to End Scoreless"
+        },
+        {
+            "id": 340,
+            "name": "Home to Score (1st Quarter)"
+        },
+        {
+            "id": 341,
+            "name": "Team to Win Every Quarter 2"
+        },
+        {
+            "id": 342,
+            "name": "Player Longest Pass Completion"
+        },
+        {
+            "id": 343,
+            "name": "Longest Total Touchdowns"
+        },
+        {
+            "id": 344,
+            "name": "Away to Score (1st Quarter)"
+        },
+        {
+            "id": 345,
+            "name": "Player Interceptions"
+        },
+        {
+            "id": 346,
+            "name": "Home Player Interceptions"
+        },
+        {
+            "id": 347,
+            "name": "Both Teams To Score (2nd Quarter)"
+        },
+        {
+            "id": 348,
+            "name": "Both Teams To Score (3rd Quarter)"
+        },
+        {
+            "id": 349,
+            "name": "Both Teams To Score (4th Quarter)"
+        },
+        {
+            "id": 350,
+            "name": "Successful 2 Point Conversion"
+        },
+        {
+            "id": 351,
+            "name": "Safety"
+        },
+        {
+            "id": 352,
+            "name": "A Score in Last Two Minutes of the 1st Half"
+        },
+        {
+            "id": 353,
+            "name": "Team to Win Every Quarter 1"
+        },
+        {
+            "id": 354,
+            "name": "Total Rushing Touchdowns"
+        },
+        {
+            "id": 355,
+            "name": "Total Rushing Attempts"
+        },
+        {
+            "id": 356,
+            "name": "Total Passing Touchdowns"
+        },
+        {
+            "id": 357,
+            "name": "Total Rushing Yards"
+        },
+        {
+            "id": 358,
+            "name": "Shortest Total Touchdowns"
+        },
+        {
+            "id": 359,
+            "name": "First Touchdown Shirt Odd/Even"
+        },
+        {
+            "id": 360,
+            "name": "Team to Score Last"
+        },
+        {
+            "id": 361,
+            "name": "Multi Try Scorer (2 or More)"
+        }
+    ]
+}

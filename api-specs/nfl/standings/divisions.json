@@ -1,0 +1,19 @@
+{
+    "get": "standings/divisions",
+    "parameters": {
+        "league": "1",
+        "season": "2024"
+    },
+    "errors": [],
+    "results": 8,
+    "response": [
+        "AFC East",
+        "AFC North",
+        "AFC South",
+        "AFC West",
+        "NFC East",
+        "NFC North",
+        "NFC South",
+        "NFC West"
+    ]
+}

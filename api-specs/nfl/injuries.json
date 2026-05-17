@@ -1,0 +1,160 @@
+{
+    "get": "injuries",
+    "parameters": {
+        "team": "1"
+    },
+    "errors": [],
+    "results": 10,
+    "response": [
+        {
+            "player": {
+                "id": 14653,
+                "name": "Jackson PowersJohnson",
+                "image": "https://media.api-sports.io/american-football/players/14653.png"
+            },
+            "team": {
+                "id": 1,
+                "name": "Las Vegas Raiders",
+                "logo": "https://media.api-sports.io/american-football/teams/1.png"
+            },
+            "date": "2026-03-02",
+            "status": "Questionable",
+            "description": "Ankle - Questionable for start of Training Camp"
+        },
+        {
+            "player": {
+                "id": 25135,
+                "name": "Brennan Jackson",
+                "image": "https://media.api-sports.io/american-football/players/25135.png"
+            },
+            "team": {
+                "id": 1,
+                "name": "Las Vegas Raiders",
+                "logo": "https://media.api-sports.io/american-football/teams/1.png"
+            },
+            "date": "2026-03-02",
+            "status": "Questionable",
+            "description": "Foot - Questionable for start of Training Camp"
+        },
+        {
+            "player": {
+                "id": 1407,
+                "name": "Jeremy Chinn",
+                "image": "https://media.api-sports.io/american-football/players/1407.png"
+            },
+            "team": {
+                "id": 1,
+                "name": "Las Vegas Raiders",
+                "logo": "https://media.api-sports.io/american-football/teams/1.png"
+            },
+            "date": "2026-03-02",
+            "status": "Questionable",
+            "description": "Back - Questionable for start of Training Camp"
+        },
+        {
+            "player": {
+                "id": 30,
+                "name": "Kolton Miller",
+                "image": "https://media.api-sports.io/american-football/players/30.png"
+            },
+            "team": {
+                "id": 1,
+                "name": "Las Vegas Raiders",
+                "logo": "https://media.api-sports.io/american-football/teams/1.png"
+            },
+            "date": "2026-03-02",
+            "status": "Questionable",
+            "description": "Ankle - Questionable for start of Training Camp"
+        },
+        {
+            "player": {
+                "id": 35966,
+                "name": "Jordan Meredith",
+                "image": "https://media.api-sports.io/american-football/players/35966.png"
+            },
+            "team": {
+                "id": 1,
+                "name": "Las Vegas Raiders",
+                "logo": "https://media.api-sports.io/american-football/teams/1.png"
+            },
+            "date": "2026-03-02",
+            "status": "Questionable",
+            "description": "Ankle - Questionable for start of Training Camp"
+        },
+        {
+            "player": {
+                "id": 62,
+                "name": "Isaiah Pola-Mao",
+                "image": "https://media.api-sports.io/american-football/players/62.png"
+            },
+            "team": {
+                "id": 1,
+                "name": "Las Vegas Raiders",
+                "logo": "https://media.api-sports.io/american-football/teams/1.png"
+            },
+            "date": "2026-03-02",
+            "status": "Questionable",
+            "description": "Shoulder - Questionable for start of Training Camp"
+        },
+        {
+            "player": {
+                "id": 3167,
+                "name": "Adam Butler",
+                "image": "https://media.api-sports.io/american-football/players/3167.png"
+            },
+            "team": {
+                "id": 1,
+                "name": "Las Vegas Raiders",
+                "logo": "https://media.api-sports.io/american-football/teams/1.png"
+            },
+            "date": "2026-03-02",
+            "status": "Questionable",
+            "description": "Biceps - Questionable for start of Training Camp"
+        },
+        {
+            "player": {
+                "id": 14497,
+                "name": "Brock Bowers",
+                "image": "https://media.api-sports.io/american-football/players/14497.png"
+            },
+            "team": {
+                "id": 1,
+                "name": "Las Vegas Raiders",
+                "logo": "https://media.api-sports.io/american-football/teams/1.png"
+            },
+            "date": "2026-02-12",
+            "status": "Questionable",
+            "description": "Knee - PCL - Questionable for start of Training Camp"
+        },
+        {
+            "player": {
+                "id": 24026,
+                "name": "Kyu Blu Kelly",
+                "image": "https://media.api-sports.io/american-football/players/24026.png"
+            },
+            "team": {
+                "id": 1,
+                "name": "Las Vegas Raiders",
+                "logo": "https://media.api-sports.io/american-football/teams/1.png"
+            },
+            "date": "2026-02-12",
+            "status": "Questionable",
+            "description": "Knee - Questionable for start of Training Camp"
+        },
+        {
+            "player": {
+                "id": 34,
+                "name": "Maxx Crosby",
+                "image": "https://media.api-sports.io/american-football/players/34.png"
+            },
+            "team": {
+                "id": 1,
+                "name": "Las Vegas Raiders",
+                "logo": "https://media.api-sports.io/american-football/teams/1.png"
+            },
+            "date": "2026-02-12",
+            "status": "Questionable",
+            "description": "Knee - Questionable for start of Training Camp"
+        }
+    ]
+}

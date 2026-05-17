@@ -1,0 +1,130 @@
+{
+    "get": "games/events",
+    "parameters": {
+        "id": "13146"
+    },
+    "errors": [],
+    "results": 6,
+    "response": [
+        {
+            "quarter": "First",
+            "minute": "8:39",
+            "team": {
+                "id": 26,
+                "name": "Houston Texans",
+                "logo": "https://media.api-sports.io/american-football/teams/26.png"
+            },
+            "player": {
+                "id": 1871,
+                "name": "Teagan Quitoriano",
+                "image": "https://media.api-sports.io/american-football/players/1871.png"
+            },
+            "type": "TD",
+            "comment": "Teagan Quitoriano 9 Yd pass from Davis Mills (Ka'imi Fairbairn Kick)",
+            "score": {
+                "home": 0,
+                "away": 7
+            }
+        },
+        {
+            "quarter": "Second",
+            "minute": "12:13",
+            "team": {
+                "id": 26,
+                "name": "Houston Texans",
+                "logo": "https://media.api-sports.io/american-football/teams/26.png"
+            },
+            "player": {
+                "id": 1920,
+                "name": "Ka'imi Fairbairn",
+                "image": "https://media.api-sports.io/american-football/players/1920.png"
+            },
+            "type": "FG",
+            "comment": "Ka'imi Fairbairn 33 Yd Field Goal",
+            "score": {
+                "home": 0,
+                "away": 10
+            }
+        },
+        {
+            "quarter": "Second",
+            "minute": "8:22",
+            "team": {
+                "id": 16,
+                "name": "Chicago Bears",
+                "logo": "https://media.api-sports.io/american-football/teams/16.png"
+            },
+            "player": {
+                "id": 227,
+                "name": "Collin Johnson",
+                "image": "https://media.api-sports.io/american-football/players/227.png"
+            },
+            "type": "TD",
+            "comment": "Collin Johnson 20 Yd pass from Brett Rypien (Cairo Santos Kick)",
+            "score": {
+                "home": 7,
+                "away": 10
+            }
+        },
+        {
+            "quarter": "Second",
+            "minute": "1:44",
+            "team": {
+                "id": 26,
+                "name": "Houston Texans",
+                "logo": "https://media.api-sports.io/american-football/teams/26.png"
+            },
+            "player": {
+                "id": 2229,
+                "name": "Cam Akers",
+                "image": "https://media.api-sports.io/american-football/players/2229.png"
+            },
+            "type": "TD",
+            "comment": "Cam Akers 4 Yd pass from Case Keenum (Ka'imi Fairbairn Kick)",
+            "score": {
+                "home": 7,
+                "away": 17
+            }
+        },
+        {
+            "quarter": "Second",
+            "minute": "0:46",
+            "team": {
+                "id": 16,
+                "name": "Chicago Bears",
+                "logo": "https://media.api-sports.io/american-football/teams/16.png"
+            },
+            "player": {
+                "id": 1436,
+                "name": "Tommy Sweeney",
+                "image": "https://media.api-sports.io/american-football/players/1436.png"
+            },
+            "type": "TD",
+            "comment": "Tommy Sweeney 22 Yd pass from Brett Rypien (Cairo Santos Kick)",
+            "score": {
+                "home": 14,
+                "away": 17
+            }
+        },
+        {
+            "quarter": "Third",
+            "minute": "11:39",
+            "team": {
+                "id": 16,
+                "name": "Chicago Bears",
+                "logo": "https://media.api-sports.io/american-football/teams/16.png"
+            },
+            "player": {
+                "id": 227,
+                "name": "Collin Johnson",
+                "image": "https://media.api-sports.io/american-football/players/227.png"
+            },
+            "type": "TD",
+            "comment": "Collin Johnson 9 Yd pass from Brett Rypien (Cairo Santos Kick)",
+            "score": {
+                "home": 21,
+                "away": 17
+            }
+        }
+    ]
+}

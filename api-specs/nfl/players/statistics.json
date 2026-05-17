@@ -1,0 +1,135 @@
+{
+    "get": "players/statistics",
+    "parameters": {
+        "id": "1",
+        "season": "2022"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+        {
+            "player": {
+                "id": 1,
+                "name": "Derek Carr",
+                "image": "https://media.api-sports.io/american-football/players/1.png"
+            },
+            "teams": [
+                {
+                    "team": {
+                        "id": 1,
+                        "name": "Las Vegas Raiders",
+                        "logo": "https://media.api-sports.io/american-football/teams/1.png"
+                    },
+                    "groups": [
+                        {
+                            "name": "Passing",
+                            "statistics": [
+                                {
+                                    "name": "passing attempts",
+                                    "value": "502"
+                                },
+                                {
+                                    "name": "completions",
+                                    "value": "305"
+                                },
+                                {
+                                    "name": "completion pct",
+                                    "value": "60.8"
+                                },
+                                {
+                                    "name": "yards",
+                                    "value": "3,522"
+                                },
+                                {
+                                    "name": "yards per pass avg",
+                                    "value": "7.0"
+                                },
+                                {
+                                    "name": "yards per game",
+                                    "value": "234.8"
+                                },
+                                {
+                                    "name": "longest pass",
+                                    "value": "60"
+                                },
+                                {
+                                    "name": "passing touchdowns",
+                                    "value": "24"
+                                },
+                                {
+                                    "name": "passing touchdowns pct",
+                                    "value": null
+                                },
+                                {
+                                    "name": "interceptions",
+                                    "value": "14"
+                                },
+                                {
+                                    "name": "interceptions pct",
+                                    "value": null
+                                },
+                                {
+                                    "name": "sacks",
+                                    "value": "27"
+                                },
+                                {
+                                    "name": "sacked yards lost",
+                                    "value": "191"
+                                },
+                                {
+                                    "name": "quaterback rating",
+                                    "value": "86.3"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Rushing",
+                            "statistics": [
+                                {
+                                    "name": "rushing attempts",
+                                    "value": "24"
+                                },
+                                {
+                                    "name": "yards",
+                                    "value": "102"
+                                },
+                                {
+                                    "name": "yards per rush avg",
+                                    "value": "4.3"
+                                },
+                                {
+                                    "name": "longest rush",
+                                    "value": "20"
+                                },
+                                {
+                                    "name": "over 20 yards",
+                                    "value": "1"
+                                },
+                                {
+                                    "name": "rushing touchdowns",
+                                    "value": "0"
+                                },
+                                {
+                                    "name": "yards per game",
+                                    "value": "6.8"
+                                },
+                                {
+                                    "name": "fumbles",
+                                    "value": "1"
+                                },
+                                {
+                                    "name": "fumbles lost",
+                                    "value": "0"
+                                },
+                                {
+                                    "name": "rushing first downs",
+                                    "value": "10"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

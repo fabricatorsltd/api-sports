@@ -1,0 +1,24 @@
+{
+    "get": "players",
+    "parameters": {
+        "id": "1"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+        {
+            "id": 1,
+            "name": "Derek Carr",
+            "age": 33,
+            "height": "6' 3\"",
+            "weight": "215 lbs",
+            "college": "Fresno State",
+            "group": "Offense",
+            "position": "QB",
+            "number": 4,
+            "salary": null,
+            "experience": 11,
+            "image": "https://media.api-sports.io/american-football/players/1.png"
+        }
+    ]
+}
