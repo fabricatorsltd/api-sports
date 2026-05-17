@@ -1,0 +1,371 @@
+{
+    "get": "standings",
+    "parameters": {
+        "league": "1",
+        "season": "2024"
+    },
+    "errors": [],
+    "results": 18,
+    "response": [
+        {
+            "position": 1,
+            "team": {
+                "id": 14,
+                "name": "Sydney Swans",
+                "logo": "https://media.api-sports.io/afl/teams/14.png"
+            },
+            "pts": 68,
+            "games": {
+                "played": 23,
+                "win": 17,
+                "drawn": 0,
+                "lost": 6
+            },
+            "points": {
+                "for": 2242,
+                "against": 1769
+            },
+            "last_5": "WWWLL"
+        },
+        {
+            "position": 2,
+            "team": {
+                "id": 11,
+                "name": "Port Adelaide Power",
+                "logo": "https://media.api-sports.io/afl/teams/11.png"
+            },
+            "pts": 64,
+            "games": {
+                "played": 23,
+                "win": 16,
+                "drawn": 0,
+                "lost": 7
+            },
+            "points": {
+                "for": 2011,
+                "against": 1752
+            },
+            "last_5": "WWWWW"
+        },
+        {
+            "position": 3,
+            "team": {
+                "id": 7,
+                "name": "Geelong Cats",
+                "logo": "https://media.api-sports.io/afl/teams/7.png"
+            },
+            "pts": 60,
+            "games": {
+                "played": 23,
+                "win": 15,
+                "drawn": 0,
+                "lost": 8
+            },
+            "points": {
+                "for": 2164,
+                "against": 1928
+            },
+            "last_5": "WLWWW"
+        },
+        {
+            "position": 4,
+            "team": {
+                "id": 18,
+                "name": "Greater Western Sydney Giants",
+                "logo": "https://media.api-sports.io/afl/teams/18.png"
+            },
+            "pts": 60,
+            "games": {
+                "played": 23,
+                "win": 15,
+                "drawn": 0,
+                "lost": 8
+            },
+            "points": {
+                "for": 2034,
+                "against": 1864
+            },
+            "last_5": "LWWWW"
+        },
+        {
+            "position": 5,
+            "team": {
+                "id": 2,
+                "name": "Brisbane Lions",
+                "logo": "https://media.api-sports.io/afl/teams/2.png"
+            },
+            "pts": 58,
+            "games": {
+                "played": 23,
+                "win": 14,
+                "drawn": 1,
+                "lost": 8
+            },
+            "points": {
+                "for": 2130,
+                "against": 1747
+            },
+            "last_5": "WLLWW"
+        },
+        {
+            "position": 6,
+            "team": {
+                "id": 16,
+                "name": "Western Bulldogs",
+                "logo": "https://media.api-sports.io/afl/teams/16.png"
+            },
+            "pts": 56,
+            "games": {
+                "played": 23,
+                "win": 14,
+                "drawn": 0,
+                "lost": 9
+            },
+            "points": {
+                "for": 2171,
+                "against": 1736
+            },
+            "last_5": "WWLWW"
+        },
+        {
+            "position": 7,
+            "team": {
+                "id": 8,
+                "name": "Hawthorn Hawks",
+                "logo": "https://media.api-sports.io/afl/teams/8.png"
+            },
+            "pts": 56,
+            "games": {
+                "played": 23,
+                "win": 14,
+                "drawn": 0,
+                "lost": 9
+            },
+            "points": {
+                "for": 2090,
+                "against": 1763
+            },
+            "last_5": "WWWLW"
+        },
+        {
+            "position": 8,
+            "team": {
+                "id": 3,
+                "name": "Carlton Blues",
+                "logo": "https://media.api-sports.io/afl/teams/3.png"
+            },
+            "pts": 52,
+            "games": {
+                "played": 23,
+                "win": 13,
+                "drawn": 0,
+                "lost": 10
+            },
+            "points": {
+                "for": 2151,
+                "against": 1952
+            },
+            "last_5": "LWLLL"
+        },
+        {
+            "position": 9,
+            "team": {
+                "id": 4,
+                "name": "Collingwood Magpies",
+                "logo": "https://media.api-sports.io/afl/teams/4.png"
+            },
+            "pts": 52,
+            "games": {
+                "played": 23,
+                "win": 12,
+                "drawn": 2,
+                "lost": 9
+            },
+            "points": {
+                "for": 1991,
+                "against": 1943
+            },
+            "last_5": "WWLWW"
+        },
+        {
+            "position": 10,
+            "team": {
+                "id": 6,
+                "name": "Fremantle Dockers",
+                "logo": "https://media.api-sports.io/afl/teams/6.png"
+            },
+            "pts": 50,
+            "games": {
+                "played": 23,
+                "win": 12,
+                "drawn": 1,
+                "lost": 10
+            },
+            "points": {
+                "for": 1964,
+                "against": 1755
+            },
+            "last_5": "LLLLW"
+        },
+        {
+            "position": 11,
+            "team": {
+                "id": 5,
+                "name": "Essendon Bombers",
+                "logo": "https://media.api-sports.io/afl/teams/5.png"
+            },
+            "pts": 46,
+            "games": {
+                "played": 23,
+                "win": 11,
+                "drawn": 1,
+                "lost": 11
+            },
+            "points": {
+                "for": 1892,
+                "against": 2024
+            },
+            "last_5": "LLLWL"
+        },
+        {
+            "position": 12,
+            "team": {
+                "id": 13,
+                "name": "St Kilda Saints",
+                "logo": "https://media.api-sports.io/afl/teams/13.png"
+            },
+            "pts": 44,
+            "games": {
+                "played": 23,
+                "win": 11,
+                "drawn": 0,
+                "lost": 12
+            },
+            "points": {
+                "for": 1748,
+                "against": 1758
+            },
+            "last_5": "WWWLW"
+        },
+        {
+            "position": 13,
+            "team": {
+                "id": 17,
+                "name": "Gold Coast Suns",
+                "logo": "https://media.api-sports.io/afl/teams/17.png"
+            },
+            "pts": 44,
+            "games": {
+                "played": 23,
+                "win": 11,
+                "drawn": 0,
+                "lost": 12
+            },
+            "points": {
+                "for": 1925,
+                "against": 1943
+            },
+            "last_5": "WLWLL"
+        },
+        {
+            "position": 14,
+            "team": {
+                "id": 9,
+                "name": "Melbourne Demons",
+                "logo": "https://media.api-sports.io/afl/teams/9.png"
+            },
+            "pts": 44,
+            "games": {
+                "played": 23,
+                "win": 11,
+                "drawn": 0,
+                "lost": 12
+            },
+            "points": {
+                "for": 1785,
+                "against": 1812
+            },
+            "last_5": "LWLLL"
+        },
+        {
+            "position": 15,
+            "team": {
+                "id": 1,
+                "name": "Adelaide Crows",
+                "logo": "https://media.api-sports.io/afl/teams/1.png"
+            },
+            "pts": 34,
+            "games": {
+                "played": 23,
+                "win": 8,
+                "drawn": 1,
+                "lost": 14
+            },
+            "points": {
+                "for": 1906,
+                "against": 1923
+            },
+            "last_5": "LLWLL"
+        },
+        {
+            "position": 16,
+            "team": {
+                "id": 15,
+                "name": "West Coast Eagles",
+                "logo": "https://media.api-sports.io/afl/teams/15.png"
+            },
+            "pts": 20,
+            "games": {
+                "played": 23,
+                "win": 5,
+                "drawn": 0,
+                "lost": 18
+            },
+            "points": {
+                "for": 1594,
+                "against": 2339
+            },
+            "last_5": "LLWWL"
+        },
+        {
+            "position": 17,
+            "team": {
+                "id": 10,
+                "name": "North Melbourne Kangaroos",
+                "logo": "https://media.api-sports.io/afl/teams/10.png"
+            },
+            "pts": 12,
+            "games": {
+                "played": 23,
+                "win": 3,
+                "drawn": 0,
+                "lost": 20
+            },
+            "points": {
+                "for": 1619,
+                "against": 2550
+            },
+            "last_5": "LLLWL"
+        },
+        {
+            "position": 18,
+            "team": {
+                "id": 12,
+                "name": "Richmond Tigers",
+                "logo": "https://media.api-sports.io/afl/teams/12.png"
+            },
+            "pts": 8,
+            "games": {
+                "played": 23,
+                "win": 2,
+                "drawn": 0,
+                "lost": 21
+            },
+            "points": {
+                "for": 1505,
+                "against": 2364
+            },
+            "last_5": "LLLLL"
+        }
+    ]
+}

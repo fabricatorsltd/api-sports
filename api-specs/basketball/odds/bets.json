@@ -1,0 +1,988 @@
+{
+    "get": "bets",
+    "parameters": [],
+    "errors": [],
+    "results": 245,
+    "response": [
+        {
+            "id": 1,
+            "name": "3Way Result"
+        },
+        {
+            "id": 2,
+            "name": "Home/Away"
+        },
+        {
+            "id": 3,
+            "name": "Asian Handicap"
+        },
+        {
+            "id": 4,
+            "name": "Over/Under"
+        },
+        {
+            "id": 5,
+            "name": "Over/Under 1st Half"
+        },
+        {
+            "id": 6,
+            "name": "Highest Scoring Half"
+        },
+        {
+            "id": 7,
+            "name": "Double Chance"
+        },
+        {
+            "id": 8,
+            "name": "1st Half 3Way Result"
+        },
+        {
+            "id": 9,
+            "name": "Handicap Result 1st Half"
+        },
+        {
+            "id": 10,
+            "name": "Asian Handicap First Half"
+        },
+        {
+            "id": 11,
+            "name": "Asian Handicap 2nd Qtr"
+        },
+        {
+            "id": 12,
+            "name": "Odd/Even (Including OT)"
+        },
+        {
+            "id": 13,
+            "name": "Odd/Even 1st Half"
+        },
+        {
+            "id": 14,
+            "name": "3Way Result - 1st Qtr"
+        },
+        {
+            "id": 15,
+            "name": "HT/FT (Including OT)"
+        },
+        {
+            "id": 16,
+            "name": "Over/Under 1st Qtr"
+        },
+        {
+            "id": 17,
+            "name": "Asian Handicap 1st Qtr"
+        },
+        {
+            "id": 18,
+            "name": "Home/Away - 1st Half"
+        },
+        {
+            "id": 19,
+            "name": "Home/Away - 1st Qtr"
+        },
+        {
+            "id": 20,
+            "name": "Home Team Total Goals(1st Half)"
+        },
+        {
+            "id": 21,
+            "name": "Away Team Total Goals(1st Half)"
+        },
+        {
+            "id": 22,
+            "name": "Highest Scoring Quarter"
+        },
+        {
+            "id": 23,
+            "name": "Home Team Total Points (1st Quarter)"
+        },
+        {
+            "id": 24,
+            "name": "Away Team Total Points (1st Quarter)"
+        },
+        {
+            "id": 25,
+            "name": "Double Chance (1st Quarter)"
+        },
+        {
+            "id": 26,
+            "name": "Odd/Even (1st Quarter)"
+        },
+        {
+            "id": 27,
+            "name": "European Handicap"
+        },
+        {
+            "id": 28,
+            "name": "Home Team Total Goals (Including OT)"
+        },
+        {
+            "id": 29,
+            "name": "Away Team Total Goals (Including OT)"
+        },
+        {
+            "id": 30,
+            "name": "2nd Half 3Way Result"
+        },
+        {
+            "id": 31,
+            "name": "Over/Under 2nd Half"
+        },
+        {
+            "id": 32,
+            "name": "Asian Handicap 3rd Qtr"
+        },
+        {
+            "id": 33,
+            "name": "Asian Handicap 4th Qtr"
+        },
+        {
+            "id": 34,
+            "name": "Overtime"
+        },
+        {
+            "id": 35,
+            "name": "Odd/Even"
+        },
+        {
+            "id": 36,
+            "name": "Home Odd/Even"
+        },
+        {
+            "id": 37,
+            "name": "Away Odd/Even"
+        },
+        {
+            "id": 38,
+            "name": "3Way Result - 2nd Qtr"
+        },
+        {
+            "id": 39,
+            "name": "3Way Result - 3rd Qtr"
+        },
+        {
+            "id": 40,
+            "name": "3Way Result - 4th Qtr"
+        },
+        {
+            "id": 41,
+            "name": "Home Winning Margin (14-Way)"
+        },
+        {
+            "id": 42,
+            "name": "Away Winning Margin (14-Way)"
+        },
+        {
+            "id": 43,
+            "name": "Home Winning Margin (12-Way)"
+        },
+        {
+            "id": 44,
+            "name": "Away Winning Margin (14-Way)"
+        },
+        {
+            "id": 45,
+            "name": "Over/Under 2nd Qtr"
+        },
+        {
+            "id": 46,
+            "name": "Over/Under 3rd Qtr"
+        },
+        {
+            "id": 47,
+            "name": "Over/Under 4th Qtr"
+        },
+        {
+            "id": 48,
+            "name": "1x2 Margin"
+        },
+        {
+            "id": 49,
+            "name": "Asian Handicap (2nd Half)"
+        },
+        {
+            "id": 50,
+            "name": "Home Team Total Goals(2nd Half)"
+        },
+        {
+            "id": 51,
+            "name": "Away Team Total Goals(2nd Half)"
+        },
+        {
+            "id": 52,
+            "name": "Home Team Total Points (2nd Quarter)"
+        },
+        {
+            "id": 53,
+            "name": "Away Team Total Points (2nd Quarter)"
+        },
+        {
+            "id": 54,
+            "name": "Home Team Total Points (3rd Quarter)"
+        },
+        {
+            "id": 55,
+            "name": "Away Team Total Points (3rd Quarter)"
+        },
+        {
+            "id": 56,
+            "name": "Home Team Total Points (4th Quarter)"
+        },
+        {
+            "id": 57,
+            "name": "Away Team Total Points (4th Quarter)"
+        },
+        {
+            "id": 58,
+            "name": "Double Chance (4th Quarter)"
+        },
+        {
+            "id": 59,
+            "name": "Odd/Even (2nd Half)"
+        },
+        {
+            "id": 60,
+            "name": "Away Odd/Even (1st Half)"
+        },
+        {
+            "id": 61,
+            "name": "Away Odd/Even (2nd Half)"
+        },
+        {
+            "id": 62,
+            "name": "Double Chance (2nd Quarter)"
+        },
+        {
+            "id": 63,
+            "name": "Double Chance (3rd Quarter)"
+        },
+        {
+            "id": 64,
+            "name": "Home Odd/Even (1st Half)"
+        },
+        {
+            "id": 65,
+            "name": "Home Odd/Even (2nd Half)"
+        },
+        {
+            "id": 66,
+            "name": "Odd/Even (2nd Quarter)"
+        },
+        {
+            "id": 67,
+            "name": "Odd/Even (3rd Quarter)"
+        },
+        {
+            "id": 68,
+            "name": "Odd/Even (4th Quarter)"
+        },
+        {
+            "id": 69,
+            "name": "Home Odd/Even (1st Quarter)"
+        },
+        {
+            "id": 70,
+            "name": "Home Odd/Even (2nd Quarter)"
+        },
+        {
+            "id": 71,
+            "name": "Home Odd/Even (3rd Quarter)"
+        },
+        {
+            "id": 72,
+            "name": "Home Odd/Even (4th Quarter)"
+        },
+        {
+            "id": 73,
+            "name": "Away Odd/Even (1st Quarter)"
+        },
+        {
+            "id": 74,
+            "name": "Away Odd/Even (2nd Quarter)"
+        },
+        {
+            "id": 75,
+            "name": "Away Odd/Even (3rd Quarter)"
+        },
+        {
+            "id": 76,
+            "name": "Away Odd/Even (4th Quarter)"
+        },
+        {
+            "id": 77,
+            "name": "Race to 12 Points"
+        },
+        {
+            "id": 78,
+            "name": "Race to 25 Points"
+        },
+        {
+            "id": 79,
+            "name": "Race to 45 Points"
+        },
+        {
+            "id": 80,
+            "name": "HT/FT Double"
+        },
+        {
+            "id": 81,
+            "name": "Home/Away - 3rd Qtr"
+        },
+        {
+            "id": 82,
+            "name": "Home/Away - 4th Qtr"
+        },
+        {
+            "id": 83,
+            "name": "Race to 20 Points"
+        },
+        {
+            "id": 84,
+            "name": "Home/Away - 2nd Qtr"
+        },
+        {
+            "id": 85,
+            "name": "Home/Away - 2nd Half"
+        },
+        {
+            "id": 86,
+            "name": "European Handicap (1st Quarter)"
+        },
+        {
+            "id": 87,
+            "name": "Home Odd/Even (OT)"
+        },
+        {
+            "id": 88,
+            "name": "Away Odd/Even (OT)"
+        },
+        {
+            "id": 89,
+            "name": "Race to 10 Points"
+        },
+        {
+            "id": 90,
+            "name": "Race to 50 Points"
+        },
+        {
+            "id": 91,
+            "name": "Handicap Result"
+        },
+        {
+            "id": 92,
+            "name": "Both Teams To Score"
+        },
+        {
+            "id": 93,
+            "name": "Correct Score"
+        },
+        {
+            "id": 94,
+            "name": "Correct Score 1st Half"
+        },
+        {
+            "id": 95,
+            "name": "Team To Score First"
+        },
+        {
+            "id": 96,
+            "name": "Asian Handicap (OT)"
+        },
+        {
+            "id": 97,
+            "name": "Over/Under (OT)"
+        },
+        {
+            "id": 98,
+            "name": "Asian Handicap (OT)"
+        },
+        {
+            "id": 99,
+            "name": "Asian Handicap 2nd Qtr"
+        },
+        {
+            "id": 100,
+            "name": "Total - Home"
+        },
+        {
+            "id": 101,
+            "name": "Total - Away"
+        },
+        {
+            "id": 102,
+            "name": "Race to 40 Points"
+        },
+        {
+            "id": 103,
+            "name": "Race to 30 Points"
+        },
+        {
+            "id": 104,
+            "name": null
+        },
+        {
+            "id": 105,
+            "name": "European Handicap (2nd Half)"
+        },
+        {
+            "id": 106,
+            "name": "European Handicap (3rd Quarter)"
+        },
+        {
+            "id": 107,
+            "name": "European Handicap (4th Quarter)"
+        },
+        {
+            "id": 108,
+            "name": "European Handicap (2nd Quarter)"
+        },
+        {
+            "id": 109,
+            "name": "Winning Margin 3-Way"
+        },
+        {
+            "id": 110,
+            "name": "Asian Handicap 2nd Qtr"
+        },
+        {
+            "id": 111,
+            "name": "Asian Handicap (3rd Quarter)"
+        },
+        {
+            "id": 112,
+            "name": "Player Runs"
+        },
+        {
+            "id": 113,
+            "name": "Both halves total over"
+        },
+        {
+            "id": 114,
+            "name": "Both halves total under"
+        },
+        {
+            "id": 115,
+            "name": "All quarters total over"
+        },
+        {
+            "id": 116,
+            "name": "All quarters total under"
+        },
+        {
+            "id": 117,
+            "name": "Player Points"
+        },
+        {
+            "id": 118,
+            "name": "Player Assists"
+        },
+        {
+            "id": 119,
+            "name": "Player Singles"
+        },
+        {
+            "id": 120,
+            "name": "Player Triples"
+        },
+        {
+            "id": 121,
+            "name": "Player Stolen Bases"
+        },
+        {
+            "id": 122,
+            "name": "Race To"
+        },
+        {
+            "id": 123,
+            "name": "Total (3W) (1st Half)"
+        },
+        {
+            "id": 124,
+            "name": "Total (3W) (1st Q)"
+        },
+        {
+            "id": 125,
+            "name": "Race to (1st Quarter)"
+        },
+        {
+            "id": 126,
+            "name": "Home Winning Margin (1st Half)"
+        },
+        {
+            "id": 127,
+            "name": "Away Winning Margin (1st Half)"
+        },
+        {
+            "id": 128,
+            "name": "Home Winning Margin (1st Quarter)"
+        },
+        {
+            "id": 129,
+            "name": "Away Winning Margin (1st Quarter)"
+        },
+        {
+            "id": 130,
+            "name": "Result and Both Teams to Score X Points"
+        },
+        {
+            "id": 131,
+            "name": "Quarter Correct Score"
+        },
+        {
+            "id": 132,
+            "name": "Home Player Assists"
+        },
+        {
+            "id": 133,
+            "name": "Away Player Assists"
+        },
+        {
+            "id": 134,
+            "name": "Away Player Passes"
+        },
+        {
+            "id": 135,
+            "name": "Away Player Rebounds"
+        },
+        {
+            "id": 136,
+            "name": "Home Player Rebounds"
+        },
+        {
+            "id": 137,
+            "name": "Player Threes Made"
+        },
+        {
+            "id": 138,
+            "name": "Player Rebounds Milestones"
+        },
+        {
+            "id": 139,
+            "name": "Home Player Passes"
+        },
+        {
+            "id": 140,
+            "name": "Home Player Shots"
+        },
+        {
+            "id": 141,
+            "name": "Away Player Shots"
+        },
+        {
+            "id": 142,
+            "name": "Home Player Tackles"
+        },
+        {
+            "id": 143,
+            "name": "Away Player Tackles"
+        },
+        {
+            "id": 144,
+            "name": "Player Points and Rebounds"
+        },
+        {
+            "id": 145,
+            "name": "Player Points High"
+        },
+        {
+            "id": 146,
+            "name": "Player Points Low"
+        },
+        {
+            "id": 147,
+            "name": "Player Rebounds (1st Quarter)"
+        },
+        {
+            "id": 148,
+            "name": "Player Triple Double"
+        },
+        {
+            "id": 149,
+            "name": "Margin Of Victory (2nd Quarter)"
+        },
+        {
+            "id": 150,
+            "name": "Player Assists and Rebounds"
+        },
+        {
+            "id": 151,
+            "name": "Home Player Points and Rebounds"
+        },
+        {
+            "id": 152,
+            "name": "Away Player Points and Rebounds"
+        },
+        {
+            "id": 153,
+            "name": "Player Points Milestones"
+        },
+        {
+            "id": 154,
+            "name": "Home Player Points Milestones"
+        },
+        {
+            "id": 155,
+            "name": "Handicap and Total"
+        },
+        {
+            "id": 156,
+            "name": "Team With Highest Scoring Quarter"
+        },
+        {
+            "id": 157,
+            "name": "Away Player Points Milestones"
+        },
+        {
+            "id": 158,
+            "name": "Home Team to Score X Points (1st Half)"
+        },
+        {
+            "id": 159,
+            "name": "Away Team to Score X Points (1st Half)"
+        },
+        {
+            "id": 160,
+            "name": "Player Points and Assists"
+        },
+        {
+            "id": 161,
+            "name": "Home Player Points and Assists"
+        },
+        {
+            "id": 162,
+            "name": "Away Player Points and Assists"
+        },
+        {
+            "id": 163,
+            "name": "Home Player Rebounds Milestones"
+        },
+        {
+            "id": 164,
+            "name": "Away Player Rebounds Milestones"
+        },
+        {
+            "id": 165,
+            "name": "Player Threes Made Milestones"
+        },
+        {
+            "id": 166,
+            "name": "Away Player Threes Made Milestones"
+        },
+        {
+            "id": 167,
+            "name": "Result/Total Goals (1st Quarter)"
+        },
+        {
+            "id": 168,
+            "name": "Game Total (Bands) 3-Way"
+        },
+        {
+            "id": 169,
+            "name": "Handicap and Total (1st Half)"
+        },
+        {
+            "id": 170,
+            "name": "Handicap and Total (1st Quarter)"
+        },
+        {
+            "id": 171,
+            "name": "Both Teams to Score X Points (1st Half)"
+        },
+        {
+            "id": 172,
+            "name": "Both Teams to Score X Points (1st Quarter)"
+        },
+        {
+            "id": 173,
+            "name": "Game Total (Bands) 8-Way"
+        },
+        {
+            "id": 174,
+            "name": "Home Team to Score X Points (1st Quarter)"
+        },
+        {
+            "id": 175,
+            "name": "Tied at End Of Regulation"
+        },
+        {
+            "id": 176,
+            "name": "Away Team to Score X Points (1st Quarter)"
+        },
+        {
+            "id": 177,
+            "name": "Margin Of Victory (1st Quarter)"
+        },
+        {
+            "id": 178,
+            "name": "Winning Margin 7-Way"
+        },
+        {
+            "id": 179,
+            "name": "Player Assists Milestones"
+        },
+        {
+            "id": 180,
+            "name": "Home Player Assists Milestones"
+        },
+        {
+            "id": 181,
+            "name": "Away Player Assists Milestones"
+        },
+        {
+            "id": 182,
+            "name": "Away Player Threes Made"
+        },
+        {
+            "id": 183,
+            "name": "Home Player Threes Made Milestones"
+        },
+        {
+            "id": 184,
+            "name": "Player Blocks"
+        },
+        {
+            "id": 185,
+            "name": "Away Player Blocks"
+        },
+        {
+            "id": 186,
+            "name": "Player Double Double"
+        },
+        {
+            "id": 187,
+            "name": "Home Player Double Double"
+        },
+        {
+            "id": 188,
+            "name": "Away Player Double Double"
+        },
+        {
+            "id": 189,
+            "name": "Away Player Points High"
+        },
+        {
+            "id": 190,
+            "name": "Home Player Points Low"
+        },
+        {
+            "id": 191,
+            "name": "Away Player Points Low"
+        },
+        {
+            "id": 192,
+            "name": "Away Player Steals and Blocks"
+        },
+        {
+            "id": 193,
+            "name": "Player Assists (1st Quarter)"
+        },
+        {
+            "id": 194,
+            "name": "Home Player Assists (1st Quarter)"
+        },
+        {
+            "id": 195,
+            "name": "Away Player Assists (1st Quarter)"
+        },
+        {
+            "id": 196,
+            "name": "Player Points (1st Quarter)"
+        },
+        {
+            "id": 197,
+            "name": "Home Player Points (1st Quarter)"
+        },
+        {
+            "id": 198,
+            "name": "Away Player Points (1st Quarter)"
+        },
+        {
+            "id": 199,
+            "name": "Away Player Rebounds (1st Quarter)"
+        },
+        {
+            "id": 200,
+            "name": "Home Player Triple Double"
+        },
+        {
+            "id": 201,
+            "name": "Away Player Triple Double"
+        },
+        {
+            "id": 202,
+            "name": "Home Player Assists and Rebounds"
+        },
+        {
+            "id": 203,
+            "name": "Away Player Assists and Rebounds"
+        },
+        {
+            "id": 204,
+            "name": "Home Player Threes Made"
+        },
+        {
+            "id": 205,
+            "name": "Away Player Points, Assists and Rebounds"
+        },
+        {
+            "id": 206,
+            "name": "Home Player Points, Assists and Rebounds"
+        },
+        {
+            "id": 207,
+            "name": "Player Points, Assists and Rebounds"
+        },
+        {
+            "id": 208,
+            "name": "Home Player Points High"
+        },
+        {
+            "id": 209,
+            "name": "Player to Score First Basket"
+        },
+        {
+            "id": 210,
+            "name": "Away Player to Score First Basket"
+        },
+        {
+            "id": 211,
+            "name": "Home Player Rebounds (1st Quarter)"
+        },
+        {
+            "id": 212,
+            "name": "Home Player Blocks"
+        },
+        {
+            "id": 213,
+            "name": "Home Player Steals and Blocks"
+        },
+        {
+            "id": 214,
+            "name": "Margin Of Victory (3rd Quarter)"
+        },
+        {
+            "id": 215,
+            "name": "Over/Under (3W) (3rd Quarter)"
+        },
+        {
+            "id": 216,
+            "name": "Over/Under (3W) (4th Quarter)"
+        },
+        {
+            "id": 217,
+            "name": "Margin Of Victory (4th Quarter)"
+        },
+        {
+            "id": 218,
+            "name": "Over/Under (3W) (2nd Quarter)"
+        },
+        {
+            "id": 219,
+            "name": "Home Player to Score First Basket"
+        },
+        {
+            "id": 220,
+            "name": "To Qualify"
+        },
+        {
+            "id": 221,
+            "name": "Total Rebounds"
+        },
+        {
+            "id": 222,
+            "name": "First Team to Score"
+        },
+        {
+            "id": 223,
+            "name": "Last Team to Score"
+        },
+        {
+            "id": 224,
+            "name": "Total Blocks"
+        },
+        {
+            "id": 225,
+            "name": "Last Team to Score"
+        },
+        {
+            "id": 226,
+            "name": "Result/Total Goals (1st Half)"
+        },
+        {
+            "id": 227,
+            "name": "Both Teams To Score - 2nd Half"
+        },
+        {
+            "id": 228,
+            "name": "Correct Score 2nd Half"
+        },
+        {
+            "id": 229,
+            "name": "Team To Score Last"
+        },
+        {
+            "id": 230,
+            "name": "Win Both Halves"
+        },
+        {
+            "id": 231,
+            "name": "First 10 min Winner"
+        },
+        {
+            "id": 232,
+            "name": "1x2 - 30 minutes"
+        },
+        {
+            "id": 233,
+            "name": "Draw No Bet (1st Half)"
+        },
+        {
+            "id": 234,
+            "name": "1x2 - 60 minutes"
+        },
+        {
+            "id": 235,
+            "name": "Win to Nil - Home"
+        },
+        {
+            "id": 236,
+            "name": "First Team to Score (3 way) 1st Half"
+        },
+        {
+            "id": 237,
+            "name": "To Score In 1st Half"
+        },
+        {
+            "id": 238,
+            "name": "Player Points and Assists"
+        },
+        {
+            "id": 239,
+            "name": "Player Points Milestones"
+        },
+        {
+            "id": 240,
+            "name": "Player Runs"
+        },
+        {
+            "id": 241,
+            "name": "Player Blocks"
+        },
+        {
+            "id": 242,
+            "name": "Player Points, Assists and Rebounds"
+        },
+        {
+            "id": 243,
+            "name": "Team with Highest Scoring Quarter"
+        },
+        {
+            "id": 244,
+            "name": "Winning Margin 7-Way"
+        },
+        {
+            "id": 245,
+            "name": "Quarter Correct Score"
+        }
+    ]
+}

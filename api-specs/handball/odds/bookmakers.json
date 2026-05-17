@@ -1,0 +1,108 @@
+{
+    "get": "odds",
+    "parameters": [],
+    "errors": [],
+    "results": 25,
+    "response": [
+        {
+            "id": 1,
+            "name": "Bwin"
+        },
+        {
+            "id": 2,
+            "name": "NordicBet"
+        },
+        {
+            "id": 3,
+            "name": "10Bet"
+        },
+        {
+            "id": 4,
+            "name": "Bet365"
+        },
+        {
+            "id": 5,
+            "name": "Marathon"
+        },
+        {
+            "id": 6,
+            "name": "Unibet"
+        },
+        {
+            "id": 7,
+            "name": "Betsson"
+        },
+        {
+            "id": 8,
+            "name": "188bet"
+        },
+        {
+            "id": 9,
+            "name": "1xBet"
+        },
+        {
+            "id": 10,
+            "name": "Sportingbet"
+        },
+        {
+            "id": 11,
+            "name": "Betway"
+        },
+        {
+            "id": 12,
+            "name": "Tipico"
+        },
+        {
+            "id": 13,
+            "name": "Betcris"
+        },
+        {
+            "id": 14,
+            "name": "888Sport"
+        },
+        {
+            "id": 15,
+            "name": "Pinnacle"
+        },
+        {
+            "id": 16,
+            "name": "Dafabet"
+        },
+        {
+            "id": 17,
+            "name": "WilliamHill"
+        },
+        {
+            "id": 18,
+            "name": "Sbo"
+        },
+        {
+            "id": 19,
+            "name": "ComeOn"
+        },
+        {
+            "id": 20,
+            "name": "Netbet"
+        },
+        {
+            "id": 21,
+            "name": "Betfair"
+        },
+        {
+            "id": 22,
+            "name": "Betano"
+        },
+        {
+            "id": 23,
+            "name": "Fonbet"
+        },
+        {
+            "id": 24,
+            "name": "Pncl"
+        },
+        {
+            "id": 25,
+            "name": "BetVictor"
+        }
+    ]
+}

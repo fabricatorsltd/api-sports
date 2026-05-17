@@ -1,0 +1,428 @@
+{
+    "get": "odds",
+    "parameters": [],
+    "errors": [],
+    "results": 105,
+    "response": [
+        {
+            "id": 1,
+            "name": "3Way Result"
+        },
+        {
+            "id": 2,
+            "name": "Home/Away"
+        },
+        {
+            "id": 3,
+            "name": "2nd Half 3Way Result"
+        },
+        {
+            "id": 4,
+            "name": "Asian Handicap"
+        },
+        {
+            "id": 5,
+            "name": "Over/Under"
+        },
+        {
+            "id": 6,
+            "name": "Over/Under 1st Half"
+        },
+        {
+            "id": 7,
+            "name": "Over/Under 2nd Half"
+        },
+        {
+            "id": 8,
+            "name": "HT/FT Double"
+        },
+        {
+            "id": 9,
+            "name": "Handicap Result"
+        },
+        {
+            "id": 10,
+            "name": "Highest Scoring Half"
+        },
+        {
+            "id": 11,
+            "name": "Double Chance"
+        },
+        {
+            "id": 12,
+            "name": "1st Half 3Way Result"
+        },
+        {
+            "id": 13,
+            "name": "Total - Home"
+        },
+        {
+            "id": 14,
+            "name": "Total - Away"
+        },
+        {
+            "id": 15,
+            "name": "Asian Handicap First Half"
+        },
+        {
+            "id": 16,
+            "name": "Double Chance - 1st Half"
+        },
+        {
+            "id": 17,
+            "name": "Double Chance - 2nd Half"
+        },
+        {
+            "id": 18,
+            "name": "Odd/Even"
+        },
+        {
+            "id": 19,
+            "name": "Odd/Even 1st Half"
+        },
+        {
+            "id": 20,
+            "name": "Home Odd/Even"
+        },
+        {
+            "id": 21,
+            "name": "Away Odd/Even"
+        },
+        {
+            "id": 22,
+            "name": "To Qualify"
+        },
+        {
+            "id": 23,
+            "name": "Asian Handicap (2nd Half)"
+        },
+        {
+            "id": 24,
+            "name": "Home Team Total Goals(1st Half)"
+        },
+        {
+            "id": 25,
+            "name": "Away Team Total Goals(1st Half)"
+        },
+        {
+            "id": 26,
+            "name": "Odd/Even (2nd Half)"
+        },
+        {
+            "id": 27,
+            "name": "Draw No Bet (1st Half)"
+        },
+        {
+            "id": 28,
+            "name": "Handicap Result 1st Half"
+        },
+        {
+            "id": 29,
+            "name": "Result/Total Goals"
+        },
+        {
+            "id": 30,
+            "name": "Result/Total Goals (1st Half)"
+        },
+        {
+            "id": 31,
+            "name": "Draw No Bet (2nd Half)"
+        },
+        {
+            "id": 32,
+            "name": "Home Team Total Goals(2nd Half)"
+        },
+        {
+            "id": 33,
+            "name": "Away Team Total Goals(2nd Half)"
+        },
+        {
+            "id": 34,
+            "name": "Race to 5 Goals"
+        },
+        {
+            "id": 35,
+            "name": "Race to 10 Goals"
+        },
+        {
+            "id": 36,
+            "name": "Away Odd/Even (1st Half)"
+        },
+        {
+            "id": 37,
+            "name": "Home Odd/Even (1st Half)"
+        },
+        {
+            "id": 38,
+            "name": "Away Odd/Even (2nd Half)"
+        },
+        {
+            "id": 39,
+            "name": "Home Odd/Even (2nd Half)"
+        },
+        {
+            "id": 40,
+            "name": "European Handicap (2nd Half)"
+        },
+        {
+            "id": 41,
+            "name": "R_20_G"
+        },
+        {
+            "id": 42,
+            "name": "First Team to Score"
+        },
+        {
+            "id": 43,
+            "name": "Both Teams To Score"
+        },
+        {
+            "id": 44,
+            "name": "Win to Nil - Home"
+        },
+        {
+            "id": 45,
+            "name": "Win to Nil - Away"
+        },
+        {
+            "id": 46,
+            "name": "Correct Score"
+        },
+        {
+            "id": 47,
+            "name": "Correct Score 1st Half"
+        },
+        {
+            "id": 48,
+            "name": "Correct Score 2nd Half"
+        },
+        {
+            "id": 49,
+            "name": "Team To Score First"
+        },
+        {
+            "id": 50,
+            "name": "Team To Score Last"
+        },
+        {
+            "id": 51,
+            "name": "Win Both Halves"
+        },
+        {
+            "id": 52,
+            "name": "Both Teams To Score - 1st Half"
+        },
+        {
+            "id": 53,
+            "name": "Both Teams To Score - 2nd Half"
+        },
+        {
+            "id": 54,
+            "name": "Home win both halves"
+        },
+        {
+            "id": 55,
+            "name": "Exact Goals Number"
+        },
+        {
+            "id": 56,
+            "name": "To Win Either Half"
+        },
+        {
+            "id": 57,
+            "name": "Home Team Exact Goals Number"
+        },
+        {
+            "id": 58,
+            "name": "Away Team Exact Goals Number"
+        },
+        {
+            "id": 59,
+            "name": "Results/Both Teams To Score"
+        },
+        {
+            "id": 60,
+            "name": "Home Team Score a Goal"
+        },
+        {
+            "id": 61,
+            "name": "Away Team Score a Goal"
+        },
+        {
+            "id": 62,
+            "name": "Corners Over Under"
+        },
+        {
+            "id": 63,
+            "name": "Clean Sheet - Home"
+        },
+        {
+            "id": 64,
+            "name": "Clean Sheet - Away"
+        },
+        {
+            "id": 65,
+            "name": "Win To Nil"
+        },
+        {
+            "id": 66,
+            "name": "Away win both halves"
+        },
+        {
+            "id": 67,
+            "name": "Home Winning Margin"
+        },
+        {
+            "id": 68,
+            "name": "Away Winning Margin"
+        },
+        {
+            "id": 69,
+            "name": "Home Winning Margin - 7 Way"
+        },
+        {
+            "id": 70,
+            "name": "Away Winning Margin - 7 Way"
+        },
+        {
+            "id": 71,
+            "name": "Race to 30 Goals"
+        },
+        {
+            "id": 72,
+            "name": "Race to 25 Goals"
+        },
+        {
+            "id": 73,
+            "name": "Race to 3 Goals 1st Half"
+        },
+        {
+            "id": 74,
+            "name": "Race to 5 Goals 1st Half"
+        },
+        {
+            "id": 75,
+            "name": "Race to 10 Goals 1st Half"
+        },
+        {
+            "id": 76,
+            "name": "Race to 15 Goals 1st Half"
+        },
+        {
+            "id": 77,
+            "name": "Race to 12 Goals 1st Half"
+        },
+        {
+            "id": 78,
+            "name": "Race to 7 Goals 1st Half"
+        },
+        {
+            "id": 79,
+            "name": "7m Shots.1x2"
+        },
+        {
+            "id": 80,
+            "name": "Race to 15 Goals"
+        },
+        {
+            "id": 81,
+            "name": "Race to 3 Goals"
+        },
+        {
+            "id": 82,
+            "name": "Race to 3 Goals 2nd Half"
+        },
+        {
+            "id": 83,
+            "name": "Race to 5 Goals 2nd Half"
+        },
+        {
+            "id": 84,
+            "name": "Race to 103 Goals 2nd Half"
+        },
+        {
+            "id": 85,
+            "name": "Last Team to Score"
+        },
+        {
+            "id": 86,
+            "name": "2min penalty. Double Chance"
+        },
+        {
+            "id": 87,
+            "name": "Total Rebounds"
+        },
+        {
+            "id": 88,
+            "name": "2min penalty. Asian Handicap"
+        },
+        {
+            "id": 89,
+            "name": "2min penalty. Odd/Even"
+        },
+        {
+            "id": 90,
+            "name": "2min penalty. 1x2"
+        },
+        {
+            "id": 91,
+            "name": "Home team will score a goal"
+        },
+        {
+            "id": 92,
+            "name": "Away team will score a goal"
+        },
+        {
+            "id": 93,
+            "name": "First Goal Scorer"
+        },
+        {
+            "id": 94,
+            "name": "Last Goal Scorer"
+        },
+        {
+            "id": 95,
+            "name": "7m Shots.Asian Handicap"
+        },
+        {
+            "id": 96,
+            "name": "7m Shots.Double Chance"
+        },
+        {
+            "id": 97,
+            "name": "7m Shots.Over/Under"
+        },
+        {
+            "id": 98,
+            "name": "Red Card In The Match"
+        },
+        {
+            "id": 99,
+            "name": "Away First Goal Scorer"
+        },
+        {
+            "id": 100,
+            "name": "Away Last Goal Scorer"
+        },
+        {
+            "id": 101,
+            "name": "Home First Goal Scorer"
+        },
+        {
+            "id": 102,
+            "name": "Home Last Goal Scorer"
+        },
+        {
+            "id": 103,
+            "name": "Player Shots"
+        },
+        {
+            "id": 104,
+            "name": "Home Player Shots"
+        },
+        {
+            "id": 105,
+            "name": "Away Player Shots"
+        }
+    ]
+}

@@ -1,0 +1,144 @@
+{
+    "get": "bookmakers",
+    "parameters": [],
+    "errors": [],
+    "results": 34,
+    "response": [
+        {
+            "id": 1,
+            "name": "Bwin"
+        },
+        {
+            "id": 2,
+            "name": "Marathon Bet"
+        },
+        {
+            "id": 3,
+            "name": "1xBet"
+        },
+        {
+            "id": 4,
+            "name": "Bet365"
+        },
+        {
+            "id": 5,
+            "name": "Bovada"
+        },
+        {
+            "id": 6,
+            "name": "Betcris"
+        },
+        {
+            "id": 7,
+            "name": "10Bet"
+        },
+        {
+            "id": 8,
+            "name": "5Dimes"
+        },
+        {
+            "id": 9,
+            "name": "Betfair"
+        },
+        {
+            "id": 10,
+            "name": "188bet"
+        },
+        {
+            "id": 11,
+            "name": "Intertops"
+        },
+        {
+            "id": 12,
+            "name": "Pinnacle"
+        },
+        {
+            "id": 13,
+            "name": "SBO"
+        },
+        {
+            "id": 14,
+            "name": "BetFred"
+        },
+        {
+            "id": 15,
+            "name": "BetUS"
+        },
+        {
+            "id": 16,
+            "name": "Ladbrokes"
+        },
+        {
+            "id": 17,
+            "name": "Dafabet"
+        },
+        {
+            "id": 18,
+            "name": "Interwetten"
+        },
+        {
+            "id": 19,
+            "name": "Unibet"
+        },
+        {
+            "id": 20,
+            "name": "Tipico"
+        },
+        {
+            "id": 21,
+            "name": "888Sport"
+        },
+        {
+            "id": 22,
+            "name": "Sportingbet"
+        },
+        {
+            "id": 23,
+            "name": "Betway"
+        },
+        {
+            "id": 24,
+            "name": "Expekt"
+        },
+        {
+            "id": 25,
+            "name": "Betsson"
+        },
+        {
+            "id": 26,
+            "name": "WilliamHill"
+        },
+        {
+            "id": 27,
+            "name": "NordicBet"
+        },
+        {
+            "id": 28,
+            "name": "ComeOn"
+        },
+        {
+            "id": 29,
+            "name": null
+        },
+        {
+            "id": 30,
+            "name": "Netbet"
+        },
+        {
+            "id": 31,
+            "name": "Betano"
+        },
+        {
+            "id": 32,
+            "name": "Fonbet"
+        },
+        {
+            "id": 33,
+            "name": "Pncl"
+        },
+        {
+            "id": 34,
+            "name": "BetVictor"
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "get": "teams",
+    "parameters": {
+        "league": "1",
+        "season": "2024"
+    },
+    "errors": [],
+    "results": 18,
+    "response": [
+        {
+            "id": 1,
+            "name": "Adelaide Crows",
+            "logo": "https://media.api-sports.io/afl/teams/1.png"
+        },
+        {
+            "id": 2,
+            "name": "Brisbane Lions",
+            "logo": "https://media.api-sports.io/afl/teams/2.png"
+        },
+        {
+            "id": 3,
+            "name": "Carlton Blues",
+            "logo": "https://media.api-sports.io/afl/teams/3.png"
+        },
+        {
+            "id": 4,
+            "name": "Collingwood Magpies",
+            "logo": "https://media.api-sports.io/afl/teams/4.png"
+        },
+        {
+            "id": 5,
+            "name": "Essendon Bombers",
+            "logo": "https://media.api-sports.io/afl/teams/5.png"
+        },
+        {
+            "id": 6,
+            "name": "Fremantle Dockers",
+            "logo": "https://media.api-sports.io/afl/teams/6.png"
+        },
+        {
+            "id": 7,
+            "name": "Geelong Cats",
+            "logo": "https://media.api-sports.io/afl/teams/7.png"
+        },
+        {
+            "id": 8,
+            "name": "Hawthorn Hawks",
+            "logo": "https://media.api-sports.io/afl/teams/8.png"
+        },
+        {
+            "id": 9,
+            "name": "Melbourne Demons",
+            "logo": "https://media.api-sports.io/afl/teams/9.png"
+        },
+        {
+            "id": 10,
+            "name": "North Melbourne Kangaroos",
+            "logo": "https://media.api-sports.io/afl/teams/10.png"
+        },
+        {
+            "id": 11,
+            "name": "Port Adelaide Power",
+            "logo": "https://media.api-sports.io/afl/teams/11.png"
+        },
+        {
+            "id": 12,
+            "name": "Richmond Tigers",
+            "logo": "https://media.api-sports.io/afl/teams/12.png"
+        },
+        {
+            "id": 13,
+            "name": "St Kilda Saints",
+            "logo": "https://media.api-sports.io/afl/teams/13.png"
+        },
+        {
+            "id": 14,
+            "name": "Sydney Swans",
+            "logo": "https://media.api-sports.io/afl/teams/14.png"
+        },
+        {
+            "id": 15,
+            "name": "West Coast Eagles",
+            "logo": "https://media.api-sports.io/afl/teams/15.png"
+        },
+        {
+            "id": 16,
+            "name": "Western Bulldogs",
+            "logo": "https://media.api-sports.io/afl/teams/16.png"
+        },
+        {
+            "id": 17,
+            "name": "Gold Coast Suns",
+            "logo": "https://media.api-sports.io/afl/teams/17.png"
+        },
+        {
+            "id": 18,
+            "name": "Greater Western Sydney Giants",
+            "logo": "https://media.api-sports.io/afl/teams/18.png"
+        }
+    ]
+}

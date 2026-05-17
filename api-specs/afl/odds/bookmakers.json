@@ -1,0 +1,84 @@
+{
+    "get": "odds/bookmakers",
+    "parameters": [],
+    "errors": [],
+    "results": 19,
+    "response": [
+        {
+            "id": 1,
+            "name": "NordicBet"
+        },
+        {
+            "id": 2,
+            "name": "WilliamHill"
+        },
+        {
+            "id": 3,
+            "name": "bet365"
+        },
+        {
+            "id": 4,
+            "name": "Marathon"
+        },
+        {
+            "id": 5,
+            "name": "Unibet"
+        },
+        {
+            "id": 6,
+            "name": "Betsson"
+        },
+        {
+            "id": 7,
+            "name": "1xbet"
+        },
+        {
+            "id": 8,
+            "name": "Betway"
+        },
+        {
+            "id": 9,
+            "name": "Betcris"
+        },
+        {
+            "id": 10,
+            "name": "888Sport"
+        },
+        {
+            "id": 11,
+            "name": "bwin"
+        },
+        {
+            "id": 12,
+            "name": "Sbo"
+        },
+        {
+            "id": 13,
+            "name": "Sportingbet"
+        },
+        {
+            "id": 14,
+            "name": "Pncl"
+        },
+        {
+            "id": 15,
+            "name": null
+        },
+        {
+            "id": 16,
+            "name": null
+        },
+        {
+            "id": 17,
+            "name": "Fonbet"
+        },
+        {
+            "id": 18,
+            "name": "Betfair"
+        },
+        {
+            "id": 19,
+            "name": "BetVictor"
+        }
+    ]
+}

@@ -1,0 +1,244 @@
+{
+    "get": "games",
+    "parameters": {
+        "h2h": "139-133",
+        "league": "12",
+        "season": "2024-2025"
+    },
+    "errors": [],
+    "results": 4,
+    "response": [
+        {
+            "id": 425068,
+            "date": "2024-10-04T16:00:00+00:00",
+            "time": "16:00",
+            "timestamp": 1728057600,
+            "timezone": "UTC",
+            "stage": null,
+            "week": null,
+            "venue": "TD Garden",
+            "status": {
+                "long": "Game Finished",
+                "short": "FT",
+                "timer": null
+            },
+            "league": {
+                "id": 12,
+                "name": "NBA",
+                "type": "League",
+                "season": "2024-2025",
+                "logo": "https://media.api-sports.io/basketball/leagues/12.png"
+            },
+            "country": {
+                "id": 5,
+                "name": "USA",
+                "code": "US",
+                "flag": "https://media.api-sports.io/flags/us.svg"
+            },
+            "teams": {
+                "home": {
+                    "id": 139,
+                    "name": "Denver Nuggets",
+                    "logo": "https://media.api-sports.io/basketball/teams/139.png"
+                },
+                "away": {
+                    "id": 133,
+                    "name": "Boston Celtics",
+                    "logo": "https://media.api-sports.io/basketball/teams/133.png"
+                }
+            },
+            "scores": {
+                "home": {
+                    "quarter_1": 32,
+                    "quarter_2": 31,
+                    "quarter_3": 17,
+                    "quarter_4": 23,
+                    "over_time": null,
+                    "total": 103
+                },
+                "away": {
+                    "quarter_1": 25,
+                    "quarter_2": 31,
+                    "quarter_3": 23,
+                    "quarter_4": 28,
+                    "over_time": null,
+                    "total": 107
+                }
+            }
+        },
+        {
+            "id": 425071,
+            "date": "2024-10-06T14:00:00+00:00",
+            "time": "14:00",
+            "timestamp": 1728223200,
+            "timezone": "UTC",
+            "stage": null,
+            "week": null,
+            "venue": "Ball Arena",
+            "status": {
+                "long": "Game Finished",
+                "short": "FT",
+                "timer": null
+            },
+            "league": {
+                "id": 12,
+                "name": "NBA",
+                "type": "League",
+                "season": "2024-2025",
+                "logo": "https://media.api-sports.io/basketball/leagues/12.png"
+            },
+            "country": {
+                "id": 5,
+                "name": "USA",
+                "code": "US",
+                "flag": "https://media.api-sports.io/flags/us.svg"
+            },
+            "teams": {
+                "home": {
+                    "id": 133,
+                    "name": "Boston Celtics",
+                    "logo": "https://media.api-sports.io/basketball/teams/133.png"
+                },
+                "away": {
+                    "id": 139,
+                    "name": "Denver Nuggets",
+                    "logo": "https://media.api-sports.io/basketball/teams/139.png"
+                }
+            },
+            "scores": {
+                "home": {
+                    "quarter_1": 34,
+                    "quarter_2": 33,
+                    "quarter_3": 42,
+                    "quarter_4": 21,
+                    "over_time": null,
+                    "total": 130
+                },
+                "away": {
+                    "quarter_1": 29,
+                    "quarter_2": 31,
+                    "quarter_3": 16,
+                    "quarter_4": 28,
+                    "over_time": null,
+                    "total": 104
+                }
+            }
+        },
+        {
+            "id": 414380,
+            "date": "2025-01-08T03:00:00+00:00",
+            "time": "03:00",
+            "timestamp": 1736305200,
+            "timezone": "UTC",
+            "stage": null,
+            "week": null,
+            "venue": "Ball Arena",
+            "status": {
+                "long": "Game Finished",
+                "short": "FT",
+                "timer": null
+            },
+            "league": {
+                "id": 12,
+                "name": "NBA",
+                "type": "League",
+                "season": "2024-2025",
+                "logo": "https://media.api-sports.io/basketball/leagues/12.png"
+            },
+            "country": {
+                "id": 5,
+                "name": "USA",
+                "code": "US",
+                "flag": "https://media.api-sports.io/flags/us.svg"
+            },
+            "teams": {
+                "home": {
+                    "id": 139,
+                    "name": "Denver Nuggets",
+                    "logo": "https://media.api-sports.io/basketball/teams/139.png"
+                },
+                "away": {
+                    "id": 133,
+                    "name": "Boston Celtics",
+                    "logo": "https://media.api-sports.io/basketball/teams/133.png"
+                }
+            },
+            "scores": {
+                "home": {
+                    "quarter_1": 25,
+                    "quarter_2": 32,
+                    "quarter_3": 26,
+                    "quarter_4": 23,
+                    "over_time": null,
+                    "total": 106
+                },
+                "away": {
+                    "quarter_1": 37,
+                    "quarter_2": 20,
+                    "quarter_3": 31,
+                    "quarter_4": 30,
+                    "over_time": null,
+                    "total": 118
+                }
+            }
+        },
+        {
+            "id": 414739,
+            "date": "2025-03-02T18:00:00+00:00",
+            "time": "18:00",
+            "timestamp": 1740938400,
+            "timezone": "UTC",
+            "stage": null,
+            "week": null,
+            "venue": "TD Garden",
+            "status": {
+                "long": "Game Finished",
+                "short": "FT",
+                "timer": null
+            },
+            "league": {
+                "id": 12,
+                "name": "NBA",
+                "type": "League",
+                "season": "2024-2025",
+                "logo": "https://media.api-sports.io/basketball/leagues/12.png"
+            },
+            "country": {
+                "id": 5,
+                "name": "USA",
+                "code": "US",
+                "flag": "https://media.api-sports.io/flags/us.svg"
+            },
+            "teams": {
+                "home": {
+                    "id": 133,
+                    "name": "Boston Celtics",
+                    "logo": "https://media.api-sports.io/basketball/teams/133.png"
+                },
+                "away": {
+                    "id": 139,
+                    "name": "Denver Nuggets",
+                    "logo": "https://media.api-sports.io/basketball/teams/139.png"
+                }
+            },
+            "scores": {
+                "home": {
+                    "quarter_1": 32,
+                    "quarter_2": 29,
+                    "quarter_3": 22,
+                    "quarter_4": 27,
+                    "over_time": null,
+                    "total": 110
+                },
+                "away": {
+                    "quarter_1": 20,
+                    "quarter_2": 28,
+                    "quarter_3": 29,
+                    "quarter_4": 26,
+                    "over_time": null,
+                    "total": 103
+                }
+            }
+        }
+    ]
+}

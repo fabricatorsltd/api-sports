@@ -1,0 +1,4458 @@
+{
+    "get": "leagues",
+    "parameters": [],
+    "errors": [],
+    "results": 77,
+    "response": [
+        {
+            "id": 68,
+            "name": "Asia Professional Championship",
+            "type": "Cup",
+            "logo": "https://media.api-sports.io/baseball/leagues/68.png",
+            "country": {
+                "id": 25,
+                "name": "Asia",
+                "code": null,
+                "flag": null
+            },
+            "seasons": [
+                {
+                    "season": 2023,
+                    "current": false,
+                    "start": "2023-11-16",
+                    "end": "2023-11-19"
+                }
+            ]
+        },
+        {
+            "id": 32,
+            "name": "Asian Games",
+            "type": "League",
+            "logo": "https://media.api-sports.io/baseball/leagues/32.png",
+            "country": {
+                "id": 25,
+                "name": "Asia",
+                "code": "AS",
+                "flag": "https://media.api-sports.io/flags/as.svg"
+            },
+            "seasons": [
+                {
+                    "season": 2014,
+                    "current": false,
+                    "start": "2014-09-22",
+                    "end": "2014-09-28"
+                },
+                {
+                    "season": 2018,
+                    "current": false,
+                    "start": "2018-08-21",
+                    "end": "2018-09-01"
+                },
+                {
+                    "season": 2023,
+                    "current": false,
+                    "start": "2023-09-26",
+                    "end": "2023-10-07"
+                },
+                {
+                    "season": 2010,
+                    "current": false,
+                    "start": "2010-11-13",
+                    "end": "2010-11-19"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "ABL",
+            "type": "League",
+            "logo": "https://media.api-sports.io/baseball/leagues/6.png",
+            "country": {
+                "id": 4,
+                "name": "Australia",
+                "code": "AU",
+                "flag": "https://media.api-sports.io/flags/au.svg"
+            },
+            "seasons": [
+                {
+                    "season": 2024,
+                    "current": false,
+                    "start": "2024-11-15",
+                    "end": "2025-02-01"
+                },
+                {
+                    "season": 2019,
+                    "current": false,
+                    "start": "2019-11-21",
+                    "end": "2020-02-08"
+                },
+                {
+                    "season": 2025,
+                    "current": false,
+                    "start": "2025-11-13",
+                    "end": "2026-01-25"
+                },
+                {
+                    "season": 2020,
+                    "current": false,
+                    "start": "2020-12-17",
+                    "end": "2021-02-12"
+                },
+                {
+                    "season": 2017,
+                    "current": false,
+                    "start": "2017-11-16",
+                    "end": "2018-02-11"
+                },
+                {
+                    "season": 2016,
+                    "current": false,
+                    "start": "2016-11-17",
+                    "end": "2017-02-11"
+                },
+                {
+                    "season": 2018,
+                    "current": false,
+                    "start": "2018-11-09",
+                    "end": "2019-01-20"
+                },
+                {
+                    "season": 2023,
+                    "current": false,
+                    "start": "2023-11-17",
+                    "end": "2024-02-04"
+                },
+                {
+                    "season": 2015,
+                    "current": false,
+                    "start": "2015-10-23",
+                    "end": "2016-02-06"
+                },
+                {
+                    "season": 2014,
+                    "current": false,
+                    "start": "2014-10-30",
+                    "end": "2015-02-08"
+                },
+                {
+                    "season": 2022,
+                    "current": false,
+                    "start": "2022-11-10",
+                    "end": "2023-02-05"
+                },
+                {
+                    "season": 2013,
+                    "current": false,
+                    "start": "2013-10-31",
+                    "end": "2014-02-08"
+                },
+                {
+                    "season": 2012,
+                    "current": false,
+                    "start": "2012-11-01",
+                    "end": "2013-02-09"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "ABL",
+            "type": "League",
+            "logo": "https://media.api-sports.io/baseball/leagues/7.png",
+            "country": {
+                "id": 5,
+                "name": "Austria",
+                "code": "AT",
+                "flag": "https://media.api-sports.io/flags/at.svg"
+            },
+            "seasons": [
+                {
+                    "season": 2020,
+                    "current": false,
+                    "start": "2020-04-18",
+                    "end": "2020-10-17"
+                },
+                {
+                    "season": 2019,
+                    "current": false,
+                    "start": "2019-04-20",
+                    "end": "2019-10-19"
+                },
+                {
+                    "season": 2018,
+                    "current": false,
+                    "start": "2018-04-14",
+                    "end": "2018-10-13"
+                },
+                {
+                    "season": 2017,
+                    "current": false,
+                    "start": "2017-04-21",
+                    "end": "2017-10-28"
+                },
+                {
+                    "season": 2014,
+                    "current": false,
+                    "start": "2014-04-26",
+                    "end": "2014-10-11"
+                },
+                {
+                    "season": 2013,
+                    "current": false,
+                    "start": "2013-06-08",
+                    "end": "2013-10-06"
+                },
+                {
+                    "season": 2012,
+                    "current": false,
+                    "start": "2012-04-14",
+                    "end": "2012-10-05"
+                },
+                {
+                    "season": 2016,
+                    "current": false,
+                    "start": "2016-04-16",
+                    "end": "2016-09-17"
+                },
+                {
+                    "season": 2015,
+                    "current": false,
+                    "start": "2015-07-04",
+                    "end": "2015-10-03"
+                }
+            ]
+        },
+        {
+            "id": 48,
+            "name": "Bundesliga",
+            "type": "League",
+            "logo": "https://media.api-sports.io/baseball/leagues/48.png",
+            "country": {
+                "id": 5,
+                "name": "Austria",
+                "code": "AT",
+                "flag": "https://media.api-sports.io/flags/at.svg"
+            },
+            "seasons": [
+                {
+                    "season": 2025,
+                    "current": false,
+                    "start": "2025-04-05",
+                    "end": "2025-09-06"
+                },
+                {
+                    "season": 2026,
+                    "current": true,
+                    "start": "2026-04-17",
+                    "end": "2026-08-09"
+                },
+                {
+                    "season": 2023,
+                    "current": false,
+                    "start": "2023-04-15",
+                    "end": "2023-09-09"
+                },
+                {
+                    "season": 2024,
+                    "current": false,
+                    "start": "2024-04-06",
+                    "end": "2024-09-29"
+                },
+                {
+                    "season": 2022,
+                    "current": false,
+                    "start": "2022-04-15",
+                    "end": "2022-09-25"
+                },
+                {
+                    "season": 2021,
+                    "current": false,
+                    "start": "2021-04-09",
+                    "end": "2021-10-09"
+                }
+            ]
+        },
+        {
+            "id": 62,
+            "name": "Division 1",
+            "type": "League",
+            "logo": "https://media.api-sports.io/baseball/leagues/62.png",
+            "country": {
+                "id": 31,
+                "name": "Belgium",
+                "code": "BE",
+                "flag": "https://media.api-sports.io/flags/be.svg"
+            },
+            "seasons": [
+                {
+                    "season": 2024,
+                    "current": false,
+                    "start": "2024-04-06",
+                    "end": "2024-10-12"
+                },
+                {
+                    "season": 2023,
+                    "current": false,
+                    "start": "2023-04-08",
+                    "end": "2023-10-15"
+                },
+                {
+                    "season": 2025,
+                    "current": false,
+                    "start": "2025-04-05",
+                    "end": "2025-09-07"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "LCBP",
+            "type": "League",
+            "logo": "https://media.api-sports.io/baseball/leagues/8.png",
+            "country": {
+                "id": 6,
+                "name": "Colombia",
+                "code": "CO",
+                "flag": "https://media.api-sports.io/flags/co.svg"
+            },
+            "seasons": [
+                {
+                    "season": 2017,
+                    "current": false,
+                    "start": "2017-11-04",
+                    "end": "2018-01-25"
+                },
+                {
+                    "season": 2016,
+                    "current": false,
+                    "start": "2016-12-04",
+                    "end": "2017-01-21"
+                },
+                {
+                    "season": 2015,
+                    "current": false,
+                    "start": "2015-12-10",
+                    "end": "2016-01-23"
+                },
+                {
+                    "season": 2018,
+                    "current": false,
+                    "start": "2018-11-03",
+                    "end": "2019-01-20"
+                },
+                {
+                    "season": 2019,
+                    "current": false,
+                    "start": "2019-11-09",
+                    "end": "2020-01-17"
+                }
+            ]
+        },
+        {
+            "id": 49,
+            "name": "LPB",
+            "type": "League",
+            "logo": "https://media.api-sports.io/baseball/leagues/49.png",
+            "country": {
+                "id": 6,
+                "name": "Colombia",
+                "code": "CO",
+                "flag": "https://media.api-sports.io/flags/co.svg"
+            },
+            "seasons": [
+                {
+                    "season": 2022,
+                    "current": false,
+                    "start": "2022-11-12",
+                    "end": "2023-01-22"
+                },
+                {
+                    "season": 2023,
+                    "current": false,
+                    "start": "2023-11-04",
+                    "end": "2024-01-08"
+                },
+                {
+                    "season": 2024,
+                    "current": false,
+                    "start": "2024-11-03",
+                    "end": "2025-01-21"
+                },
+                {
+                    "season": 2021,
+                    "current": false,
+                    "start": "2021-11-13",
+                    "end": "2022-01-21"
+                },
+                {
+                    "season": 2020,
+                    "current": false,
+                    "start": "2020-11-28",
+                    "end": "2021-01-24"
+                },
+                {
+                    "season": 2025,
+                    "current": false,
+                    "start": "2025-11-29",
+                    "end": "2026-01-19"
+                }
+            ]
+        },
+        {
+            "id": 63,
+            "name": "Liga Elite",
+            "type": "League",
+            "logo": "https://media.api-sports.io/baseball/leagues/63.png",
+            "country": {
+                "id": 7,
+                "name": "Cuba",
+                "code": "CU",
+                "flag": "https://media.api-sports.io/flags/cu.svg"
+            },
+            "seasons": [
+                {
+                    "season": 2026,
+                    "current": true,
+                    "start": "2026-05-02",
+                    "end": "2026-06-18"
+                },
+                {
+                    "season": 2023,
+                    "current": false,
+                    "start": "2023-11-07",
+                    "end": "2024-01-23"
+                },
+                {
+                    "season": 2025,
+                    "current": false,
+                    "start": "2025-03-15",
+                    "end": "2025-06-04"
+                },
+                {
+                    "season": 2022,
+                    "current": false,
+                    "start": "2022-10-22",
+                    "end": "2023-01-22"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Serie Nacional",
+            "type": "League",
+            "logo": "https://media.api-sports.io/baseball/leagues/9.png",
+            "country": {
+                "id": 7,
+                "name": "Cuba",
+                "code": "CU",
+                "flag": "https://media.api-sports.io/flags/cu.svg"
+            },
+            "seasons": [
+                {
+                    "season": 2016,
+                    "current": false,
+                    "start": "2016-08-07",
+                    "end": "2017-01-22"
+                },
+                {
+                    "season": 2021,
+                    "current": false,
+                    "start": "2022-01-23",
+                    "end": "2022-06-29"
+                },
+                {
+                    "season": 2014,
+                    "current": false,
+                    "start": "2014-09-21",
+                    "end": "2015-04-11"
+                },
+                {
+                    "season": 2013,
+                    "current": false,
+                    "start": "2013-11-03",
+                    "end": "2014-04-15"
+                },
+                {
+                    "season": 2015,
+                    "current": false,
+                    "start": "2015-08-30",
+                    "end": "2016-04-17"
+                },
+                {
+                    "season": 2017,
+                    "current": false,
+                    "start": "2017-08-05",
+                    "end": "2018-01-28"
+                },
+                {
+                    "season": 2012,
+                    "current": false,
+                    "start": "2012-11-25",
+                    "end": "2013-06-18"
+                },
+                {
+                    "season": 2025,
+                    "current": false,
+                    "start": "2025-09-02",
+                    "end": "2026-02-14"
+                },
+                {
+                    "season": 2024,
+                    "current": false,
+                    "start": "2024-03-09",
+                    "end": "2024-07-28"
+                },
+                {
+                    "season": 2023,
+                    "current": false,
+                    "start": "2023-03-29",
+                    "end": "2023-08-11"
+                },
+                {
+                    "season": 2020,
+                    "current": false,
+                    "start": "2020-09-12",
+                    "end": "2021-04-04"
+                },
+                {
+                    "season": 2018,
+                    "current": false,
+                    "start": "2018-08-09",
+                    "end": "2019-01-18"
+                },
+                {
+                    "season": 2019,
+                    "current": false,
+                    "start": "2019-08-10",
+                    "end": "2020-01-18"
+                }
+            ]
+        },
+        {
+            "id": 64,
+            "name": "Czech Cup",
+            "type": "Cup",
+            "logo": "https://media.api-sports.io/baseball/leagues/64.png",
+            "country": {
+                "id": 8,
+                "name": "Czech-Republic",
+                "code": "CZ",
+                "flag": "https://media.api-sports.io/flags/cz.svg"
+            },
+            "seasons": [
+                {
+                    "season": 2023,
+                    "current": false,
+                    "start": "2023-06-18",
+                    "end": "2023-10-14"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Extraliga",
+            "type": "League",
+            "logo": "https://media.api-sports.io/baseball/leagues/10.png",
+            "country": {
+                "id": 8,
+                "name": "Czech-Republic",
+                "code": "CZ",
+                "flag": "https://media.api-sports.io/flags/cz.svg"
+            },
+            "seasons": [
+                {
+                    "season": 2026,
+                    "current": true,
+                    "start": "2026-04-10",
+                    "end": "2026-08-09"
+                },
+                {
+                    "season": 2019,
+                    "current": false,
+                    "start": "2019-03-29",
+                    "end": "2019-08-18"
+                },
+                {
+                    "season": 2023,
+                    "current": false,
+                    "start": "2023-03-31",
+                    "end": "2023-08-27"
+                },
+                {
+                    "season": 2024,
+                    "current": false,
+                    "start": "2024-04-12",
+                    "end": "2024-09-29"
+                },
+                {
+                    "season": 2025,
+                    "current": false,
+                    "start": "2025-04-04",
+                    "end": "2025-09-11"
+                },
+                {
+                    "season": 2018,
+                    "current": false,
+                    "start": "2018-03-30",
+                    "end": "2018-10-05"
+                },
+                {
+                    "season": 2017,
+                    "current": false,
+                    "start": "2017-03-31",
+                    "end": "2017-10-07"
+                },
+                {
+                    "season": 2016,
+                    "current": false,
+                    "start": "2016-04-01",
+                    "end": "2016-09-17"
+                },
+                {
+                    "season": 2015,
+                    "current": false,
+                    "start": "2015-04-03",
+                    "end": "2015-10-03"
+                },
+                {
+                    "season": 2022,
+                    "current": false,
+                    "start": "2022-04-01",
+                    "end": "2022-09-01"
+                },
+                {
+                    "season": 2021,
+                    "current": false,
+                    "start": "2021-04-09",
+                    "end": "2021-08-20"
+                },
+                {
+                    "season": 2020,
+                    "current": false,
+                    "start": "2020-04-04",
+                    "end": "2020-07-12"
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": "LIDOM",
+            "type": "League",
+            "logo": "https://media.api-sports.io/baseball/leagues/11.png",
+            "country": {
+                "id": 9,
+                "name": "Dominican-Republic",
+                "code": "DO",
+                "flag": "https://media.api-sports.io/flags/do.svg"
+            },
+            "seasons": [
+                {
+                    "season": 2024,
+                    "current": false,
+                    "start": "2024-10-16",
+                    "end": "2025-01-27"
+                },
+                {
+                    "season": 2018,
+                    "current": false,
+                    "start": "2018-10-13",
+                    "end": "2019-01-23"
+                },
+                {
+                    "season": 2022,
+                    "current": false,
+                    "start": "2022-10-15",
+                    "end": "2023-01-18"
+                },
+                {
+                    "season": 2017,
+                    "current": false,
+                    "start": "2017-10-13",
+                    "end": "2018-01-31"
+                },
+                {
+                    "season": 2016,
+                    "current": false,
+                    "start": "2016-10-20",
+                    "end": "2017-01-29"
+                },
+                {
+                    "season": 2015,
+                    "current": false,
+                    "start": "2015-10-15",
+                    "end": "2016-01-26"
+                },
+                {
+                    "season": 2020,
+                    "current": false,
+                    "start": "2020-11-15",
+                    "end": "2021-01-18"
+                },
+                {
+                    "season": 2023,
+                    "current": false,
+                    "start": "2023-10-19",
+                    "end": "2024-01-27"
+                },
+                {
+                    "season": 2025,
+                    "current": false,
+                    "start": "2025-10-15",
+                    "end": "2026-01-27"
+                },
+                {
+                    "season": 2019,
+                    "current": false,
+                    "start": "2019-10-12",
+                    "end": "2020-01-28"
+                },
+                {
+                    "season": 2021,
+                    "current": false,
+                    "start": "2021-10-27",
+                    "end": "2022-01-22"
+                }
+            ]
+        },
+        {
+            "id": 36,
+            "name": "C.E.B. Cup",
+            "type": "Cup",
+            "logo": "https://media.api-sports.io/baseball/leagues/36.png",
+            "country": {
+                "id": 26,
+                "name": "Europe",
+                "code": null,
+                "flag": null
+            },
+            "seasons": [
+                {
+                    "season": 2019,
+                    "current": false,
+                    "start": "2019-06-05",
+                    "end": "2019-06-09"
+                },
+                {
+                    "season": 2018,
+                    "current": false,
+                    "start": "2018-06-05",
+                    "end": "2018-06-09"
+                },
+                {
+                    "season": 2021,
+                    "current": false,
+                    "start": "2021-07-13",
+                    "end": "2021-07-17"
+                },
+                {
+                    "season": 2017,
+                    "current": false,
+                    "start": "2017-06-07",
+                    "end": "2017-06-11"
+                }
+            ]
+        },
+        {
+            "id": 35,
+            "name": "Champions Cup",
+            "type": "Cup",
+            "logo": "https://media.api-sports.io/baseball/leagues/35.png",
+            "country": {
+                "id": 26,
+                "name": "Europe",
+                "code": null,
+                "flag": null
+            },
+            "seasons": [
+                {
+                    "season": 2013,
+                    "current": false,
+                    "start": "2013-06-04",
+                    "end": "2013-10-02"
+                },
+                {
+                    "season": 2012,
+                    "current": false,
+                    "start": "2012-05-30",
+                    "end": "2012-08-30"
+                },
+                {
+                    "season": 2021,
+                    "current": false,
+                    "start": "2021-07-13",
+                    "end": "2021-07-17"
+                },
+                {
+                    "season": 2025,
+                    "current": false,
+                    "start": "2025-05-17",
+                    "end": "2025-07-30"
+                },
+                {
+                    "season": 2022,
+                    "current": false,
+                    "start": "2022-06-07",
+                    "end": "2022-06-11"
+                },
+                {
+                    "season": 2024,
+                    "current": false,
+                    "start": "2024-05-15",
+                    "end": "2024-09-28"
+                },
+                {
+                    "season": 2019,
+                    "current": false,
+                    "start": "2019-06-04",
+                    "end": "2019-06-08"
+                },
+                {
+                    "season": 2015,
+                    "current": false,
+                    "start": "2015-06-02",
+                    "end": "2015-08-09"
+                },
+                {
+                    "season": 2016,
+                    "current": false,
+                    "start": "2016-05-31",
+                    "end": "2016-06-04"
+                },
+                {
+                    "season": 2014,
+                    "current": false,
+                    "start": "2014-06-17",
+                    "end": "2014-08-09"
+                },
+                {
+                    "season": 2018,
+                    "current": false,
+                    "start": "2018-06-06",
+                    "end": "2018-06-10"
+                },
+                {
+                    "season": 2023,
+                    "current": false,
+                    "start": "2023-06-06",
+                    "end": "2023-06-10"
+                },
+                {
+                    "season": 2017,
+                    "current": false,
+                    "start": "2017-06-07",
+                    "end": "2017-06-11"
+                }
+            ]
+        },
+        {
+            "id": 65,
+            "name": "Confederation Cup",
+            "type": "Cup",
+            "logo": "https://media.api-sports.io/baseball/leagues/65.png",
+            "country": {
+                "id": 26,
+                "name": "Europe",
+                "code": null,
+                "flag": null
+            },
+            "seasons": [
+                {
+                    "season": 2026,
+                    "current": false,
+                    "start": "2026-06-15",
+                    "end": "2026-06-19"
+                },
+                {
+                    "season": 2023,
+                    "current": false,
+                    "start": "2023-06-07",
+                    "end": "2023-06-11"
+                },
+                {
+                    "season": 2024,
+                    "current": false,
+                    "start": "2024-06-04",
+                    "end": "2024-06-07"
+                },
+                {
+                    "season": 2022,
+                    "current": false,
+                    "start": "2022-06-08",
+                    "end": "2022-06-12"
+                }
+            ]
+        },
+        {
+            "id": 73,
+            "name": "EuroBaseball",
+            "type": "Cup",
+            "logo": "https://media.api-sports.io/baseball/leagues/73.png",
+            "country": {
+                "id": 26,
+                "name": "Europe",
+                "code": null,
+                "flag": null
+            },
+            "seasons": [
+                {
+                    "season": 2025,
+                    "current": false,
+                    "start": "2025-09-20",
+                    "end": "2025-09-27"
+                }
+            ]
+        },
+        {
+            "id": 74,
+            "name": "EuroBaseball U23",
+            "type": "Cup",
+            "logo": "https://media.api-sports.io/baseball/leagues/74.png",
+            "country": {
+                "id": 26,
+                "name": "Europe",
+                "code": null,
+                "flag": null
+            },
+            "seasons": [
+                {
+                    "season": 2025,
+                    "current": false,
+                    "start": "2025-08-05",
+                    "end": "2025-08-09"
+                }
+            ]
+        },
+        {
+            "id": 75,
+            "name": "EuroBaseball Women",
+            "type": "Cup",
+            "logo": "https://media.api-sports.io/baseball/leagues/75.png",
+            "country": {
+                "id": 26,
+                "name": "Europe",
+                "code": null,
+                "flag": null
+            },
+            "seasons": [
+                {
+                    "season": 2025,
+                    "current": false,
+                    "start": "2025-08-14",
+                    "end": "2025-08-17"
+                }
+            ]
+        },
+        {
+            "id": 34,
+            "name": "European Championship",
+            "type": "Cup",
+            "logo": "https://media.api-sports.io/baseball/leagues/34.png",
+            "country": {
+                "id": 26,
+                "name": "Europe",
+                "code": null,
+                "flag": null
+            },
+            "seasons": [
+                {
+                    "season": 2012,
+                    "current": false,
+                    "start": "2012-09-07",
+                    "end": "2012-09-16"
+                },
+                {
+                    "season": 2016,
+                    "current": false,
+                    "start": "2016-09-09",
+                    "end": "2016-09-18"
+                },
+                {
+                    "season": 2024,
+                    "current": false,
+                    "start": "2024-07-22",
+                    "end": "2024-07-28"
+                },
+                {
+                    "season": 2022,
+                    "current": false,
+                    "start": "2022-07-12",
+                    "end": "2023-10-01"
+                },
+                {
+                    "season": 2014,
+                    "current": false,
+                    "start": "2014-09-12",
+                    "end": "2014-09-21"
+                },
+                {
+                    "season": 2018,
+                    "current": false,
+                    "start": "2017-07-24",
+                    "end": "2017-07-29"
+                },
+                {
+                    "season": 2021,
+                    "current": false,
+                    "start": "2021-09-12",
+                    "end": "2021-09-19"
+                },
+                {
+                    "season": 2019,
+                    "current": false,
+                    "start": "2019-07-01",
+                    "end": "2019-09-15"
+                }
+            ]
+        },
+        {
+            "id": 58,
+            "name": "European Championship U23",
+            "type": "Cup",
+            "logo": "https://media.api-sports.io/baseball/leagues/58.png",
+            "country": {
+                "id": 26,
+                "name": "Europe",
+                "code": null,
+                "flag": null
+            },
+            "seasons": [
+                {
+                    "season": 2024,
+                    "current": false,
+                    "start": "2024-08-05",
+                    "end": "2024-08-11"
+                },
+                {
+                    "season": 2021,
+                    "current": false,
+                    "start": "2021-08-24",
+                    "end": "2021-08-28"
+                },
+                {
+                    "season": 2019,
+                    "current": false,
+                    "start": "2019-08-07",
+                    "end": "2019-08-11"
+                },
+                {
+                    "season": 2022,
+                    "current": false,
+                    "start": "2022-08-07",
+                    "end": "2023-08-12"
+                }
+            ]
+        },
+        {
+            "id": 66,
+            "name": "European Championship Women",
+            "type": "Cup",
+            "logo": "https://media.api-sports.io/baseball/leagues/66.png",
+            "country": {
+                "id": 26,
+                "name": "Europe",
+                "code": null,
+                "flag": null
+            },
+            "seasons": [
+                {
+                    "season": 2022,
+                    "current": false,
+                    "start": "2022-08-03",
+                    "end": "2022-08-06"
+                }
+            ]
+        },
+        {
+            "id": 72,
+            "name": "European Cup",
+            "type": "Cup",
+            "logo": "https://media.api-sports.io/baseball/leagues/72.png",
+            "country": {
+                "id": 26,
+                "name": "Europe",
+                "code": null,
+                "flag": null
+            },
+            "seasons": [
+                {
+                    "season": 2025,
+                    "current": false,
+                    "start": "2025-06-04",
+                    "end": "2025-06-08"
+                },
+                {
+                    "season": 2026,
+                    "current": false,
+                    "start": "2026-06-01",
+                    "end": "2026-06-04"
+                }
+            ]
+        },
+        {
+            "id": 37,
+            "name": "Federations Cup",
+            "type": "Cup",
+            "logo": "https://media.api-sports.io/baseball/leagues/37.png",
+            "country": {
+                "id": 26,
+                "name": "Europe",
+                "code": null,
+                "flag": null
+            },
+            "seasons": [
+                {
+                    "season": 2024,
+                    "current": false,
+                    "start": "2024-06-03",
+                    "end": "2024-06-09"
+                },
+                {
+                    "season": 2021,
+                    "current": false,
+                    "start": "2021-08-16",
+                    "end": "2021-08-21"
+                },
+                {
+                    "season": 2023,
+                    "current": false,
+                    "start": "2023-06-19",
+                    "end": "2023-06-24"
+                },
+                {
+                    "season": 2017,
+                    "current": false,
+                    "start": "2017-06-13",
+                    "end": "2017-06-18"
+                },
+                {
+                    "season": 2019,
+                    "current": false,
+                    "start": "2019-06-10",
+                    "end": "2019-06-15"
+                },
+                {
+                    "season": 2022,
+                    "current": false,
+                    "start": "2022-06-20",
+                    "end": "2022-06-25"
+                },
+                {
+                    "season": 2026,
+                    "current": false,
+                    "start": "2026-06-08",
+                    "end": "2026-06-12"
+                },
+                {
+                    "season": 2018,
+                    "current": false,
+                    "start": "2018-06-11",
+                    "end": "2018-06-16"
+                },
+                {
+                    "season": 2025,
+                    "current": false,
+                    "start": "2025-06-02",
+                    "end": "2025-06-07"
+                }
+            ]
+        },
+        {
+            "id": 59,
+            "name": "Prague Baseball Week",
+            "type": "Cup",
+            "logo": "https://media.api-sports.io/baseball/leagues/59.png",
+            "country": {
+                "id": 26,
+                "name": "Europe",
+                "code": null,
+                "flag": null
+            },
+            "seasons": [
+                {
+                    "season": 2025,
+                    "current": false,
+                    "start": "2025-06-27",
+                    "end": "2025-06-30"
+                },
+                {
+                    "season": 2024,
+                    "current": false,
+                    "start": "2024-07-06",
+                    "end": "2024-07-09"
+                },
+                {
+                    "season": 2021,
+                    "current": false,
+                    "start": "2021-06-22",
+                    "end": "2021-06-26"
+                },
+                {
+                    "season": 2020,
+                    "current": false,
+                    "start": "2020-09-30",
+                    "end": "2020-10-03"
+                },
+                {
+                    "season": 2023,
+                    "current": false,
+                    "start": "2023-06-21",
+                    "end": "2023-06-24"
+                },
+                {
+                    "season": 2022,
+                    "current": false,
+                    "start": "2022-06-22",
+                    "end": "2022-06-25"
+                },
+                {
+                    "season": 2026,
+                    "current": false,
+                    "start": "2026-07-05",
+                    "end": "2026-07-07"
+                }
+            ]
+        },
+        {
+            "id": 38,
+            "name": "Super 6",
+            "type": "Cup",
+            "logo": "https://media.api-sports.io/baseball/leagues/38.png",
+            "country": {
+                "id": 26,
+                "name": "Europe",
+                "code": null,
+                "flag": null
+            },
+            "seasons": [
+                {
+                    "season": 2018,
+                    "current": false,
+                    "start": "2018-09-18",
+                    "end": "2018-09-22"
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "name": "SM-sarja",
+            "type": "League",
+            "logo": "https://media.api-sports.io/baseball/leagues/12.png",
+            "country": {
+                "id": 10,
+                "name": "Finland",
+                "code": "FI",
+                "flag": "https://media.api-sports.io/flags/fi.svg"
+            },
+            "seasons": [
+                {
+                    "season": 2026,
+                    "current": false,
+                    "start": "2026-05-17",
+                    "end": "2026-08-19"
+                },
+                {
+                    "season": 2014,
+                    "current": false,
+                    "start": "2014-05-18",
+                    "end": "2014-09-13"
+                },
+                {
+                    "season": 2019,
+                    "current": false,
+                    "start": "2019-05-03",
+                    "end": "2019-08-31"
+                },
+                {
+                    "season": 2021,
+                    "current": false,
+                    "start": "2021-06-02",
+                    "end": "2021-09-18"
+                },
+                {
+                    "season": 2015,
+                    "current": false,
+                    "start": "2015-05-04",
+                    "end": "2015-09-08"
+                },
+                {
+                    "season": 2016,
+                    "current": false,
+                    "start": "2016-05-02",
+                    "end": "2016-09-03"
+                },
+                {
+                    "season": 2017,
+                    "current": false,
+                    "start": "2017-05-04",
+                    "end": "2017-09-10"
+                },
+                {
+                    "season": 2024,
+                    "current": false,
+                    "start": "2024-05-05",
+                    "end": "2024-09-14"
+                },
+                {
+                    "season": 2025,
+                    "current": false,
+                    "start": "2025-05-10",
+                    "end": "2025-09-13"
+                },
+                {
+                    "season": 2020,
+                    "current": false,
+                    "start": "2020-06-12",
+                    "end": "2020-09-19"
+                },
+                {
+                    "season": 2018,
+                    "current": false,
+                    "start": "2018-05-03",
+                    "end": "2018-09-01"
+                },
+                {
+                    "season": 2022,
+                    "current": false,
+                    "start": "2022-05-14",
+                    "end": "2022-09-10"
+                },
+                {
+                    "season": 2023,
+                    "current": false,
+                    "start": "2023-05-21",
+                    "end": "2023-09-10"
+                },
+                {
+                    "season": 2013,
+                    "current": false,
+                    "start": "2013-05-13",
+                    "end": "2013-08-25"
+                },
+                {
+                    "season": 2012,
+                    "current": false,
+                    "start": "2012-05-03",
+                    "end": "2012-08-25"
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "name": "Division 1",
+            "type": "League",
+            "logo": "https://media.api-sports.io/baseball/leagues/13.png",
+            "country": {
+                "id": 11,
+                "name": "France",
+                "code": "FR",
+                "flag": "https://media.api-sports.io/flags/fr.svg"
+            },
+            "seasons": [
+                {
+                    "season": 2023,
+                    "current": false,
+                    "start": "2023-03-19",
+                    "end": "2023-10-15"
+                },
+                {
+                    "season": 2018,
+                    "current": false,
+                    "start": "2018-04-08",
+                    "end": "2018-10-13"
+                },
+                {
+                    "season": 2026,
+                    "current": true,
+                    "start": "2026-04-04",
+                    "end": "2026-08-09"
+                },
+                {
+                    "season": 2012,
+                    "current": false,
+                    "start": "2012-03-18",
+                    "end": "2012-08-19"
+                },
+                {
+                    "season": 2020,
+                    "current": false,
+                    "start": "2020-04-12",
+                    "end": "2020-07-26"
+                },
+                {
+                    "season": 2013,
+                    "current": false,
+                    "start": "2013-03-31",
+                    "end": "2013-09-08"
+                },
+                {
+                    "season": 2025,
+                    "current": false,
+                    "start": "2025-03-22",
+                    "end": "2025-09-13"
+                },
+                {
+                    "season": 2017,
+                    "current": false,
+                    "start": "2017-04-01",
+                    "end": "2017-10-08"
+                },
+                {
+                    "season": 2016,
+                    "current": false,
+                    "start": "2016-03-27",
+                    "end": "2016-08-28"
+                },
+                {
+                    "season": 2014,
+                    "current": false,
+                    "start": "2014-03-30",
+                    "end": "2014-10-18"
+                },
+                {
+                    "season": 2015,
+                    "current": false,
+                    "start": "2015-03-28",
+                    "end": "2015-10-10"
+                },
+                {
+                    "season": 2022,
+                    "current": false,
+                    "start": "2022-04-09",
+                    "end": "2022-08-21"
+                },
+                {
+                    "season": 2019,
+                    "current": false,
+                    "start": "2019-03-23",
+                    "end": "2019-08-25"
+                },
+                {
+                    "season": 2021,
+                    "current": false,
+                    "start": "2021-06-12",
+                    "end": "2021-10-31"
+                },
+                {
+                    "season": 2024,
+                    "current": false,
+                    "start": "2024-04-07",
+                    "end": "2024-10-26"
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "name": "Bundesliga",
+            "type": "League",
+            "logo": "https://media.api-sports.io/baseball/leagues/16.png",
+            "country": {
+                "id": 12,
+                "name": "Germany",
+                "code": "DE",
+                "flag": "https://media.api-sports.io/flags/de.svg"
+            },
+            "seasons": [
+                {
+                    "season": 2018,
+                    "current": false,
+                    "start": "2018-09-08",
+                    "end": "2018-10-14"
+                },
+                {
+                    "season": 2023,
+                    "current": false,
+                    "start": "2023-07-22",
+                    "end": "2023-09-17"
+                },
+                {
+                    "season": 2024,
+                    "current": false,
+                    "start": "2024-08-03",
+                    "end": "2024-09-21"
+                },
+                {
+                    "season": 2020,
+                    "current": false,
+                    "start": "2020-09-26",
+                    "end": "2020-10-17"
+                },
+                {
+                    "season": 2022,
+                    "current": false,
+                    "start": "2022-07-16",
+                    "end": "2022-09-04"
+                },
+                {
+                    "season": 2025,
+                    "current": false,
+                    "start": "2025-08-16",
+                    "end": "2025-09-07"
+                },
+                {
+                    "season": 2019,
+                    "current": false,
+                    "start": "2019-06-29",
+                    "end": "2019-08-04"
+                },
+                {
+                    "season": 2012,
+                    "current": false,
+                    "start": "2012-07-14",
+                    "end": "2012-08-18"
+                },
+                {
+                    "season": 2013,
+                    "current": false,
+                    "start": "2013-08-24",
+                    "end": "2013-10-03"
+                },
+                {
+                    "season": 2017,
+                    "current": false,
+                    "start": "2017-07-29",
+                    "end": "2017-10-14"
+                },
+                {
+                    "season": 2016,
+                    "current": false,
+                    "start": "2016-08-06",
+                    "end": "2016-10-02"
+                },
+                {
+                    "season": 2015,
+                    "current": false,
+                    "start": "2015-08-08",
+                    "end": "2015-10-03"
+                },
+                {
+                    "season": 2014,
+                    "current": false,
+                    "start": "2014-07-19",
+                    "end": "2014-08-24"
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "name": "Bundesliga North",
+            "type": "League",
+            "logo": "https://media.api-sports.io/baseball/leagues/14.png",
+            "country": {
+                "id": 12,
+                "name": "Germany",
+                "code": "DE",
+                "flag": "https://media.api-sports.io/flags/de.svg"
+            },
+            "seasons": [
+                {
+                    "season": 2025,
+                    "current": false,
+                    "start": "2025-04-05",
+                    "end": "2025-07-27"
+                },
+                {
+                    "season": 2022,
+                    "current": false,
+                    "start": "2022-04-02",
+                    "end": "2022-08-14"
+                },
+                {
+                    "season": 2015,
+                    "current": false,
+                    "start": "2015-05-17",
+                    "end": "2015-09-12"
+                },
+                {
+                    "season": 2016,
+                    "current": false,
+                    "start": "2016-05-28",
+                    "end": "2016-09-10"
+                },
+                {
+                    "season": 2019,
+                    "current": false,
+                    "start": "2019-03-30",
+                    "end": "2019-08-11"
+                },
+                {
+                    "season": 2012,
+                    "current": false,
+                    "start": "2012-03-31",
+                    "end": "2012-08-18"
+                },
+                {
+                    "season": 2017,
+                    "current": false,
+                    "start": "2017-05-25",
+                    "end": "2017-09-10"
+                },
+                {
+                    "season": 2018,
+                    "current": false,
+                    "start": "2018-03-31",
+                    "end": "2018-09-02"
+                },
+                {
+                    "season": 2026,
+                    "current": true,
+                    "start": "2026-04-11",
+                    "end": "2026-06-21"
+                },
+                {
+                    "season": 2023,
+                    "current": false,
+                    "start": "2023-04-01",
+                    "end": "2023-09-03"
+                },
+                {
+                    "season": 2024,
+                    "current": false,
+                    "start": "2024-04-06",
+                    "end": "2024-07-27"
+                },
+                {
+                    "season": 2014,
+                    "current": false,
+                    "start": "2014-05-18",
+                    "end": "2014-08-24"
+                },
+                {
+                    "season": 2020,
+                    "current": false,
+                    "start": "2020-08-07",
+                    "end": "2020-09-26"
+                },
+                {
+                    "season": 2013,
+                    "current": false,
+                    "start": "2013-04-13",
+                    "end": "2013-09-22"
+                },
+                {
+                    "season": 2021,
+                    "current": false,
+                    "start": "2021-05-08",
+                    "end": "2021-08-15"
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "name": "Bundesliga South",
+            "type": "League",
+            "logo": "https://media.api-sports.io/baseball/leagues/15.png",
+            "country": {
+                "id": 12,
+                "name": "Germany",
+                "code": "DE",
+                "flag": "https://media.api-sports.io/flags/de.svg"
+            },
+            "seasons": [
+                {
+                    "season": 2021,
+                    "current": false,
+                    "start": "2021-04-01",
+                    "end": "2021-09-25"
+                },
+                {
+                    "season": 2020,
+                    "current": false,
+                    "start": "2020-08-07",
+                    "end": "2020-09-20"
+                },
+                {
+                    "season": 2024,
+                    "current": false,
+                    "start": "2024-04-05",
+                    "end": "2024-08-10"
+                },
+                {
+                    "season": 2012,
+                    "current": false,
+                    "start": "2012-03-30",
+                    "end": "2012-08-25"
+                },
+                {
+                    "season": 2013,
+                    "current": false,
+                    "start": "2013-04-12",
+                    "end": "2013-09-14"
+                },
+                {
+                    "season": 2026,
+                    "current": true,
+                    "start": "2026-04-10",
+                    "end": "2026-06-21"
+                },
+                {
+                    "season": 2015,
+                    "current": false,
+                    "start": "2015-04-04",
+                    "end": "2015-09-05"
+                },
+                {
+                    "season": 2019,
+                    "current": false,
+                    "start": "2019-03-29",
+                    "end": "2019-08-10"
+                },
+                {
+                    "season": 2023,
+                    "current": false,
+                    "start": "2023-03-31",
+                    "end": "2023-09-16"
+                },
+                {
+                    "season": 2022,
+                    "current": false,
+                    "start": "2022-04-09",
+                    "end": "2022-08-27"
+                },
+                {
+                    "season": 2014,
+                    "current": false,
+                    "start": "2014-04-04",
+                    "end": "2014-08-23"
+                },
+                {
+                    "season": 2025,
+                    "current": false,
+                    "start": "2025-04-04",
+                    "end": "2025-07-26"
+                },
+                {
+                    "season": 2018,
+                    "current": false,
+                    "start": "2018-03-31",
+                    "end": "2018-09-02"
+                },
+                {
+                    "season": 2016,
+                    "current": false,
+                    "start": "2016-04-02",
+                    "end": "2016-09-24"
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "name": "IBL",
+            "type": "League",
+            "logo": "https://media.api-sports.io/baseball/leagues/17.png",
+            "country": {
+                "id": 13,
+                "name": "Italy",
+                "code": "IT",
+                "flag": "https://media.api-sports.io/flags/it.svg"
+            },
+            "seasons": [
+                {
+                    "season": 2012,
+                    "current": false,
+                    "start": "2012-03-29",
+                    "end": "2012-08-24"
+                },
+                {
+                    "season": 2013,
+                    "current": false,
+                    "start": "2013-04-05",
+                    "end": "2013-09-22"
+                },
+                {
+                    "season": 2015,
+                    "current": false,
+                    "start": "2015-03-27",
+                    "end": "2015-09-08"
+                },
+                {
+                    "season": 2014,
+                    "current": false,
+                    "start": "2014-04-04",
+                    "end": "2014-08-30"
+                },
+                {
+                    "season": 2016,
+                    "current": false,
+                    "start": "2016-04-08",
+                    "end": "2016-08-21"
+                },
+                {
+                    "season": 2017,
+                    "current": false,
+                    "start": "2017-04-14",
+                    "end": "2017-09-05"
+                }
+            ]
+        },
+        {
+            "id": 50,
+            "name": "Serie A1",
+            "type": "League",
+            "logo": "https://media.api-sports.io/baseball/leagues/50.png",
+            "country": {
+                "id": 13,
+                "name": "Italy",
+                "code": "IT",
+                "flag": "https://media.api-sports.io/flags/it.svg"
+            },
+            "seasons": [
+                {
+                    "season": 2020,
+                    "current": false,
+                    "start": "2020-07-08",
+                    "end": "2020-09-30"
+                },
+                {
+                    "season": 2021,
+                    "current": false,
+                    "start": "2021-05-08",
+                    "end": "2021-08-18"
+                },
+                {
+                    "season": 2022,
+                    "current": false,
+                    "start": "2022-04-01",
+                    "end": "2022-09-11"
+                },
+                {
+                    "season": 2019,
+                    "current": false,
+                    "start": "2019-06-08",
+                    "end": "2019-08-20"
+                },
+                {
+                    "season": 2024,
+                    "current": false,
+                    "start": "2024-04-20",
+                    "end": "2024-09-15"
+                },
+                {
+                    "season": 2018,
+                    "current": false,
+                    "start": "2018-04-20",
+                    "end": "2018-09-05"
+                },
+                {
+                    "season": 2026,
+                    "current": true,
+                    "start": "2026-04-10",
+                    "end": "2026-07-25"
+                },
+                {
+                    "season": 2025,
+                    "current": false,
+                    "start": "2025-04-11",
+                    "end": "2025-09-28"
+                },
+                {
+                    "season": 2023,
+                    "current": false,
+                    "start": "2023-04-15",
+                    "end": "2023-09-17"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "NPB",
+            "type": "League",
+            "logo": "https://media.api-sports.io/baseball/leagues/2.png",
+            "country": {
+                "id": 2,
+                "name": "Japan",
+                "code": "JP",
+                "flag": "https://media.api-sports.io/flags/jp.svg"
+            },
+            "seasons": [
+                {
+                    "season": 2012,
+                    "current": false,
+                    "start": "2012-03-30",
+                    "end": "2012-11-03"
+                },
+                {
+                    "season": 2020,
+                    "current": false,
+                    "start": "2020-02-16",
+                    "end": "2020-11-25"
+                },
+                {
+                    "season": 2019,
+                    "current": false,
+                    "start": "2019-02-23",
+                    "end": "2019-10-23"
+                },
+                {
+                    "season": 2023,
+                    "current": false,
+                    "start": "2023-02-23",
+                    "end": "2023-11-05"
+                },
+                {
+                    "season": 2024,
+                    "current": false,
+                    "start": "2024-02-23",
+                    "end": "2024-11-03"
+                },
+                {
+                    "season": 2015,
+                    "current": false,
+                    "start": "2015-03-27",
+                    "end": "2015-10-29"
+                },
+                {
+                    "season": 2010,
+                    "current": false,
+                    "start": "2010-03-20",
+                    "end": "2010-11-07"
+                },
+                {
+                    "season": 2014,
+                    "current": false,
+                    "start": "2014-03-28",
+                    "end": "2014-10-30"
+                },
+                {
+                    "season": 2022,
+                    "current": false,
+                    "start": "2022-02-26",
+                    "end": "2022-10-30"
+                },
+                {
+                    "season": 2009,
+                    "current": false,
+                    "start": "2009-04-03",
+                    "end": "2009-11-07"
+                },
+                {
+                    "season": 2008,
+                    "current": false,
+                    "start": "2008-03-20",
+                    "end": "2008-11-09"
+                },
+                {
+                    "season": 2011,
+                    "current": false,
+                    "start": "2011-04-12",
+                    "end": "2011-11-20"
+                },
+                {
+                    "season": 2026,
+                    "current": true,
+                    "start": "2026-02-21",
+                    "end": "2026-09-29"
+                },
+                {
+                    "season": 2016,
+                    "current": false,
+                    "start": "2016-03-25",
+                    "end": "2016-10-29"
+                },
+                {
+                    "season": 2017,
+                    "current": false,
+                    "start": "2017-03-31",
+                    "end": "2017-11-04"
+                },
+                {
+                    "season": 2013,
+                    "current": false,
+                    "start": "2013-03-29",
+                    "end": "2013-11-03"
+                },
+                {
+                    "season": 2021,
+                    "current": false,
+                    "start": "2021-03-02",
+                    "end": "2021-11-27"
+                },
+                {
+                    "season": 2025,
+                    "current": false,
+                    "start": "2025-02-22",
+                    "end": "2025-10-30"
+                },
+                {
+                    "season": 2018,
+                    "current": false,
+                    "start": "2018-02-24",
+                    "end": "2018-11-03"
+                }
+            ]
+        },
+        {
+            "id": 51,
+            "name": "NPB Minor League",
+            "type": "League",
+            "logo": "https://media.api-sports.io/baseball/leagues/51.png",
+            "country": {
+                "id": 2,
+                "name": "Japan",
+                "code": "JP",
+                "flag": "https://media.api-sports.io/flags/jp.svg"
+            },
+            "seasons": [
+                {
+                    "season": 2020,
+                    "current": false,
+                    "start": "2020-06-19",
+                    "end": "2020-11-07"
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "name": "Spring Koshien",
+            "type": "League",
+            "logo": "https://media.api-sports.io/baseball/leagues/19.png",
+            "country": {
+                "id": 2,
+                "name": "Japan",
+                "code": "JP",
+                "flag": "https://media.api-sports.io/flags/jp.svg"
+            },
+            "seasons": [
+                {
+                    "season": 2021,
+                    "current": false,
+                    "start": "2021-03-19",
+                    "end": "2021-04-01"
+                },
+                {
+                    "season": 2023,
+                    "current": false,
+                    "start": "2023-03-18",
+                    "end": "2023-04-01"
+                },
+                {
+                    "season": 2024,
+                    "current": false,
+                    "start": "2024-03-18",
+                    "end": "2024-03-31"
+                },
+                {
+                    "season": 2025,
+                    "current": false,
+                    "start": "2025-03-18",
+                    "end": "2025-03-30"
+                },
+                {
+                    "season": 2017,
+                    "current": false,
+                    "start": "2017-03-19",
+                    "end": "2017-04-01"
+                },
+                {
+                    "season": 2026,
+                    "current": false,
+                    "start": "2026-03-19",
+                    "end": "2026-03-31"
+                },
+                {
+                    "season": 2018,
+                    "current": false,
+                    "start": "2018-03-23",
+                    "end": "2018-04-04"
+                },
+                {
+                    "season": 2019,
+                    "current": false,
+                    "start": "2019-03-23",
+                    "end": "2019-04-03"
+                },
+                {
+                    "season": 2022,
+                    "current": false,
+                    "start": "2022-03-19",
+                    "end": "2022-03-31"
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "name": "Summer Koshien",
+            "type": "League",
+            "logo": "https://media.api-sports.io/baseball/leagues/18.png",
+            "country": {
+                "id": 2,
+                "name": "Japan",
+                "code": "JP",
+                "flag": "https://media.api-sports.io/flags/jp.svg"
+            },
+            "seasons": [
+                {
+                    "season": 2025,
+                    "current": false,
+                    "start": "2025-08-05",
+                    "end": "2025-08-23"
+                },
+                {
+                    "season": 2021,
+                    "current": false,
+                    "start": "2021-08-10",
+                    "end": "2021-08-29"
+                },
+                {
+                    "season": 2023,
+                    "current": false,
+                    "start": "2023-08-06",
+                    "end": "2023-08-23"
+                },
+                {
+                    "season": 2022,
+                    "current": false,
+                    "start": "2022-08-06",
+                    "end": "2022-08-22"
+                },
+                {
+                    "season": 2024,
+                    "current": false,
+                    "start": "2024-08-07",
+                    "end": "2024-08-23"
+                },
+                {
+                    "season": 2017,
+                    "current": false,
+                    "start": "2017-08-08",
+                    "end": "2017-08-23"
+                },
+                {
+                    "season": 2018,
+                    "current": false,
+                    "start": "2018-08-05",
+                    "end": "2018-08-21"
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "name": "LBL",
+            "type": "League",
+            "logo": "https://media.api-sports.io/baseball/leagues/20.png",
+            "country": {
+                "id": 14,
+                "name": "Lithuania",
+                "code": "LT",
+                "flag": "https://media.api-sports.io/flags/lt.svg"
+            },
+            "seasons": [
+                {
+                    "season": 2018,
+                    "current": false,
+                    "start": "2018-05-05",
+                    "end": "2018-09-29"
+                },
+                {
+                    "season": 2012,
+                    "current": false,
+                    "start": "2012-05-06",
+                    "end": "2012-09-16"
+                },
+                {
+                    "season": 2013,
+                    "current": false,
+                    "start": "2013-05-18",
+                    "end": "2013-09-22"
+                },
+                {
+                    "season": 2022,
+                    "current": false,
+                    "start": "2022-04-30",
+                    "end": "2022-10-02"
+                },
+                {
+                    "season": 2020,
+                    "current": false,
+                    "start": "2020-06-13",
+                    "end": "2020-09-13"
+                },
+                {
+                    "season": 2014,
+                    "current": false,
+                    "start": "2014-05-06",
+                    "end": "2014-09-28"
+                },
+                {
+                    "season": 2017,
+                    "current": false,
+                    "start": "2017-05-13",
+                    "end": "2017-09-29"
+                },
+                {
+                    "season": 2023,
+                    "current": false,
+                    "start": "2023-04-22",
+                    "end": "2023-09-24"
+                },
+                {
+                    "season": 2019,
+                    "current": false,
+                    "start": "2019-04-27",
+                    "end": "2019-09-22"
+                },
+                {
+                    "season": 2015,
+                    "current": false,
+                    "start": "2015-05-02",
+                    "end": "2015-09-26"
+                },
+                {
+                    "season": 2016,
+                    "current": false,
+                    "start": "2016-04-23",
+                    "end": "2016-09-24"
+                },
+                {
+                    "season": 2021,
+                    "current": false,
+                    "start": "2021-04-17",
+                    "end": "2021-09-11"
+                }
+            ]
+        },
+        {
+            "id": 21,
+            "name": "LMB",
+            "type": "League",
+            "logo": "https://media.api-sports.io/baseball/leagues/21.png",
+            "country": {
+                "id": 15,
+                "name": "Mexico",
+                "code": "MX",
+                "flag": "https://media.api-sports.io/flags/mx.svg"
+            },
+            "seasons": [
+                {
+                    "season": 2018,
+                    "current": false,
+                    "start": "2018-03-23",
+                    "end": "2018-10-10"
+                },
+                {
+                    "season": 2026,
+                    "current": true,
+                    "start": "2026-04-17",
+                    "end": "2026-08-03"
+                },
+                {
+                    "season": 2025,
+                    "current": false,
+                    "start": "2025-04-18",
+                    "end": "2025-09-14"
+                },
+                {
+                    "season": 2023,
+                    "current": false,
+                    "start": "2023-04-21",
+                    "end": "2023-09-16"
+                },
+                {
+                    "season": 2009,
+                    "current": false,
+                    "start": "2009-03-25",
+                    "end": "2009-08-30"
+                },
+                {
+                    "season": 2010,
+                    "current": false,
+                    "start": "2010-03-17",
+                    "end": "2010-08-17"
+                },
+                {
+                    "season": 2011,
+                    "current": false,
+                    "start": "2011-03-19",
+                    "end": "2011-08-27"
+                },
+                {
+                    "season": 2012,
+                    "current": false,
+                    "start": "2012-03-17",
+                    "end": "2012-08-30"
+                },
+                {
+                    "season": 2013,
+                    "current": false,
+                    "start": "2013-03-23",
+                    "end": "2013-08-30"
+                },
+                {
+                    "season": 2014,
+                    "current": false,
+                    "start": "2014-04-02",
+                    "end": "2014-09-12"
+                },
+                {
+                    "season": 2015,
+                    "current": false,
+                    "start": "2015-04-03",
+                    "end": "2015-09-15"
+                },
+                {
+                    "season": 2019,
+                    "current": false,
+                    "start": "2019-04-05",
+                    "end": "2019-10-03"
+                },
+                {
+                    "season": 2016,
+                    "current": false,
+                    "start": "2016-04-02",
+                    "end": "2016-09-15"
+                },
+                {
+                    "season": 2022,
+                    "current": false,
+                    "start": "2022-04-22",
+                    "end": "2022-09-20"
+                },
+                {
+                    "season": 2017,
+                    "current": false,
+                    "start": "2017-04-01",
+                    "end": "2017-09-10"
+                },
+                {
+                    "season": 2021,
+                    "current": false,
+                    "start": "2021-05-21",
+                    "end": "2021-09-16"
+                },
+                {
+                    "season": 2024,
+                    "current": false,
+                    "start": "2024-04-12",
+                    "end": "2024-09-10"
+                },
+                {
+                    "season": 2008,
+                    "current": false,
+                    "start": "2008-03-20",
+                    "end": "2008-08-24"
+                }
+            ]
+        },
+        {
+            "id": 22,
+            "name": "LMP",
+            "type": "League",
+            "logo": "https://media.api-sports.io/baseball/leagues/22.png",
+            "country": {
+                "id": 15,
+                "name": "Mexico",
+                "code": "MX",
+                "flag": "https://media.api-sports.io/flags/mx.svg"
+            },
+            "seasons": [
+                {
+                    "season": 2022,
+                    "current": false,
+                    "start": "2022-10-12",
+                    "end": "2023-01-29"
+                },
+                {
+                    "season": 2023,
+                    "current": false,
+                    "start": "2023-10-14",
+                    "end": "2024-01-25"
+                },
+                {
+                    "season": 2019,
+                    "current": false,
+                    "start": "2019-10-12",
+                    "end": "2020-01-31"
+                },
+                {
+                    "season": 2018,
+                    "current": false,
+                    "start": "2018-10-13",
+                    "end": "2019-01-29"
+                },
+                {
+                    "season": 2021,
+                    "current": false,
+                    "start": "2021-10-06",
+                    "end": "2022-01-23"
+                },
+                {
+                    "season": 2025,
+                    "current": false,
+                    "start": "2025-10-16",
+                    "end": "2026-01-25"
+                },
+                {
+                    "season": 2017,
+                    "current": false,
+                    "start": "2017-10-11",
+                    "end": "2018-01-29"
+                },
+                {
+                    "season": 2016,
+                    "current": false,
+                    "start": "2016-10-11",
+                    "end": "2017-01-29"
+                },
+                {
+                    "season": 2015,
+                    "current": false,
+                    "start": "2015-10-10",
+                    "end": "2016-01-26"
+                },
+                {
+                    "season": 2014,
+                    "current": false,
+                    "start": "2014-10-10",
+                    "end": "2015-01-27"
+                },
+                {
+                    "season": 2013,
+                    "current": false,
+                    "start": "2013-10-12",
+                    "end": "2014-01-30"
+                },
+                {
+                    "season": 2020,
+                    "current": false,
+                    "start": "2020-10-15",
+                    "end": "2021-01-31"
+                },
+                {
+                    "season": 2024,
+                    "current": false,
+                    "start": "2024-10-12",
+                    "end": "2025-01-29"
+                }
+            ]
+        },
+        {
+            "id": 23,
+            "name": "Hoofdklasse",
+            "type": "League",
+            "logo": "https://media.api-sports.io/baseball/leagues/23.png",
+            "country": {
+                "id": 16,
+                "name": "Netherlands",
+                "code": "NL",
+                "flag": "https://media.api-sports.io/flags/nl.svg"
+            },
+            "seasons": [
+                {
+                    "season": 2026,
+                    "current": true,
+                    "start": "2026-04-09",
+                    "end": "2026-08-01"
+                },
+                {
+                    "season": 2020,
+                    "current": false,
+                    "start": "2020-04-26",
+                    "end": "2020-10-24"
+                },
+                {
+                    "season": 2019,
+                    "current": false,
+                    "start": "2019-04-04",
+                    "end": "2019-09-01"
+                },
+                {
+                    "season": 2023,
+                    "current": false,
+                    "start": "2023-04-07",
+                    "end": "2023-10-22"
+                },
+                {
+                    "season": 2022,
+                    "current": false,
+                    "start": "2022-04-07",
+                    "end": "2022-09-17"
+                },
+                {
+                    "season": 2024,
+                    "current": false,
+                    "start": "2024-04-11",
+                    "end": "2024-10-12"
+                },
+                {
+                    "season": 2021,
+                    "current": false,
+                    "start": "2021-04-08",
+                    "end": "2021-10-17"
+                },
+                {
+                    "season": 2014,
+                    "current": false,
+                    "start": "2014-04-17",
+                    "end": "2014-10-12"
+                },
+                {
+                    "season": 2013,
+                    "current": false,
+                    "start": "2013-04-11",
+                    "end": "2013-09-28"
+                },
+                {
+                    "season": 2012,
+                    "current": false,
+                    "start": "2012-04-05",
+                    "end": "2012-09-01"
+                },
+                {
+                    "season": 2018,
+                    "current": false,
+                    "start": "2018-04-26",
+                    "end": "2018-10-07"
+                },
+                {
+                    "season": 2017,
+                    "current": false,
+                    "start": "2017-04-13",
+                    "end": "2017-10-08"
+                },
+                {
+                    "season": 2025,
+                    "current": false,
+                    "start": "2025-04-10",
+                    "end": "2025-09-13"
+                },
+                {
+                    "season": 2016,
+                    "current": false,
+                    "start": "2016-04-14",
+                    "end": "2016-10-08"
+                },
+                {
+                    "season": 2015,
+                    "current": false,
+                    "start": "2015-04-16",
+                    "end": "2015-09-26"
+                }
+            ]
+        },
+        {
+            "id": 52,
+            "name": "CNBS",
+            "type": "League",
+            "logo": "https://media.api-sports.io/baseball/leagues/52.png",
+            "country": {
+                "id": 29,
+                "name": "Nicaragua",
+                "code": "NI",
+                "flag": "https://media.api-sports.io/flags/ni.svg"
+            },
+            "seasons": [
+                {
+                    "season": 2020,
+                    "current": false,
+                    "start": "2020-01-31",
+                    "end": "2020-08-15"
+                }
+            ]
+        },
+        {
+            "id": 39,
+            "name": "Caribbean Series",
+            "type": "Cup",
+            "logo": "https://media.api-sports.io/baseball/leagues/39.png",
+            "country": {
+                "id": 27,
+                "name": "North-Central-America",
+                "code": null,
+                "flag": null
+            },
+            "seasons": [
+                {
+                    "season": 2020,
+                    "current": false,
+                    "start": "2020-02-01",
+                    "end": "2020-02-08"
+                },
+                {
+                    "season": 2015,
+                    "current": false,
+                    "start": "2015-02-02",
+                    "end": "2015-02-08"
+                },
+                {
+                    "season": 2026,
+                    "current": false,
+                    "start": "2026-02-01",
+                    "end": "2026-02-08"
+                },
+                {
+                    "season": 2025,
+                    "current": false,
+                    "start": "2025-01-31",
+                    "end": "2025-02-08"
+                },
+                {
+                    "season": 2019,
+                    "current": false,
+                    "start": "2019-02-04",
+                    "end": "2019-02-10"
+                },
+                {
+                    "season": 2018,
+                    "current": false,
+                    "start": "2018-02-02",
+                    "end": "2018-02-09"
+                },
+                {
+                    "season": 2017,
+                    "current": false,
+                    "start": "2017-02-01",
+                    "end": "2017-02-08"
+                },
+                {
+                    "season": 2016,
+                    "current": false,
+                    "start": "2016-02-01",
+                    "end": "2016-02-07"
+                },
+                {
+                    "season": 2013,
+                    "current": false,
+                    "start": "2013-02-01",
+                    "end": "2013-02-08"
+                },
+                {
+                    "season": 2014,
+                    "current": false,
+                    "start": "2014-02-01",
+                    "end": "2014-02-09"
+                },
+                {
+                    "season": 2024,
+                    "current": false,
+                    "start": "2024-02-01",
+                    "end": "2024-02-10"
+                }
+            ]
+        },
+        {
+            "id": 40,
+            "name": "Central American & Caribbean Games",
+            "type": "League",
+            "logo": "https://media.api-sports.io/baseball/leagues/40.png",
+            "country": {
+                "id": 27,
+                "name": "North-Central-America",
+                "code": null,
+                "flag": null
+            },
+            "seasons": [
+                {
+                    "season": 2018,
+                    "current": false,
+                    "start": "2018-07-20",
+                    "end": "2018-07-30"
+                },
+                {
+                    "season": 2023,
+                    "current": false,
+                    "start": "2023-06-24",
+                    "end": "2023-07-01"
+                }
+            ]
+        },
+        {
+            "id": 53,
+            "name": "Eliteserien",
+            "type": "League",
+            "logo": "https://media.api-sports.io/baseball/leagues/53.png",
+            "country": {
+                "id": 17,
+                "name": "Norway",
+                "code": "NO",
+                "flag": "https://media.api-sports.io/flags/no.svg"
+            },
+            "seasons": [
+                {
+                    "season": 2019,
+                    "current": false,
+                    "start": "2019-04-27",
+                    "end": "2019-09-14"
+                },
+                {
+                    "season": 2020,
+                    "current": false,
+                    "start": "2020-06-27",
+                    "end": "2020-09-20"
+                },
+                {
+                    "season": 2021,
+                    "current": false,
+                    "start": "2021-06-27",
+                    "end": "2021-09-26"
+                },
+                {
+                    "season": 2025,
+                    "current": false,
+                    "start": "2025-05-03",
+                    "end": "2025-09-28"
+                },
+                {
+                    "season": 2023,
+                    "current": false,
+                    "start": "2023-04-29",
+                    "end": "2023-09-24"
+                },
+                {
+                    "season": 2022,
+                    "current": false,
+                    "start": "2022-04-30",
+                    "end": "2022-09-25"
+                },
+                {
+                    "season": 2024,
+                    "current": false,
+                    "start": "2024-04-27",
+                    "end": "2024-09-29"
+                }
+            ]
+        },
+        {
+            "id": 24,
+            "name": "NBL",
+            "type": "League",
+            "logo": "https://media.api-sports.io/baseball/leagues/24.png",
+            "country": {
+                "id": 17,
+                "name": "Norway",
+                "code": "NO",
+                "flag": "https://media.api-sports.io/flags/no.svg"
+            },
+            "seasons": [
+                {
+                    "season": 2016,
+                    "current": false,
+                    "start": "2016-05-07",
+                    "end": "2016-09-25"
+                },
+                {
+                    "season": 2013,
+                    "current": false,
+                    "start": "2013-05-04",
+                    "end": "2013-09-22"
+                },
+                {
+                    "season": 2012,
+                    "current": false,
+                    "start": "2012-05-05",
+                    "end": "2012-09-22"
+                },
+                {
+                    "season": 2018,
+                    "current": false,
+                    "start": "2018-04-29",
+                    "end": "2018-09-15"
+                },
+                {
+                    "season": 2017,
+                    "current": false,
+                    "start": "2017-05-06",
+                    "end": "2017-09-17"
+                },
+                {
+                    "season": 2015,
+                    "current": false,
+                    "start": "2015-04-25",
+                    "end": "2015-09-12"
+                }
+            ]
+        },
+        {
+            "id": 25,
+            "name": "LBPRC",
+            "type": "League",
+            "logo": "https://media.api-sports.io/baseball/leagues/25.png",
+            "country": {
+                "id": 18,
+                "name": "Puerto-Rico",
+                "code": "PR",
+                "flag": "https://media.api-sports.io/flags/pr.svg"
+            },
+            "seasons": [
+                {
+                    "season": 2025,
+                    "current": false,
+                    "start": "2025-11-06",
+                    "end": "2026-01-20"
+                },
+                {
+                    "season": 2024,
+                    "current": false,
+                    "start": "2024-11-08",
+                    "end": "2025-01-24"
+                },
+                {
+                    "season": 2018,
+                    "current": false,
+                    "start": "2018-12-07",
+                    "end": "2019-01-25"
+                },
+                {
+                    "season": 2020,
+                    "current": false,
+                    "start": "2020-12-08",
+                    "end": "2021-01-24"
+                },
+                {
+                    "season": 2021,
+                    "current": false,
+                    "start": "2021-11-06",
+                    "end": "2022-01-20"
+                },
+                {
+                    "season": 2023,
+                    "current": false,
+                    "start": "2023-11-03",
+                    "end": "2024-01-21"
+                },
+                {
+                    "season": 2019,
+                    "current": false,
+                    "start": "2019-11-16",
+                    "end": "2020-01-20"
+                },
+                {
+                    "season": 2015,
+                    "current": false,
+                    "start": "2015-10-30",
+                    "end": "2016-01-29"
+                },
+                {
+                    "season": 2022,
+                    "current": false,
+                    "start": "2022-11-04",
+                    "end": "2023-01-25"
+                },
+                {
+                    "season": 2017,
+                    "current": false,
+                    "start": "2018-01-05",
+                    "end": "2018-01-27"
+                },
+                {
+                    "season": 2016,
+                    "current": false,
+                    "start": "2016-10-27",
+                    "end": "2017-01-25"
+                }
+            ]
+        },
+        {
+            "id": 54,
+            "name": "Championship",
+            "type": "League",
+            "logo": "https://media.api-sports.io/baseball/leagues/54.png",
+            "country": {
+                "id": 30,
+                "name": "Russia",
+                "code": "RU",
+                "flag": "https://media.api-sports.io/flags/ru.svg"
+            },
+            "seasons": [
+                {
+                    "season": 2022,
+                    "current": false,
+                    "start": "2022-05-17",
+                    "end": "2022-09-29"
+                },
+                {
+                    "season": 2021,
+                    "current": false,
+                    "start": "2021-05-25",
+                    "end": "2021-08-29"
+                },
+                {
+                    "season": 2025,
+                    "current": false,
+                    "start": "2025-05-03",
+                    "end": "2025-09-17"
+                },
+                {
+                    "season": 2024,
+                    "current": false,
+                    "start": "2024-05-04",
+                    "end": "2024-09-15"
+                },
+                {
+                    "season": 2023,
+                    "current": false,
+                    "start": "2023-05-12",
+                    "end": "2023-09-15"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "KBO",
+            "type": "League",
+            "logo": "https://media.api-sports.io/baseball/leagues/5.png",
+            "country": {
+                "id": 3,
+                "name": "South-Korea",
+                "code": "KR",
+                "flag": "https://media.api-sports.io/flags/kr.svg"
+            },
+            "seasons": [
+                {
+                    "season": 2022,
+                    "current": false,
+                    "start": "2022-04-02",
+                    "end": "2022-11-08"
+                },
+                {
+                    "season": 2019,
+                    "current": false,
+                    "start": "2019-03-12",
+                    "end": "2019-09-13"
+                },
+                {
+                    "season": 2023,
+                    "current": false,
+                    "start": "2023-03-13",
+                    "end": "2023-11-13"
+                },
+                {
+                    "season": 2025,
+                    "current": false,
+                    "start": "2025-03-08",
+                    "end": "2025-10-31"
+                },
+                {
+                    "season": 2021,
+                    "current": false,
+                    "start": "2021-03-21",
+                    "end": "2021-11-18"
+                },
+                {
+                    "season": 2017,
+                    "current": false,
+                    "start": "2017-03-14",
+                    "end": "2017-10-30"
+                },
+                {
+                    "season": 2014,
+                    "current": false,
+                    "start": "2014-03-08",
+                    "end": "2014-11-11"
+                },
+                {
+                    "season": 2018,
+                    "current": false,
+                    "start": "2018-03-13",
+                    "end": "2018-11-12"
+                },
+                {
+                    "season": 2026,
+                    "current": true,
+                    "start": "2026-03-12",
+                    "end": "2026-09-06"
+                },
+                {
+                    "season": 2013,
+                    "current": false,
+                    "start": "2013-03-09",
+                    "end": "2013-11-01"
+                },
+                {
+                    "season": 2020,
+                    "current": false,
+                    "start": "2020-04-25",
+                    "end": "2020-11-24"
+                },
+                {
+                    "season": 2024,
+                    "current": false,
+                    "start": "2024-03-09",
+                    "end": "2024-10-28"
+                },
+                {
+                    "season": 2012,
+                    "current": false,
+                    "start": "2012-03-17",
+                    "end": "2012-11-01"
+                },
+                {
+                    "season": 2016,
+                    "current": false,
+                    "start": "2016-03-08",
+                    "end": "2016-11-02"
+                },
+                {
+                    "season": 2015,
+                    "current": false,
+                    "start": "2015-03-07",
+                    "end": "2015-10-31"
+                }
+            ]
+        },
+        {
+            "id": 55,
+            "name": "KBO Futures League",
+            "type": "League",
+            "logo": "https://media.api-sports.io/baseball/leagues/55.png",
+            "country": {
+                "id": 3,
+                "name": "South-Korea",
+                "code": "KR",
+                "flag": "https://media.api-sports.io/flags/kr.svg"
+            },
+            "seasons": [
+                {
+                    "season": 2020,
+                    "current": false,
+                    "start": "2020-05-05",
+                    "end": "2020-10-24"
+                }
+            ]
+        },
+        {
+            "id": 26,
+            "name": "Division de Honor",
+            "type": "League",
+            "logo": "https://media.api-sports.io/baseball/leagues/26.png",
+            "country": {
+                "id": 19,
+                "name": "Spain",
+                "code": "ES",
+                "flag": "https://media.api-sports.io/flags/es.svg"
+            },
+            "seasons": [
+                {
+                    "season": 2025,
+                    "current": false,
+                    "start": "2025-03-22",
+                    "end": "2025-07-19"
+                },
+                {
+                    "season": 2021,
+                    "current": false,
+                    "start": "2021-04-10",
+                    "end": "2021-08-15"
+                },
+                {
+                    "season": 2017,
+                    "current": false,
+                    "start": "2017-03-18",
+                    "end": "2017-07-15"
+                },
+                {
+                    "season": 2024,
+                    "current": false,
+                    "start": "2024-03-09",
+                    "end": "2024-08-03"
+                },
+                {
+                    "season": 2016,
+                    "current": false,
+                    "start": "2016-04-02",
+                    "end": "2016-07-31"
+                },
+                {
+                    "season": 2018,
+                    "current": false,
+                    "start": "2018-03-10",
+                    "end": "2018-07-29"
+                },
+                {
+                    "season": 2022,
+                    "current": false,
+                    "start": "2022-03-26",
+                    "end": "2022-08-19"
+                },
+                {
+                    "season": 2023,
+                    "current": false,
+                    "start": "2023-03-18",
+                    "end": "2023-07-23"
+                },
+                {
+                    "season": 2015,
+                    "current": false,
+                    "start": "2015-03-28",
+                    "end": "2015-07-12"
+                },
+                {
+                    "season": 2012,
+                    "current": false,
+                    "start": "2012-02-25",
+                    "end": "2012-08-12"
+                },
+                {
+                    "season": 2019,
+                    "current": false,
+                    "start": "2019-03-23",
+                    "end": "2019-07-21"
+                },
+                {
+                    "season": 2013,
+                    "current": false,
+                    "start": "2013-03-16",
+                    "end": "2013-08-03"
+                },
+                {
+                    "season": 2020,
+                    "current": false,
+                    "start": "2020-04-04",
+                    "end": "2020-11-15"
+                },
+                {
+                    "season": 2014,
+                    "current": false,
+                    "start": "2014-03-15",
+                    "end": "2014-08-03"
+                }
+            ]
+        },
+        {
+            "id": 27,
+            "name": "Elitserien",
+            "type": "League",
+            "logo": "https://media.api-sports.io/baseball/leagues/27.png",
+            "country": {
+                "id": 20,
+                "name": "Sweden",
+                "code": "SE",
+                "flag": "https://media.api-sports.io/flags/se.svg"
+            },
+            "seasons": [
+                {
+                    "season": 2012,
+                    "current": false,
+                    "start": "2012-06-02",
+                    "end": "2012-08-25"
+                },
+                {
+                    "season": 2013,
+                    "current": false,
+                    "start": "2013-05-25",
+                    "end": "2013-09-14"
+                },
+                {
+                    "season": 2022,
+                    "current": false,
+                    "start": "2022-04-30",
+                    "end": "2022-09-10"
+                },
+                {
+                    "season": 2023,
+                    "current": false,
+                    "start": "2023-04-29",
+                    "end": "2023-09-09"
+                },
+                {
+                    "season": 2025,
+                    "current": false,
+                    "start": "2025-05-03",
+                    "end": "2025-09-06"
+                },
+                {
+                    "season": 2019,
+                    "current": false,
+                    "start": "2019-04-27",
+                    "end": "2019-08-31"
+                },
+                {
+                    "season": 2015,
+                    "current": false,
+                    "start": "2015-05-02",
+                    "end": "2015-09-19"
+                },
+                {
+                    "season": 2016,
+                    "current": false,
+                    "start": "2016-06-02",
+                    "end": "2016-09-03"
+                },
+                {
+                    "season": 2026,
+                    "current": true,
+                    "start": "2026-04-25",
+                    "end": "2026-08-29"
+                },
+                {
+                    "season": 2024,
+                    "current": false,
+                    "start": "2024-05-04",
+                    "end": "2024-09-21"
+                },
+                {
+                    "season": 2018,
+                    "current": false,
+                    "start": "2018-06-16",
+                    "end": "2018-09-22"
+                },
+                {
+                    "season": 2017,
+                    "current": false,
+                    "start": "2017-05-31",
+                    "end": "2017-09-16"
+                },
+                {
+                    "season": 2020,
+                    "current": false,
+                    "start": "2020-04-29",
+                    "end": "2020-09-20"
+                },
+                {
+                    "season": 2014,
+                    "current": false,
+                    "start": "2014-05-20",
+                    "end": "2014-08-31"
+                }
+            ]
+        },
+        {
+            "id": 28,
+            "name": "NLA",
+            "type": "League",
+            "logo": "https://media.api-sports.io/baseball/leagues/28.png",
+            "country": {
+                "id": 21,
+                "name": "Switzerland",
+                "code": "CH",
+                "flag": "https://media.api-sports.io/flags/ch.svg"
+            },
+            "seasons": [
+                {
+                    "season": 2023,
+                    "current": false,
+                    "start": "2023-04-16",
+                    "end": "2023-09-09"
+                },
+                {
+                    "season": 2012,
+                    "current": false,
+                    "start": "2012-04-21",
+                    "end": "2012-10-21"
+                },
+                {
+                    "season": 2013,
+                    "current": false,
+                    "start": "2013-04-06",
+                    "end": "2013-10-20"
+                },
+                {
+                    "season": 2014,
+                    "current": false,
+                    "start": "2014-06-11",
+                    "end": "2014-10-18"
+                },
+                {
+                    "season": 2022,
+                    "current": false,
+                    "start": "2022-04-10",
+                    "end": "2022-09-17"
+                },
+                {
+                    "season": 2018,
+                    "current": false,
+                    "start": "2018-04-07",
+                    "end": "2018-10-20"
+                },
+                {
+                    "season": 2017,
+                    "current": false,
+                    "start": "2017-07-02",
+                    "end": "2017-10-21"
+                },
+                {
+                    "season": 2016,
+                    "current": false,
+                    "start": "2016-07-03",
+                    "end": "2016-10-01"
+                },
+                {
+                    "season": 2019,
+                    "current": false,
+                    "start": "2019-07-14",
+                    "end": "2019-10-06"
+                },
+                {
+                    "season": 2021,
+                    "current": false,
+                    "start": "2021-04-17",
+                    "end": "2021-09-26"
+                },
+                {
+                    "season": 2024,
+                    "current": false,
+                    "start": "2024-04-12",
+                    "end": "2024-09-22"
+                },
+                {
+                    "season": 2025,
+                    "current": false,
+                    "start": "2025-04-12",
+                    "end": "2025-08-23"
+                },
+                {
+                    "season": 2020,
+                    "current": false,
+                    "start": "2020-06-14",
+                    "end": "2020-09-19"
+                },
+                {
+                    "season": 2015,
+                    "current": false,
+                    "start": "2015-05-17",
+                    "end": "2015-09-27"
+                }
+            ]
+        },
+        {
+            "id": 29,
+            "name": "CPBL",
+            "type": "League",
+            "logo": "https://media.api-sports.io/baseball/leagues/29.png",
+            "country": {
+                "id": 22,
+                "name": "Taiwan",
+                "code": "TW",
+                "flag": "https://media.api-sports.io/flags/tw.svg"
+            },
+            "seasons": [
+                {
+                    "season": 2020,
+                    "current": false,
+                    "start": "2020-04-12",
+                    "end": "2020-11-08"
+                },
+                {
+                    "season": 2024,
+                    "current": false,
+                    "start": "2024-03-30",
+                    "end": "2024-10-25"
+                },
+                {
+                    "season": 2015,
+                    "current": false,
+                    "start": "2015-03-21",
+                    "end": "2015-10-25"
+                },
+                {
+                    "season": 2016,
+                    "current": false,
+                    "start": "2016-03-19",
+                    "end": "2016-10-29"
+                },
+                {
+                    "season": 2026,
+                    "current": true,
+                    "start": "2026-03-28",
+                    "end": "2026-09-28"
+                },
+                {
+                    "season": 2019,
+                    "current": false,
+                    "start": "2019-03-23",
+                    "end": "2019-10-17"
+                },
+                {
+                    "season": 2021,
+                    "current": false,
+                    "start": "2021-03-13",
+                    "end": "2021-12-01"
+                },
+                {
+                    "season": 2018,
+                    "current": false,
+                    "start": "2018-03-24",
+                    "end": "2018-11-03"
+                },
+                {
+                    "season": 2023,
+                    "current": false,
+                    "start": "2023-04-01",
+                    "end": "2023-11-12"
+                },
+                {
+                    "season": 2022,
+                    "current": false,
+                    "start": "2022-04-03",
+                    "end": "2022-11-09"
+                },
+                {
+                    "season": 2017,
+                    "current": false,
+                    "start": "2017-03-25",
+                    "end": "2017-11-02"
+                },
+                {
+                    "season": 2025,
+                    "current": false,
+                    "start": "2025-03-29",
+                    "end": "2025-10-27"
+                }
+            ]
+        },
+        {
+            "id": 56,
+            "name": "CPBL Minor League",
+            "type": "League",
+            "logo": "https://media.api-sports.io/baseball/leagues/56.png",
+            "country": {
+                "id": 22,
+                "name": "Taiwan",
+                "code": "TW",
+                "flag": "https://media.api-sports.io/flags/tw.svg"
+            },
+            "seasons": [
+                {
+                    "season": 2020,
+                    "current": false,
+                    "start": "2020-03-17",
+                    "end": "2020-10-03"
+                }
+            ]
+        },
+        {
+            "id": 30,
+            "name": "NBL",
+            "type": "League",
+            "logo": "https://media.api-sports.io/baseball/leagues/30.png",
+            "country": {
+                "id": 23,
+                "name": "United-Kingdom",
+                "code": "GB",
+                "flag": "https://media.api-sports.io/flags/gb.svg"
+            },
+            "seasons": [
+                {
+                    "season": 2020,
+                    "current": false,
+                    "start": "2020-08-02",
+                    "end": "2020-09-13"
+                },
+                {
+                    "season": 2016,
+                    "current": false,
+                    "start": "2016-04-03",
+                    "end": "2016-08-28"
+                },
+                {
+                    "season": 2025,
+                    "current": false,
+                    "start": "2025-04-06",
+                    "end": "2025-09-14"
+                },
+                {
+                    "season": 2023,
+                    "current": false,
+                    "start": "2023-04-16",
+                    "end": "2023-08-27"
+                },
+                {
+                    "season": 2017,
+                    "current": false,
+                    "start": "2017-04-02",
+                    "end": "2017-09-10"
+                },
+                {
+                    "season": 2021,
+                    "current": false,
+                    "start": "2021-05-02",
+                    "end": "2021-09-05"
+                },
+                {
+                    "season": 2022,
+                    "current": false,
+                    "start": "2022-04-03",
+                    "end": "2022-08-28"
+                },
+                {
+                    "season": 2015,
+                    "current": false,
+                    "start": "2015-04-12",
+                    "end": "2015-09-05"
+                },
+                {
+                    "season": 2014,
+                    "current": false,
+                    "start": "2014-05-18",
+                    "end": "2014-08-31"
+                },
+                {
+                    "season": 2013,
+                    "current": false,
+                    "start": "2013-04-07",
+                    "end": "2013-09-15"
+                },
+                {
+                    "season": 2012,
+                    "current": false,
+                    "start": "2012-05-27",
+                    "end": "2012-08-27"
+                },
+                {
+                    "season": 2026,
+                    "current": true,
+                    "start": "2026-04-12",
+                    "end": "2026-08-23"
+                },
+                {
+                    "season": 2024,
+                    "current": false,
+                    "start": "2024-04-07",
+                    "end": "2024-09-15"
+                }
+            ]
+        },
+        {
+            "id": 67,
+            "name": "FL",
+            "type": "League",
+            "logo": "https://media.api-sports.io/baseball/leagues/67.png",
+            "country": {
+                "id": 1,
+                "name": "USA",
+                "code": "US",
+                "flag": "https://media.api-sports.io/flags/us.svg"
+            },
+            "seasons": [
+                {
+                    "season": 2022,
+                    "current": false,
+                    "start": "1999-11-30",
+                    "end": "2022-09-04"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "IL",
+            "type": "League",
+            "logo": "https://media.api-sports.io/baseball/leagues/3.png",
+            "country": {
+                "id": 1,
+                "name": "USA",
+                "code": "US",
+                "flag": "https://media.api-sports.io/flags/us.svg"
+            },
+            "seasons": [
+                {
+                    "season": 2025,
+                    "current": false,
+                    "start": "2025-03-28",
+                    "end": "2025-09-25"
+                },
+                {
+                    "season": 2023,
+                    "current": false,
+                    "start": "2023-03-31",
+                    "end": "2023-09-28"
+                },
+                {
+                    "season": 2010,
+                    "current": false,
+                    "start": "2010-04-09",
+                    "end": "2010-09-18"
+                },
+                {
+                    "season": 2022,
+                    "current": false,
+                    "start": "2022-04-05",
+                    "end": "2022-10-02"
+                },
+                {
+                    "season": 2011,
+                    "current": false,
+                    "start": "2011-04-08",
+                    "end": "2011-09-17"
+                },
+                {
+                    "season": 2019,
+                    "current": false,
+                    "start": "2019-04-04",
+                    "end": "2019-09-12"
+                },
+                {
+                    "season": 2012,
+                    "current": false,
+                    "start": "2012-04-06",
+                    "end": "2012-09-13"
+                },
+                {
+                    "season": 2013,
+                    "current": false,
+                    "start": "2013-04-04",
+                    "end": "2013-09-14"
+                },
+                {
+                    "season": 2014,
+                    "current": false,
+                    "start": "2014-04-03",
+                    "end": "2014-09-13"
+                },
+                {
+                    "season": 2026,
+                    "current": true,
+                    "start": "2026-03-27",
+                    "end": "2026-09-06"
+                },
+                {
+                    "season": 2024,
+                    "current": false,
+                    "start": "2024-03-29",
+                    "end": "2024-09-26"
+                },
+                {
+                    "season": 2018,
+                    "current": false,
+                    "start": "2018-04-05",
+                    "end": "2018-09-15"
+                },
+                {
+                    "season": 2017,
+                    "current": false,
+                    "start": "2017-04-06",
+                    "end": "2017-09-15"
+                },
+                {
+                    "season": 2016,
+                    "current": false,
+                    "start": "2016-04-07",
+                    "end": "2016-09-16"
+                },
+                {
+                    "season": 2015,
+                    "current": false,
+                    "start": "2015-04-09",
+                    "end": "2015-09-19"
+                },
+                {
+                    "season": 2020,
+                    "current": false,
+                    "start": "2020-04-09",
+                    "end": "2020-09-07"
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "name": "MLB",
+            "type": "League",
+            "logo": "https://media.api-sports.io/baseball/leagues/1.png",
+            "country": {
+                "id": 1,
+                "name": "USA",
+                "code": "US",
+                "flag": "https://media.api-sports.io/flags/us.svg"
+            },
+            "seasons": [
+                {
+                    "season": 2011,
+                    "current": false,
+                    "start": "2011-03-08",
+                    "end": "2011-10-29"
+                },
+                {
+                    "season": 2020,
+                    "current": false,
+                    "start": "2020-02-21",
+                    "end": "2020-10-26"
+                },
+                {
+                    "season": 2019,
+                    "current": false,
+                    "start": "2019-02-25",
+                    "end": "2019-10-31"
+                },
+                {
+                    "season": 2018,
+                    "current": false,
+                    "start": "2018-02-26",
+                    "end": "2018-10-29"
+                },
+                {
+                    "season": 2021,
+                    "current": false,
+                    "start": "2021-02-28",
+                    "end": "2021-11-03"
+                },
+                {
+                    "season": 2012,
+                    "current": false,
+                    "start": "2012-03-12",
+                    "end": "2012-10-29"
+                },
+                {
+                    "season": 2024,
+                    "current": false,
+                    "start": "2024-02-22",
+                    "end": "2024-10-31"
+                },
+                {
+                    "season": 2013,
+                    "current": false,
+                    "start": "2013-02-27",
+                    "end": "2013-10-31"
+                },
+                {
+                    "season": 2014,
+                    "current": false,
+                    "start": "2014-02-28",
+                    "end": "2014-10-30"
+                },
+                {
+                    "season": 2022,
+                    "current": false,
+                    "start": "2022-02-26",
+                    "end": "2022-11-06"
+                },
+                {
+                    "season": 2010,
+                    "current": false,
+                    "start": "2010-03-12",
+                    "end": "2010-11-01"
+                },
+                {
+                    "season": 2023,
+                    "current": false,
+                    "start": "2023-02-24",
+                    "end": "2023-11-02"
+                },
+                {
+                    "season": 2026,
+                    "current": true,
+                    "start": "2026-03-26",
+                    "end": "2026-09-07"
+                },
+                {
+                    "season": 2015,
+                    "current": false,
+                    "start": "2015-03-07",
+                    "end": "2015-11-02"
+                },
+                {
+                    "season": 2025,
+                    "current": false,
+                    "start": "2025-03-18",
+                    "end": "2025-11-01"
+                },
+                {
+                    "season": 2016,
+                    "current": false,
+                    "start": "2016-03-10",
+                    "end": "2016-11-03"
+                },
+                {
+                    "season": 2017,
+                    "current": false,
+                    "start": "2017-03-02",
+                    "end": "2017-11-02"
+                }
+            ]
+        },
+        {
+            "id": 71,
+            "name": "MLB - Spring Training",
+            "type": "League",
+            "logo": "https://media.api-sports.io/baseball/leagues/71.png",
+            "country": {
+                "id": 1,
+                "name": "USA",
+                "code": "US",
+                "flag": "https://media.api-sports.io/flags/us.svg"
+            },
+            "seasons": [
+                {
+                    "season": 2025,
+                    "current": false,
+                    "start": "2025-02-20",
+                    "end": "2025-03-26"
+                },
+                {
+                    "season": 2026,
+                    "current": false,
+                    "start": "2026-02-20",
+                    "end": "2026-03-25"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "PCL",
+            "type": "League",
+            "logo": "https://media.api-sports.io/baseball/leagues/4.png",
+            "country": {
+                "id": 1,
+                "name": "USA",
+                "code": "US",
+                "flag": "https://media.api-sports.io/flags/us.svg"
+            },
+            "seasons": [
+                {
+                    "season": 2018,
+                    "current": false,
+                    "start": "2018-04-05",
+                    "end": "2018-09-15"
+                },
+                {
+                    "season": 2026,
+                    "current": true,
+                    "start": "2026-03-27",
+                    "end": "2026-09-20"
+                },
+                {
+                    "season": 2025,
+                    "current": false,
+                    "start": "2025-03-29",
+                    "end": "2025-09-25"
+                },
+                {
+                    "season": 2023,
+                    "current": false,
+                    "start": "2023-03-31",
+                    "end": "2023-09-28"
+                },
+                {
+                    "season": 2019,
+                    "current": false,
+                    "start": "2019-04-04",
+                    "end": "2019-09-02"
+                },
+                {
+                    "season": 2022,
+                    "current": false,
+                    "start": "2022-04-06",
+                    "end": "2022-10-01"
+                },
+                {
+                    "season": 2020,
+                    "current": false,
+                    "start": "2020-04-09",
+                    "end": "2020-09-07"
+                },
+                {
+                    "season": 2024,
+                    "current": false,
+                    "start": "2024-03-30",
+                    "end": "2024-09-26"
+                }
+            ]
+        },
+        {
+            "id": 60,
+            "name": "Triple-A East",
+            "type": "League",
+            "logo": "https://media.api-sports.io/baseball/leagues/60.png",
+            "country": {
+                "id": 1,
+                "name": "USA",
+                "code": "US",
+                "flag": "https://media.api-sports.io/flags/us.svg"
+            },
+            "seasons": [
+                {
+                    "season": 2021,
+                    "current": false,
+                    "start": "2021-05-04",
+                    "end": "2021-10-03"
+                }
+            ]
+        },
+        {
+            "id": 33,
+            "name": "Triple-A National Championship",
+            "type": "Cup",
+            "logo": "https://media.api-sports.io/baseball/leagues/33.png",
+            "country": {
+                "id": 1,
+                "name": "USA",
+                "code": "US",
+                "flag": "https://media.api-sports.io/flags/us.svg"
+            },
+            "seasons": [
+                {
+                    "season": 2016,
+                    "current": false,
+                    "start": "2016-09-21",
+                    "end": "2016-09-21"
+                },
+                {
+                    "season": 2017,
+                    "current": false,
+                    "start": "2017-09-19",
+                    "end": "2017-09-19"
+                },
+                {
+                    "season": 2018,
+                    "current": false,
+                    "start": "2018-09-18",
+                    "end": "2018-09-18"
+                },
+                {
+                    "season": 2019,
+                    "current": false,
+                    "start": "2019-09-18",
+                    "end": "2019-09-18"
+                },
+                {
+                    "season": 2015,
+                    "current": false,
+                    "start": "2015-09-23",
+                    "end": "2015-09-23"
+                },
+                {
+                    "season": 2014,
+                    "current": false,
+                    "start": "2014-09-16",
+                    "end": "2014-09-16"
+                },
+                {
+                    "season": 2024,
+                    "current": false,
+                    "start": "2024-09-29",
+                    "end": "2024-09-29"
+                },
+                {
+                    "season": 2025,
+                    "current": false,
+                    "start": "2025-09-28",
+                    "end": "2025-09-28"
+                },
+                {
+                    "season": 2022,
+                    "current": false,
+                    "start": "2022-10-02",
+                    "end": "2022-10-02"
+                },
+                {
+                    "season": 2013,
+                    "current": false,
+                    "start": "2013-09-17",
+                    "end": "2013-09-17"
+                },
+                {
+                    "season": 2012,
+                    "current": false,
+                    "start": "2012-09-18",
+                    "end": "2012-09-18"
+                },
+                {
+                    "season": 2023,
+                    "current": false,
+                    "start": "2023-10-01",
+                    "end": "2023-10-01"
+                }
+            ]
+        },
+        {
+            "id": 61,
+            "name": "Triple-A West",
+            "type": "League",
+            "logo": "https://media.api-sports.io/baseball/leagues/61.png",
+            "country": {
+                "id": 1,
+                "name": "USA",
+                "code": "US",
+                "flag": "https://media.api-sports.io/flags/us.svg"
+            },
+            "seasons": [
+                {
+                    "season": 2021,
+                    "current": false,
+                    "start": "2021-05-07",
+                    "end": "2021-10-03"
+                }
+            ]
+        },
+        {
+            "id": 57,
+            "name": "LMBP",
+            "type": "League",
+            "logo": "https://media.api-sports.io/baseball/leagues/57.png",
+            "country": {
+                "id": 24,
+                "name": "Venezuela",
+                "code": "VE",
+                "flag": "https://media.api-sports.io/flags/ve.svg"
+            },
+            "seasons": [
+                {
+                    "season": 2023,
+                    "current": false,
+                    "start": "2023-05-13",
+                    "end": "2023-07-14"
+                },
+                {
+                    "season": 2024,
+                    "current": false,
+                    "start": "2024-05-18",
+                    "end": "2024-07-20"
+                },
+                {
+                    "season": 2021,
+                    "current": false,
+                    "start": "2021-08-06",
+                    "end": "2021-09-27"
+                },
+                {
+                    "season": 2025,
+                    "current": false,
+                    "start": "2025-05-17",
+                    "end": "2025-07-24"
+                },
+                {
+                    "season": 2026,
+                    "current": true,
+                    "start": "2026-04-18",
+                    "end": "2026-07-04"
+                },
+                {
+                    "season": 2022,
+                    "current": false,
+                    "start": "2022-05-12",
+                    "end": "2022-07-13"
+                }
+            ]
+        },
+        {
+            "id": 31,
+            "name": "LVBP",
+            "type": "League",
+            "logo": "https://media.api-sports.io/baseball/leagues/31.png",
+            "country": {
+                "id": 24,
+                "name": "Venezuela",
+                "code": "VE",
+                "flag": "https://media.api-sports.io/flags/ve.svg"
+            },
+            "seasons": [
+                {
+                    "season": 2023,
+                    "current": false,
+                    "start": "2023-10-21",
+                    "end": "2024-01-28"
+                },
+                {
+                    "season": 2015,
+                    "current": false,
+                    "start": "2015-10-07",
+                    "end": "2016-01-29"
+                },
+                {
+                    "season": 2021,
+                    "current": false,
+                    "start": "2021-10-23",
+                    "end": "2022-01-25"
+                },
+                {
+                    "season": 2016,
+                    "current": false,
+                    "start": "2016-10-06",
+                    "end": "2017-01-25"
+                },
+                {
+                    "season": 2018,
+                    "current": false,
+                    "start": "2018-10-12",
+                    "end": "2019-01-27"
+                },
+                {
+                    "season": 2024,
+                    "current": false,
+                    "start": "2024-10-11",
+                    "end": "2025-01-26"
+                },
+                {
+                    "season": 2017,
+                    "current": false,
+                    "start": "2017-10-10",
+                    "end": "2018-01-27"
+                },
+                {
+                    "season": 2020,
+                    "current": false,
+                    "start": "2020-11-27",
+                    "end": "2021-01-26"
+                },
+                {
+                    "season": 2022,
+                    "current": false,
+                    "start": "2022-10-22",
+                    "end": "2023-01-30"
+                },
+                {
+                    "season": 2025,
+                    "current": false,
+                    "start": "2025-10-15",
+                    "end": "2026-02-02"
+                },
+                {
+                    "season": 2014,
+                    "current": false,
+                    "start": "2014-10-10",
+                    "end": "2015-01-28"
+                },
+                {
+                    "season": 2013,
+                    "current": false,
+                    "start": "2013-10-11",
+                    "end": "2014-01-29"
+                },
+                {
+                    "season": 2012,
+                    "current": false,
+                    "start": "2012-10-12",
+                    "end": "2013-01-31"
+                },
+                {
+                    "season": 2019,
+                    "current": false,
+                    "start": "2019-11-05",
+                    "end": "2020-01-27"
+                }
+            ]
+        },
+        {
+            "id": 42,
+            "name": "All-Star Series",
+            "type": "Cup",
+            "logo": "https://media.api-sports.io/baseball/leagues/42.png",
+            "country": {
+                "id": 28,
+                "name": "World",
+                "code": null,
+                "flag": null
+            },
+            "seasons": [
+                {
+                    "season": 2018,
+                    "current": false,
+                    "start": "2018-11-09",
+                    "end": "2018-11-15"
+                },
+                {
+                    "season": 2014,
+                    "current": false,
+                    "start": "2014-11-12",
+                    "end": "2014-11-15"
+                }
+            ]
+        },
+        {
+            "id": 69,
+            "name": "Champions League Americas",
+            "type": "Cup",
+            "logo": "https://media.api-sports.io/baseball/leagues/69.png",
+            "country": {
+                "id": 28,
+                "name": "World",
+                "code": null,
+                "flag": null
+            },
+            "seasons": [
+                {
+                    "season": 2026,
+                    "current": false,
+                    "start": "2026-03-24",
+                    "end": "2026-03-29"
+                },
+                {
+                    "season": 2025,
+                    "current": false,
+                    "start": "2025-04-08",
+                    "end": "2025-04-13"
+                },
+                {
+                    "season": 2023,
+                    "current": false,
+                    "start": "2023-09-28",
+                    "end": "2023-10-02"
+                }
+            ]
+        },
+        {
+            "id": 44,
+            "name": "Friendly International",
+            "type": "League",
+            "logo": "https://media.api-sports.io/baseball/leagues/44.png",
+            "country": {
+                "id": 28,
+                "name": "World",
+                "code": null,
+                "flag": null
+            },
+            "seasons": [
+                {
+                    "season": 2021,
+                    "current": false,
+                    "start": "2021-06-26",
+                    "end": "2021-06-26"
+                },
+                {
+                    "season": 2023,
+                    "current": false,
+                    "start": "2023-03-09",
+                    "end": "2023-03-09"
+                },
+                {
+                    "season": 2024,
+                    "current": false,
+                    "start": "2024-03-06",
+                    "end": "2024-11-10"
+                },
+                {
+                    "season": 2018,
+                    "current": false,
+                    "start": "2018-03-03",
+                    "end": "2018-11-07"
+                },
+                {
+                    "season": 2019,
+                    "current": false,
+                    "start": "2019-07-12",
+                    "end": "2019-07-19"
+                },
+                {
+                    "season": 2026,
+                    "current": false,
+                    "start": "2026-02-19",
+                    "end": "2026-03-04"
+                },
+                {
+                    "season": 2025,
+                    "current": false,
+                    "start": "2025-03-05",
+                    "end": "2025-11-16"
+                }
+            ]
+        },
+        {
+            "id": 47,
+            "name": "Olympic Games",
+            "type": "Cup",
+            "logo": "https://media.api-sports.io/baseball/leagues/47.png",
+            "country": {
+                "id": 28,
+                "name": "World",
+                "code": null,
+                "flag": null
+            },
+            "seasons": [
+                {
+                    "season": 2020,
+                    "current": false,
+                    "start": "2019-09-18",
+                    "end": "2021-08-07"
+                }
+            ]
+        },
+        {
+            "id": 41,
+            "name": "Pan American Games",
+            "type": "Cup",
+            "logo": "https://media.api-sports.io/baseball/leagues/41.png",
+            "country": {
+                "id": 28,
+                "name": "World",
+                "code": null,
+                "flag": null
+            },
+            "seasons": [
+                {
+                    "season": 2011,
+                    "current": false,
+                    "start": "2011-10-19",
+                    "end": "2011-10-26"
+                },
+                {
+                    "season": 2015,
+                    "current": false,
+                    "start": "2015-07-11",
+                    "end": "2015-07-19"
+                },
+                {
+                    "season": 2019,
+                    "current": false,
+                    "start": "2019-07-29",
+                    "end": "2019-08-04"
+                },
+                {
+                    "season": 2023,
+                    "current": false,
+                    "start": "2023-10-18",
+                    "end": "2023-10-28"
+                }
+            ]
+        },
+        {
+            "id": 77,
+            "name": "Serie de las Americas",
+            "type": "Cup",
+            "logo": "https://media.api-sports.io/baseball/leagues/77.png",
+            "country": {
+                "id": 28,
+                "name": "World",
+                "code": null,
+                "flag": null
+            },
+            "seasons": [
+                {
+                    "season": 2026,
+                    "current": false,
+                    "start": "2026-02-05",
+                    "end": "2026-02-13"
+                },
+                {
+                    "season": 2025,
+                    "current": false,
+                    "start": "2025-01-24",
+                    "end": "2025-01-31"
+                }
+            ]
+        },
+        {
+            "id": 45,
+            "name": "Universiade",
+            "type": "Cup",
+            "logo": "https://media.api-sports.io/baseball/leagues/45.png",
+            "country": {
+                "id": 28,
+                "name": "World",
+                "code": null,
+                "flag": null
+            },
+            "seasons": [
+                {
+                    "season": 2017,
+                    "current": false,
+                    "start": "2017-08-20",
+                    "end": "2017-08-29"
+                },
+                {
+                    "season": 2015,
+                    "current": false,
+                    "start": "2015-07-06",
+                    "end": "2015-07-11"
+                }
+            ]
+        },
+        {
+            "id": 43,
+            "name": "WBSC Premier 12",
+            "type": "Cup",
+            "logo": "https://media.api-sports.io/baseball/leagues/43.png",
+            "country": {
+                "id": 28,
+                "name": "World",
+                "code": null,
+                "flag": null
+            },
+            "seasons": [
+                {
+                    "season": 2019,
+                    "current": false,
+                    "start": "2019-11-02",
+                    "end": "2019-11-17"
+                },
+                {
+                    "season": 2015,
+                    "current": false,
+                    "start": "2015-11-08",
+                    "end": "2015-11-21"
+                },
+                {
+                    "season": 2026,
+                    "current": false,
+                    "start": "2026-10-09",
+                    "end": "2026-11-26"
+                },
+                {
+                    "season": 2024,
+                    "current": false,
+                    "start": "2024-11-09",
+                    "end": "2024-11-24"
+                }
+            ]
+        },
+        {
+            "id": 70,
+            "name": "World Baseball Classic",
+            "type": "Cup",
+            "logo": "https://media.api-sports.io/baseball/leagues/70.png",
+            "country": {
+                "id": 28,
+                "name": "World",
+                "code": null,
+                "flag": null
+            },
+            "seasons": [
+                {
+                    "season": 2023,
+                    "current": false,
+                    "start": "2022-09-16",
+                    "end": "2023-03-21"
+                },
+                {
+                    "season": 2026,
+                    "current": false,
+                    "start": "2025-02-21",
+                    "end": "2026-03-18"
+                }
+            ]
+        },
+        {
+            "id": 46,
+            "name": "World Cup U23",
+            "type": "Cup",
+            "logo": "https://media.api-sports.io/baseball/leagues/46.png",
+            "country": {
+                "id": 28,
+                "name": "World",
+                "code": null,
+                "flag": null
+            },
+            "seasons": [
+                {
+                    "season": 2022,
+                    "current": false,
+                    "start": "2022-10-13",
+                    "end": "2022-10-23"
+                },
+                {
+                    "season": 2018,
+                    "current": false,
+                    "start": "2018-10-19",
+                    "end": "2018-10-29"
+                },
+                {
+                    "season": 2021,
+                    "current": false,
+                    "start": "2021-09-23",
+                    "end": "2021-10-03"
+                },
+                {
+                    "season": 2024,
+                    "current": false,
+                    "start": "2024-09-06",
+                    "end": "2024-09-15"
+                }
+            ]
+        },
+        {
+            "id": 76,
+            "name": "World Cup Women",
+            "type": "Cup",
+            "logo": "https://media.api-sports.io/baseball/leagues/76.png",
+            "country": {
+                "id": 28,
+                "name": "World",
+                "code": null,
+                "flag": null
+            },
+            "seasons": [
+                {
+                    "season": 2024,
+                    "current": false,
+                    "start": "2024-07-28",
+                    "end": "2024-08-03"
+                }
+            ]
+        }
+    ]
+}

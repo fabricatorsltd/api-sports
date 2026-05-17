@@ -1,0 +1,9 @@
+{
+    "get": "odds",
+    "parameters": {
+        "game": "2952"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+}

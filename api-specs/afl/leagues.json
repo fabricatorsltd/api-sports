@@ -1,0 +1,152 @@
+{
+    "get": "leagues",
+    "parameters": [],
+    "errors": [],
+    "results": 16,
+    "response": [
+        {
+            "id": 1,
+            "name": "AFL Premiership",
+            "logo": "https://media.api-sports.io/afl/leagues/1.png",
+            "season": 2011,
+            "start": "2011-03-24",
+            "end": "2011-10-01",
+            "current": false
+        },
+        {
+            "id": 1,
+            "name": "AFL Premiership",
+            "logo": "https://media.api-sports.io/afl/leagues/1.png",
+            "season": 2012,
+            "start": "2012-03-24",
+            "end": "2012-09-29",
+            "current": false
+        },
+        {
+            "id": 1,
+            "name": "AFL Premiership",
+            "logo": "https://media.api-sports.io/afl/leagues/1.png",
+            "season": 2013,
+            "start": "2013-03-22",
+            "end": "2013-09-28",
+            "current": false
+        },
+        {
+            "id": 1,
+            "name": "AFL Premiership",
+            "logo": "https://media.api-sports.io/afl/leagues/1.png",
+            "season": 2014,
+            "start": "2014-03-14",
+            "end": "2014-09-27",
+            "current": false
+        },
+        {
+            "id": 1,
+            "name": "AFL Premiership",
+            "logo": "https://media.api-sports.io/afl/leagues/1.png",
+            "season": 2015,
+            "start": "2015-04-02",
+            "end": "2015-10-03",
+            "current": false
+        },
+        {
+            "id": 1,
+            "name": "AFL Premiership",
+            "logo": "https://media.api-sports.io/afl/leagues/1.png",
+            "season": 2016,
+            "start": "2016-03-24",
+            "end": "2016-10-01",
+            "current": false
+        },
+        {
+            "id": 1,
+            "name": "AFL Premiership",
+            "logo": "https://media.api-sports.io/afl/leagues/1.png",
+            "season": 2017,
+            "start": "2017-03-23",
+            "end": "2017-09-30",
+            "current": false
+        },
+        {
+            "id": 1,
+            "name": "AFL Premiership",
+            "logo": "https://media.api-sports.io/afl/leagues/1.png",
+            "season": 2018,
+            "start": "2018-03-22",
+            "end": "2018-09-29",
+            "current": false
+        },
+        {
+            "id": 1,
+            "name": "AFL Premiership",
+            "logo": "https://media.api-sports.io/afl/leagues/1.png",
+            "season": 2019,
+            "start": "2019-03-21",
+            "end": "2019-09-28",
+            "current": false
+        },
+        {
+            "id": 1,
+            "name": "AFL Premiership",
+            "logo": "https://media.api-sports.io/afl/leagues/1.png",
+            "season": 2020,
+            "start": "2020-03-19",
+            "end": "2020-10-24",
+            "current": false
+        },
+        {
+            "id": 1,
+            "name": "AFL Premiership",
+            "logo": "https://media.api-sports.io/afl/leagues/1.png",
+            "season": 2021,
+            "start": "2021-03-18",
+            "end": "2021-09-25",
+            "current": false
+        },
+        {
+            "id": 1,
+            "name": "AFL Premiership",
+            "logo": "https://media.api-sports.io/afl/leagues/1.png",
+            "season": 2022,
+            "start": "2022-03-16",
+            "end": "2022-09-24",
+            "current": false
+        },
+        {
+            "id": 1,
+            "name": "AFL Premiership",
+            "logo": "https://media.api-sports.io/afl/leagues/1.png",
+            "season": 2023,
+            "start": "2023-03-16",
+            "end": "2023-09-30",
+            "current": false
+        },
+        {
+            "id": 1,
+            "name": "AFL Premiership",
+            "logo": "https://media.api-sports.io/afl/leagues/1.png",
+            "season": 2024,
+            "start": "2024-03-07",
+            "end": "2024-09-28",
+            "current": false
+        },
+        {
+            "id": 1,
+            "name": "AFL Premiership",
+            "logo": "https://media.api-sports.io/afl/leagues/1.png",
+            "season": 2025,
+            "start": "2025-03-07",
+            "end": "2025-09-27",
+            "current": false
+        },
+        {
+            "id": 1,
+            "name": "AFL Premiership",
+            "logo": "https://media.api-sports.io/afl/leagues/1.png",
+            "season": 2026,
+            "start": "2026-03-05",
+            "end": "2026-08-19",
+            "current": true
+        }
+    ]
+}

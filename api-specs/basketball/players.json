@@ -1,0 +1,195 @@
+{
+    "get": "players",
+    "parameters": {
+        "team": "132",
+        "season": "2024-2025"
+    },
+    "errors": [],
+    "results": 23,
+    "response": [
+        {
+            "id": 993,
+            "name": "Barlow Dominic",
+            "number": "26",
+            "country": "USA",
+            "position": "Forward",
+            "age": 20
+        },
+        {
+            "id": 495,
+            "name": "Bogdanovic Bogdan",
+            "number": "13",
+            "country": "Serbia",
+            "position": "Guard",
+            "age": 31
+        },
+        {
+            "id": 496,
+            "name": "Bufkin Kobe",
+            "number": "4",
+            "country": "USA",
+            "position": "Guard",
+            "age": 20
+        },
+        {
+            "id": 493,
+            "name": "Capela Clint",
+            "number": "15",
+            "country": "Switzerland",
+            "position": "Center",
+            "age": 29
+        },
+        {
+            "id": 836,
+            "name": "Daniels Dyson",
+            "number": "11",
+            "country": "Australia",
+            "position": "Guard",
+            "age": 21
+        },
+        {
+            "id": 494,
+            "name": "Gueye Mouhamed",
+            "number": "18",
+            "country": "USA",
+            "position": "Center",
+            "age": 21
+        },
+        {
+            "id": 895,
+            "name": "Harris Kevon",
+            "number": "8",
+            "country": "USA",
+            "position": "Guard",
+            "age": 26
+        },
+        {
+            "id": 507,
+            "name": "Hunter De&apos;Andre",
+            "number": "12",
+            "country": "USA",
+            "position": "Forward",
+            "age": 26
+        },
+        {
+            "id": 508,
+            "name": "Johnson Jalen",
+            "number": "1",
+            "country": "USA",
+            "position": "Forward",
+            "age": 22
+        },
+        {
+            "id": 15363,
+            "name": "K. Wallace",
+            "number": null,
+            "country": null,
+            "position": null,
+            "age": null
+        },
+        {
+            "id": 498,
+            "name": "Krejci Vit",
+            "number": "27",
+            "country": "Czech Republic",
+            "position": "Guard",
+            "age": 23
+        },
+        {
+            "id": 595,
+            "name": "LeVert Caris",
+            "number": "3",
+            "country": "USA",
+            "position": "Forward",
+            "age": 29
+        },
+        {
+            "id": 509,
+            "name": "Lundy Seth",
+            "number": "3",
+            "country": "USA",
+            "position": "Forward",
+            "age": 23
+        },
+        {
+            "id": 731,
+            "name": "Mann Terance",
+            "number": "14",
+            "country": "USA",
+            "position": "Forward",
+            "age": 27
+        },
+        {
+            "id": 499,
+            "name": "Mathews Garrison",
+            "number": "25",
+            "country": "USA",
+            "position": "Guard",
+            "age": 27
+        },
+        {
+            "id": 848,
+            "name": "Nance Larry",
+            "number": "22",
+            "country": "USA",
+            "position": "Forward",
+            "age": 31
+        },
+        {
+            "id": 598,
+            "name": "Niang Georges",
+            "number": "20",
+            "country": "USA",
+            "position": "Forward",
+            "age": 30
+        },
+        {
+            "id": 510,
+            "name": "Okongwu Onyeka",
+            "number": "17",
+            "country": "USA",
+            "position": "Forward",
+            "age": 23
+        },
+        {
+            "id": 899,
+            "name": "Plowden Daeqwon",
+            "number": "25",
+            "country": "USA",
+            "position": "Guard",
+            "age": 25
+        },
+        {
+            "id": 264,
+            "name": "Risacher Zaccharie",
+            "number": "10",
+            "country": "France",
+            "position": "Forward",
+            "age": 18
+        },
+        {
+            "id": 776,
+            "name": "Roddy David",
+            "number": "21",
+            "country": "USA",
+            "position": "Forward",
+            "age": 22
+        },
+        {
+            "id": 871,
+            "name": "Toppin Jacob",
+            "number": null,
+            "country": "USA",
+            "position": "Forward",
+            "age": 23
+        },
+        {
+            "id": 503,
+            "name": "Young Trae",
+            "number": "11",
+            "country": "USA",
+            "position": "Guard",
+            "age": 25
+        }
+    ]
+}

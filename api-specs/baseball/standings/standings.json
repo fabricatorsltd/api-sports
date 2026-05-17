@@ -1,0 +1,3809 @@
+{
+    "get": "standings",
+    "parameters": {
+        "league": "1",
+        "season": "2024"
+    },
+    "errors": [],
+    "results": 9,
+    "response": [
+        [
+            {
+                "position": 1,
+                "stage": null,
+                "group": {
+                    "name": "American League"
+                },
+                "team": {
+                    "id": 25,
+                    "name": "New York Yankees",
+                    "logo": "https://media.api-sports.io/baseball/teams/25.png"
+                },
+                "league": {
+                    "id": 1,
+                    "name": "MLB",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/baseball/leagues/1.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 1,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 162,
+                    "win": {
+                        "total": 94,
+                        "percentage": "0.580"
+                    },
+                    "lose": {
+                        "total": 68,
+                        "percentage": "0.420"
+                    }
+                },
+                "points": {
+                    "for": 1041,
+                    "against": 894
+                },
+                "form": "LWLLL",
+                "description": null
+            },
+            {
+                "position": 2,
+                "stage": null,
+                "group": {
+                    "name": "American League"
+                },
+                "team": {
+                    "id": 9,
+                    "name": "Cleveland Indians",
+                    "logo": "https://media.api-sports.io/baseball/teams/9.png"
+                },
+                "league": {
+                    "id": 1,
+                    "name": "MLB",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/baseball/leagues/1.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 1,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 161,
+                    "win": {
+                        "total": 92,
+                        "percentage": "0.571"
+                    },
+                    "lose": {
+                        "total": 69,
+                        "percentage": "0.429"
+                    }
+                },
+                "points": {
+                    "for": 900,
+                    "against": 813
+                },
+                "form": "LLWLL",
+                "description": null
+            },
+            {
+                "position": 3,
+                "stage": null,
+                "group": {
+                    "name": "American League"
+                },
+                "team": {
+                    "id": 4,
+                    "name": "Baltimore Orioles",
+                    "logo": "https://media.api-sports.io/baseball/teams/4.png"
+                },
+                "league": {
+                    "id": 1,
+                    "name": "MLB",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/baseball/leagues/1.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 1,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 162,
+                    "win": {
+                        "total": 91,
+                        "percentage": "0.562"
+                    },
+                    "lose": {
+                        "total": 71,
+                        "percentage": "0.438"
+                    }
+                },
+                "points": {
+                    "for": 970,
+                    "against": 827
+                },
+                "form": "LLWWW",
+                "description": null
+            },
+            {
+                "position": 4,
+                "stage": null,
+                "group": {
+                    "name": "American League"
+                },
+                "team": {
+                    "id": 15,
+                    "name": "Houston Astros",
+                    "logo": "https://media.api-sports.io/baseball/teams/15.png"
+                },
+                "league": {
+                    "id": 1,
+                    "name": "MLB",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/baseball/leagues/1.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 1,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 161,
+                    "win": {
+                        "total": 88,
+                        "percentage": "0.547"
+                    },
+                    "lose": {
+                        "total": 73,
+                        "percentage": "0.453"
+                    }
+                },
+                "points": {
+                    "for": 874,
+                    "against": 777
+                },
+                "form": "LLWWL",
+                "description": null
+            },
+            {
+                "position": 5,
+                "stage": null,
+                "group": {
+                    "name": "American League"
+                },
+                "team": {
+                    "id": 16,
+                    "name": "Kansas City Royals",
+                    "logo": "https://media.api-sports.io/baseball/teams/16.png"
+                },
+                "league": {
+                    "id": 1,
+                    "name": "MLB",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/baseball/leagues/1.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 1,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 162,
+                    "win": {
+                        "total": 86,
+                        "percentage": "0.531"
+                    },
+                    "lose": {
+                        "total": 76,
+                        "percentage": "0.469"
+                    }
+                },
+                "points": {
+                    "for": 893,
+                    "against": 807
+                },
+                "form": "LLWLW",
+                "description": null
+            },
+            {
+                "position": 6,
+                "stage": null,
+                "group": {
+                    "name": "American League"
+                },
+                "team": {
+                    "id": 12,
+                    "name": "Detroit Tigers",
+                    "logo": "https://media.api-sports.io/baseball/teams/12.png"
+                },
+                "league": {
+                    "id": 1,
+                    "name": "MLB",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/baseball/leagues/1.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 1,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 162,
+                    "win": {
+                        "total": 86,
+                        "percentage": "0.531"
+                    },
+                    "lose": {
+                        "total": 76,
+                        "percentage": "0.469"
+                    }
+                },
+                "points": {
+                    "for": 873,
+                    "against": 804
+                },
+                "form": "LLWWL",
+                "description": null
+            },
+            {
+                "position": 7,
+                "stage": null,
+                "group": {
+                    "name": "American League"
+                },
+                "team": {
+                    "id": 32,
+                    "name": "Seattle Mariners",
+                    "logo": "https://media.api-sports.io/baseball/teams/32.png"
+                },
+                "league": {
+                    "id": 1,
+                    "name": "MLB",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/baseball/leagues/1.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 1,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 162,
+                    "win": {
+                        "total": 85,
+                        "percentage": "0.525"
+                    },
+                    "lose": {
+                        "total": 77,
+                        "percentage": "0.475"
+                    }
+                },
+                "points": {
+                    "for": 878,
+                    "against": 793
+                },
+                "form": "WWWWL",
+                "description": null
+            },
+            {
+                "position": 8,
+                "stage": null,
+                "group": {
+                    "name": "American League"
+                },
+                "team": {
+                    "id": 22,
+                    "name": "Minnesota Twins",
+                    "logo": "https://media.api-sports.io/baseball/teams/22.png"
+                },
+                "league": {
+                    "id": 1,
+                    "name": "MLB",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/baseball/leagues/1.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 1,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 162,
+                    "win": {
+                        "total": 82,
+                        "percentage": "0.506"
+                    },
+                    "lose": {
+                        "total": 80,
+                        "percentage": "0.494"
+                    }
+                },
+                "points": {
+                    "for": 864,
+                    "against": 901
+                },
+                "form": "LLLLW",
+                "description": null
+            },
+            {
+                "position": 9,
+                "stage": null,
+                "group": {
+                    "name": "American League"
+                },
+                "team": {
+                    "id": 5,
+                    "name": "Boston Red Sox",
+                    "logo": "https://media.api-sports.io/baseball/teams/5.png"
+                },
+                "league": {
+                    "id": 1,
+                    "name": "MLB",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/baseball/leagues/1.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 1,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 162,
+                    "win": {
+                        "total": 81,
+                        "percentage": "0.500"
+                    },
+                    "lose": {
+                        "total": 81,
+                        "percentage": "0.500"
+                    }
+                },
+                "points": {
+                    "for": 902,
+                    "against": 877
+                },
+                "form": "WLLLW",
+                "description": null
+            },
+            {
+                "position": 10,
+                "stage": null,
+                "group": {
+                    "name": "American League"
+                },
+                "team": {
+                    "id": 34,
+                    "name": "Tampa Bay Rays",
+                    "logo": "https://media.api-sports.io/baseball/teams/34.png"
+                },
+                "league": {
+                    "id": 1,
+                    "name": "MLB",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/baseball/leagues/1.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 1,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 162,
+                    "win": {
+                        "total": 80,
+                        "percentage": "0.494"
+                    },
+                    "lose": {
+                        "total": 82,
+                        "percentage": "0.506"
+                    }
+                },
+                "points": {
+                    "for": 743,
+                    "against": 818
+                },
+                "form": "LWWLL",
+                "description": null
+            },
+            {
+                "position": 11,
+                "stage": null,
+                "group": {
+                    "name": "American League"
+                },
+                "team": {
+                    "id": 35,
+                    "name": "Texas Rangers",
+                    "logo": "https://media.api-sports.io/baseball/teams/35.png"
+                },
+                "league": {
+                    "id": 1,
+                    "name": "MLB",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/baseball/leagues/1.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 1,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 162,
+                    "win": {
+                        "total": 78,
+                        "percentage": "0.481"
+                    },
+                    "lose": {
+                        "total": 84,
+                        "percentage": "0.519"
+                    }
+                },
+                "points": {
+                    "for": 828,
+                    "against": 893
+                },
+                "form": "WWWLW",
+                "description": null
+            },
+            {
+                "position": 12,
+                "stage": null,
+                "group": {
+                    "name": "American League"
+                },
+                "team": {
+                    "id": 36,
+                    "name": "Toronto Blue Jays",
+                    "logo": "https://media.api-sports.io/baseball/teams/36.png"
+                },
+                "league": {
+                    "id": 1,
+                    "name": "MLB",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/baseball/leagues/1.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 1,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 162,
+                    "win": {
+                        "total": 74,
+                        "percentage": "0.457"
+                    },
+                    "lose": {
+                        "total": 88,
+                        "percentage": "0.543"
+                    }
+                },
+                "points": {
+                    "for": 852,
+                    "against": 918
+                },
+                "form": "LLLWL",
+                "description": null
+            },
+            {
+                "position": 13,
+                "stage": null,
+                "group": {
+                    "name": "American League"
+                },
+                "team": {
+                    "id": 26,
+                    "name": "Oakland Athletics",
+                    "logo": "https://media.api-sports.io/baseball/teams/26.png"
+                },
+                "league": {
+                    "id": 1,
+                    "name": "MLB",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/baseball/leagues/1.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 1,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 162,
+                    "win": {
+                        "total": 69,
+                        "percentage": "0.426"
+                    },
+                    "lose": {
+                        "total": 93,
+                        "percentage": "0.574"
+                    }
+                },
+                "points": {
+                    "for": 812,
+                    "against": 931
+                },
+                "form": "LLLWL",
+                "description": null
+            },
+            {
+                "position": 14,
+                "stage": null,
+                "group": {
+                    "name": "American League"
+                },
+                "team": {
+                    "id": 17,
+                    "name": "Los Angeles Angels",
+                    "logo": "https://media.api-sports.io/baseball/teams/17.png"
+                },
+                "league": {
+                    "id": 1,
+                    "name": "MLB",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/baseball/leagues/1.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 1,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 162,
+                    "win": {
+                        "total": 63,
+                        "percentage": "0.389"
+                    },
+                    "lose": {
+                        "total": 99,
+                        "percentage": "0.611"
+                    }
+                },
+                "points": {
+                    "for": 769,
+                    "against": 947
+                },
+                "form": "LLLLL",
+                "description": null
+            },
+            {
+                "position": 15,
+                "stage": null,
+                "group": {
+                    "name": "American League"
+                },
+                "team": {
+                    "id": 7,
+                    "name": "Chicago White Sox",
+                    "logo": "https://media.api-sports.io/baseball/teams/7.png"
+                },
+                "league": {
+                    "id": 1,
+                    "name": "MLB",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/baseball/leagues/1.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 1,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 162,
+                    "win": {
+                        "total": 41,
+                        "percentage": "0.253"
+                    },
+                    "lose": {
+                        "total": 121,
+                        "percentage": "0.747"
+                    }
+                },
+                "points": {
+                    "for": 642,
+                    "against": 982
+                },
+                "form": "WWLWW",
+                "description": null
+            }
+        ],
+        [
+            {
+                "position": 1,
+                "stage": null,
+                "group": {
+                    "name": "American League Central"
+                },
+                "team": {
+                    "id": 9,
+                    "name": "Cleveland Indians",
+                    "logo": "https://media.api-sports.io/baseball/teams/9.png"
+                },
+                "league": {
+                    "id": 1,
+                    "name": "MLB",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/baseball/leagues/1.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 1,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 161,
+                    "win": {
+                        "total": 92,
+                        "percentage": "0.571"
+                    },
+                    "lose": {
+                        "total": 69,
+                        "percentage": "0.429"
+                    }
+                },
+                "points": {
+                    "for": 900,
+                    "against": 813
+                },
+                "form": "LLWLL",
+                "description": null
+            },
+            {
+                "position": 2,
+                "stage": null,
+                "group": {
+                    "name": "American League Central"
+                },
+                "team": {
+                    "id": 16,
+                    "name": "Kansas City Royals",
+                    "logo": "https://media.api-sports.io/baseball/teams/16.png"
+                },
+                "league": {
+                    "id": 1,
+                    "name": "MLB",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/baseball/leagues/1.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 1,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 162,
+                    "win": {
+                        "total": 86,
+                        "percentage": "0.531"
+                    },
+                    "lose": {
+                        "total": 76,
+                        "percentage": "0.469"
+                    }
+                },
+                "points": {
+                    "for": 893,
+                    "against": 807
+                },
+                "form": "LLWLW",
+                "description": null
+            },
+            {
+                "position": 3,
+                "stage": null,
+                "group": {
+                    "name": "American League Central"
+                },
+                "team": {
+                    "id": 12,
+                    "name": "Detroit Tigers",
+                    "logo": "https://media.api-sports.io/baseball/teams/12.png"
+                },
+                "league": {
+                    "id": 1,
+                    "name": "MLB",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/baseball/leagues/1.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 1,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 162,
+                    "win": {
+                        "total": 86,
+                        "percentage": "0.531"
+                    },
+                    "lose": {
+                        "total": 76,
+                        "percentage": "0.469"
+                    }
+                },
+                "points": {
+                    "for": 873,
+                    "against": 804
+                },
+                "form": "LLWWL",
+                "description": null
+            },
+            {
+                "position": 4,
+                "stage": null,
+                "group": {
+                    "name": "American League Central"
+                },
+                "team": {
+                    "id": 22,
+                    "name": "Minnesota Twins",
+                    "logo": "https://media.api-sports.io/baseball/teams/22.png"
+                },
+                "league": {
+                    "id": 1,
+                    "name": "MLB",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/baseball/leagues/1.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 1,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 162,
+                    "win": {
+                        "total": 82,
+                        "percentage": "0.506"
+                    },
+                    "lose": {
+                        "total": 80,
+                        "percentage": "0.494"
+                    }
+                },
+                "points": {
+                    "for": 864,
+                    "against": 901
+                },
+                "form": "LLLLW",
+                "description": null
+            },
+            {
+                "position": 5,
+                "stage": null,
+                "group": {
+                    "name": "American League Central"
+                },
+                "team": {
+                    "id": 7,
+                    "name": "Chicago White Sox",
+                    "logo": "https://media.api-sports.io/baseball/teams/7.png"
+                },
+                "league": {
+                    "id": 1,
+                    "name": "MLB",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/baseball/leagues/1.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 1,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 162,
+                    "win": {
+                        "total": 41,
+                        "percentage": "0.253"
+                    },
+                    "lose": {
+                        "total": 121,
+                        "percentage": "0.747"
+                    }
+                },
+                "points": {
+                    "for": 642,
+                    "against": 982
+                },
+                "form": "WWLWW",
+                "description": null
+            }
+        ],
+        [
+            {
+                "position": 1,
+                "stage": null,
+                "group": {
+                    "name": "American League East"
+                },
+                "team": {
+                    "id": 25,
+                    "name": "New York Yankees",
+                    "logo": "https://media.api-sports.io/baseball/teams/25.png"
+                },
+                "league": {
+                    "id": 1,
+                    "name": "MLB",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/baseball/leagues/1.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 1,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 162,
+                    "win": {
+                        "total": 94,
+                        "percentage": "0.580"
+                    },
+                    "lose": {
+                        "total": 68,
+                        "percentage": "0.420"
+                    }
+                },
+                "points": {
+                    "for": 1041,
+                    "against": 894
+                },
+                "form": "LWLLL",
+                "description": null
+            },
+            {
+                "position": 2,
+                "stage": null,
+                "group": {
+                    "name": "American League East"
+                },
+                "team": {
+                    "id": 4,
+                    "name": "Baltimore Orioles",
+                    "logo": "https://media.api-sports.io/baseball/teams/4.png"
+                },
+                "league": {
+                    "id": 1,
+                    "name": "MLB",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/baseball/leagues/1.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 1,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 162,
+                    "win": {
+                        "total": 91,
+                        "percentage": "0.562"
+                    },
+                    "lose": {
+                        "total": 71,
+                        "percentage": "0.438"
+                    }
+                },
+                "points": {
+                    "for": 970,
+                    "against": 827
+                },
+                "form": "LLWWW",
+                "description": null
+            },
+            {
+                "position": 3,
+                "stage": null,
+                "group": {
+                    "name": "American League East"
+                },
+                "team": {
+                    "id": 5,
+                    "name": "Boston Red Sox",
+                    "logo": "https://media.api-sports.io/baseball/teams/5.png"
+                },
+                "league": {
+                    "id": 1,
+                    "name": "MLB",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/baseball/leagues/1.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 1,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 162,
+                    "win": {
+                        "total": 81,
+                        "percentage": "0.500"
+                    },
+                    "lose": {
+                        "total": 81,
+                        "percentage": "0.500"
+                    }
+                },
+                "points": {
+                    "for": 902,
+                    "against": 877
+                },
+                "form": "WLLLW",
+                "description": null
+            },
+            {
+                "position": 4,
+                "stage": null,
+                "group": {
+                    "name": "American League East"
+                },
+                "team": {
+                    "id": 34,
+                    "name": "Tampa Bay Rays",
+                    "logo": "https://media.api-sports.io/baseball/teams/34.png"
+                },
+                "league": {
+                    "id": 1,
+                    "name": "MLB",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/baseball/leagues/1.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 1,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 162,
+                    "win": {
+                        "total": 80,
+                        "percentage": "0.494"
+                    },
+                    "lose": {
+                        "total": 82,
+                        "percentage": "0.506"
+                    }
+                },
+                "points": {
+                    "for": 743,
+                    "against": 818
+                },
+                "form": "LWWLL",
+                "description": null
+            },
+            {
+                "position": 5,
+                "stage": null,
+                "group": {
+                    "name": "American League East"
+                },
+                "team": {
+                    "id": 36,
+                    "name": "Toronto Blue Jays",
+                    "logo": "https://media.api-sports.io/baseball/teams/36.png"
+                },
+                "league": {
+                    "id": 1,
+                    "name": "MLB",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/baseball/leagues/1.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 1,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 162,
+                    "win": {
+                        "total": 74,
+                        "percentage": "0.457"
+                    },
+                    "lose": {
+                        "total": 88,
+                        "percentage": "0.543"
+                    }
+                },
+                "points": {
+                    "for": 852,
+                    "against": 918
+                },
+                "form": "LLLWL",
+                "description": null
+            }
+        ],
+        [
+            {
+                "position": 1,
+                "stage": null,
+                "group": {
+                    "name": "American League West"
+                },
+                "team": {
+                    "id": 15,
+                    "name": "Houston Astros",
+                    "logo": "https://media.api-sports.io/baseball/teams/15.png"
+                },
+                "league": {
+                    "id": 1,
+                    "name": "MLB",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/baseball/leagues/1.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 1,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 161,
+                    "win": {
+                        "total": 88,
+                        "percentage": "0.547"
+                    },
+                    "lose": {
+                        "total": 73,
+                        "percentage": "0.453"
+                    }
+                },
+                "points": {
+                    "for": 874,
+                    "against": 777
+                },
+                "form": "LLWWL",
+                "description": null
+            },
+            {
+                "position": 2,
+                "stage": null,
+                "group": {
+                    "name": "American League West"
+                },
+                "team": {
+                    "id": 32,
+                    "name": "Seattle Mariners",
+                    "logo": "https://media.api-sports.io/baseball/teams/32.png"
+                },
+                "league": {
+                    "id": 1,
+                    "name": "MLB",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/baseball/leagues/1.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 1,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 162,
+                    "win": {
+                        "total": 85,
+                        "percentage": "0.525"
+                    },
+                    "lose": {
+                        "total": 77,
+                        "percentage": "0.475"
+                    }
+                },
+                "points": {
+                    "for": 878,
+                    "against": 793
+                },
+                "form": "WWWWL",
+                "description": null
+            },
+            {
+                "position": 3,
+                "stage": null,
+                "group": {
+                    "name": "American League West"
+                },
+                "team": {
+                    "id": 35,
+                    "name": "Texas Rangers",
+                    "logo": "https://media.api-sports.io/baseball/teams/35.png"
+                },
+                "league": {
+                    "id": 1,
+                    "name": "MLB",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/baseball/leagues/1.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 1,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 162,
+                    "win": {
+                        "total": 78,
+                        "percentage": "0.481"
+                    },
+                    "lose": {
+                        "total": 84,
+                        "percentage": "0.519"
+                    }
+                },
+                "points": {
+                    "for": 828,
+                    "against": 893
+                },
+                "form": "WWWLW",
+                "description": null
+            },
+            {
+                "position": 4,
+                "stage": null,
+                "group": {
+                    "name": "American League West"
+                },
+                "team": {
+                    "id": 26,
+                    "name": "Oakland Athletics",
+                    "logo": "https://media.api-sports.io/baseball/teams/26.png"
+                },
+                "league": {
+                    "id": 1,
+                    "name": "MLB",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/baseball/leagues/1.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 1,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 162,
+                    "win": {
+                        "total": 69,
+                        "percentage": "0.426"
+                    },
+                    "lose": {
+                        "total": 93,
+                        "percentage": "0.574"
+                    }
+                },
+                "points": {
+                    "for": 812,
+                    "against": 931
+                },
+                "form": "LLLWL",
+                "description": null
+            },
+            {
+                "position": 5,
+                "stage": null,
+                "group": {
+                    "name": "American League West"
+                },
+                "team": {
+                    "id": 17,
+                    "name": "Los Angeles Angels",
+                    "logo": "https://media.api-sports.io/baseball/teams/17.png"
+                },
+                "league": {
+                    "id": 1,
+                    "name": "MLB",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/baseball/leagues/1.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 1,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 162,
+                    "win": {
+                        "total": 63,
+                        "percentage": "0.389"
+                    },
+                    "lose": {
+                        "total": 99,
+                        "percentage": "0.611"
+                    }
+                },
+                "points": {
+                    "for": 769,
+                    "against": 947
+                },
+                "form": "LLLLL",
+                "description": null
+            }
+        ],
+        [
+            {
+                "position": 1,
+                "stage": null,
+                "group": {
+                    "name": "MLB"
+                },
+                "team": {
+                    "id": 18,
+                    "name": "Los Angeles Dodgers",
+                    "logo": "https://media.api-sports.io/baseball/teams/18.png"
+                },
+                "league": {
+                    "id": 1,
+                    "name": "MLB",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/baseball/leagues/1.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 1,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 162,
+                    "win": {
+                        "total": 98,
+                        "percentage": "0.605"
+                    },
+                    "lose": {
+                        "total": 64,
+                        "percentage": "0.395"
+                    }
+                },
+                "points": {
+                    "for": 1071,
+                    "against": 850
+                },
+                "form": "WLWWW",
+                "description": null
+            },
+            {
+                "position": 2,
+                "stage": null,
+                "group": {
+                    "name": "MLB"
+                },
+                "team": {
+                    "id": 27,
+                    "name": "Philadelphia Phillies",
+                    "logo": "https://media.api-sports.io/baseball/teams/27.png"
+                },
+                "league": {
+                    "id": 1,
+                    "name": "MLB",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/baseball/leagues/1.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 1,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 162,
+                    "win": {
+                        "total": 95,
+                        "percentage": "0.586"
+                    },
+                    "lose": {
+                        "total": 67,
+                        "percentage": "0.414"
+                    }
+                },
+                "points": {
+                    "for": 924,
+                    "against": 840
+                },
+                "form": "LLWLW",
+                "description": null
+            },
+            {
+                "position": 3,
+                "stage": null,
+                "group": {
+                    "name": "MLB"
+                },
+                "team": {
+                    "id": 25,
+                    "name": "New York Yankees",
+                    "logo": "https://media.api-sports.io/baseball/teams/25.png"
+                },
+                "league": {
+                    "id": 1,
+                    "name": "MLB",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/baseball/leagues/1.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 1,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 162,
+                    "win": {
+                        "total": 94,
+                        "percentage": "0.580"
+                    },
+                    "lose": {
+                        "total": 68,
+                        "percentage": "0.420"
+                    }
+                },
+                "points": {
+                    "for": 1041,
+                    "against": 894
+                },
+                "form": "LWLLL",
+                "description": null
+            },
+            {
+                "position": 4,
+                "stage": null,
+                "group": {
+                    "name": "MLB"
+                },
+                "team": {
+                    "id": 20,
+                    "name": "Milwaukee Brewers",
+                    "logo": "https://media.api-sports.io/baseball/teams/20.png"
+                },
+                "league": {
+                    "id": 1,
+                    "name": "MLB",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/baseball/leagues/1.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 1,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 162,
+                    "win": {
+                        "total": 93,
+                        "percentage": "0.574"
+                    },
+                    "lose": {
+                        "total": 69,
+                        "percentage": "0.426"
+                    }
+                },
+                "points": {
+                    "for": 971,
+                    "against": 831
+                },
+                "form": "LWLLW",
+                "description": null
+            },
+            {
+                "position": 5,
+                "stage": null,
+                "group": {
+                    "name": "MLB"
+                },
+                "team": {
+                    "id": 30,
+                    "name": "San Diego Padres",
+                    "logo": "https://media.api-sports.io/baseball/teams/30.png"
+                },
+                "league": {
+                    "id": 1,
+                    "name": "MLB",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/baseball/leagues/1.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 1,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 162,
+                    "win": {
+                        "total": 93,
+                        "percentage": "0.574"
+                    },
+                    "lose": {
+                        "total": 69,
+                        "percentage": "0.426"
+                    }
+                },
+                "points": {
+                    "for": 891,
+                    "against": 800
+                },
+                "form": "LLWWL",
+                "description": null
+            },
+            {
+                "position": 6,
+                "stage": null,
+                "group": {
+                    "name": "MLB"
+                },
+                "team": {
+                    "id": 9,
+                    "name": "Cleveland Indians",
+                    "logo": "https://media.api-sports.io/baseball/teams/9.png"
+                },
+                "league": {
+                    "id": 1,
+                    "name": "MLB",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/baseball/leagues/1.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 1,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 161,
+                    "win": {
+                        "total": 92,
+                        "percentage": "0.571"
+                    },
+                    "lose": {
+                        "total": 69,
+                        "percentage": "0.429"
+                    }
+                },
+                "points": {
+                    "for": 900,
+                    "against": 813
+                },
+                "form": "LLWLL",
+                "description": null
+            },
+            {
+                "position": 7,
+                "stage": null,
+                "group": {
+                    "name": "MLB"
+                },
+                "team": {
+                    "id": 4,
+                    "name": "Baltimore Orioles",
+                    "logo": "https://media.api-sports.io/baseball/teams/4.png"
+                },
+                "league": {
+                    "id": 1,
+                    "name": "MLB",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/baseball/leagues/1.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 1,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 162,
+                    "win": {
+                        "total": 91,
+                        "percentage": "0.562"
+                    },
+                    "lose": {
+                        "total": 71,
+                        "percentage": "0.438"
+                    }
+                },
+                "points": {
+                    "for": 970,
+                    "against": 827
+                },
+                "form": "LLWWW",
+                "description": null
+            },
+            {
+                "position": 8,
+                "stage": null,
+                "group": {
+                    "name": "MLB"
+                },
+                "team": {
+                    "id": 2,
+                    "name": "Arizona Diamondbacks",
+                    "logo": "https://media.api-sports.io/baseball/teams/2.png"
+                },
+                "league": {
+                    "id": 1,
+                    "name": "MLB",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/baseball/leagues/1.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 1,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 162,
+                    "win": {
+                        "total": 89,
+                        "percentage": "0.549"
+                    },
+                    "lose": {
+                        "total": 73,
+                        "percentage": "0.451"
+                    }
+                },
+                "points": {
+                    "for": 1031,
+                    "against": 948
+                },
+                "form": "WLLWL",
+                "description": null
+            },
+            {
+                "position": 9,
+                "stage": null,
+                "group": {
+                    "name": "MLB"
+                },
+                "team": {
+                    "id": 3,
+                    "name": "Atlanta Braves",
+                    "logo": "https://media.api-sports.io/baseball/teams/3.png"
+                },
+                "league": {
+                    "id": 1,
+                    "name": "MLB",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/baseball/leagues/1.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 1,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 162,
+                    "win": {
+                        "total": 89,
+                        "percentage": "0.549"
+                    },
+                    "lose": {
+                        "total": 73,
+                        "percentage": "0.451"
+                    }
+                },
+                "points": {
+                    "for": 838,
+                    "against": 766
+                },
+                "form": "LLWLL",
+                "description": null
+            },
+            {
+                "position": 10,
+                "stage": null,
+                "group": {
+                    "name": "MLB"
+                },
+                "team": {
+                    "id": 24,
+                    "name": "New York Mets",
+                    "logo": "https://media.api-sports.io/baseball/teams/24.png"
+                },
+                "league": {
+                    "id": 1,
+                    "name": "MLB",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/baseball/leagues/1.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 1,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 162,
+                    "win": {
+                        "total": 89,
+                        "percentage": "0.549"
+                    },
+                    "lose": {
+                        "total": 73,
+                        "percentage": "0.451"
+                    }
+                },
+                "points": {
+                    "for": 953,
+                    "against": 876
+                },
+                "form": "LWLLW",
+                "description": null
+            },
+            {
+                "position": 11,
+                "stage": null,
+                "group": {
+                    "name": "MLB"
+                },
+                "team": {
+                    "id": 15,
+                    "name": "Houston Astros",
+                    "logo": "https://media.api-sports.io/baseball/teams/15.png"
+                },
+                "league": {
+                    "id": 1,
+                    "name": "MLB",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/baseball/leagues/1.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 1,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 161,
+                    "win": {
+                        "total": 88,
+                        "percentage": "0.547"
+                    },
+                    "lose": {
+                        "total": 73,
+                        "percentage": "0.453"
+                    }
+                },
+                "points": {
+                    "for": 874,
+                    "against": 777
+                },
+                "form": "LLWWL",
+                "description": null
+            },
+            {
+                "position": 12,
+                "stage": null,
+                "group": {
+                    "name": "MLB"
+                },
+                "team": {
+                    "id": 12,
+                    "name": "Detroit Tigers",
+                    "logo": "https://media.api-sports.io/baseball/teams/12.png"
+                },
+                "league": {
+                    "id": 1,
+                    "name": "MLB",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/baseball/leagues/1.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 1,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 162,
+                    "win": {
+                        "total": 86,
+                        "percentage": "0.531"
+                    },
+                    "lose": {
+                        "total": 76,
+                        "percentage": "0.469"
+                    }
+                },
+                "points": {
+                    "for": 873,
+                    "against": 804
+                },
+                "form": "LLWWL",
+                "description": null
+            },
+            {
+                "position": 13,
+                "stage": null,
+                "group": {
+                    "name": "MLB"
+                },
+                "team": {
+                    "id": 16,
+                    "name": "Kansas City Royals",
+                    "logo": "https://media.api-sports.io/baseball/teams/16.png"
+                },
+                "league": {
+                    "id": 1,
+                    "name": "MLB",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/baseball/leagues/1.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 1,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 162,
+                    "win": {
+                        "total": 86,
+                        "percentage": "0.531"
+                    },
+                    "lose": {
+                        "total": 76,
+                        "percentage": "0.469"
+                    }
+                },
+                "points": {
+                    "for": 893,
+                    "against": 807
+                },
+                "form": "LLWLW",
+                "description": null
+            },
+            {
+                "position": 14,
+                "stage": null,
+                "group": {
+                    "name": "MLB"
+                },
+                "team": {
+                    "id": 32,
+                    "name": "Seattle Mariners",
+                    "logo": "https://media.api-sports.io/baseball/teams/32.png"
+                },
+                "league": {
+                    "id": 1,
+                    "name": "MLB",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/baseball/leagues/1.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 1,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 162,
+                    "win": {
+                        "total": 85,
+                        "percentage": "0.525"
+                    },
+                    "lose": {
+                        "total": 77,
+                        "percentage": "0.475"
+                    }
+                },
+                "points": {
+                    "for": 878,
+                    "against": 793
+                },
+                "form": "WWWWL",
+                "description": null
+            },
+            {
+                "position": 15,
+                "stage": null,
+                "group": {
+                    "name": "MLB"
+                },
+                "team": {
+                    "id": 6,
+                    "name": "Chicago Cubs",
+                    "logo": "https://media.api-sports.io/baseball/teams/6.png"
+                },
+                "league": {
+                    "id": 1,
+                    "name": "MLB",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/baseball/leagues/1.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 1,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 162,
+                    "win": {
+                        "total": 83,
+                        "percentage": "0.512"
+                    },
+                    "lose": {
+                        "total": 79,
+                        "percentage": "0.488"
+                    }
+                },
+                "points": {
+                    "for": 904,
+                    "against": 832
+                },
+                "form": "LWWLW",
+                "description": null
+            },
+            {
+                "position": 16,
+                "stage": null,
+                "group": {
+                    "name": "MLB"
+                },
+                "team": {
+                    "id": 33,
+                    "name": "St.Louis Cardinals",
+                    "logo": "https://media.api-sports.io/baseball/teams/33.png"
+                },
+                "league": {
+                    "id": 1,
+                    "name": "MLB",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/baseball/leagues/1.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 1,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 162,
+                    "win": {
+                        "total": 83,
+                        "percentage": "0.512"
+                    },
+                    "lose": {
+                        "total": 79,
+                        "percentage": "0.488"
+                    }
+                },
+                "points": {
+                    "for": 812,
+                    "against": 865
+                },
+                "form": "WLWLW",
+                "description": null
+            },
+            {
+                "position": 17,
+                "stage": null,
+                "group": {
+                    "name": "MLB"
+                },
+                "team": {
+                    "id": 22,
+                    "name": "Minnesota Twins",
+                    "logo": "https://media.api-sports.io/baseball/teams/22.png"
+                },
+                "league": {
+                    "id": 1,
+                    "name": "MLB",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/baseball/leagues/1.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 1,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 162,
+                    "win": {
+                        "total": 82,
+                        "percentage": "0.506"
+                    },
+                    "lose": {
+                        "total": 80,
+                        "percentage": "0.494"
+                    }
+                },
+                "points": {
+                    "for": 864,
+                    "against": 901
+                },
+                "form": "LLLLW",
+                "description": null
+            },
+            {
+                "position": 18,
+                "stage": null,
+                "group": {
+                    "name": "MLB"
+                },
+                "team": {
+                    "id": 5,
+                    "name": "Boston Red Sox",
+                    "logo": "https://media.api-sports.io/baseball/teams/5.png"
+                },
+                "league": {
+                    "id": 1,
+                    "name": "MLB",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/baseball/leagues/1.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 1,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 162,
+                    "win": {
+                        "total": 81,
+                        "percentage": "0.500"
+                    },
+                    "lose": {
+                        "total": 81,
+                        "percentage": "0.500"
+                    }
+                },
+                "points": {
+                    "for": 902,
+                    "against": 877
+                },
+                "form": "WLLLW",
+                "description": null
+            },
+            {
+                "position": 19,
+                "stage": null,
+                "group": {
+                    "name": "MLB"
+                },
+                "team": {
+                    "id": 31,
+                    "name": "San Francisco Giants",
+                    "logo": "https://media.api-sports.io/baseball/teams/31.png"
+                },
+                "league": {
+                    "id": 1,
+                    "name": "MLB",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/baseball/leagues/1.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 1,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 162,
+                    "win": {
+                        "total": 80,
+                        "percentage": "0.494"
+                    },
+                    "lose": {
+                        "total": 82,
+                        "percentage": "0.506"
+                    }
+                },
+                "points": {
+                    "for": 878,
+                    "against": 877
+                },
+                "form": "LWLLW",
+                "description": null
+            },
+            {
+                "position": 20,
+                "stage": null,
+                "group": {
+                    "name": "MLB"
+                },
+                "team": {
+                    "id": 34,
+                    "name": "Tampa Bay Rays",
+                    "logo": "https://media.api-sports.io/baseball/teams/34.png"
+                },
+                "league": {
+                    "id": 1,
+                    "name": "MLB",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/baseball/leagues/1.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 1,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 162,
+                    "win": {
+                        "total": 80,
+                        "percentage": "0.494"
+                    },
+                    "lose": {
+                        "total": 82,
+                        "percentage": "0.506"
+                    }
+                },
+                "points": {
+                    "for": 743,
+                    "against": 818
+                },
+                "form": "LWWLL",
+                "description": null
+            },
+            {
+                "position": 21,
+                "stage": null,
+                "group": {
+                    "name": "MLB"
+                },
+                "team": {
+                    "id": 35,
+                    "name": "Texas Rangers",
+                    "logo": "https://media.api-sports.io/baseball/teams/35.png"
+                },
+                "league": {
+                    "id": 1,
+                    "name": "MLB",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/baseball/leagues/1.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 1,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 162,
+                    "win": {
+                        "total": 78,
+                        "percentage": "0.481"
+                    },
+                    "lose": {
+                        "total": 84,
+                        "percentage": "0.519"
+                    }
+                },
+                "points": {
+                    "for": 828,
+                    "against": 893
+                },
+                "form": "WWWLW",
+                "description": null
+            },
+            {
+                "position": 22,
+                "stage": null,
+                "group": {
+                    "name": "MLB"
+                },
+                "team": {
+                    "id": 8,
+                    "name": "Cincinnati Reds",
+                    "logo": "https://media.api-sports.io/baseball/teams/8.png"
+                },
+                "league": {
+                    "id": 1,
+                    "name": "MLB",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/baseball/leagues/1.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 1,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 162,
+                    "win": {
+                        "total": 77,
+                        "percentage": "0.475"
+                    },
+                    "lose": {
+                        "total": 85,
+                        "percentage": "0.525"
+                    }
+                },
+                "points": {
+                    "for": 851,
+                    "against": 861
+                },
+                "form": "WLLLL",
+                "description": null
+            },
+            {
+                "position": 23,
+                "stage": null,
+                "group": {
+                    "name": "MLB"
+                },
+                "team": {
+                    "id": 28,
+                    "name": "Pittsburgh Pirates",
+                    "logo": "https://media.api-sports.io/baseball/teams/28.png"
+                },
+                "league": {
+                    "id": 1,
+                    "name": "MLB",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/baseball/leagues/1.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 1,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 162,
+                    "win": {
+                        "total": 76,
+                        "percentage": "0.469"
+                    },
+                    "lose": {
+                        "total": 86,
+                        "percentage": "0.531"
+                    }
+                },
+                "points": {
+                    "for": 811,
+                    "against": 881
+                },
+                "form": "LWWLW",
+                "description": null
+            },
+            {
+                "position": 24,
+                "stage": null,
+                "group": {
+                    "name": "MLB"
+                },
+                "team": {
+                    "id": 36,
+                    "name": "Toronto Blue Jays",
+                    "logo": "https://media.api-sports.io/baseball/teams/36.png"
+                },
+                "league": {
+                    "id": 1,
+                    "name": "MLB",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/baseball/leagues/1.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 1,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 162,
+                    "win": {
+                        "total": 74,
+                        "percentage": "0.457"
+                    },
+                    "lose": {
+                        "total": 88,
+                        "percentage": "0.543"
+                    }
+                },
+                "points": {
+                    "for": 852,
+                    "against": 918
+                },
+                "form": "LLLWL",
+                "description": null
+            },
+            {
+                "position": 25,
+                "stage": null,
+                "group": {
+                    "name": "MLB"
+                },
+                "team": {
+                    "id": 37,
+                    "name": "Washington Nationals",
+                    "logo": "https://media.api-sports.io/baseball/teams/37.png"
+                },
+                "league": {
+                    "id": 1,
+                    "name": "MLB",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/baseball/leagues/1.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 1,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 162,
+                    "win": {
+                        "total": 71,
+                        "percentage": "0.438"
+                    },
+                    "lose": {
+                        "total": 91,
+                        "percentage": "0.562"
+                    }
+                },
+                "points": {
+                    "for": 801,
+                    "against": 897
+                },
+                "form": "LWWLL",
+                "description": null
+            },
+            {
+                "position": 26,
+                "stage": null,
+                "group": {
+                    "name": "MLB"
+                },
+                "team": {
+                    "id": 26,
+                    "name": "Oakland Athletics",
+                    "logo": "https://media.api-sports.io/baseball/teams/26.png"
+                },
+                "league": {
+                    "id": 1,
+                    "name": "MLB",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/baseball/leagues/1.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 1,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 162,
+                    "win": {
+                        "total": 69,
+                        "percentage": "0.426"
+                    },
+                    "lose": {
+                        "total": 93,
+                        "percentage": "0.574"
+                    }
+                },
+                "points": {
+                    "for": 812,
+                    "against": 931
+                },
+                "form": "LLLWL",
+                "description": null
+            },
+            {
+                "position": 27,
+                "stage": null,
+                "group": {
+                    "name": "MLB"
+                },
+                "team": {
+                    "id": 17,
+                    "name": "Los Angeles Angels",
+                    "logo": "https://media.api-sports.io/baseball/teams/17.png"
+                },
+                "league": {
+                    "id": 1,
+                    "name": "MLB",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/baseball/leagues/1.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 1,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 162,
+                    "win": {
+                        "total": 63,
+                        "percentage": "0.389"
+                    },
+                    "lose": {
+                        "total": 99,
+                        "percentage": "0.611"
+                    }
+                },
+                "points": {
+                    "for": 769,
+                    "against": 947
+                },
+                "form": "LLLLL",
+                "description": null
+            },
+            {
+                "position": 28,
+                "stage": null,
+                "group": {
+                    "name": "MLB"
+                },
+                "team": {
+                    "id": 19,
+                    "name": "Miami Marlins",
+                    "logo": "https://media.api-sports.io/baseball/teams/19.png"
+                },
+                "league": {
+                    "id": 1,
+                    "name": "MLB",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/baseball/leagues/1.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 1,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 162,
+                    "win": {
+                        "total": 62,
+                        "percentage": "0.383"
+                    },
+                    "lose": {
+                        "total": 100,
+                        "percentage": "0.617"
+                    }
+                },
+                "points": {
+                    "for": 737,
+                    "against": 958
+                },
+                "form": "WWWWL",
+                "description": null
+            },
+            {
+                "position": 29,
+                "stage": null,
+                "group": {
+                    "name": "MLB"
+                },
+                "team": {
+                    "id": 10,
+                    "name": "Colorado Rockies",
+                    "logo": "https://media.api-sports.io/baseball/teams/10.png"
+                },
+                "league": {
+                    "id": 1,
+                    "name": "MLB",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/baseball/leagues/1.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 1,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 162,
+                    "win": {
+                        "total": 61,
+                        "percentage": "0.377"
+                    },
+                    "lose": {
+                        "total": 101,
+                        "percentage": "0.623"
+                    }
+                },
+                "points": {
+                    "for": 848,
+                    "against": 1098
+                },
+                "form": "LLLWL",
+                "description": null
+            },
+            {
+                "position": 30,
+                "stage": null,
+                "group": {
+                    "name": "MLB"
+                },
+                "team": {
+                    "id": 7,
+                    "name": "Chicago White Sox",
+                    "logo": "https://media.api-sports.io/baseball/teams/7.png"
+                },
+                "league": {
+                    "id": 1,
+                    "name": "MLB",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/baseball/leagues/1.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 1,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 162,
+                    "win": {
+                        "total": 41,
+                        "percentage": "0.253"
+                    },
+                    "lose": {
+                        "total": 121,
+                        "percentage": "0.747"
+                    }
+                },
+                "points": {
+                    "for": 642,
+                    "against": 982
+                },
+                "form": "WWLWW",
+                "description": null
+            }
+        ],
+        [
+            {
+                "position": 1,
+                "stage": null,
+                "group": {
+                    "name": "National League"
+                },
+                "team": {
+                    "id": 18,
+                    "name": "Los Angeles Dodgers",
+                    "logo": "https://media.api-sports.io/baseball/teams/18.png"
+                },
+                "league": {
+                    "id": 1,
+                    "name": "MLB",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/baseball/leagues/1.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 1,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 162,
+                    "win": {
+                        "total": 98,
+                        "percentage": "0.605"
+                    },
+                    "lose": {
+                        "total": 64,
+                        "percentage": "0.395"
+                    }
+                },
+                "points": {
+                    "for": 1071,
+                    "against": 850
+                },
+                "form": "WLWWW",
+                "description": null
+            },
+            {
+                "position": 2,
+                "stage": null,
+                "group": {
+                    "name": "National League"
+                },
+                "team": {
+                    "id": 27,
+                    "name": "Philadelphia Phillies",
+                    "logo": "https://media.api-sports.io/baseball/teams/27.png"
+                },
+                "league": {
+                    "id": 1,
+                    "name": "MLB",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/baseball/leagues/1.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 1,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 162,
+                    "win": {
+                        "total": 95,
+                        "percentage": "0.586"
+                    },
+                    "lose": {
+                        "total": 67,
+                        "percentage": "0.414"
+                    }
+                },
+                "points": {
+                    "for": 924,
+                    "against": 840
+                },
+                "form": "LLWLW",
+                "description": null
+            },
+            {
+                "position": 3,
+                "stage": null,
+                "group": {
+                    "name": "National League"
+                },
+                "team": {
+                    "id": 20,
+                    "name": "Milwaukee Brewers",
+                    "logo": "https://media.api-sports.io/baseball/teams/20.png"
+                },
+                "league": {
+                    "id": 1,
+                    "name": "MLB",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/baseball/leagues/1.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 1,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 162,
+                    "win": {
+                        "total": 93,
+                        "percentage": "0.574"
+                    },
+                    "lose": {
+                        "total": 69,
+                        "percentage": "0.426"
+                    }
+                },
+                "points": {
+                    "for": 971,
+                    "against": 831
+                },
+                "form": "LWLLW",
+                "description": null
+            },
+            {
+                "position": 4,
+                "stage": null,
+                "group": {
+                    "name": "National League"
+                },
+                "team": {
+                    "id": 30,
+                    "name": "San Diego Padres",
+                    "logo": "https://media.api-sports.io/baseball/teams/30.png"
+                },
+                "league": {
+                    "id": 1,
+                    "name": "MLB",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/baseball/leagues/1.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 1,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 162,
+                    "win": {
+                        "total": 93,
+                        "percentage": "0.574"
+                    },
+                    "lose": {
+                        "total": 69,
+                        "percentage": "0.426"
+                    }
+                },
+                "points": {
+                    "for": 891,
+                    "against": 800
+                },
+                "form": "LLWWL",
+                "description": null
+            },
+            {
+                "position": 5,
+                "stage": null,
+                "group": {
+                    "name": "National League"
+                },
+                "team": {
+                    "id": 3,
+                    "name": "Atlanta Braves",
+                    "logo": "https://media.api-sports.io/baseball/teams/3.png"
+                },
+                "league": {
+                    "id": 1,
+                    "name": "MLB",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/baseball/leagues/1.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 1,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 162,
+                    "win": {
+                        "total": 89,
+                        "percentage": "0.549"
+                    },
+                    "lose": {
+                        "total": 73,
+                        "percentage": "0.451"
+                    }
+                },
+                "points": {
+                    "for": 838,
+                    "against": 766
+                },
+                "form": "LLWLL",
+                "description": null
+            },
+            {
+                "position": 6,
+                "stage": null,
+                "group": {
+                    "name": "National League"
+                },
+                "team": {
+                    "id": 24,
+                    "name": "New York Mets",
+                    "logo": "https://media.api-sports.io/baseball/teams/24.png"
+                },
+                "league": {
+                    "id": 1,
+                    "name": "MLB",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/baseball/leagues/1.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 1,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 162,
+                    "win": {
+                        "total": 89,
+                        "percentage": "0.549"
+                    },
+                    "lose": {
+                        "total": 73,
+                        "percentage": "0.451"
+                    }
+                },
+                "points": {
+                    "for": 953,
+                    "against": 876
+                },
+                "form": "LWLLW",
+                "description": null
+            },
+            {
+                "position": 7,
+                "stage": null,
+                "group": {
+                    "name": "National League"
+                },
+                "team": {
+                    "id": 2,
+                    "name": "Arizona Diamondbacks",
+                    "logo": "https://media.api-sports.io/baseball/teams/2.png"
+                },
+                "league": {
+                    "id": 1,
+                    "name": "MLB",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/baseball/leagues/1.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 1,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 162,
+                    "win": {
+                        "total": 89,
+                        "percentage": "0.549"
+                    },
+                    "lose": {
+                        "total": 73,
+                        "percentage": "0.451"
+                    }
+                },
+                "points": {
+                    "for": 1031,
+                    "against": 948
+                },
+                "form": "WLLWL",
+                "description": null
+            },
+            {
+                "position": 8,
+                "stage": null,
+                "group": {
+                    "name": "National League"
+                },
+                "team": {
+                    "id": 6,
+                    "name": "Chicago Cubs",
+                    "logo": "https://media.api-sports.io/baseball/teams/6.png"
+                },
+                "league": {
+                    "id": 1,
+                    "name": "MLB",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/baseball/leagues/1.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 1,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 162,
+                    "win": {
+                        "total": 83,
+                        "percentage": "0.512"
+                    },
+                    "lose": {
+                        "total": 79,
+                        "percentage": "0.488"
+                    }
+                },
+                "points": {
+                    "for": 904,
+                    "against": 832
+                },
+                "form": "LWWLW",
+                "description": null
+            },
+            {
+                "position": 9,
+                "stage": null,
+                "group": {
+                    "name": "National League"
+                },
+                "team": {
+                    "id": 33,
+                    "name": "St.Louis Cardinals",
+                    "logo": "https://media.api-sports.io/baseball/teams/33.png"
+                },
+                "league": {
+                    "id": 1,
+                    "name": "MLB",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/baseball/leagues/1.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 1,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 162,
+                    "win": {
+                        "total": 83,
+                        "percentage": "0.512"
+                    },
+                    "lose": {
+                        "total": 79,
+                        "percentage": "0.488"
+                    }
+                },
+                "points": {
+                    "for": 812,
+                    "against": 865
+                },
+                "form": "WLWLW",
+                "description": null
+            },
+            {
+                "position": 10,
+                "stage": null,
+                "group": {
+                    "name": "National League"
+                },
+                "team": {
+                    "id": 31,
+                    "name": "San Francisco Giants",
+                    "logo": "https://media.api-sports.io/baseball/teams/31.png"
+                },
+                "league": {
+                    "id": 1,
+                    "name": "MLB",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/baseball/leagues/1.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 1,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 162,
+                    "win": {
+                        "total": 80,
+                        "percentage": "0.494"
+                    },
+                    "lose": {
+                        "total": 82,
+                        "percentage": "0.506"
+                    }
+                },
+                "points": {
+                    "for": 878,
+                    "against": 877
+                },
+                "form": "LWLLW",
+                "description": null
+            },
+            {
+                "position": 11,
+                "stage": null,
+                "group": {
+                    "name": "National League"
+                },
+                "team": {
+                    "id": 8,
+                    "name": "Cincinnati Reds",
+                    "logo": "https://media.api-sports.io/baseball/teams/8.png"
+                },
+                "league": {
+                    "id": 1,
+                    "name": "MLB",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/baseball/leagues/1.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 1,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 162,
+                    "win": {
+                        "total": 77,
+                        "percentage": "0.475"
+                    },
+                    "lose": {
+                        "total": 85,
+                        "percentage": "0.525"
+                    }
+                },
+                "points": {
+                    "for": 851,
+                    "against": 861
+                },
+                "form": "WLLLL",
+                "description": null
+            },
+            {
+                "position": 12,
+                "stage": null,
+                "group": {
+                    "name": "National League"
+                },
+                "team": {
+                    "id": 28,
+                    "name": "Pittsburgh Pirates",
+                    "logo": "https://media.api-sports.io/baseball/teams/28.png"
+                },
+                "league": {
+                    "id": 1,
+                    "name": "MLB",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/baseball/leagues/1.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 1,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 162,
+                    "win": {
+                        "total": 76,
+                        "percentage": "0.469"
+                    },
+                    "lose": {
+                        "total": 86,
+                        "percentage": "0.531"
+                    }
+                },
+                "points": {
+                    "for": 811,
+                    "against": 881
+                },
+                "form": "LWWLW",
+                "description": null
+            },
+            {
+                "position": 13,
+                "stage": null,
+                "group": {
+                    "name": "National League"
+                },
+                "team": {
+                    "id": 37,
+                    "name": "Washington Nationals",
+                    "logo": "https://media.api-sports.io/baseball/teams/37.png"
+                },
+                "league": {
+                    "id": 1,
+                    "name": "MLB",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/baseball/leagues/1.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 1,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 162,
+                    "win": {
+                        "total": 71,
+                        "percentage": "0.438"
+                    },
+                    "lose": {
+                        "total": 91,
+                        "percentage": "0.562"
+                    }
+                },
+                "points": {
+                    "for": 801,
+                    "against": 897
+                },
+                "form": "LWWLL",
+                "description": null
+            },
+            {
+                "position": 14,
+                "stage": null,
+                "group": {
+                    "name": "National League"
+                },
+                "team": {
+                    "id": 19,
+                    "name": "Miami Marlins",
+                    "logo": "https://media.api-sports.io/baseball/teams/19.png"
+                },
+                "league": {
+                    "id": 1,
+                    "name": "MLB",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/baseball/leagues/1.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 1,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 162,
+                    "win": {
+                        "total": 62,
+                        "percentage": "0.383"
+                    },
+                    "lose": {
+                        "total": 100,
+                        "percentage": "0.617"
+                    }
+                },
+                "points": {
+                    "for": 737,
+                    "against": 958
+                },
+                "form": "WWWWL",
+                "description": null
+            },
+            {
+                "position": 15,
+                "stage": null,
+                "group": {
+                    "name": "National League"
+                },
+                "team": {
+                    "id": 10,
+                    "name": "Colorado Rockies",
+                    "logo": "https://media.api-sports.io/baseball/teams/10.png"
+                },
+                "league": {
+                    "id": 1,
+                    "name": "MLB",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/baseball/leagues/1.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 1,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 162,
+                    "win": {
+                        "total": 61,
+                        "percentage": "0.377"
+                    },
+                    "lose": {
+                        "total": 101,
+                        "percentage": "0.623"
+                    }
+                },
+                "points": {
+                    "for": 848,
+                    "against": 1098
+                },
+                "form": "LLLWL",
+                "description": null
+            }
+        ],
+        [
+            {
+                "position": 1,
+                "stage": null,
+                "group": {
+                    "name": "National League Central"
+                },
+                "team": {
+                    "id": 20,
+                    "name": "Milwaukee Brewers",
+                    "logo": "https://media.api-sports.io/baseball/teams/20.png"
+                },
+                "league": {
+                    "id": 1,
+                    "name": "MLB",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/baseball/leagues/1.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 1,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 162,
+                    "win": {
+                        "total": 93,
+                        "percentage": "0.574"
+                    },
+                    "lose": {
+                        "total": 69,
+                        "percentage": "0.426"
+                    }
+                },
+                "points": {
+                    "for": 971,
+                    "against": 831
+                },
+                "form": "LWLLW",
+                "description": null
+            },
+            {
+                "position": 2,
+                "stage": null,
+                "group": {
+                    "name": "National League Central"
+                },
+                "team": {
+                    "id": 6,
+                    "name": "Chicago Cubs",
+                    "logo": "https://media.api-sports.io/baseball/teams/6.png"
+                },
+                "league": {
+                    "id": 1,
+                    "name": "MLB",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/baseball/leagues/1.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 1,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 162,
+                    "win": {
+                        "total": 83,
+                        "percentage": "0.512"
+                    },
+                    "lose": {
+                        "total": 79,
+                        "percentage": "0.488"
+                    }
+                },
+                "points": {
+                    "for": 904,
+                    "against": 832
+                },
+                "form": "LWWLW",
+                "description": null
+            },
+            {
+                "position": 3,
+                "stage": null,
+                "group": {
+                    "name": "National League Central"
+                },
+                "team": {
+                    "id": 33,
+                    "name": "St.Louis Cardinals",
+                    "logo": "https://media.api-sports.io/baseball/teams/33.png"
+                },
+                "league": {
+                    "id": 1,
+                    "name": "MLB",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/baseball/leagues/1.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 1,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 162,
+                    "win": {
+                        "total": 83,
+                        "percentage": "0.512"
+                    },
+                    "lose": {
+                        "total": 79,
+                        "percentage": "0.488"
+                    }
+                },
+                "points": {
+                    "for": 812,
+                    "against": 865
+                },
+                "form": "WLWLW",
+                "description": null
+            },
+            {
+                "position": 4,
+                "stage": null,
+                "group": {
+                    "name": "National League Central"
+                },
+                "team": {
+                    "id": 8,
+                    "name": "Cincinnati Reds",
+                    "logo": "https://media.api-sports.io/baseball/teams/8.png"
+                },
+                "league": {
+                    "id": 1,
+                    "name": "MLB",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/baseball/leagues/1.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 1,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 162,
+                    "win": {
+                        "total": 77,
+                        "percentage": "0.475"
+                    },
+                    "lose": {
+                        "total": 85,
+                        "percentage": "0.525"
+                    }
+                },
+                "points": {
+                    "for": 851,
+                    "against": 861
+                },
+                "form": "WLLLL",
+                "description": null
+            },
+            {
+                "position": 5,
+                "stage": null,
+                "group": {
+                    "name": "National League Central"
+                },
+                "team": {
+                    "id": 28,
+                    "name": "Pittsburgh Pirates",
+                    "logo": "https://media.api-sports.io/baseball/teams/28.png"
+                },
+                "league": {
+                    "id": 1,
+                    "name": "MLB",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/baseball/leagues/1.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 1,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 162,
+                    "win": {
+                        "total": 76,
+                        "percentage": "0.469"
+                    },
+                    "lose": {
+                        "total": 86,
+                        "percentage": "0.531"
+                    }
+                },
+                "points": {
+                    "for": 811,
+                    "against": 881
+                },
+                "form": "LWWLW",
+                "description": null
+            }
+        ],
+        [
+            {
+                "position": 1,
+                "stage": null,
+                "group": {
+                    "name": "National League East"
+                },
+                "team": {
+                    "id": 27,
+                    "name": "Philadelphia Phillies",
+                    "logo": "https://media.api-sports.io/baseball/teams/27.png"
+                },
+                "league": {
+                    "id": 1,
+                    "name": "MLB",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/baseball/leagues/1.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 1,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 162,
+                    "win": {
+                        "total": 95,
+                        "percentage": "0.586"
+                    },
+                    "lose": {
+                        "total": 67,
+                        "percentage": "0.414"
+                    }
+                },
+                "points": {
+                    "for": 924,
+                    "against": 840
+                },
+                "form": "LLWLW",
+                "description": null
+            },
+            {
+                "position": 2,
+                "stage": null,
+                "group": {
+                    "name": "National League East"
+                },
+                "team": {
+                    "id": 3,
+                    "name": "Atlanta Braves",
+                    "logo": "https://media.api-sports.io/baseball/teams/3.png"
+                },
+                "league": {
+                    "id": 1,
+                    "name": "MLB",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/baseball/leagues/1.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 1,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 162,
+                    "win": {
+                        "total": 89,
+                        "percentage": "0.549"
+                    },
+                    "lose": {
+                        "total": 73,
+                        "percentage": "0.451"
+                    }
+                },
+                "points": {
+                    "for": 838,
+                    "against": 766
+                },
+                "form": "LLWLL",
+                "description": null
+            },
+            {
+                "position": 3,
+                "stage": null,
+                "group": {
+                    "name": "National League East"
+                },
+                "team": {
+                    "id": 24,
+                    "name": "New York Mets",
+                    "logo": "https://media.api-sports.io/baseball/teams/24.png"
+                },
+                "league": {
+                    "id": 1,
+                    "name": "MLB",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/baseball/leagues/1.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 1,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 162,
+                    "win": {
+                        "total": 89,
+                        "percentage": "0.549"
+                    },
+                    "lose": {
+                        "total": 73,
+                        "percentage": "0.451"
+                    }
+                },
+                "points": {
+                    "for": 953,
+                    "against": 876
+                },
+                "form": "LWLLW",
+                "description": null
+            },
+            {
+                "position": 4,
+                "stage": null,
+                "group": {
+                    "name": "National League East"
+                },
+                "team": {
+                    "id": 37,
+                    "name": "Washington Nationals",
+                    "logo": "https://media.api-sports.io/baseball/teams/37.png"
+                },
+                "league": {
+                    "id": 1,
+                    "name": "MLB",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/baseball/leagues/1.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 1,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 162,
+                    "win": {
+                        "total": 71,
+                        "percentage": "0.438"
+                    },
+                    "lose": {
+                        "total": 91,
+                        "percentage": "0.562"
+                    }
+                },
+                "points": {
+                    "for": 801,
+                    "against": 897
+                },
+                "form": "LWWLL",
+                "description": null
+            },
+            {
+                "position": 5,
+                "stage": null,
+                "group": {
+                    "name": "National League East"
+                },
+                "team": {
+                    "id": 19,
+                    "name": "Miami Marlins",
+                    "logo": "https://media.api-sports.io/baseball/teams/19.png"
+                },
+                "league": {
+                    "id": 1,
+                    "name": "MLB",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/baseball/leagues/1.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 1,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 162,
+                    "win": {
+                        "total": 62,
+                        "percentage": "0.383"
+                    },
+                    "lose": {
+                        "total": 100,
+                        "percentage": "0.617"
+                    }
+                },
+                "points": {
+                    "for": 737,
+                    "against": 958
+                },
+                "form": "WWWWL",
+                "description": null
+            }
+        ],
+        [
+            {
+                "position": 1,
+                "stage": null,
+                "group": {
+                    "name": "National League West"
+                },
+                "team": {
+                    "id": 18,
+                    "name": "Los Angeles Dodgers",
+                    "logo": "https://media.api-sports.io/baseball/teams/18.png"
+                },
+                "league": {
+                    "id": 1,
+                    "name": "MLB",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/baseball/leagues/1.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 1,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 162,
+                    "win": {
+                        "total": 98,
+                        "percentage": "0.605"
+                    },
+                    "lose": {
+                        "total": 64,
+                        "percentage": "0.395"
+                    }
+                },
+                "points": {
+                    "for": 1071,
+                    "against": 850
+                },
+                "form": "WLWWW",
+                "description": null
+            },
+            {
+                "position": 2,
+                "stage": null,
+                "group": {
+                    "name": "National League West"
+                },
+                "team": {
+                    "id": 30,
+                    "name": "San Diego Padres",
+                    "logo": "https://media.api-sports.io/baseball/teams/30.png"
+                },
+                "league": {
+                    "id": 1,
+                    "name": "MLB",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/baseball/leagues/1.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 1,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 162,
+                    "win": {
+                        "total": 93,
+                        "percentage": "0.574"
+                    },
+                    "lose": {
+                        "total": 69,
+                        "percentage": "0.426"
+                    }
+                },
+                "points": {
+                    "for": 891,
+                    "against": 800
+                },
+                "form": "LLWWL",
+                "description": null
+            },
+            {
+                "position": 3,
+                "stage": null,
+                "group": {
+                    "name": "National League West"
+                },
+                "team": {
+                    "id": 2,
+                    "name": "Arizona Diamondbacks",
+                    "logo": "https://media.api-sports.io/baseball/teams/2.png"
+                },
+                "league": {
+                    "id": 1,
+                    "name": "MLB",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/baseball/leagues/1.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 1,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 162,
+                    "win": {
+                        "total": 89,
+                        "percentage": "0.549"
+                    },
+                    "lose": {
+                        "total": 73,
+                        "percentage": "0.451"
+                    }
+                },
+                "points": {
+                    "for": 1031,
+                    "against": 948
+                },
+                "form": "WLLWL",
+                "description": null
+            },
+            {
+                "position": 4,
+                "stage": null,
+                "group": {
+                    "name": "National League West"
+                },
+                "team": {
+                    "id": 31,
+                    "name": "San Francisco Giants",
+                    "logo": "https://media.api-sports.io/baseball/teams/31.png"
+                },
+                "league": {
+                    "id": 1,
+                    "name": "MLB",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/baseball/leagues/1.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 1,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 162,
+                    "win": {
+                        "total": 80,
+                        "percentage": "0.494"
+                    },
+                    "lose": {
+                        "total": 82,
+                        "percentage": "0.506"
+                    }
+                },
+                "points": {
+                    "for": 878,
+                    "against": 877
+                },
+                "form": "LWLLW",
+                "description": null
+            },
+            {
+                "position": 5,
+                "stage": null,
+                "group": {
+                    "name": "National League West"
+                },
+                "team": {
+                    "id": 10,
+                    "name": "Colorado Rockies",
+                    "logo": "https://media.api-sports.io/baseball/teams/10.png"
+                },
+                "league": {
+                    "id": 1,
+                    "name": "MLB",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/baseball/leagues/1.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 1,
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https://media.api-sports.io/flags/us.svg"
+                },
+                "games": {
+                    "played": 162,
+                    "win": {
+                        "total": 61,
+                        "percentage": "0.377"
+                    },
+                    "lose": {
+                        "total": 101,
+                        "percentage": "0.623"
+                    }
+                },
+                "points": {
+                    "for": 848,
+                    "against": 1098
+                },
+                "form": "LLLWL",
+                "description": null
+            }
+        ]
+    ]
+}

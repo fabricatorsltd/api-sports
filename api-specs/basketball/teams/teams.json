@@ -1,0 +1,419 @@
+{
+    "get": "teams",
+    "parameters": {
+        "league": "12",
+        "season": "2024-2025"
+    },
+    "errors": [],
+    "results": 34,
+    "response": [
+        {
+            "id": 132,
+            "name": "Atlanta Hawks",
+            "logo": "https://media.api-sports.io/basketball/teams/132.png",
+            "nationnal": false,
+            "country": {
+                "id": 5,
+                "name": "USA",
+                "code": "US",
+                "flag": "https://media.api-sports.io/flags/us.svg"
+            }
+        },
+        {
+            "id": 133,
+            "name": "Boston Celtics",
+            "logo": "https://media.api-sports.io/basketball/teams/133.png",
+            "nationnal": false,
+            "country": {
+                "id": 5,
+                "name": "USA",
+                "code": "US",
+                "flag": "https://media.api-sports.io/flags/us.svg"
+            }
+        },
+        {
+            "id": 134,
+            "name": "Brooklyn Nets",
+            "logo": "https://media.api-sports.io/basketball/teams/134.png",
+            "nationnal": false,
+            "country": {
+                "id": 5,
+                "name": "USA",
+                "code": "US",
+                "flag": "https://media.api-sports.io/flags/us.svg"
+            }
+        },
+        {
+            "id": 7322,
+            "name": "Candace\u2019s Rising Stars",
+            "logo": "https://media.api-sports.io/basketball/teams/7322.png",
+            "nationnal": false,
+            "country": {
+                "id": 5,
+                "name": "USA",
+                "code": "US",
+                "flag": "https://media.api-sports.io/flags/us.svg"
+            }
+        },
+        {
+            "id": 135,
+            "name": "Charlotte Hornets",
+            "logo": "https://media.api-sports.io/basketball/teams/135.png",
+            "nationnal": false,
+            "country": {
+                "id": 5,
+                "name": "USA",
+                "code": "US",
+                "flag": "https://media.api-sports.io/flags/us.svg"
+            }
+        },
+        {
+            "id": 136,
+            "name": "Chicago Bulls",
+            "logo": "https://media.api-sports.io/basketball/teams/136.png",
+            "nationnal": false,
+            "country": {
+                "id": 5,
+                "name": "USA",
+                "code": "US",
+                "flag": "https://media.api-sports.io/flags/us.svg"
+            }
+        },
+        {
+            "id": 7323,
+            "name": "Chuck\u2019s Global Stars",
+            "logo": "https://media.api-sports.io/basketball/teams/7323.png",
+            "nationnal": false,
+            "country": {
+                "id": 5,
+                "name": "USA",
+                "code": "US",
+                "flag": "https://media.api-sports.io/flags/us.svg"
+            }
+        },
+        {
+            "id": 137,
+            "name": "Cleveland Cavaliers",
+            "logo": "https://media.api-sports.io/basketball/teams/137.png",
+            "nationnal": false,
+            "country": {
+                "id": 5,
+                "name": "USA",
+                "code": "US",
+                "flag": "https://media.api-sports.io/flags/us.svg"
+            }
+        },
+        {
+            "id": 138,
+            "name": "Dallas Mavericks",
+            "logo": "https://media.api-sports.io/basketball/teams/138.png",
+            "nationnal": false,
+            "country": {
+                "id": 5,
+                "name": "USA",
+                "code": "US",
+                "flag": "https://media.api-sports.io/flags/us.svg"
+            }
+        },
+        {
+            "id": 139,
+            "name": "Denver Nuggets",
+            "logo": "https://media.api-sports.io/basketball/teams/139.png",
+            "nationnal": false,
+            "country": {
+                "id": 5,
+                "name": "USA",
+                "code": "US",
+                "flag": "https://media.api-sports.io/flags/us.svg"
+            }
+        },
+        {
+            "id": 140,
+            "name": "Detroit Pistons",
+            "logo": "https://media.api-sports.io/basketball/teams/140.png",
+            "nationnal": false,
+            "country": {
+                "id": 5,
+                "name": "USA",
+                "code": "US",
+                "flag": "https://media.api-sports.io/flags/us.svg"
+            }
+        },
+        {
+            "id": 141,
+            "name": "Golden State Warriors",
+            "logo": "https://media.api-sports.io/basketball/teams/141.png",
+            "nationnal": false,
+            "country": {
+                "id": 5,
+                "name": "USA",
+                "code": "US",
+                "flag": "https://media.api-sports.io/flags/us.svg"
+            }
+        },
+        {
+            "id": 142,
+            "name": "Houston Rockets",
+            "logo": "https://media.api-sports.io/basketball/teams/142.png",
+            "nationnal": false,
+            "country": {
+                "id": 5,
+                "name": "USA",
+                "code": "US",
+                "flag": "https://media.api-sports.io/flags/us.svg"
+            }
+        },
+        {
+            "id": 143,
+            "name": "Indiana Pacers",
+            "logo": "https://media.api-sports.io/basketball/teams/143.png",
+            "nationnal": false,
+            "country": {
+                "id": 5,
+                "name": "USA",
+                "code": "US",
+                "flag": "https://media.api-sports.io/flags/us.svg"
+            }
+        },
+        {
+            "id": 7324,
+            "name": "Kenny\u2019s Young Stars",
+            "logo": "https://media.api-sports.io/basketball/teams/7324.png",
+            "nationnal": false,
+            "country": {
+                "id": 5,
+                "name": "USA",
+                "code": "US",
+                "flag": "https://media.api-sports.io/flags/us.svg"
+            }
+        },
+        {
+            "id": 144,
+            "name": "Los Angeles Clippers",
+            "logo": "https://media.api-sports.io/basketball/teams/144.png",
+            "nationnal": false,
+            "country": {
+                "id": 5,
+                "name": "USA",
+                "code": "US",
+                "flag": "https://media.api-sports.io/flags/us.svg"
+            }
+        },
+        {
+            "id": 145,
+            "name": "Los Angeles Lakers",
+            "logo": "https://media.api-sports.io/basketball/teams/145.png",
+            "nationnal": false,
+            "country": {
+                "id": 5,
+                "name": "USA",
+                "code": "US",
+                "flag": "https://media.api-sports.io/flags/us.svg"
+            }
+        },
+        {
+            "id": 146,
+            "name": "Memphis Grizzlies",
+            "logo": "https://media.api-sports.io/basketball/teams/146.png",
+            "nationnal": false,
+            "country": {
+                "id": 5,
+                "name": "USA",
+                "code": "US",
+                "flag": "https://media.api-sports.io/flags/us.svg"
+            }
+        },
+        {
+            "id": 147,
+            "name": "Miami Heat",
+            "logo": "https://media.api-sports.io/basketball/teams/147.png",
+            "nationnal": false,
+            "country": {
+                "id": 5,
+                "name": "USA",
+                "code": "US",
+                "flag": "https://media.api-sports.io/flags/us.svg"
+            }
+        },
+        {
+            "id": 148,
+            "name": "Milwaukee Bucks",
+            "logo": "https://media.api-sports.io/basketball/teams/148.png",
+            "nationnal": false,
+            "country": {
+                "id": 5,
+                "name": "USA",
+                "code": "US",
+                "flag": "https://media.api-sports.io/flags/us.svg"
+            }
+        },
+        {
+            "id": 149,
+            "name": "Minnesota Timberwolves",
+            "logo": "https://media.api-sports.io/basketball/teams/149.png",
+            "nationnal": false,
+            "country": {
+                "id": 5,
+                "name": "USA",
+                "code": "US",
+                "flag": "https://media.api-sports.io/flags/us.svg"
+            }
+        },
+        {
+            "id": 150,
+            "name": "New Orleans Pelicans",
+            "logo": "https://media.api-sports.io/basketball/teams/150.png",
+            "nationnal": false,
+            "country": {
+                "id": 5,
+                "name": "USA",
+                "code": "US",
+                "flag": "https://media.api-sports.io/flags/us.svg"
+            }
+        },
+        {
+            "id": 151,
+            "name": "New York Knicks",
+            "logo": "https://media.api-sports.io/basketball/teams/151.png",
+            "nationnal": false,
+            "country": {
+                "id": 5,
+                "name": "USA",
+                "code": "US",
+                "flag": "https://media.api-sports.io/flags/us.svg"
+            }
+        },
+        {
+            "id": 152,
+            "name": "Oklahoma City Thunder",
+            "logo": "https://media.api-sports.io/basketball/teams/152.png",
+            "nationnal": false,
+            "country": {
+                "id": 5,
+                "name": "USA",
+                "code": "US",
+                "flag": "https://media.api-sports.io/flags/us.svg"
+            }
+        },
+        {
+            "id": 153,
+            "name": "Orlando Magic",
+            "logo": "https://media.api-sports.io/basketball/teams/153.png",
+            "nationnal": false,
+            "country": {
+                "id": 5,
+                "name": "USA",
+                "code": "US",
+                "flag": "https://media.api-sports.io/flags/us.svg"
+            }
+        },
+        {
+            "id": 154,
+            "name": "Philadelphia 76ers",
+            "logo": "https://media.api-sports.io/basketball/teams/154.png",
+            "nationnal": false,
+            "country": {
+                "id": 5,
+                "name": "USA",
+                "code": "US",
+                "flag": "https://media.api-sports.io/flags/us.svg"
+            }
+        },
+        {
+            "id": 155,
+            "name": "Phoenix Suns",
+            "logo": "https://media.api-sports.io/basketball/teams/155.png",
+            "nationnal": false,
+            "country": {
+                "id": 5,
+                "name": "USA",
+                "code": "US",
+                "flag": "https://media.api-sports.io/flags/us.svg"
+            }
+        },
+        {
+            "id": 156,
+            "name": "Portland Trail Blazers",
+            "logo": "https://media.api-sports.io/basketball/teams/156.png",
+            "nationnal": false,
+            "country": {
+                "id": 5,
+                "name": "USA",
+                "code": "US",
+                "flag": "https://media.api-sports.io/flags/us.svg"
+            }
+        },
+        {
+            "id": 157,
+            "name": "Sacramento Kings",
+            "logo": "https://media.api-sports.io/basketball/teams/157.png",
+            "nationnal": false,
+            "country": {
+                "id": 5,
+                "name": "USA",
+                "code": "US",
+                "flag": "https://media.api-sports.io/flags/us.svg"
+            }
+        },
+        {
+            "id": 158,
+            "name": "San Antonio Spurs",
+            "logo": "https://media.api-sports.io/basketball/teams/158.png",
+            "nationnal": false,
+            "country": {
+                "id": 5,
+                "name": "USA",
+                "code": "US",
+                "flag": "https://media.api-sports.io/flags/us.svg"
+            }
+        },
+        {
+            "id": 7325,
+            "name": "Shaq\u2019s OGs",
+            "logo": "https://media.api-sports.io/basketball/teams/7325.png",
+            "nationnal": false,
+            "country": {
+                "id": 5,
+                "name": "USA",
+                "code": "US",
+                "flag": "https://media.api-sports.io/flags/us.svg"
+            }
+        },
+        {
+            "id": 159,
+            "name": "Toronto Raptors",
+            "logo": "https://media.api-sports.io/basketball/teams/159.png",
+            "nationnal": false,
+            "country": {
+                "id": 5,
+                "name": "USA",
+                "code": "US",
+                "flag": "https://media.api-sports.io/flags/us.svg"
+            }
+        },
+        {
+            "id": 160,
+            "name": "Utah Jazz",
+            "logo": "https://media.api-sports.io/basketball/teams/160.png",
+            "nationnal": false,
+            "country": {
+                "id": 5,
+                "name": "USA",
+                "code": "US",
+                "flag": "https://media.api-sports.io/flags/us.svg"
+            }
+        },
+        {
+            "id": 161,
+            "name": "Washington Wizards",
+            "logo": "https://media.api-sports.io/basketball/teams/161.png",
+            "nationnal": false,
+            "country": {
+                "id": 5,
+                "name": "USA",
+                "code": "US",
+                "flag": "https://media.api-sports.io/flags/us.svg"
+            }
+        }
+    ]
+}

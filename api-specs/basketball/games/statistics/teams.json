@@ -1,0 +1,76 @@
+{
+    "get": "games",
+    "parameters": {
+        "id": "425068"
+    },
+    "errors": [],
+    "results": 2,
+    "response": [
+        {
+            "game": {
+                "id": 425068
+            },
+            "team": {
+                "id": 139
+            },
+            "field_goals": {
+                "total": 37,
+                "attempts": 86,
+                "percentage": 43
+            },
+            "threepoint_goals": {
+                "total": 12,
+                "attempts": 32,
+                "percentage": 37
+            },
+            "freethrows_goals": {
+                "total": 17,
+                "attempts": 26,
+                "percentage": 65
+            },
+            "rebounds": {
+                "total": 49,
+                "offence": 12,
+                "defense": 37
+            },
+            "assists": 29,
+            "steals": 10,
+            "blocks": 2,
+            "turnovers": 24,
+            "personal_fouls": 24
+        },
+        {
+            "game": {
+                "id": 425068
+            },
+            "team": {
+                "id": 133
+            },
+            "field_goals": {
+                "total": 36,
+                "attempts": 98,
+                "percentage": 37
+            },
+            "threepoint_goals": {
+                "total": 20,
+                "attempts": 61,
+                "percentage": 32
+            },
+            "freethrows_goals": {
+                "total": 13,
+                "attempts": 17,
+                "percentage": 76
+            },
+            "rebounds": {
+                "total": 44,
+                "offence": 17,
+                "defense": 27
+            },
+            "assists": 29,
+            "steals": 13,
+            "blocks": 8,
+            "turnovers": 18,
+            "personal_fouls": 24
+        }
+    ]
+}

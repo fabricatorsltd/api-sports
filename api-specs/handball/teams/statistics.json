@@ -1,0 +1,105 @@
+{
+    "get": "teams",
+    "parameters": {
+        "league": "39",
+        "season": "2024",
+        "team": "333"
+    },
+    "errors": [],
+    "results": 5,
+    "response": {
+        "country": {
+            "id": 13,
+            "name": "Germany",
+            "code": "DE",
+            "flag": "https://media.api-sports.io/flags/de.svg"
+        },
+        "league": {
+            "id": 39,
+            "name": "Bundesliga",
+            "type": "League",
+            "logo": "https://media.api-sports.io/handball/leagues/39.png",
+            "season": 2024
+        },
+        "team": {
+            "id": 333,
+            "name": "Bietigheim-Metterzimmern",
+            "logo": "https://media.api-sports.io/handball/teams/333.png"
+        },
+        "games": {
+            "played": {
+                "home": 17,
+                "away": 17,
+                "all": 34
+            },
+            "wins": {
+                "home": {
+                    "total": 2,
+                    "percentage": "11.76"
+                },
+                "away": {
+                    "total": 5,
+                    "percentage": "29.41"
+                },
+                "all": {
+                    "total": 7,
+                    "percentage": "20.59"
+                }
+            },
+            "draws": {
+                "home": {
+                    "total": 2,
+                    "percentage": "11.76"
+                },
+                "away": {
+                    "total": 1,
+                    "percentage": "5.88"
+                },
+                "all": {
+                    "total": 3,
+                    "percentage": "8.82"
+                }
+            },
+            "loses": {
+                "home": {
+                    "total": 13,
+                    "percentage": "76.47"
+                },
+                "away": {
+                    "total": 11,
+                    "percentage": "64.71"
+                },
+                "all": {
+                    "total": 24,
+                    "percentage": "70.59"
+                }
+            }
+        },
+        "goals": {
+            "for": {
+                "total": {
+                    "home": 459,
+                    "away": 471,
+                    "all": 930
+                },
+                "average": {
+                    "home": "27.0",
+                    "away": "27.7",
+                    "all": "27.4"
+                }
+            },
+            "against": {
+                "total": {
+                    "home": 537,
+                    "away": 540,
+                    "all": 1077
+                },
+                "average": {
+                    "home": "31.6",
+                    "away": "31.8",
+                    "all": "31.7"
+                }
+            }
+        }
+    }
+}

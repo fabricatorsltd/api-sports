@@ -1,0 +1,446 @@
+{
+    "get": "games/events",
+    "parameters": {
+        "id": "2952"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+        {
+            "game": {
+                "id": 2952
+            },
+            "events": [
+                {
+                    "team": {
+                        "id": 9
+                    },
+                    "player": {
+                        "id": 538
+                    },
+                    "period": 1,
+                    "minute": 3,
+                    "type": "behind"
+                },
+                {
+                    "team": {
+                        "id": 14
+                    },
+                    "player": {
+                        "id": 1059
+                    },
+                    "period": 1,
+                    "minute": 6,
+                    "type": "goal"
+                },
+                {
+                    "team": {
+                        "id": 9
+                    },
+                    "player": {
+                        "id": 1074
+                    },
+                    "period": 1,
+                    "minute": 8,
+                    "type": "goal"
+                },
+                {
+                    "team": {
+                        "id": 9
+                    },
+                    "player": {
+                        "id": 1493
+                    },
+                    "period": 1,
+                    "minute": 10,
+                    "type": "behind"
+                },
+                {
+                    "team": {
+                        "id": 14
+                    },
+                    "player": {
+                        "id": 1053
+                    },
+                    "period": 1,
+                    "minute": 18,
+                    "type": "goal"
+                },
+                {
+                    "team": {
+                        "id": 9
+                    },
+                    "player": {
+                        "id": 1386
+                    },
+                    "period": 1,
+                    "minute": 19,
+                    "type": "behind"
+                },
+                {
+                    "team": {
+                        "id": 9
+                    },
+                    "player": {
+                        "id": 1084
+                    },
+                    "period": 1,
+                    "minute": 22,
+                    "type": "behind"
+                },
+                {
+                    "team": {
+                        "id": 14
+                    },
+                    "player": {
+                        "id": 1056
+                    },
+                    "period": 1,
+                    "minute": 26,
+                    "type": "goal"
+                },
+                {
+                    "team": {
+                        "id": 9
+                    },
+                    "player": {
+                        "id": 1386
+                    },
+                    "period": 1,
+                    "minute": 29,
+                    "type": "behind"
+                },
+                {
+                    "team": {
+                        "id": 14
+                    },
+                    "player": {
+                        "id": 1541
+                    },
+                    "period": 2,
+                    "minute": 7,
+                    "type": "goal"
+                },
+                {
+                    "team": {
+                        "id": 9
+                    },
+                    "player": {
+                        "id": 1079
+                    },
+                    "period": 2,
+                    "minute": 15,
+                    "type": "behind"
+                },
+                {
+                    "team": {
+                        "id": 9
+                    },
+                    "player": {
+                        "id": 1082
+                    },
+                    "period": 2,
+                    "minute": 21,
+                    "type": "behind"
+                },
+                {
+                    "team": {
+                        "id": 9
+                    },
+                    "player": {
+                        "id": 1080
+                    },
+                    "period": 2,
+                    "minute": 31,
+                    "type": "goal"
+                },
+                {
+                    "team": {
+                        "id": 9
+                    },
+                    "player": {
+                        "id": 1084
+                    },
+                    "period": 3,
+                    "minute": 2,
+                    "type": "goal"
+                },
+                {
+                    "team": {
+                        "id": 14
+                    },
+                    "player": {
+                        "id": 1060
+                    },
+                    "period": 3,
+                    "minute": 5,
+                    "type": "behind"
+                },
+                {
+                    "team": {
+                        "id": 14
+                    },
+                    "player": {
+                        "id": 1056
+                    },
+                    "period": 3,
+                    "minute": 6,
+                    "type": "behind"
+                },
+                {
+                    "team": {
+                        "id": 14
+                    },
+                    "player": {
+                        "id": 1067
+                    },
+                    "period": 3,
+                    "minute": 11,
+                    "type": "behind"
+                },
+                {
+                    "team": {
+                        "id": 14
+                    },
+                    "player": {
+                        "id": 1067
+                    },
+                    "period": 3,
+                    "minute": 14,
+                    "type": "goal"
+                },
+                {
+                    "team": {
+                        "id": 9
+                    },
+                    "player": {
+                        "id": 1084
+                    },
+                    "period": 3,
+                    "minute": 18,
+                    "type": "goal"
+                },
+                {
+                    "team": {
+                        "id": 14
+                    },
+                    "player": {
+                        "id": 1063
+                    },
+                    "period": 3,
+                    "minute": 19,
+                    "type": "behind"
+                },
+                {
+                    "team": {
+                        "id": 9
+                    },
+                    "player": {
+                        "id": 1084
+                    },
+                    "period": 3,
+                    "minute": 20,
+                    "type": "goal"
+                },
+                {
+                    "team": {
+                        "id": 14
+                    },
+                    "player": {
+                        "id": 1067
+                    },
+                    "period": 3,
+                    "minute": 23,
+                    "type": "goal"
+                },
+                {
+                    "team": {
+                        "id": 14
+                    },
+                    "player": {
+                        "id": 1065
+                    },
+                    "period": 3,
+                    "minute": 25,
+                    "type": "behind"
+                },
+                {
+                    "team": {
+                        "id": 9
+                    },
+                    "player": {
+                        "id": 1074
+                    },
+                    "period": 3,
+                    "minute": 29,
+                    "type": "goal"
+                },
+                {
+                    "team": {
+                        "id": 14
+                    },
+                    "player": {
+                        "id": 1065
+                    },
+                    "period": 3,
+                    "minute": 30,
+                    "type": "behind"
+                },
+                {
+                    "team": {
+                        "id": 14
+                    },
+                    "player": {
+                        "id": 1061
+                    },
+                    "period": 3,
+                    "minute": 31,
+                    "type": "goal"
+                },
+                {
+                    "team": {
+                        "id": 9
+                    },
+                    "player": {
+                        "id": 1082
+                    },
+                    "period": 3,
+                    "minute": 33,
+                    "type": "goal"
+                },
+                {
+                    "team": {
+                        "id": 14
+                    },
+                    "player": {
+                        "id": 1067
+                    },
+                    "period": 3,
+                    "minute": 37,
+                    "type": "behind"
+                },
+                {
+                    "team": {
+                        "id": 14
+                    },
+                    "player": {
+                        "id": 1071
+                    },
+                    "period": 4,
+                    "minute": 4,
+                    "type": "behind"
+                },
+                {
+                    "team": {
+                        "id": 14
+                    },
+                    "player": {
+                        "id": 1069
+                    },
+                    "period": 4,
+                    "minute": 7,
+                    "type": "goal"
+                },
+                {
+                    "team": {
+                        "id": 14
+                    },
+                    "player": {
+                        "id": 1061
+                    },
+                    "period": 4,
+                    "minute": 8,
+                    "type": "goal"
+                },
+                {
+                    "team": {
+                        "id": 14
+                    },
+                    "player": {
+                        "id": 1066
+                    },
+                    "period": 4,
+                    "minute": 12,
+                    "type": "goal"
+                },
+                {
+                    "team": {
+                        "id": 14
+                    },
+                    "player": {
+                        "id": 1069
+                    },
+                    "period": 4,
+                    "minute": 13,
+                    "type": "behind"
+                },
+                {
+                    "team": {
+                        "id": 14
+                    },
+                    "player": {
+                        "id": 1060
+                    },
+                    "period": 4,
+                    "minute": 14,
+                    "type": "goal"
+                },
+                {
+                    "team": {
+                        "id": 9
+                    },
+                    "player": {
+                        "id": 1093
+                    },
+                    "period": 4,
+                    "minute": 16,
+                    "type": "goal"
+                },
+                {
+                    "team": {
+                        "id": 14
+                    },
+                    "player": {
+                        "id": 1053
+                    },
+                    "period": 4,
+                    "minute": 22,
+                    "type": "behind"
+                },
+                {
+                    "team": {
+                        "id": 14
+                    },
+                    "player": {
+                        "id": 1072
+                    },
+                    "period": 4,
+                    "minute": 26,
+                    "type": "goal"
+                },
+                {
+                    "team": {
+                        "id": 9
+                    },
+                    "player": {
+                        "id": 1082
+                    },
+                    "period": 4,
+                    "minute": 31,
+                    "type": "behind"
+                },
+                {
+                    "team": {
+                        "id": 9
+                    },
+                    "player": {
+                        "id": 1084
+                    },
+                    "period": 4,
+                    "minute": 34,
+                    "type": "goal"
+                }
+            ]
+        }
+    ]
+}

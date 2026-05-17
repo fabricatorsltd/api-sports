@@ -1,0 +1,220 @@
+{
+    "get": "odds/bets",
+    "parameters": [],
+    "errors": [],
+    "results": 53,
+    "response": [
+        {
+            "id": 1,
+            "name": "Home/Away"
+        },
+        {
+            "id": 2,
+            "name": "2nd Half 3Way Result"
+        },
+        {
+            "id": 3,
+            "name": "Asian Handicap"
+        },
+        {
+            "id": 4,
+            "name": "Over/Under"
+        },
+        {
+            "id": 5,
+            "name": "Over/Under 1st Half"
+        },
+        {
+            "id": 6,
+            "name": "HT/FT Double"
+        },
+        {
+            "id": 7,
+            "name": "Highest Scoring Half"
+        },
+        {
+            "id": 8,
+            "name": "1st Half 3Way Result"
+        },
+        {
+            "id": 9,
+            "name": "Asian Handicap First Half"
+        },
+        {
+            "id": 10,
+            "name": "Asian Handicap 4th Qtr"
+        },
+        {
+            "id": 11,
+            "name": "Odd/Even"
+        },
+        {
+            "id": 12,
+            "name": "3Way Result - 1st Qtr"
+        },
+        {
+            "id": 13,
+            "name": "3Way Result - 2nd Qtr"
+        },
+        {
+            "id": 14,
+            "name": "3Way Result - 3rd Qtr"
+        },
+        {
+            "id": 15,
+            "name": "3Way Result - 4th Qtr"
+        },
+        {
+            "id": 16,
+            "name": "First Team to Score"
+        },
+        {
+            "id": 17,
+            "name": "Over/Under 1st Qtr"
+        },
+        {
+            "id": 18,
+            "name": "Over/Under 2nd Qtr"
+        },
+        {
+            "id": 19,
+            "name": "Over/Under 3rd Qtr"
+        },
+        {
+            "id": 20,
+            "name": "Over/Under 4th Qtr"
+        },
+        {
+            "id": 21,
+            "name": "Asian Handicap 1st Qtr"
+        },
+        {
+            "id": 22,
+            "name": "First Scoring Play"
+        },
+        {
+            "id": 23,
+            "name": "Asian Handicap (2nd Half)"
+        },
+        {
+            "id": 24,
+            "name": "Home Total Points"
+        },
+        {
+            "id": 25,
+            "name": "Away Total Points"
+        },
+        {
+            "id": 26,
+            "name": "Away Total Points (1st Half)"
+        },
+        {
+            "id": 27,
+            "name": "Home/Away - 1st Half"
+        },
+        {
+            "id": 28,
+            "name": "Home/Away - 2nd Half"
+        },
+        {
+            "id": 29,
+            "name": "Home/Away - 1st Qtr"
+        },
+        {
+            "id": 30,
+            "name": "Home/Away - 2nd Qtr"
+        },
+        {
+            "id": 31,
+            "name": "Home/Away - 3rd Qtr"
+        },
+        {
+            "id": 32,
+            "name": "Home/Away - 4th Qtr"
+        },
+        {
+            "id": 33,
+            "name": "Highest Scoring Quarter"
+        },
+        {
+            "id": 34,
+            "name": "Away Total Points (2nd Half)"
+        },
+        {
+            "id": 35,
+            "name": "Asian Handicap 2nd Qtr"
+        },
+        {
+            "id": 36,
+            "name": "Asian Handicap (3rd Quarter)"
+        },
+        {
+            "id": 37,
+            "name": "Home Total Points (1st Half)"
+        },
+        {
+            "id": 38,
+            "name": "Home Total Points (2nd Half)"
+        },
+        {
+            "id": 39,
+            "name": "First Score Type"
+        },
+        {
+            "id": 40,
+            "name": "Over/Under 2nd Half"
+        },
+        {
+            "id": 41,
+            "name": null
+        },
+        {
+            "id": 42,
+            "name": null
+        },
+        {
+            "id": 43,
+            "name": "Over/Under by Games in Match"
+        },
+        {
+            "id": 44,
+            "name": "Total Behinds"
+        },
+        {
+            "id": 45,
+            "name": "Home Total Goals"
+        },
+        {
+            "id": 46,
+            "name": "AwayTotal Goals"
+        },
+        {
+            "id": 47,
+            "name": "Home Total Behinds"
+        },
+        {
+            "id": 48,
+            "name": "Away Total Behinds"
+        },
+        {
+            "id": 49,
+            "name": "Total Goals (2nd Half)"
+        },
+        {
+            "id": 50,
+            "name": "Total Goals (1st Half)"
+        },
+        {
+            "id": 51,
+            "name": "Total Goals (1st Half)"
+        },
+        {
+            "id": 52,
+            "name": "Home Winning Margin"
+        },
+        {
+            "id": 53,
+            "name": "Away Winning Margin"
+        }
+    ]
+}

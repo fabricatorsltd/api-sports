@@ -1,0 +1,12 @@
+{
+    "get": "standings",
+    "parameters": {
+        "league": "39",
+        "season": "2024"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+        ""
+    ]
+}

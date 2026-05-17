@@ -1,0 +1,1175 @@
+{
+    "get": "games/statistics/players",
+    "parameters": {
+        "id": "2952"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+        {
+            "game": {
+                "id": 2952
+            },
+            "teams": [
+                {
+                    "team": {
+                        "id": 9
+                    },
+                    "players": [
+                        {
+                            "player": {
+                                "id": 475,
+                                "number": 1
+                            },
+                            "goals": {
+                                "total": 0,
+                                "assists": 0
+                            },
+                            "behinds": 0,
+                            "disposals": 21,
+                            "kicks": 14,
+                            "handballs": 7,
+                            "marks": 5,
+                            "tackles": 2,
+                            "hitouts": 0,
+                            "clearances": 0,
+                            "free_kicks": {
+                                "for": 2,
+                                "against": 0
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 538,
+                                "number": 11
+                            },
+                            "goals": {
+                                "total": 0,
+                                "assists": 0
+                            },
+                            "behinds": 1,
+                            "disposals": 14,
+                            "kicks": 8,
+                            "handballs": 6,
+                            "marks": 1,
+                            "tackles": 4,
+                            "hitouts": 37,
+                            "clearances": 2,
+                            "free_kicks": {
+                                "for": 6,
+                                "against": 4
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 630,
+                                "number": 25
+                            },
+                            "goals": {
+                                "total": 0,
+                                "assists": 0
+                            },
+                            "behinds": 0,
+                            "disposals": 0,
+                            "kicks": 0,
+                            "handballs": 0,
+                            "marks": 0,
+                            "tackles": 0,
+                            "hitouts": 0,
+                            "clearances": 0,
+                            "free_kicks": {
+                                "for": 0,
+                                "against": 0
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 655,
+                                "number": 20
+                            },
+                            "goals": {
+                                "total": 0,
+                                "assists": 0
+                            },
+                            "behinds": 0,
+                            "disposals": 12,
+                            "kicks": 10,
+                            "handballs": 2,
+                            "marks": 3,
+                            "tackles": 2,
+                            "hitouts": 0,
+                            "clearances": 0,
+                            "free_kicks": {
+                                "for": 2,
+                                "against": 0
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 894,
+                                "number": 14
+                            },
+                            "goals": {
+                                "total": 0,
+                                "assists": 0
+                            },
+                            "behinds": 0,
+                            "disposals": 2,
+                            "kicks": 1,
+                            "handballs": 1,
+                            "marks": 0,
+                            "tackles": 2,
+                            "hitouts": 0,
+                            "clearances": 0,
+                            "free_kicks": {
+                                "for": 0,
+                                "against": 1
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 1074,
+                                "number": 7
+                            },
+                            "goals": {
+                                "total": 2,
+                                "assists": 1
+                            },
+                            "behinds": 0,
+                            "disposals": 30,
+                            "kicks": 19,
+                            "handballs": 11,
+                            "marks": 2,
+                            "tackles": 7,
+                            "hitouts": 0,
+                            "clearances": 7,
+                            "free_kicks": {
+                                "for": 4,
+                                "against": 2
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 1076,
+                                "number": 3
+                            },
+                            "goals": {
+                                "total": 0,
+                                "assists": 0
+                            },
+                            "behinds": 0,
+                            "disposals": 27,
+                            "kicks": 20,
+                            "handballs": 7,
+                            "marks": 5,
+                            "tackles": 3,
+                            "hitouts": 0,
+                            "clearances": 5,
+                            "free_kicks": {
+                                "for": 0,
+                                "against": 2
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 1078,
+                                "number": 8
+                            },
+                            "goals": {
+                                "total": 0,
+                                "assists": 0
+                            },
+                            "behinds": 0,
+                            "disposals": 12,
+                            "kicks": 9,
+                            "handballs": 3,
+                            "marks": 6,
+                            "tackles": 0,
+                            "hitouts": 0,
+                            "clearances": 0,
+                            "free_kicks": {
+                                "for": 0,
+                                "against": 1
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 1079,
+                                "number": 30
+                            },
+                            "goals": {
+                                "total": 0,
+                                "assists": 0
+                            },
+                            "behinds": 1,
+                            "disposals": 15,
+                            "kicks": 6,
+                            "handballs": 9,
+                            "marks": 2,
+                            "tackles": 6,
+                            "hitouts": 0,
+                            "clearances": 3,
+                            "free_kicks": {
+                                "for": 1,
+                                "against": 0
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 1080,
+                                "number": 15
+                            },
+                            "goals": {
+                                "total": 1,
+                                "assists": 0
+                            },
+                            "behinds": 0,
+                            "disposals": 19,
+                            "kicks": 10,
+                            "handballs": 9,
+                            "marks": 4,
+                            "tackles": 3,
+                            "hitouts": 0,
+                            "clearances": 0,
+                            "free_kicks": {
+                                "for": 1,
+                                "against": 0
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 1081,
+                                "number": 13
+                            },
+                            "goals": {
+                                "total": 0,
+                                "assists": 1
+                            },
+                            "behinds": 0,
+                            "disposals": 30,
+                            "kicks": 18,
+                            "handballs": 12,
+                            "marks": 2,
+                            "tackles": 2,
+                            "hitouts": 0,
+                            "clearances": 6,
+                            "free_kicks": {
+                                "for": 0,
+                                "against": 1
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 1082,
+                                "number": 5
+                            },
+                            "goals": {
+                                "total": 1,
+                                "assists": 1
+                            },
+                            "behinds": 2,
+                            "disposals": 26,
+                            "kicks": 11,
+                            "handballs": 15,
+                            "marks": 1,
+                            "tackles": 3,
+                            "hitouts": 0,
+                            "clearances": 3,
+                            "free_kicks": {
+                                "for": 1,
+                                "against": 0
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 1084,
+                                "number": 31
+                            },
+                            "goals": {
+                                "total": 4,
+                                "assists": 0
+                            },
+                            "behinds": 1,
+                            "disposals": 6,
+                            "kicks": 6,
+                            "handballs": 0,
+                            "marks": 2,
+                            "tackles": 3,
+                            "hitouts": 0,
+                            "clearances": 0,
+                            "free_kicks": {
+                                "for": 1,
+                                "against": 1
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 1085,
+                                "number": 37
+                            },
+                            "goals": {
+                                "total": 0,
+                                "assists": 0
+                            },
+                            "behinds": 0,
+                            "disposals": 11,
+                            "kicks": 4,
+                            "handballs": 7,
+                            "marks": 2,
+                            "tackles": 3,
+                            "hitouts": 0,
+                            "clearances": 0,
+                            "free_kicks": {
+                                "for": 0,
+                                "against": 0
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 1086,
+                                "number": 32
+                            },
+                            "goals": {
+                                "total": 0,
+                                "assists": 0
+                            },
+                            "behinds": 0,
+                            "disposals": 13,
+                            "kicks": 3,
+                            "handballs": 10,
+                            "marks": 2,
+                            "tackles": 9,
+                            "hitouts": 0,
+                            "clearances": 3,
+                            "free_kicks": {
+                                "for": 1,
+                                "against": 3
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 1088,
+                                "number": 24
+                            },
+                            "goals": {
+                                "total": 0,
+                                "assists": 0
+                            },
+                            "behinds": 0,
+                            "disposals": 17,
+                            "kicks": 10,
+                            "handballs": 7,
+                            "marks": 4,
+                            "tackles": 0,
+                            "hitouts": 0,
+                            "clearances": 1,
+                            "free_kicks": {
+                                "for": 0,
+                                "against": 1
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 1089,
+                                "number": 17
+                            },
+                            "goals": {
+                                "total": 0,
+                                "assists": 0
+                            },
+                            "behinds": 0,
+                            "disposals": 14,
+                            "kicks": 13,
+                            "handballs": 1,
+                            "marks": 3,
+                            "tackles": 1,
+                            "hitouts": 0,
+                            "clearances": 0,
+                            "free_kicks": {
+                                "for": 0,
+                                "against": 0
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 1090,
+                                "number": 16
+                            },
+                            "goals": {
+                                "total": 0,
+                                "assists": 0
+                            },
+                            "behinds": 0,
+                            "disposals": 8,
+                            "kicks": 3,
+                            "handballs": 5,
+                            "marks": 1,
+                            "tackles": 1,
+                            "hitouts": 0,
+                            "clearances": 0,
+                            "free_kicks": {
+                                "for": 0,
+                                "against": 0
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 1091,
+                                "number": 4
+                            },
+                            "goals": {
+                                "total": 0,
+                                "assists": 1
+                            },
+                            "behinds": 0,
+                            "disposals": 20,
+                            "kicks": 14,
+                            "handballs": 6,
+                            "marks": 6,
+                            "tackles": 0,
+                            "hitouts": 0,
+                            "clearances": 3,
+                            "free_kicks": {
+                                "for": 1,
+                                "against": 0
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 1093,
+                                "number": 2
+                            },
+                            "goals": {
+                                "total": 1,
+                                "assists": 0
+                            },
+                            "behinds": 0,
+                            "disposals": 10,
+                            "kicks": 3,
+                            "handballs": 7,
+                            "marks": 2,
+                            "tackles": 3,
+                            "hitouts": 0,
+                            "clearances": 0,
+                            "free_kicks": {
+                                "for": 1,
+                                "against": 1
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 1094,
+                                "number": 40
+                            },
+                            "goals": {
+                                "total": 0,
+                                "assists": 0
+                            },
+                            "behinds": 0,
+                            "disposals": 0,
+                            "kicks": 0,
+                            "handballs": 0,
+                            "marks": 0,
+                            "tackles": 0,
+                            "hitouts": 0,
+                            "clearances": 0,
+                            "free_kicks": {
+                                "for": 0,
+                                "against": 0
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 1386,
+                                "number": 19
+                            },
+                            "goals": {
+                                "total": 0,
+                                "assists": 0
+                            },
+                            "behinds": 2,
+                            "disposals": 4,
+                            "kicks": 3,
+                            "handballs": 1,
+                            "marks": 2,
+                            "tackles": 2,
+                            "hitouts": 1,
+                            "clearances": 0,
+                            "free_kicks": {
+                                "for": 1,
+                                "against": 0
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 1493,
+                                "number": 9
+                            },
+                            "goals": {
+                                "total": 0,
+                                "assists": 0
+                            },
+                            "behinds": 1,
+                            "disposals": 12,
+                            "kicks": 5,
+                            "handballs": 7,
+                            "marks": 1,
+                            "tackles": 2,
+                            "hitouts": 0,
+                            "clearances": 0,
+                            "free_kicks": {
+                                "for": 1,
+                                "against": 2
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 1613,
+                                "number": 33
+                            },
+                            "goals": {
+                                "total": 0,
+                                "assists": 0
+                            },
+                            "behinds": 0,
+                            "disposals": 0,
+                            "kicks": 0,
+                            "handballs": 0,
+                            "marks": 0,
+                            "tackles": 0,
+                            "hitouts": 0,
+                            "clearances": 0,
+                            "free_kicks": {
+                                "for": 0,
+                                "against": 0
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 1736,
+                                "number": 22
+                            },
+                            "goals": {
+                                "total": 0,
+                                "assists": 0
+                            },
+                            "behinds": 0,
+                            "disposals": 17,
+                            "kicks": 9,
+                            "handballs": 8,
+                            "marks": 7,
+                            "tackles": 3,
+                            "hitouts": 0,
+                            "clearances": 0,
+                            "free_kicks": {
+                                "for": 1,
+                                "against": 1
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 1737,
+                                "number": 6
+                            },
+                            "goals": {
+                                "total": 0,
+                                "assists": 1
+                            },
+                            "behinds": 0,
+                            "disposals": 13,
+                            "kicks": 6,
+                            "handballs": 7,
+                            "marks": 0,
+                            "tackles": 4,
+                            "hitouts": 0,
+                            "clearances": 1,
+                            "free_kicks": {
+                                "for": 0,
+                                "against": 1
+                            }
+                        }
+                    ]
+                },
+                {
+                    "team": {
+                        "id": 14
+                    },
+                    "players": [
+                        {
+                            "player": {
+                                "id": 658,
+                                "number": 7
+                            },
+                            "goals": {
+                                "total": 0,
+                                "assists": 0
+                            },
+                            "behinds": 0,
+                            "disposals": 18,
+                            "kicks": 14,
+                            "handballs": 4,
+                            "marks": 10,
+                            "tackles": 3,
+                            "hitouts": 0,
+                            "clearances": 1,
+                            "free_kicks": {
+                                "for": 0,
+                                "against": 0
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 1051,
+                                "number": 44
+                            },
+                            "goals": {
+                                "total": 0,
+                                "assists": 0
+                            },
+                            "behinds": 0,
+                            "disposals": 13,
+                            "kicks": 8,
+                            "handballs": 5,
+                            "marks": 5,
+                            "tackles": 2,
+                            "hitouts": 0,
+                            "clearances": 0,
+                            "free_kicks": {
+                                "for": 2,
+                                "against": 1
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 1052,
+                                "number": 24
+                            },
+                            "goals": {
+                                "total": 0,
+                                "assists": 0
+                            },
+                            "behinds": 0,
+                            "disposals": 19,
+                            "kicks": 13,
+                            "handballs": 6,
+                            "marks": 6,
+                            "tackles": 0,
+                            "hitouts": 0,
+                            "clearances": 0,
+                            "free_kicks": {
+                                "for": 1,
+                                "against": 0
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 1053,
+                                "number": 5
+                            },
+                            "goals": {
+                                "total": 1,
+                                "assists": 1
+                            },
+                            "behinds": 1,
+                            "disposals": 26,
+                            "kicks": 17,
+                            "handballs": 9,
+                            "marks": 5,
+                            "tackles": 7,
+                            "hitouts": 0,
+                            "clearances": 13,
+                            "free_kicks": {
+                                "for": 2,
+                                "against": 0
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 1054,
+                                "number": 43
+                            },
+                            "goals": {
+                                "total": 0,
+                                "assists": 0
+                            },
+                            "behinds": 0,
+                            "disposals": 5,
+                            "kicks": 4,
+                            "handballs": 1,
+                            "marks": 2,
+                            "tackles": 0,
+                            "hitouts": 0,
+                            "clearances": 0,
+                            "free_kicks": {
+                                "for": 0,
+                                "against": 0
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 1056,
+                                "number": 11
+                            },
+                            "goals": {
+                                "total": 1,
+                                "assists": 0
+                            },
+                            "behinds": 1,
+                            "disposals": 20,
+                            "kicks": 15,
+                            "handballs": 5,
+                            "marks": 4,
+                            "tackles": 3,
+                            "hitouts": 0,
+                            "clearances": 3,
+                            "free_kicks": {
+                                "for": 1,
+                                "against": 0
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 1059,
+                                "number": 13
+                            },
+                            "goals": {
+                                "total": 1,
+                                "assists": 0
+                            },
+                            "behinds": 0,
+                            "disposals": 18,
+                            "kicks": 10,
+                            "handballs": 8,
+                            "marks": 3,
+                            "tackles": 2,
+                            "hitouts": 0,
+                            "clearances": 3,
+                            "free_kicks": {
+                                "for": 0,
+                                "against": 0
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 1060,
+                                "number": 42
+                            },
+                            "goals": {
+                                "total": 1,
+                                "assists": 0
+                            },
+                            "behinds": 1,
+                            "disposals": 9,
+                            "kicks": 6,
+                            "handballs": 3,
+                            "marks": 2,
+                            "tackles": 6,
+                            "hitouts": 0,
+                            "clearances": 1,
+                            "free_kicks": {
+                                "for": 2,
+                                "against": 2
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 1061,
+                                "number": 9
+                            },
+                            "goals": {
+                                "total": 2,
+                                "assists": 0
+                            },
+                            "behinds": 0,
+                            "disposals": 10,
+                            "kicks": 8,
+                            "handballs": 2,
+                            "marks": 4,
+                            "tackles": 2,
+                            "hitouts": 0,
+                            "clearances": 0,
+                            "free_kicks": {
+                                "for": 0,
+                                "against": 0
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 1062,
+                                "number": 30
+                            },
+                            "goals": {
+                                "total": 0,
+                                "assists": 0
+                            },
+                            "behinds": 0,
+                            "disposals": 9,
+                            "kicks": 7,
+                            "handballs": 2,
+                            "marks": 7,
+                            "tackles": 0,
+                            "hitouts": 0,
+                            "clearances": 0,
+                            "free_kicks": {
+                                "for": 0,
+                                "against": 0
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 1063,
+                                "number": 36
+                            },
+                            "goals": {
+                                "total": 0,
+                                "assists": 0
+                            },
+                            "behinds": 1,
+                            "disposals": 3,
+                            "kicks": 3,
+                            "handballs": 0,
+                            "marks": 1,
+                            "tackles": 2,
+                            "hitouts": 2,
+                            "clearances": 0,
+                            "free_kicks": {
+                                "for": 0,
+                                "against": 0
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 1064,
+                                "number": 22
+                            },
+                            "goals": {
+                                "total": 0,
+                                "assists": 2
+                            },
+                            "behinds": 0,
+                            "disposals": 26,
+                            "kicks": 18,
+                            "handballs": 8,
+                            "marks": 9,
+                            "tackles": 0,
+                            "hitouts": 0,
+                            "clearances": 0,
+                            "free_kicks": {
+                                "for": 2,
+                                "against": 0
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 1065,
+                                "number": 8
+                            },
+                            "goals": {
+                                "total": 0,
+                                "assists": 0
+                            },
+                            "behinds": 2,
+                            "disposals": 21,
+                            "kicks": 12,
+                            "handballs": 9,
+                            "marks": 0,
+                            "tackles": 7,
+                            "hitouts": 0,
+                            "clearances": 6,
+                            "free_kicks": {
+                                "for": 2,
+                                "against": 3
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 1066,
+                                "number": 15
+                            },
+                            "goals": {
+                                "total": 1,
+                                "assists": 0
+                            },
+                            "behinds": 0,
+                            "disposals": 5,
+                            "kicks": 2,
+                            "handballs": 3,
+                            "marks": 2,
+                            "tackles": 1,
+                            "hitouts": 0,
+                            "clearances": 1,
+                            "free_kicks": {
+                                "for": 0,
+                                "against": 1
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 1067,
+                                "number": 2
+                            },
+                            "goals": {
+                                "total": 2,
+                                "assists": 0
+                            },
+                            "behinds": 2,
+                            "disposals": 5,
+                            "kicks": 4,
+                            "handballs": 1,
+                            "marks": 2,
+                            "tackles": 2,
+                            "hitouts": 10,
+                            "clearances": 0,
+                            "free_kicks": {
+                                "for": 0,
+                                "against": 4
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 1069,
+                                "number": 1
+                            },
+                            "goals": {
+                                "total": 1,
+                                "assists": 2
+                            },
+                            "behinds": 1,
+                            "disposals": 26,
+                            "kicks": 17,
+                            "handballs": 9,
+                            "marks": 4,
+                            "tackles": 1,
+                            "hitouts": 0,
+                            "clearances": 2,
+                            "free_kicks": {
+                                "for": 2,
+                                "against": 2
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 1070,
+                                "number": 16
+                            },
+                            "goals": {
+                                "total": 0,
+                                "assists": 0
+                            },
+                            "behinds": 0,
+                            "disposals": 16,
+                            "kicks": 12,
+                            "handballs": 4,
+                            "marks": 7,
+                            "tackles": 2,
+                            "hitouts": 0,
+                            "clearances": 1,
+                            "free_kicks": {
+                                "for": 1,
+                                "against": 0
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 1071,
+                                "number": 21
+                            },
+                            "goals": {
+                                "total": 0,
+                                "assists": 0
+                            },
+                            "behinds": 1,
+                            "disposals": 20,
+                            "kicks": 16,
+                            "handballs": 4,
+                            "marks": 2,
+                            "tackles": 2,
+                            "hitouts": 0,
+                            "clearances": 2,
+                            "free_kicks": {
+                                "for": 1,
+                                "against": 1
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 1072,
+                                "number": 6
+                            },
+                            "goals": {
+                                "total": 1,
+                                "assists": 0
+                            },
+                            "behinds": 0,
+                            "disposals": 8,
+                            "kicks": 5,
+                            "handballs": 3,
+                            "marks": 3,
+                            "tackles": 1,
+                            "hitouts": 0,
+                            "clearances": 0,
+                            "free_kicks": {
+                                "for": 0,
+                                "against": 1
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 1073,
+                                "number": 34
+                            },
+                            "goals": {
+                                "total": 0,
+                                "assists": 0
+                            },
+                            "behinds": 0,
+                            "disposals": 19,
+                            "kicks": 16,
+                            "handballs": 3,
+                            "marks": 8,
+                            "tackles": 3,
+                            "hitouts": 0,
+                            "clearances": 0,
+                            "free_kicks": {
+                                "for": 1,
+                                "against": 0
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 1250,
+                                "number": 4
+                            },
+                            "goals": {
+                                "total": 0,
+                                "assists": 0
+                            },
+                            "behinds": 0,
+                            "disposals": 23,
+                            "kicks": 12,
+                            "handballs": 11,
+                            "marks": 4,
+                            "tackles": 6,
+                            "hitouts": 33,
+                            "clearances": 9,
+                            "free_kicks": {
+                                "for": 3,
+                                "against": 4
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 1541,
+                                "number": 27
+                            },
+                            "goals": {
+                                "total": 1,
+                                "assists": 0
+                            },
+                            "behinds": 0,
+                            "disposals": 20,
+                            "kicks": 7,
+                            "handballs": 13,
+                            "marks": 6,
+                            "tackles": 4,
+                            "hitouts": 1,
+                            "clearances": 1,
+                            "free_kicks": {
+                                "for": 0,
+                                "against": 3
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 1551,
+                                "number": 19
+                            },
+                            "goals": {
+                                "total": 0,
+                                "assists": 0
+                            },
+                            "behinds": 0,
+                            "disposals": 0,
+                            "kicks": 0,
+                            "handballs": 0,
+                            "marks": 0,
+                            "tackles": 0,
+                            "hitouts": 0,
+                            "clearances": 0,
+                            "free_kicks": {
+                                "for": 0,
+                                "against": 0
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 1622,
+                                "number": 17
+                            },
+                            "goals": {
+                                "total": 0,
+                                "assists": 0
+                            },
+                            "behinds": 0,
+                            "disposals": 18,
+                            "kicks": 8,
+                            "handballs": 10,
+                            "marks": 3,
+                            "tackles": 7,
+                            "hitouts": 0,
+                            "clearances": 2,
+                            "free_kicks": {
+                                "for": 1,
+                                "against": 2
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 1666,
+                                "number": 12
+                            },
+                            "goals": {
+                                "total": 0,
+                                "assists": 0
+                            },
+                            "behinds": 0,
+                            "disposals": 0,
+                            "kicks": 0,
+                            "handballs": 0,
+                            "marks": 0,
+                            "tackles": 0,
+                            "hitouts": 0,
+                            "clearances": 0,
+                            "free_kicks": {
+                                "for": 0,
+                                "against": 0
+                            }
+                        },
+                        {
+                            "player": {
+                                "id": 1716,
+                                "number": 37
+                            },
+                            "goals": {
+                                "total": 0,
+                                "assists": 0
+                            },
+                            "behinds": 0,
+                            "disposals": 0,
+                            "kicks": 0,
+                            "handballs": 0,
+                            "marks": 0,
+                            "tackles": 0,
+                            "hitouts": 0,
+                            "clearances": 0,
+                            "free_kicks": {
+                                "for": 0,
+                                "against": 0
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

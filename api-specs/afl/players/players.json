@@ -1,0 +1,167 @@
+{
+    "get": "players",
+    "parameters": {
+        "team": "1",
+        "season": "2024"
+    },
+    "errors": [],
+    "results": 39,
+    "response": [
+        {
+            "id": 116,
+            "name": "Taylor Walker"
+        },
+        {
+            "id": 122,
+            "name": "Brodie Smith"
+        },
+        {
+            "id": 806,
+            "name": "Chris Burgess"
+        },
+        {
+            "id": 979,
+            "name": "Rory Laird"
+        },
+        {
+            "id": 980,
+            "name": "Matthew Crouch"
+        },
+        {
+            "id": 981,
+            "name": "Reilly O'Brien"
+        },
+        {
+            "id": 982,
+            "name": "Jordan Dawson"
+        },
+        {
+            "id": 983,
+            "name": "Ben Keays"
+        },
+        {
+            "id": 984,
+            "name": "Wayne Milera"
+        },
+        {
+            "id": 985,
+            "name": "Mitchell Hinge"
+        },
+        {
+            "id": 986,
+            "name": "Darcy Fogarty"
+        },
+        {
+            "id": 987,
+            "name": "Lachlan Murphy"
+        },
+        {
+            "id": 988,
+            "name": "Ned McHenry"
+        },
+        {
+            "id": 989,
+            "name": "Mark Keane"
+        },
+        {
+            "id": 990,
+            "name": "Izak Rankine"
+        },
+        {
+            "id": 992,
+            "name": "Josh Worrell"
+        },
+        {
+            "id": 993,
+            "name": "Sam Berry"
+        },
+        {
+            "id": 995,
+            "name": "Luke Pedlar"
+        },
+        {
+            "id": 996,
+            "name": "Lachlan Gollant"
+        },
+        {
+            "id": 997,
+            "name": "Joshua Rachele"
+        },
+        {
+            "id": 998,
+            "name": "Jake Soligo"
+        },
+        {
+            "id": 999,
+            "name": "Patrick Parnell"
+        },
+        {
+            "id": 1000,
+            "name": "James Borlase"
+        },
+        {
+            "id": 1001,
+            "name": "Max Michalanney"
+        },
+        {
+            "id": 1002,
+            "name": "Luke Nankervis"
+        },
+        {
+            "id": 1531,
+            "name": "Elliott Himmelberg"
+        },
+        {
+            "id": 1534,
+            "name": "Chayce Jones"
+        },
+        {
+            "id": 1580,
+            "name": "William Hamill"
+        },
+        {
+            "id": 1603,
+            "name": "Lachlan Sholl"
+        },
+        {
+            "id": 1615,
+            "name": "Jordon Butts"
+        },
+        {
+            "id": 1661,
+            "name": "Brayden Cook"
+        },
+        {
+            "id": 1777,
+            "name": "Billy Dowling"
+        },
+        {
+            "id": 1788,
+            "name": "Daniel Curtin"
+        },
+        {
+            "id": 1813,
+            "name": "Kieran Strachan"
+        },
+        {
+            "id": 1814,
+            "name": "Harry Schoenberg"
+        },
+        {
+            "id": 1819,
+            "name": "Zac Taylor"
+        },
+        {
+            "id": 1822,
+            "name": "Jack Hutchinson"
+        },
+        {
+            "id": 1845,
+            "name": "Zac Taylor"
+        },
+        {
+            "id": 1846,
+            "name": "Joel Freijah"
+        }
+    ]
+}

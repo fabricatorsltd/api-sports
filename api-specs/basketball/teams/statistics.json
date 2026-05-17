@@ -1,0 +1,105 @@
+{
+    "get": "statistics",
+    "parameters": {
+        "league": "12",
+        "season": "2024-2025",
+        "team": "132"
+    },
+    "errors": [],
+    "results": 5,
+    "response": {
+        "country": {
+            "id": 5,
+            "name": "USA",
+            "code": "US",
+            "flag": "https://media.api-sports.io/flags/us.svg"
+        },
+        "league": {
+            "id": 12,
+            "name": "NBA",
+            "type": "League",
+            "season": "2024-2025",
+            "logo": "https://media.api-sports.io/basketball/leagues/12.png"
+        },
+        "team": {
+            "id": 132,
+            "name": "Atlanta Hawks",
+            "logo": "https://media.api-sports.io/basketball/teams/132.png"
+        },
+        "games": {
+            "played": {
+                "home": 43,
+                "away": 43,
+                "all": 86
+            },
+            "wins": {
+                "home": {
+                    "total": 22,
+                    "percentage": "0.512"
+                },
+                "away": {
+                    "total": 18,
+                    "percentage": "0.419"
+                },
+                "all": {
+                    "total": 40,
+                    "percentage": "0.465"
+                }
+            },
+            "draws": {
+                "home": {
+                    "total": 0,
+                    "percentage": "0.000"
+                },
+                "away": {
+                    "total": 0,
+                    "percentage": "0.000"
+                },
+                "all": {
+                    "total": 0,
+                    "percentage": "0.000"
+                }
+            },
+            "loses": {
+                "home": {
+                    "total": 21,
+                    "percentage": "0.488"
+                },
+                "away": {
+                    "total": 25,
+                    "percentage": "0.581"
+                },
+                "all": {
+                    "total": 46,
+                    "percentage": "0.535"
+                }
+            }
+        },
+        "points": {
+            "for": {
+                "total": {
+                    "home": 5063,
+                    "away": 5057,
+                    "all": 10120
+                },
+                "average": {
+                    "home": "117.7",
+                    "away": "117.6",
+                    "all": "117.7"
+                }
+            },
+            "against": {
+                "total": {
+                    "home": 5135,
+                    "away": 5140,
+                    "all": 10275
+                },
+                "average": {
+                    "home": "119.4",
+                    "away": "119.5",
+                    "all": "119.5"
+                }
+            }
+        }
+    }
+}

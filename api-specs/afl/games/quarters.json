@@ -1,0 +1,85 @@
+{
+    "get": "games/quarters",
+    "parameters": {
+        "id": "2952"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+        {
+            "game": {
+                "id": 2952
+            },
+            "quarters": [
+                {
+                    "quarter": 1,
+                    "teams": {
+                        "home": {
+                            "id": 14,
+                            "goals": 3,
+                            "behinds": 3,
+                            "points": 21
+                        },
+                        "away": {
+                            "id": 9,
+                            "goals": 1,
+                            "behinds": 6,
+                            "points": 12
+                        }
+                    }
+                },
+                {
+                    "quarter": 2,
+                    "teams": {
+                        "home": {
+                            "id": 14,
+                            "goals": 4,
+                            "behinds": 3,
+                            "points": 27
+                        },
+                        "away": {
+                            "id": 9,
+                            "goals": 2,
+                            "behinds": 8,
+                            "points": 20
+                        }
+                    }
+                },
+                {
+                    "quarter": 3,
+                    "teams": {
+                        "home": {
+                            "id": 14,
+                            "goals": 7,
+                            "behinds": 10,
+                            "points": 52
+                        },
+                        "away": {
+                            "id": 9,
+                            "goals": 7,
+                            "behinds": 8,
+                            "points": 50
+                        }
+                    }
+                },
+                {
+                    "quarter": 4,
+                    "teams": {
+                        "home": {
+                            "id": 14,
+                            "goals": 12,
+                            "behinds": 14,
+                            "points": 86
+                        },
+                        "away": {
+                            "id": 9,
+                            "goals": 9,
+                            "behinds": 10,
+                            "points": 64
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "get": "teams/statistics",
+    "parameters": {
+        "id": "1",
+        "season": "2024"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+        {
+            "team": {
+                "id": 1
+            },
+            "statistics": {
+                "games": {
+                    "played": 23
+                },
+                "disposals": {
+                    "disposals": {
+                        "total": 8290,
+                        "average": "360.4"
+                    },
+                    "kicks": {
+                        "total": 4892,
+                        "average": "212.7"
+                    },
+                    "handballs": {
+                        "total": 3398,
+                        "average": "147.7"
+                    },
+                    "free_kicks": {
+                        "total": 444,
+                        "average": "19.3"
+                    }
+                },
+                "stoppages": {
+                    "hitouts": {
+                        "total": 1050,
+                        "average": "45.7"
+                    },
+                    "clearances": {
+                        "total": 872,
+                        "average": "37.9"
+                    }
+                },
+                "marks": {
+                    "total": 2020,
+                    "average": "87.8"
+                },
+                "scoring": {
+                    "goals": {
+                        "total": 279,
+                        "average": "12.1"
+                    },
+                    "assists": {
+                        "total": 203,
+                        "average": "8.8"
+                    },
+                    "behinds": {
+                        "total": 167,
+                        "average": "7.3"
+                    }
+                },
+                "defence": {
+                    "tackles": {
+                        "total": 1460,
+                        "average": "63.5"
+                    }
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,227 @@
+{
+    "get": "teams",
+    "parameters": {
+        "league": "39",
+        "season": "2024"
+    },
+    "errors": [],
+    "results": 18,
+    "response": [
+        {
+            "id": 333,
+            "name": "Bietigheim-Metterzimmern",
+            "logo": "https://media.api-sports.io/handball/teams/333.png",
+            "national": false,
+            "country": {
+                "id": 13,
+                "name": "Germany",
+                "code": "DE",
+                "flag": "https://media.api-sports.io/flags/de.svg"
+            }
+        },
+        {
+            "id": 335,
+            "name": "Eisenach",
+            "logo": "https://media.api-sports.io/handball/teams/335.png",
+            "national": false,
+            "country": {
+                "id": 13,
+                "name": "Germany",
+                "code": "DE",
+                "flag": "https://media.api-sports.io/flags/de.svg"
+            }
+        },
+        {
+            "id": 313,
+            "name": "Erlangen",
+            "logo": "https://media.api-sports.io/handball/teams/313.png",
+            "national": false,
+            "country": {
+                "id": 13,
+                "name": "Germany",
+                "code": "DE",
+                "flag": "https://media.api-sports.io/flags/de.svg"
+            }
+        },
+        {
+            "id": 314,
+            "name": "Flensburg-H.",
+            "logo": "https://media.api-sports.io/handball/teams/314.png",
+            "national": false,
+            "country": {
+                "id": 13,
+                "name": "Germany",
+                "code": "DE",
+                "flag": "https://media.api-sports.io/flags/de.svg"
+            }
+        },
+        {
+            "id": 315,
+            "name": "Fuchse Berlin",
+            "logo": "https://media.api-sports.io/handball/teams/315.png",
+            "national": false,
+            "country": {
+                "id": 13,
+                "name": "Germany",
+                "code": "DE",
+                "flag": "https://media.api-sports.io/flags/de.svg"
+            }
+        },
+        {
+            "id": 316,
+            "name": "Goppingen",
+            "logo": "https://media.api-sports.io/handball/teams/316.png",
+            "national": false,
+            "country": {
+                "id": 13,
+                "name": "Germany",
+                "code": "DE",
+                "flag": "https://media.api-sports.io/flags/de.svg"
+            }
+        },
+        {
+            "id": 339,
+            "name": "Gummersbach",
+            "logo": "https://media.api-sports.io/handball/teams/339.png",
+            "national": false,
+            "country": {
+                "id": 13,
+                "name": "Germany",
+                "code": "DE",
+                "flag": "https://media.api-sports.io/flags/de.svg"
+            }
+        },
+        {
+            "id": 319,
+            "name": "Hamburg",
+            "logo": "https://media.api-sports.io/handball/teams/319.png",
+            "national": false,
+            "country": {
+                "id": 13,
+                "name": "Germany",
+                "code": "DE",
+                "flag": "https://media.api-sports.io/flags/de.svg"
+            }
+        },
+        {
+            "id": 320,
+            "name": "Hannover-Burgdorf",
+            "logo": "https://media.api-sports.io/handball/teams/320.png",
+            "national": false,
+            "country": {
+                "id": 13,
+                "name": "Germany",
+                "code": "DE",
+                "flag": "https://media.api-sports.io/flags/de.svg"
+            }
+        },
+        {
+            "id": 318,
+            "name": "HSG Wetzlar",
+            "logo": "https://media.api-sports.io/handball/teams/318.png",
+            "national": false,
+            "country": {
+                "id": 13,
+                "name": "Germany",
+                "code": "DE",
+                "flag": "https://media.api-sports.io/flags/de.svg"
+            }
+        },
+        {
+            "id": 321,
+            "name": "Kiel",
+            "logo": "https://media.api-sports.io/handball/teams/321.png",
+            "national": false,
+            "country": {
+                "id": 13,
+                "name": "Germany",
+                "code": "DE",
+                "flag": "https://media.api-sports.io/flags/de.svg"
+            }
+        },
+        {
+            "id": 322,
+            "name": "Leipzig",
+            "logo": "https://media.api-sports.io/handball/teams/322.png",
+            "national": false,
+            "country": {
+                "id": 13,
+                "name": "Germany",
+                "code": "DE",
+                "flag": "https://media.api-sports.io/flags/de.svg"
+            }
+        },
+        {
+            "id": 323,
+            "name": "Lemgo",
+            "logo": "https://media.api-sports.io/handball/teams/323.png",
+            "national": false,
+            "country": {
+                "id": 13,
+                "name": "Germany",
+                "code": "DE",
+                "flag": "https://media.api-sports.io/flags/de.svg"
+            }
+        },
+        {
+            "id": 324,
+            "name": "MT Melsungen",
+            "logo": "https://media.api-sports.io/handball/teams/324.png",
+            "national": false,
+            "country": {
+                "id": 13,
+                "name": "Germany",
+                "code": "DE",
+                "flag": "https://media.api-sports.io/flags/de.svg"
+            }
+        },
+        {
+            "id": 347,
+            "name": "Potsdam",
+            "logo": "https://media.api-sports.io/handball/teams/347.png",
+            "national": false,
+            "country": {
+                "id": 13,
+                "name": "Germany",
+                "code": "DE",
+                "flag": "https://media.api-sports.io/flags/de.svg"
+            }
+        },
+        {
+            "id": 327,
+            "name": "Rhein-Neckar",
+            "logo": "https://media.api-sports.io/handball/teams/327.png",
+            "national": false,
+            "country": {
+                "id": 13,
+                "name": "Germany",
+                "code": "DE",
+                "flag": "https://media.api-sports.io/flags/de.svg"
+            }
+        },
+        {
+            "id": 328,
+            "name": "SC Magdeburg",
+            "logo": "https://media.api-sports.io/handball/teams/328.png",
+            "national": false,
+            "country": {
+                "id": 13,
+                "name": "Germany",
+                "code": "DE",
+                "flag": "https://media.api-sports.io/flags/de.svg"
+            }
+        },
+        {
+            "id": 329,
+            "name": "Stuttgart",
+            "logo": "https://media.api-sports.io/handball/teams/329.png",
+            "national": false,
+            "country": {
+                "id": 13,
+                "name": "Germany",
+                "code": "DE",
+                "flag": "https://media.api-sports.io/flags/de.svg"
+            }
+        }
+    ]
+}

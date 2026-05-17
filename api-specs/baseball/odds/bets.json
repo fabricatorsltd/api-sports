@@ -1,0 +1,340 @@
+{
+    "get": "odds",
+    "parameters": [],
+    "errors": [],
+    "results": 83,
+    "response": [
+        {
+            "id": 1,
+            "name": "Home/Away"
+        },
+        {
+            "id": 2,
+            "name": "Asian Handicap"
+        },
+        {
+            "id": 3,
+            "name": "Asian Handicap (1st 5 Innings)"
+        },
+        {
+            "id": 4,
+            "name": "Money Line (1st 5 Innings)"
+        },
+        {
+            "id": 5,
+            "name": "Over/Under"
+        },
+        {
+            "id": 6,
+            "name": "Over/Under (1st 5 Innings)"
+        },
+        {
+            "id": 7,
+            "name": "Total - Home"
+        },
+        {
+            "id": 8,
+            "name": "Total - Away"
+        },
+        {
+            "id": 9,
+            "name": "Odd/Even (Including OT)"
+        },
+        {
+            "id": 10,
+            "name": "1x2 (1st Inning)"
+        },
+        {
+            "id": 11,
+            "name": "Over/Under (1st Inning)"
+        },
+        {
+            "id": 12,
+            "name": "Asian Handicap (1st Inning)"
+        },
+        {
+            "id": 13,
+            "name": "Asian Handicap (OT)"
+        },
+        {
+            "id": 14,
+            "name": "Match Winner"
+        },
+        {
+            "id": 15,
+            "name": "Goals Over/Under 1st Half"
+        },
+        {
+            "id": 16,
+            "name": "1st Half Winner"
+        },
+        {
+            "id": 17,
+            "name": "Asian Handicap First Half"
+        },
+        {
+            "id": 18,
+            "name": "Over/Under (OT)"
+        },
+        {
+            "id": 19,
+            "name": "Asian Handicap (OT)"
+        },
+        {
+            "id": 20,
+            "name": "2nd Half Winner"
+        },
+        {
+            "id": 21,
+            "name": "HT/FT Double"
+        },
+        {
+            "id": 22,
+            "name": "Both Teams To Score"
+        },
+        {
+            "id": 23,
+            "name": "Correct Score"
+        },
+        {
+            "id": 24,
+            "name": "Correct Score 1st Half"
+        },
+        {
+            "id": 25,
+            "name": "Double Chance"
+        },
+        {
+            "id": 26,
+            "name": "Team To Score First"
+        },
+        {
+            "id": 27,
+            "name": "Double Chance - 1st Half"
+        },
+        {
+            "id": 28,
+            "name": "Double Chance - 2nd Half"
+        },
+        {
+            "id": 29,
+            "name": "1x2 (1st 5 Innings)"
+        },
+        {
+            "id": 30,
+            "name": "Over/Under (1st 7 Innings)"
+        },
+        {
+            "id": 31,
+            "name": "Over/Under (1st 3 Innings)"
+        },
+        {
+            "id": 32,
+            "name": "Extra Innings"
+        },
+        {
+            "id": 33,
+            "name": "First Team To Score"
+        },
+        {
+            "id": 34,
+            "name": "Money Line (1st 3 Innings)"
+        },
+        {
+            "id": 35,
+            "name": "Asian Handicap (1st 3 Innings)"
+        },
+        {
+            "id": 36,
+            "name": "1x2 (1st 3 Innings)"
+        },
+        {
+            "id": 37,
+            "name": "HT/FT (Including OT)"
+        },
+        {
+            "id": 38,
+            "name": "A Run (1st Inning)"
+        },
+        {
+            "id": 39,
+            "name": "1x2 (2nd Inning)"
+        },
+        {
+            "id": 40,
+            "name": "1x2 (3rd Inning)"
+        },
+        {
+            "id": 41,
+            "name": "Total Hits"
+        },
+        {
+            "id": 42,
+            "name": "Home/Away (1st Inning)"
+        },
+        {
+            "id": 43,
+            "name": "Home Team Total Goals (Including OT)"
+        },
+        {
+            "id": 44,
+            "name": "Away Team Total Goals (Including OT)"
+        },
+        {
+            "id": 45,
+            "name": "Last Team To Score"
+        },
+        {
+            "id": 46,
+            "name": "Asian Handicap (1st 7 Innings)"
+        },
+        {
+            "id": 47,
+            "name": "Money Line (1st 7 Innings)"
+        },
+        {
+            "id": 48,
+            "name": "1x2 (1st 7 Innings)"
+        },
+        {
+            "id": 49,
+            "name": "Player Total Bases"
+        },
+        {
+            "id": 50,
+            "name": "Player Singles"
+        },
+        {
+            "id": 51,
+            "name": "Player Runs"
+        },
+        {
+            "id": 52,
+            "name": "Player Doubles"
+        },
+        {
+            "id": 53,
+            "name": "Player Home Runs"
+        },
+        {
+            "id": 54,
+            "name": "Player Triples"
+        },
+        {
+            "id": 55,
+            "name": "Player Stolen Bases"
+        },
+        {
+            "id": 56,
+            "name": "Total Errors"
+        },
+        {
+            "id": 57,
+            "name": "Odd/Even"
+        },
+        {
+            "id": 58,
+            "name": "Total Home Runs"
+        },
+        {
+            "id": 59,
+            "name": "Team with Highest Scoring Innings"
+        },
+        {
+            "id": 60,
+            "name": "Away Total Hits"
+        },
+        {
+            "id": 61,
+            "name": "Home Total Hits"
+        },
+        {
+            "id": 62,
+            "name": "Over/Under (4.5 Innings)"
+        },
+        {
+            "id": 63,
+            "name": "Asian Handicap (4.5 Innings)"
+        },
+        {
+            "id": 64,
+            "name": "First Home Run"
+        },
+        {
+            "id": 65,
+            "name": "Home Odd/Even (OT)"
+        },
+        {
+            "id": 66,
+            "name": "Away Odd/Even (OT)"
+        },
+        {
+            "id": 67,
+            "name": "Home Winning Margin"
+        },
+        {
+            "id": 68,
+            "name": "Away Winning Margin"
+        },
+        {
+            "id": 69,
+            "name": "Result/Total Goals"
+        },
+        {
+            "id": 70,
+            "name": "Home Team Total Goals(1st Half)"
+        },
+        {
+            "id": 71,
+            "name": "Away Team Total Goals(1st Half)"
+        },
+        {
+            "id": 72,
+            "name": "Away Team Total Goals(1st Half)"
+        },
+        {
+            "id": 73,
+            "name": "Player Runs"
+        },
+        {
+            "id": 74,
+            "name": "Pitcher Earned Runs"
+        },
+        {
+            "id": 75,
+            "name": "Pitcher Outs"
+        },
+        {
+            "id": 76,
+            "name": "Player Hits"
+        },
+        {
+            "id": 77,
+            "name": "Player Runs Batted In"
+        },
+        {
+            "id": 78,
+            "name": "Pitcher Strikeouts"
+        },
+        {
+            "id": 79,
+            "name": "Pitcher Hits Allowed"
+        },
+        {
+            "id": 80,
+            "name": "Pitcher Walks Issued"
+        },
+        {
+            "id": 81,
+            "name": "Home Player Shots"
+        },
+        {
+            "id": 82,
+            "name": "Away Player Shots"
+        },
+        {
+            "id": 83,
+            "name": "Team With Highest Scoring"
+        }
+    ]
+}

@@ -1,0 +1,859 @@
+{
+    "get": "standings",
+    "parameters": {
+        "league": "39",
+        "season": "2024"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+        [
+            {
+                "position": 1,
+                "stage": "Bundesliga - Regular Season",
+                "group": {
+                    "name": null
+                },
+                "team": {
+                    "id": 315,
+                    "name": "Fuchse Berlin",
+                    "logo": "https://media.api-sports.io/handball/teams/315.png"
+                },
+                "league": {
+                    "id": 39,
+                    "name": "Bundesliga",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/handball/leagues/39.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 13,
+                    "name": "Germany",
+                    "code": "DE",
+                    "flag": "https://media.api-sports.io/flags/de.svg"
+                },
+                "games": {
+                    "played": 34,
+                    "win": {
+                        "total": 27,
+                        "percentage": "79.41"
+                    },
+                    "draw": {
+                        "total": 4,
+                        "percentage": "11.76"
+                    },
+                    "lose": {
+                        "total": 3,
+                        "percentage": "8.82"
+                    }
+                },
+                "goals": {
+                    "for": 1197,
+                    "against": 984
+                },
+                "points": 58,
+                "form": "WWWWW",
+                "description": "Promotion - Champions League"
+            },
+            {
+                "position": 2,
+                "stage": "Bundesliga - Regular Season",
+                "group": {
+                    "name": null
+                },
+                "team": {
+                    "id": 328,
+                    "name": "SC Magdeburg",
+                    "logo": "https://media.api-sports.io/handball/teams/328.png"
+                },
+                "league": {
+                    "id": 39,
+                    "name": "Bundesliga",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/handball/leagues/39.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 13,
+                    "name": "Germany",
+                    "code": "DE",
+                    "flag": "https://media.api-sports.io/flags/de.svg"
+                },
+                "games": {
+                    "played": 34,
+                    "win": {
+                        "total": 28,
+                        "percentage": "82.35"
+                    },
+                    "draw": {
+                        "total": 1,
+                        "percentage": "2.94"
+                    },
+                    "lose": {
+                        "total": 5,
+                        "percentage": "14.71"
+                    }
+                },
+                "goals": {
+                    "for": 1076,
+                    "against": 913
+                },
+                "points": 57,
+                "form": "WWWWW",
+                "description": "Promotion - Champions League"
+            },
+            {
+                "position": 3,
+                "stage": "Bundesliga - Regular Season",
+                "group": {
+                    "name": null
+                },
+                "team": {
+                    "id": 324,
+                    "name": "MT Melsungen",
+                    "logo": "https://media.api-sports.io/handball/teams/324.png"
+                },
+                "league": {
+                    "id": 39,
+                    "name": "Bundesliga",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/handball/leagues/39.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 13,
+                    "name": "Germany",
+                    "code": "DE",
+                    "flag": "https://media.api-sports.io/flags/de.svg"
+                },
+                "games": {
+                    "played": 34,
+                    "win": {
+                        "total": 27,
+                        "percentage": "79.41"
+                    },
+                    "draw": {
+                        "total": 1,
+                        "percentage": "2.94"
+                    },
+                    "lose": {
+                        "total": 6,
+                        "percentage": "17.65"
+                    }
+                },
+                "goals": {
+                    "for": 1020,
+                    "against": 906
+                },
+                "points": 55,
+                "form": "WDWLW",
+                "description": "Promotion - European League"
+            },
+            {
+                "position": 4,
+                "stage": "Bundesliga - Regular Season",
+                "group": {
+                    "name": null
+                },
+                "team": {
+                    "id": 321,
+                    "name": "Kiel",
+                    "logo": "https://media.api-sports.io/handball/teams/321.png"
+                },
+                "league": {
+                    "id": 39,
+                    "name": "Bundesliga",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/handball/leagues/39.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 13,
+                    "name": "Germany",
+                    "code": "DE",
+                    "flag": "https://media.api-sports.io/flags/de.svg"
+                },
+                "games": {
+                    "played": 34,
+                    "win": {
+                        "total": 25,
+                        "percentage": "73.53"
+                    },
+                    "draw": {
+                        "total": 1,
+                        "percentage": "2.94"
+                    },
+                    "lose": {
+                        "total": 8,
+                        "percentage": "23.53"
+                    }
+                },
+                "goals": {
+                    "for": 1061,
+                    "against": 946
+                },
+                "points": 51,
+                "form": "WDWWW",
+                "description": "Promotion - European League"
+            },
+            {
+                "position": 5,
+                "stage": "Bundesliga - Regular Season",
+                "group": {
+                    "name": null
+                },
+                "team": {
+                    "id": 314,
+                    "name": "Flensburg-H.",
+                    "logo": "https://media.api-sports.io/handball/teams/314.png"
+                },
+                "league": {
+                    "id": 39,
+                    "name": "Bundesliga",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/handball/leagues/39.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 13,
+                    "name": "Germany",
+                    "code": "DE",
+                    "flag": "https://media.api-sports.io/flags/de.svg"
+                },
+                "games": {
+                    "played": 34,
+                    "win": {
+                        "total": 21,
+                        "percentage": "61.76"
+                    },
+                    "draw": {
+                        "total": 5,
+                        "percentage": "14.71"
+                    },
+                    "lose": {
+                        "total": 8,
+                        "percentage": "23.53"
+                    }
+                },
+                "goals": {
+                    "for": 1134,
+                    "against": 1028
+                },
+                "points": 47,
+                "form": "WLWDL",
+                "description": "Promotion - European League"
+            },
+            {
+                "position": 6,
+                "stage": "Bundesliga - Regular Season",
+                "group": {
+                    "name": null
+                },
+                "team": {
+                    "id": 320,
+                    "name": "Hannover-Burgdorf",
+                    "logo": "https://media.api-sports.io/handball/teams/320.png"
+                },
+                "league": {
+                    "id": 39,
+                    "name": "Bundesliga",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/handball/leagues/39.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 13,
+                    "name": "Germany",
+                    "code": "DE",
+                    "flag": "https://media.api-sports.io/flags/de.svg"
+                },
+                "games": {
+                    "played": 34,
+                    "win": {
+                        "total": 20,
+                        "percentage": "58.82"
+                    },
+                    "draw": {
+                        "total": 4,
+                        "percentage": "11.76"
+                    },
+                    "lose": {
+                        "total": 10,
+                        "percentage": "29.41"
+                    }
+                },
+                "goals": {
+                    "for": 1036,
+                    "against": 994
+                },
+                "points": 44,
+                "form": "LDLLL",
+                "description": null
+            },
+            {
+                "position": 7,
+                "stage": "Bundesliga - Regular Season",
+                "group": {
+                    "name": null
+                },
+                "team": {
+                    "id": 339,
+                    "name": "Gummersbach",
+                    "logo": "https://media.api-sports.io/handball/teams/339.png"
+                },
+                "league": {
+                    "id": 39,
+                    "name": "Bundesliga",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/handball/leagues/39.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 13,
+                    "name": "Germany",
+                    "code": "DE",
+                    "flag": "https://media.api-sports.io/flags/de.svg"
+                },
+                "games": {
+                    "played": 34,
+                    "win": {
+                        "total": 19,
+                        "percentage": "55.88"
+                    },
+                    "draw": {
+                        "total": 2,
+                        "percentage": "5.88"
+                    },
+                    "lose": {
+                        "total": 13,
+                        "percentage": "38.24"
+                    }
+                },
+                "goals": {
+                    "for": 1051,
+                    "against": 1007
+                },
+                "points": 40,
+                "form": "WLWWW",
+                "description": null
+            },
+            {
+                "position": 8,
+                "stage": "Bundesliga - Regular Season",
+                "group": {
+                    "name": null
+                },
+                "team": {
+                    "id": 323,
+                    "name": "Lemgo",
+                    "logo": "https://media.api-sports.io/handball/teams/323.png"
+                },
+                "league": {
+                    "id": 39,
+                    "name": "Bundesliga",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/handball/leagues/39.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 13,
+                    "name": "Germany",
+                    "code": "DE",
+                    "flag": "https://media.api-sports.io/flags/de.svg"
+                },
+                "games": {
+                    "played": 34,
+                    "win": {
+                        "total": 18,
+                        "percentage": "52.94"
+                    },
+                    "draw": {
+                        "total": 3,
+                        "percentage": "8.82"
+                    },
+                    "lose": {
+                        "total": 13,
+                        "percentage": "38.24"
+                    }
+                },
+                "goals": {
+                    "for": 964,
+                    "against": 930
+                },
+                "points": 39,
+                "form": "DDLWW",
+                "description": null
+            },
+            {
+                "position": 9,
+                "stage": "Bundesliga - Regular Season",
+                "group": {
+                    "name": null
+                },
+                "team": {
+                    "id": 327,
+                    "name": "Rhein-Neckar",
+                    "logo": "https://media.api-sports.io/handball/teams/327.png"
+                },
+                "league": {
+                    "id": 39,
+                    "name": "Bundesliga",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/handball/leagues/39.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 13,
+                    "name": "Germany",
+                    "code": "DE",
+                    "flag": "https://media.api-sports.io/flags/de.svg"
+                },
+                "games": {
+                    "played": 34,
+                    "win": {
+                        "total": 17,
+                        "percentage": "50.00"
+                    },
+                    "draw": {
+                        "total": 2,
+                        "percentage": "5.88"
+                    },
+                    "lose": {
+                        "total": 15,
+                        "percentage": "44.12"
+                    }
+                },
+                "goals": {
+                    "for": 1027,
+                    "against": 1027
+                },
+                "points": 36,
+                "form": "LDLLW",
+                "description": null
+            },
+            {
+                "position": 10,
+                "stage": "Bundesliga - Regular Season",
+                "group": {
+                    "name": null
+                },
+                "team": {
+                    "id": 319,
+                    "name": "Hamburg",
+                    "logo": "https://media.api-sports.io/handball/teams/319.png"
+                },
+                "league": {
+                    "id": 39,
+                    "name": "Bundesliga",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/handball/leagues/39.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 13,
+                    "name": "Germany",
+                    "code": "DE",
+                    "flag": "https://media.api-sports.io/flags/de.svg"
+                },
+                "games": {
+                    "played": 34,
+                    "win": {
+                        "total": 15,
+                        "percentage": "44.12"
+                    },
+                    "draw": {
+                        "total": 5,
+                        "percentage": "14.71"
+                    },
+                    "lose": {
+                        "total": 14,
+                        "percentage": "41.18"
+                    }
+                },
+                "goals": {
+                    "for": 1060,
+                    "against": 1070
+                },
+                "points": 35,
+                "form": "LWLWW",
+                "description": null
+            },
+            {
+                "position": 11,
+                "stage": "Bundesliga - Regular Season",
+                "group": {
+                    "name": null
+                },
+                "team": {
+                    "id": 335,
+                    "name": "Eisenach",
+                    "logo": "https://media.api-sports.io/handball/teams/335.png"
+                },
+                "league": {
+                    "id": 39,
+                    "name": "Bundesliga",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/handball/leagues/39.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 13,
+                    "name": "Germany",
+                    "code": "DE",
+                    "flag": "https://media.api-sports.io/flags/de.svg"
+                },
+                "games": {
+                    "played": 34,
+                    "win": {
+                        "total": 12,
+                        "percentage": "35.29"
+                    },
+                    "draw": {
+                        "total": 3,
+                        "percentage": "8.82"
+                    },
+                    "lose": {
+                        "total": 19,
+                        "percentage": "55.88"
+                    }
+                },
+                "goals": {
+                    "for": 1047,
+                    "against": 1050
+                },
+                "points": 27,
+                "form": "LWLLL",
+                "description": null
+            },
+            {
+                "position": 12,
+                "stage": "Bundesliga - Regular Season",
+                "group": {
+                    "name": null
+                },
+                "team": {
+                    "id": 316,
+                    "name": "Goppingen",
+                    "logo": "https://media.api-sports.io/handball/teams/316.png"
+                },
+                "league": {
+                    "id": 39,
+                    "name": "Bundesliga",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/handball/leagues/39.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 13,
+                    "name": "Germany",
+                    "code": "DE",
+                    "flag": "https://media.api-sports.io/flags/de.svg"
+                },
+                "games": {
+                    "played": 34,
+                    "win": {
+                        "total": 10,
+                        "percentage": "29.41"
+                    },
+                    "draw": {
+                        "total": 4,
+                        "percentage": "11.76"
+                    },
+                    "lose": {
+                        "total": 20,
+                        "percentage": "58.82"
+                    }
+                },
+                "goals": {
+                    "for": 928,
+                    "against": 1010
+                },
+                "points": 24,
+                "form": "DWWLL",
+                "description": null
+            },
+            {
+                "position": 13,
+                "stage": "Bundesliga - Regular Season",
+                "group": {
+                    "name": null
+                },
+                "team": {
+                    "id": 322,
+                    "name": "Leipzig",
+                    "logo": "https://media.api-sports.io/handball/teams/322.png"
+                },
+                "league": {
+                    "id": 39,
+                    "name": "Bundesliga",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/handball/leagues/39.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 13,
+                    "name": "Germany",
+                    "code": "DE",
+                    "flag": "https://media.api-sports.io/flags/de.svg"
+                },
+                "games": {
+                    "played": 34,
+                    "win": {
+                        "total": 10,
+                        "percentage": "29.41"
+                    },
+                    "draw": {
+                        "total": 1,
+                        "percentage": "2.94"
+                    },
+                    "lose": {
+                        "total": 23,
+                        "percentage": "67.65"
+                    }
+                },
+                "goals": {
+                    "for": 994,
+                    "against": 1027
+                },
+                "points": 21,
+                "form": "LLLLL",
+                "description": null
+            },
+            {
+                "position": 14,
+                "stage": "Bundesliga - Regular Season",
+                "group": {
+                    "name": null
+                },
+                "team": {
+                    "id": 318,
+                    "name": "HSG Wetzlar",
+                    "logo": "https://media.api-sports.io/handball/teams/318.png"
+                },
+                "league": {
+                    "id": 39,
+                    "name": "Bundesliga",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/handball/leagues/39.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 13,
+                    "name": "Germany",
+                    "code": "DE",
+                    "flag": "https://media.api-sports.io/flags/de.svg"
+                },
+                "games": {
+                    "played": 34,
+                    "win": {
+                        "total": 9,
+                        "percentage": "26.47"
+                    },
+                    "draw": {
+                        "total": 1,
+                        "percentage": "2.94"
+                    },
+                    "lose": {
+                        "total": 24,
+                        "percentage": "70.59"
+                    }
+                },
+                "goals": {
+                    "for": 897,
+                    "against": 1013
+                },
+                "points": 19,
+                "form": "LLDLL",
+                "description": null
+            },
+            {
+                "position": 15,
+                "stage": "Bundesliga - Regular Season",
+                "group": {
+                    "name": null
+                },
+                "team": {
+                    "id": 313,
+                    "name": "Erlangen",
+                    "logo": "https://media.api-sports.io/handball/teams/313.png"
+                },
+                "league": {
+                    "id": 39,
+                    "name": "Bundesliga",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/handball/leagues/39.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 13,
+                    "name": "Germany",
+                    "code": "DE",
+                    "flag": "https://media.api-sports.io/flags/de.svg"
+                },
+                "games": {
+                    "played": 34,
+                    "win": {
+                        "total": 7,
+                        "percentage": "20.59"
+                    },
+                    "draw": {
+                        "total": 4,
+                        "percentage": "11.76"
+                    },
+                    "lose": {
+                        "total": 23,
+                        "percentage": "67.65"
+                    }
+                },
+                "goals": {
+                    "for": 885,
+                    "against": 983
+                },
+                "points": 18,
+                "form": "WWLWL",
+                "description": null
+            },
+            {
+                "position": 16,
+                "stage": "Bundesliga - Regular Season",
+                "group": {
+                    "name": null
+                },
+                "team": {
+                    "id": 329,
+                    "name": "Stuttgart",
+                    "logo": "https://media.api-sports.io/handball/teams/329.png"
+                },
+                "league": {
+                    "id": 39,
+                    "name": "Bundesliga",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/handball/leagues/39.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 13,
+                    "name": "Germany",
+                    "code": "DE",
+                    "flag": "https://media.api-sports.io/flags/de.svg"
+                },
+                "games": {
+                    "played": 34,
+                    "win": {
+                        "total": 9,
+                        "percentage": "26.47"
+                    },
+                    "draw": {
+                        "total": 0,
+                        "percentage": "0.00"
+                    },
+                    "lose": {
+                        "total": 25,
+                        "percentage": "73.53"
+                    }
+                },
+                "goals": {
+                    "for": 906,
+                    "against": 1045
+                },
+                "points": 18,
+                "form": "WLLWL",
+                "description": null
+            },
+            {
+                "position": 17,
+                "stage": "Bundesliga - Regular Season",
+                "group": {
+                    "name": null
+                },
+                "team": {
+                    "id": 333,
+                    "name": "Bietigheim-Metterzimmern",
+                    "logo": "https://media.api-sports.io/handball/teams/333.png"
+                },
+                "league": {
+                    "id": 39,
+                    "name": "Bundesliga",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/handball/leagues/39.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 13,
+                    "name": "Germany",
+                    "code": "DE",
+                    "flag": "https://media.api-sports.io/flags/de.svg"
+                },
+                "games": {
+                    "played": 34,
+                    "win": {
+                        "total": 7,
+                        "percentage": "20.59"
+                    },
+                    "draw": {
+                        "total": 3,
+                        "percentage": "8.82"
+                    },
+                    "lose": {
+                        "total": 24,
+                        "percentage": "70.59"
+                    }
+                },
+                "goals": {
+                    "for": 930,
+                    "against": 1077
+                },
+                "points": 17,
+                "form": "LWLDW",
+                "description": "Relegation - 2. Bundesliga"
+            },
+            {
+                "position": 18,
+                "stage": "Bundesliga - Regular Season",
+                "group": {
+                    "name": null
+                },
+                "team": {
+                    "id": 347,
+                    "name": "Potsdam",
+                    "logo": "https://media.api-sports.io/handball/teams/347.png"
+                },
+                "league": {
+                    "id": 39,
+                    "name": "Bundesliga",
+                    "type": "League",
+                    "logo": "https://media.api-sports.io/handball/leagues/39.png",
+                    "season": 2024
+                },
+                "country": {
+                    "id": 13,
+                    "name": "Germany",
+                    "code": "DE",
+                    "flag": "https://media.api-sports.io/flags/de.svg"
+                },
+                "games": {
+                    "played": 34,
+                    "win": {
+                        "total": 3,
+                        "percentage": "8.82"
+                    },
+                    "draw": {
+                        "total": 0,
+                        "percentage": "0.00"
+                    },
+                    "lose": {
+                        "total": 31,
+                        "percentage": "91.18"
+                    }
+                },
+                "goals": {
+                    "for": 802,
+                    "against": 1005
+                },
+                "points": 6,
+                "form": "LLLWL",
+                "description": "Relegation - 2. Bundesliga"
+            }
+        ]
+    ]
+}

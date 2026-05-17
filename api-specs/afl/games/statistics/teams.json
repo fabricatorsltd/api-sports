@@ -1,0 +1,69 @@
+{
+    "get": "games/statistics/teams",
+    "parameters": {
+        "id": "2952"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+        {
+            "game": {
+                "id": 2952
+            },
+            "teams": [
+                {
+                    "team": {
+                        "id": 9
+                    },
+                    "statistics": {
+                        "disposals": {
+                            "disposals": 353,
+                            "kicks": 205,
+                            "handballs": 148,
+                            "free_kicks": 24
+                        },
+                        "stoppages": {
+                            "hitouts": 38,
+                            "clearances": 34
+                        },
+                        "marks": 63,
+                        "scoring": {
+                            "goals": 9,
+                            "assists": 5,
+                            "behinds": 8
+                        },
+                        "defence": {
+                            "tackles": 65
+                        }
+                    }
+                },
+                {
+                    "team": {
+                        "id": 14
+                    },
+                    "statistics": {
+                        "disposals": {
+                            "disposals": 357,
+                            "kicks": 234,
+                            "handballs": 123,
+                            "free_kicks": 21
+                        },
+                        "stoppages": {
+                            "hitouts": 46,
+                            "clearances": 45
+                        },
+                        "marks": 99,
+                        "scoring": {
+                            "goals": 12,
+                            "assists": 5,
+                            "behinds": 10
+                        },
+                        "defence": {
+                            "tackles": 63
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

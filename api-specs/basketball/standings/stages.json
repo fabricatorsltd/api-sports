@@ -1,0 +1,12 @@
+{
+    "get": "standings",
+    "parameters": {
+        "league": "12",
+        "season": "2024-2025"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+        "NBA - Regular Season"
+    ]
+}

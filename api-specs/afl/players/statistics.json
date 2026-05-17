@@ -1,0 +1,73 @@
+{
+    "get": "players/statistics",
+    "parameters": {
+        "id": "116",
+        "season": "2024"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+        {
+            "player": {
+                "id": 116
+            },
+            "statistics": {
+                "games": {
+                    "played": 18
+                },
+                "goals": {
+                    "total": {
+                        "total": 29,
+                        "average": "1.6"
+                    },
+                    "assists": {
+                        "total": 16,
+                        "average": "0.9"
+                    }
+                },
+                "behinds": {
+                    "total": 20,
+                    "average": "1.1"
+                },
+                "disposals": {
+                    "total": 192,
+                    "average": "10.7"
+                },
+                "kicks": {
+                    "total": 143,
+                    "average": "7.9"
+                },
+                "handballs": {
+                    "total": 49,
+                    "average": "2.7"
+                },
+                "marks": {
+                    "total": 100,
+                    "average": "5.6"
+                },
+                "tackles": {
+                    "total": 25,
+                    "average": "1.4"
+                },
+                "hitouts": {
+                    "total": 16,
+                    "average": "0.9"
+                },
+                "clearances": {
+                    "total": 7,
+                    "average": "0.4"
+                },
+                "free_kicks": {
+                    "for": {
+                        "total": 7,
+                        "average": "0.4"
+                    },
+                    "against": {
+                        "total": 10,
+                        "average": "0.6"
+                    }
+                }
+            }
+        }
+    ]
+}

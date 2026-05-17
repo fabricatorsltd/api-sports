@@ -1,0 +1,114 @@
+{
+    "get": "games",
+    "parameters": {
+        "h2h": "320-339",
+        "league": "39",
+        "season": "2024"
+    },
+    "errors": [],
+    "results": 2,
+    "response": [
+        {
+            "id": 166376,
+            "date": "2024-09-05T17:00:00+00:00",
+            "time": "17:00",
+            "timestamp": 1725555600,
+            "timezone": "UTC",
+            "week": "1",
+            "status": {
+                "long": "Finished",
+                "short": "FT"
+            },
+            "country": {
+                "id": 13,
+                "name": "Germany",
+                "code": "DE",
+                "flag": "https://media.api-sports.io/flags/de.svg"
+            },
+            "league": {
+                "id": 39,
+                "name": "Bundesliga",
+                "type": "League",
+                "logo": "https://media.api-sports.io/handball/leagues/39.png",
+                "season": 2024
+            },
+            "teams": {
+                "home": {
+                    "id": 320,
+                    "name": "Hannover-Burgdorf",
+                    "logo": "https://media.api-sports.io/handball/teams/320.png"
+                },
+                "away": {
+                    "id": 339,
+                    "name": "Gummersbach",
+                    "logo": "https://media.api-sports.io/handball/teams/339.png"
+                }
+            },
+            "scores": {
+                "home": 28,
+                "away": 32
+            },
+            "periods": {
+                "first": {
+                    "home": 15,
+                    "away": 15
+                },
+                "second": {
+                    "home": 13,
+                    "away": 17
+                }
+            }
+        },
+        {
+            "id": 166675,
+            "date": "2025-06-08T13:00:00+00:00",
+            "time": "13:00",
+            "timestamp": 1749387600,
+            "timezone": "UTC",
+            "week": "34",
+            "status": {
+                "long": "Finished",
+                "short": "FT"
+            },
+            "country": {
+                "id": 13,
+                "name": "Germany",
+                "code": "DE",
+                "flag": "https://media.api-sports.io/flags/de.svg"
+            },
+            "league": {
+                "id": 39,
+                "name": "Bundesliga",
+                "type": "League",
+                "logo": "https://media.api-sports.io/handball/leagues/39.png",
+                "season": 2024
+            },
+            "teams": {
+                "home": {
+                    "id": 339,
+                    "name": "Gummersbach",
+                    "logo": "https://media.api-sports.io/handball/teams/339.png"
+                },
+                "away": {
+                    "id": 320,
+                    "name": "Hannover-Burgdorf",
+                    "logo": "https://media.api-sports.io/handball/teams/320.png"
+                }
+            },
+            "scores": {
+                "home": 39,
+                "away": 29
+            },
+            "periods": {
+                "first": {
+                    "home": 20,
+                    "away": 15
+                },
+                "second": {
+                    "home": 19,
+                    "away": 14
+                }
+            }
+        }
+    ]
+}

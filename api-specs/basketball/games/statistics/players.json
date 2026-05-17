@@ -1,0 +1,1234 @@
+{
+    "get": "games",
+    "parameters": {
+        "id": "425068"
+    },
+    "errors": [],
+    "results": 36,
+    "response": [
+        {
+            "game": {
+                "id": 425068
+            },
+            "team": {
+                "id": 139
+            },
+            "player": {
+                "id": 635,
+                "name": "Porter Michael"
+            },
+            "type": "starters",
+            "minutes": "14:51",
+            "field_goals": {
+                "total": 0,
+                "attempts": 0,
+                "percentage": null
+            },
+            "threepoint_goals": {
+                "total": 1,
+                "attempts": 3,
+                "percentage": null
+            },
+            "freethrows_goals": {
+                "total": 1,
+                "attempts": 2,
+                "percentage": null
+            },
+            "rebounds": {
+                "total": 2
+            },
+            "assists": 0,
+            "points": 12
+        },
+        {
+            "game": {
+                "id": 425068
+            },
+            "team": {
+                "id": 139
+            },
+            "player": {
+                "id": 633,
+                "name": "Gordon Aaron"
+            },
+            "type": "starters",
+            "minutes": "15:15",
+            "field_goals": {
+                "total": 0,
+                "attempts": 0,
+                "percentage": null
+            },
+            "threepoint_goals": {
+                "total": 1,
+                "attempts": 4,
+                "percentage": null
+            },
+            "freethrows_goals": {
+                "total": 0,
+                "attempts": 0,
+                "percentage": null
+            },
+            "rebounds": {
+                "total": 3
+            },
+            "assists": 3,
+            "points": 7
+        },
+        {
+            "game": {
+                "id": 425068
+            },
+            "team": {
+                "id": 139
+            },
+            "player": {
+                "id": 621,
+                "name": "Jokic Nikola"
+            },
+            "type": "starters",
+            "minutes": "16:42",
+            "field_goals": {
+                "total": 0,
+                "attempts": 0,
+                "percentage": null
+            },
+            "threepoint_goals": {
+                "total": 0,
+                "attempts": 0,
+                "percentage": null
+            },
+            "freethrows_goals": {
+                "total": 4,
+                "attempts": 5,
+                "percentage": null
+            },
+            "rebounds": {
+                "total": 8
+            },
+            "assists": 2,
+            "points": 14
+        },
+        {
+            "game": {
+                "id": 425068
+            },
+            "team": {
+                "id": 139
+            },
+            "player": {
+                "id": 629,
+                "name": "Murray Jamal"
+            },
+            "type": "starters",
+            "minutes": "15:15",
+            "field_goals": {
+                "total": 0,
+                "attempts": 0,
+                "percentage": null
+            },
+            "threepoint_goals": {
+                "total": 1,
+                "attempts": 3,
+                "percentage": null
+            },
+            "freethrows_goals": {
+                "total": 0,
+                "attempts": 0,
+                "percentage": null
+            },
+            "rebounds": {
+                "total": 1
+            },
+            "assists": 2,
+            "points": 3
+        },
+        {
+            "game": {
+                "id": 425068
+            },
+            "team": {
+                "id": 139
+            },
+            "player": {
+                "id": 623,
+                "name": "Braun Christian"
+            },
+            "type": "starters",
+            "minutes": "13:01",
+            "field_goals": {
+                "total": 0,
+                "attempts": 0,
+                "percentage": null
+            },
+            "threepoint_goals": {
+                "total": 0,
+                "attempts": 1,
+                "percentage": null
+            },
+            "freethrows_goals": {
+                "total": 1,
+                "attempts": 2,
+                "percentage": null
+            },
+            "rebounds": {
+                "total": 5
+            },
+            "assists": 3,
+            "points": 5
+        },
+        {
+            "game": {
+                "id": 425068
+            },
+            "team": {
+                "id": 139
+            },
+            "player": {
+                "id": 675,
+                "name": "Saric Dario"
+            },
+            "type": "bench",
+            "minutes": "14:25",
+            "field_goals": {
+                "total": 0,
+                "attempts": 0,
+                "percentage": null
+            },
+            "threepoint_goals": {
+                "total": 0,
+                "attempts": 1,
+                "percentage": null
+            },
+            "freethrows_goals": {
+                "total": 1,
+                "attempts": 1,
+                "percentage": null
+            },
+            "rebounds": {
+                "total": 3
+            },
+            "assists": 1,
+            "points": 5
+        },
+        {
+            "game": {
+                "id": 425068
+            },
+            "team": {
+                "id": 139
+            },
+            "player": {
+                "id": 634,
+                "name": "Nnaji Zeke"
+            },
+            "type": "bench",
+            "minutes": "12:00",
+            "field_goals": {
+                "total": 0,
+                "attempts": 0,
+                "percentage": null
+            },
+            "threepoint_goals": {
+                "total": 1,
+                "attempts": 2,
+                "percentage": null
+            },
+            "freethrows_goals": {
+                "total": 1,
+                "attempts": 2,
+                "percentage": null
+            },
+            "rebounds": {
+                "total": 6
+            },
+            "assists": 0,
+            "points": 10
+        },
+        {
+            "game": {
+                "id": 425068
+            },
+            "team": {
+                "id": 139
+            },
+            "player": {
+                "id": 637,
+                "name": "Tyson Hunter"
+            },
+            "type": "bench",
+            "minutes": "18:27",
+            "field_goals": {
+                "total": 0,
+                "attempts": 0,
+                "percentage": null
+            },
+            "threepoint_goals": {
+                "total": 2,
+                "attempts": 3,
+                "percentage": null
+            },
+            "freethrows_goals": {
+                "total": 0,
+                "attempts": 0,
+                "percentage": null
+            },
+            "rebounds": {
+                "total": 3
+            },
+            "assists": 1,
+            "points": 6
+        },
+        {
+            "game": {
+                "id": 425068
+            },
+            "team": {
+                "id": 139
+            },
+            "player": {
+                "id": 51441,
+                "name": "G. McGlothan"
+            },
+            "type": "bench",
+            "minutes": "0:03",
+            "field_goals": {
+                "total": 0,
+                "attempts": 0,
+                "percentage": null
+            },
+            "threepoint_goals": {
+                "total": 0,
+                "attempts": 0,
+                "percentage": null
+            },
+            "freethrows_goals": {
+                "total": 0,
+                "attempts": 0,
+                "percentage": null
+            },
+            "rebounds": {
+                "total": 0
+            },
+            "assists": 0,
+            "points": 0
+        },
+        {
+            "game": {
+                "id": 425068
+            },
+            "team": {
+                "id": 139
+            },
+            "player": {
+                "id": 51466,
+                "name": "S. Jones"
+            },
+            "type": "bench",
+            "minutes": "4:27",
+            "field_goals": {
+                "total": 0,
+                "attempts": 0,
+                "percentage": null
+            },
+            "threepoint_goals": {
+                "total": 0,
+                "attempts": 2,
+                "percentage": null
+            },
+            "freethrows_goals": {
+                "total": 0,
+                "attempts": 0,
+                "percentage": null
+            },
+            "rebounds": {
+                "total": 0
+            },
+            "assists": 0,
+            "points": 0
+        },
+        {
+            "game": {
+                "id": 425068
+            },
+            "team": {
+                "id": 139
+            },
+            "player": {
+                "id": 632,
+                "name": "Cancar Vlatko"
+            },
+            "type": "bench",
+            "minutes": "20:58",
+            "field_goals": {
+                "total": 0,
+                "attempts": 0,
+                "percentage": null
+            },
+            "threepoint_goals": {
+                "total": 1,
+                "attempts": 2,
+                "percentage": null
+            },
+            "freethrows_goals": {
+                "total": 1,
+                "attempts": 2,
+                "percentage": null
+            },
+            "rebounds": {
+                "total": 3
+            },
+            "assists": 1,
+            "points": 6
+        },
+        {
+            "game": {
+                "id": 425068
+            },
+            "team": {
+                "id": 139
+            },
+            "player": {
+                "id": 622,
+                "name": "Jordan DeAndre"
+            },
+            "type": "bench",
+            "minutes": "12:00",
+            "field_goals": {
+                "total": 0,
+                "attempts": 0,
+                "percentage": null
+            },
+            "threepoint_goals": {
+                "total": 0,
+                "attempts": 0,
+                "percentage": null
+            },
+            "freethrows_goals": {
+                "total": 0,
+                "attempts": 0,
+                "percentage": null
+            },
+            "rebounds": {
+                "total": 4
+            },
+            "assists": 1,
+            "points": 2
+        },
+        {
+            "game": {
+                "id": 425068
+            },
+            "team": {
+                "id": 139
+            },
+            "player": {
+                "id": 51439,
+                "name": "P. Hall"
+            },
+            "type": "bench",
+            "minutes": "3:28",
+            "field_goals": {
+                "total": 0,
+                "attempts": 0,
+                "percentage": null
+            },
+            "threepoint_goals": {
+                "total": 0,
+                "attempts": 0,
+                "percentage": null
+            },
+            "freethrows_goals": {
+                "total": 0,
+                "attempts": 0,
+                "percentage": null
+            },
+            "rebounds": {
+                "total": 0
+            },
+            "assists": 0,
+            "points": 0
+        },
+        {
+            "game": {
+                "id": 425068
+            },
+            "team": {
+                "id": 139
+            },
+            "player": {
+                "id": 728,
+                "name": "Westbrook Russell"
+            },
+            "type": "bench",
+            "minutes": "18:32",
+            "field_goals": {
+                "total": 0,
+                "attempts": 0,
+                "percentage": null
+            },
+            "threepoint_goals": {
+                "total": 3,
+                "attempts": 6,
+                "percentage": null
+            },
+            "freethrows_goals": {
+                "total": 3,
+                "attempts": 4,
+                "percentage": null
+            },
+            "rebounds": {
+                "total": 4
+            },
+            "assists": 8,
+            "points": 12
+        },
+        {
+            "game": {
+                "id": 425068
+            },
+            "team": {
+                "id": 139
+            },
+            "player": {
+                "id": 630,
+                "name": "Pickett Jalen"
+            },
+            "type": "bench",
+            "minutes": "15:04",
+            "field_goals": {
+                "total": 0,
+                "attempts": 0,
+                "percentage": null
+            },
+            "threepoint_goals": {
+                "total": 1,
+                "attempts": 2,
+                "percentage": null
+            },
+            "freethrows_goals": {
+                "total": 0,
+                "attempts": 0,
+                "percentage": null
+            },
+            "rebounds": {
+                "total": 1
+            },
+            "assists": 1,
+            "points": 3
+        },
+        {
+            "game": {
+                "id": 425068
+            },
+            "team": {
+                "id": 139
+            },
+            "player": {
+                "id": 636,
+                "name": "Strawther Julian Lee"
+            },
+            "type": "bench",
+            "minutes": "22:37",
+            "field_goals": {
+                "total": 0,
+                "attempts": 0,
+                "percentage": null
+            },
+            "threepoint_goals": {
+                "total": 1,
+                "attempts": 3,
+                "percentage": null
+            },
+            "freethrows_goals": {
+                "total": 2,
+                "attempts": 2,
+                "percentage": null
+            },
+            "rebounds": {
+                "total": 2
+            },
+            "assists": 2,
+            "points": 11
+        },
+        {
+            "game": {
+                "id": 425068
+            },
+            "team": {
+                "id": 139
+            },
+            "player": {
+                "id": 51491,
+                "name": "J. Young"
+            },
+            "type": "bench",
+            "minutes": "7:45",
+            "field_goals": {
+                "total": 0,
+                "attempts": 0,
+                "percentage": null
+            },
+            "threepoint_goals": {
+                "total": 0,
+                "attempts": 0,
+                "percentage": null
+            },
+            "freethrows_goals": {
+                "total": 2,
+                "attempts": 4,
+                "percentage": null
+            },
+            "rebounds": {
+                "total": 0
+            },
+            "assists": 2,
+            "points": 4
+        },
+        {
+            "game": {
+                "id": 425068
+            },
+            "team": {
+                "id": 139
+            },
+            "player": {
+                "id": 51436,
+                "name": "T. Alexander"
+            },
+            "type": "bench",
+            "minutes": "15:10",
+            "field_goals": {
+                "total": 0,
+                "attempts": 0,
+                "percentage": null
+            },
+            "threepoint_goals": {
+                "total": 0,
+                "attempts": 0,
+                "percentage": null
+            },
+            "freethrows_goals": {
+                "total": 1,
+                "attempts": 2,
+                "percentage": null
+            },
+            "rebounds": {
+                "total": 4
+            },
+            "assists": 2,
+            "points": 3
+        },
+        {
+            "game": {
+                "id": 425068
+            },
+            "team": {
+                "id": 133
+            },
+            "player": {
+                "id": 514,
+                "name": "Brown Jaylen"
+            },
+            "type": "starters",
+            "minutes": "19:04",
+            "field_goals": {
+                "total": 0,
+                "attempts": 0,
+                "percentage": null
+            },
+            "threepoint_goals": {
+                "total": 1,
+                "attempts": 5,
+                "percentage": null
+            },
+            "freethrows_goals": {
+                "total": 1,
+                "attempts": 2,
+                "percentage": null
+            },
+            "rebounds": {
+                "total": 2
+            },
+            "assists": 2,
+            "points": 8
+        },
+        {
+            "game": {
+                "id": 425068
+            },
+            "team": {
+                "id": 133
+            },
+            "player": {
+                "id": 526,
+                "name": "Tatum Jayson"
+            },
+            "type": "starters",
+            "minutes": "19:04",
+            "field_goals": {
+                "total": 0,
+                "attempts": 0,
+                "percentage": null
+            },
+            "threepoint_goals": {
+                "total": 3,
+                "attempts": 7,
+                "percentage": null
+            },
+            "freethrows_goals": {
+                "total": 1,
+                "attempts": 2,
+                "percentage": null
+            },
+            "rebounds": {
+                "total": 6
+            },
+            "assists": 5,
+            "points": 12
+        },
+        {
+            "game": {
+                "id": 425068
+            },
+            "team": {
+                "id": 133
+            },
+            "player": {
+                "id": 512,
+                "name": "Kornet Luke"
+            },
+            "type": "starters",
+            "minutes": "21:10",
+            "field_goals": {
+                "total": 0,
+                "attempts": 0,
+                "percentage": null
+            },
+            "threepoint_goals": {
+                "total": 0,
+                "attempts": 0,
+                "percentage": null
+            },
+            "freethrows_goals": {
+                "total": 0,
+                "attempts": 0,
+                "percentage": null
+            },
+            "rebounds": {
+                "total": 11
+            },
+            "assists": 3,
+            "points": 6
+        },
+        {
+            "game": {
+                "id": 425068
+            },
+            "team": {
+                "id": 133
+            },
+            "player": {
+                "id": 516,
+                "name": "Holiday Jrue"
+            },
+            "type": "starters",
+            "minutes": "12:00",
+            "field_goals": {
+                "total": 0,
+                "attempts": 0,
+                "percentage": null
+            },
+            "threepoint_goals": {
+                "total": 0,
+                "attempts": 4,
+                "percentage": null
+            },
+            "freethrows_goals": {
+                "total": 0,
+                "attempts": 0,
+                "percentage": null
+            },
+            "rebounds": {
+                "total": 1
+            },
+            "assists": 0,
+            "points": 4
+        },
+        {
+            "game": {
+                "id": 425068
+            },
+            "team": {
+                "id": 133
+            },
+            "player": {
+                "id": 520,
+                "name": "White Derrick"
+            },
+            "type": "starters",
+            "minutes": "19:04",
+            "field_goals": {
+                "total": 0,
+                "attempts": 0,
+                "percentage": null
+            },
+            "threepoint_goals": {
+                "total": 1,
+                "attempts": 4,
+                "percentage": null
+            },
+            "freethrows_goals": {
+                "total": 2,
+                "attempts": 2,
+                "percentage": null
+            },
+            "rebounds": {
+                "total": 1
+            },
+            "assists": 0,
+            "points": 9
+        },
+        {
+            "game": {
+                "id": 425068
+            },
+            "team": {
+                "id": 133
+            },
+            "player": {
+                "id": 527,
+                "name": "Tillman Xavier"
+            },
+            "type": "bench",
+            "minutes": "14:50",
+            "field_goals": {
+                "total": 0,
+                "attempts": 0,
+                "percentage": null
+            },
+            "threepoint_goals": {
+                "total": 2,
+                "attempts": 3,
+                "percentage": null
+            },
+            "freethrows_goals": {
+                "total": 0,
+                "attempts": 0,
+                "percentage": null
+            },
+            "rebounds": {
+                "total": 3
+            },
+            "assists": 1,
+            "points": 6
+        },
+        {
+            "game": {
+                "id": 425068
+            },
+            "team": {
+                "id": 133
+            },
+            "player": {
+                "id": 524,
+                "name": "Peterson Drew"
+            },
+            "type": "bench",
+            "minutes": "12:00",
+            "field_goals": {
+                "total": 0,
+                "attempts": 0,
+                "percentage": null
+            },
+            "threepoint_goals": {
+                "total": 2,
+                "attempts": 5,
+                "percentage": null
+            },
+            "freethrows_goals": {
+                "total": 0,
+                "attempts": 0,
+                "percentage": null
+            },
+            "rebounds": {
+                "total": 3
+            },
+            "assists": 0,
+            "points": 10
+        },
+        {
+            "game": {
+                "id": 425068
+            },
+            "team": {
+                "id": 133
+            },
+            "player": {
+                "id": 51452,
+                "name": "A. Watson"
+            },
+            "type": "bench",
+            "minutes": "4:16",
+            "field_goals": {
+                "total": 0,
+                "attempts": 0,
+                "percentage": null
+            },
+            "threepoint_goals": {
+                "total": 0,
+                "attempts": 0,
+                "percentage": null
+            },
+            "freethrows_goals": {
+                "total": 0,
+                "attempts": 0,
+                "percentage": null
+            },
+            "rebounds": {
+                "total": 0
+            },
+            "assists": 1,
+            "points": 0
+        },
+        {
+            "game": {
+                "id": 425068
+            },
+            "team": {
+                "id": 133
+            },
+            "player": {
+                "id": 51451,
+                "name": "B. Scheierman"
+            },
+            "type": "bench",
+            "minutes": "7:44",
+            "field_goals": {
+                "total": 0,
+                "attempts": 0,
+                "percentage": null
+            },
+            "threepoint_goals": {
+                "total": 0,
+                "attempts": 2,
+                "percentage": null
+            },
+            "freethrows_goals": {
+                "total": 0,
+                "attempts": 0,
+                "percentage": null
+            },
+            "rebounds": {
+                "total": 1
+            },
+            "assists": 1,
+            "points": 0
+        },
+        {
+            "game": {
+                "id": 425068
+            },
+            "team": {
+                "id": 133
+            },
+            "player": {
+                "id": 522,
+                "name": "Hauser Sam"
+            },
+            "type": "bench",
+            "minutes": "16:56",
+            "field_goals": {
+                "total": 0,
+                "attempts": 0,
+                "percentage": null
+            },
+            "threepoint_goals": {
+                "total": 2,
+                "attempts": 8,
+                "percentage": null
+            },
+            "freethrows_goals": {
+                "total": 1,
+                "attempts": 1,
+                "percentage": null
+            },
+            "rebounds": {
+                "total": 1
+            },
+            "assists": 3,
+            "points": 7
+        },
+        {
+            "game": {
+                "id": 425068
+            },
+            "team": {
+                "id": 133
+            },
+            "player": {
+                "id": 513,
+                "name": "Queta Neemias"
+            },
+            "type": "bench",
+            "minutes": "12:55",
+            "field_goals": {
+                "total": 0,
+                "attempts": 0,
+                "percentage": null
+            },
+            "threepoint_goals": {
+                "total": 0,
+                "attempts": 0,
+                "percentage": null
+            },
+            "freethrows_goals": {
+                "total": 0,
+                "attempts": 0,
+                "percentage": null
+            },
+            "rebounds": {
+                "total": 3
+            },
+            "assists": 0,
+            "points": 6
+        },
+        {
+            "game": {
+                "id": 425068
+            },
+            "team": {
+                "id": 133
+            },
+            "player": {
+                "id": 854,
+                "name": "Skapintsev Dmytro"
+            },
+            "type": "bench",
+            "minutes": "4:10",
+            "field_goals": {
+                "total": 0,
+                "attempts": 0,
+                "percentage": null
+            },
+            "threepoint_goals": {
+                "total": 0,
+                "attempts": 0,
+                "percentage": null
+            },
+            "freethrows_goals": {
+                "total": 0,
+                "attempts": 0,
+                "percentage": null
+            },
+            "rebounds": {
+                "total": 0
+            },
+            "assists": 0,
+            "points": 2
+        },
+        {
+            "game": {
+                "id": 425068
+            },
+            "team": {
+                "id": 133
+            },
+            "player": {
+                "id": 517,
+                "name": "Pritchard Payton"
+            },
+            "type": "bench",
+            "minutes": "24:00",
+            "field_goals": {
+                "total": 0,
+                "attempts": 0,
+                "percentage": null
+            },
+            "threepoint_goals": {
+                "total": 6,
+                "attempts": 12,
+                "percentage": null
+            },
+            "freethrows_goals": {
+                "total": 3,
+                "attempts": 4,
+                "percentage": null
+            },
+            "rebounds": {
+                "total": 4
+            },
+            "assists": 6,
+            "points": 21
+        },
+        {
+            "game": {
+                "id": 425068
+            },
+            "team": {
+                "id": 133
+            },
+            "player": {
+                "id": 515,
+                "name": "Davison JD"
+            },
+            "type": "bench",
+            "minutes": "12:00",
+            "field_goals": {
+                "total": 0,
+                "attempts": 0,
+                "percentage": null
+            },
+            "threepoint_goals": {
+                "total": 1,
+                "attempts": 3,
+                "percentage": null
+            },
+            "freethrows_goals": {
+                "total": 4,
+                "attempts": 4,
+                "percentage": null
+            },
+            "rebounds": {
+                "total": 2
+            },
+            "assists": 1,
+            "points": 7
+        },
+        {
+            "game": {
+                "id": 425068
+            },
+            "team": {
+                "id": 133
+            },
+            "player": {
+                "id": 535,
+                "name": "Walker Lonnie"
+            },
+            "type": "bench",
+            "minutes": "4:16",
+            "field_goals": {
+                "total": 0,
+                "attempts": 0,
+                "percentage": null
+            },
+            "threepoint_goals": {
+                "total": 0,
+                "attempts": 1,
+                "percentage": null
+            },
+            "freethrows_goals": {
+                "total": 0,
+                "attempts": 0,
+                "percentage": null
+            },
+            "rebounds": {
+                "total": 0
+            },
+            "assists": 1,
+            "points": 0
+        },
+        {
+            "game": {
+                "id": 425068
+            },
+            "team": {
+                "id": 133
+            },
+            "player": {
+                "id": 15267,
+                "name": "R. Harper"
+            },
+            "type": "bench",
+            "minutes": "0:06",
+            "field_goals": {
+                "total": 0,
+                "attempts": 0,
+                "percentage": null
+            },
+            "threepoint_goals": {
+                "total": 0,
+                "attempts": 0,
+                "percentage": null
+            },
+            "freethrows_goals": {
+                "total": 0,
+                "attempts": 0,
+                "percentage": null
+            },
+            "rebounds": {
+                "total": 0
+            },
+            "assists": 0,
+            "points": 0
+        },
+        {
+            "game": {
+                "id": 425068
+            },
+            "team": {
+                "id": 133
+            },
+            "player": {
+                "id": 518,
+                "name": "Springer Jaden"
+            },
+            "type": "bench",
+            "minutes": "11:45",
+            "field_goals": {
+                "total": 0,
+                "attempts": 0,
+                "percentage": null
+            },
+            "threepoint_goals": {
+                "total": 0,
+                "attempts": 1,
+                "percentage": null
+            },
+            "freethrows_goals": {
+                "total": 0,
+                "attempts": 0,
+                "percentage": null
+            },
+            "rebounds": {
+                "total": 2
+            },
+            "assists": 1,
+            "points": 0
+        },
+        {
+            "game": {
+                "id": 425068
+            },
+            "team": {
+                "id": 133
+            },
+            "player": {
+                "id": 519,
+                "name": "Walsh Jordan"
+            },
+            "type": "bench",
+            "minutes": "24:40",
+            "field_goals": {
+                "total": 0,
+                "attempts": 0,
+                "percentage": null
+            },
+            "threepoint_goals": {
+                "total": 2,
+                "attempts": 6,
+                "percentage": null
+            },
+            "freethrows_goals": {
+                "total": 1,
+                "attempts": 2,
+                "percentage": null
+            },
+            "rebounds": {
+                "total": 4
+            },
+            "assists": 4,
+            "points": 9
+        }
+    ]
+}

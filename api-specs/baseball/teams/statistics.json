@@ -1,0 +1,91 @@
+{
+    "get": "teams",
+    "parameters": {
+        "league": "1",
+        "season": "2024",
+        "team": "2"
+    },
+    "errors": [],
+    "results": 5,
+    "response": {
+        "country": {
+            "id": 1,
+            "name": "USA",
+            "code": "US",
+            "flag": "https://media.api-sports.io/flags/us.svg"
+        },
+        "league": {
+            "id": 1,
+            "name": "MLB",
+            "type": "League",
+            "logo": "https://media.api-sports.io/baseball/leagues/1.png",
+            "season": 2024
+        },
+        "team": {
+            "id": 2,
+            "name": "Arizona Diamondbacks",
+            "logo": "https://media.api-sports.io/baseball/teams/2.png"
+        },
+        "games": {
+            "played": {
+                "home": 99,
+                "away": 96,
+                "all": 195
+            },
+            "wins": {
+                "home": {
+                    "total": 53,
+                    "percentage": "0.535"
+                },
+                "away": {
+                    "total": 51,
+                    "percentage": "0.531"
+                },
+                "all": {
+                    "total": 104,
+                    "percentage": "0.533"
+                }
+            },
+            "loses": {
+                "home": {
+                    "total": 44,
+                    "percentage": "0.444"
+                },
+                "away": {
+                    "total": 44,
+                    "percentage": "0.458"
+                },
+                "all": {
+                    "total": 88,
+                    "percentage": "0.451"
+                }
+            }
+        },
+        "points": {
+            "for": {
+                "total": {
+                    "home": 529,
+                    "away": 502,
+                    "all": 1031
+                },
+                "average": {
+                    "home": "5.3",
+                    "away": "5.2",
+                    "all": "5.3"
+                }
+            },
+            "against": {
+                "total": {
+                    "home": 482,
+                    "away": 466,
+                    "all": 948
+                },
+                "average": {
+                    "home": "4.9",
+                    "away": "4.9",
+                    "all": "4.9"
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "get": "standings",
+    "parameters": {
+        "league": "1",
+        "season": "2024"
+    },
+    "errors": [],
+    "results": 9,
+    "response": [
+        "American League",
+        "American League Central",
+        "American League East",
+        "American League West",
+        "MLB",
+        "National League",
+        "National League Central",
+        "National League East",
+        "National League West"
+    ]
+}
