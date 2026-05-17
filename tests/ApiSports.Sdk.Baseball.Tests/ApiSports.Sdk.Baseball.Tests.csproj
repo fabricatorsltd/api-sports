@@ -1,0 +1,84 @@
+<Project Sdk="Microsoft.NET.Sdk">
+    <PropertyGroup>
+        <TargetFramework>net10.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <IsPackable>false</IsPackable>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="Microsoft.NET.Test.Sdk" Version="17.12.0" />
+        <PackageReference Include="xunit" Version="2.6.6" />
+        <PackageReference Include="xunit.runner.visualstudio" Version="2.5.6" />
+        <PackageReference Include="xunit.skippablefact" Version="1.4.13" />
+    </ItemGroup>
+
+    <ItemGroup>
+        <ProjectReference Include="..\..\src\ApiSports.Sdk.Abstractions\ApiSports.Sdk.Abstractions.csproj" />
+        <ProjectReference Include="..\..\src\ApiSports.Sdk.Core\ApiSports.Sdk.Core.csproj" />
+        <ProjectReference Include="..\..\src\ApiSports.Sdk.Baseball\ApiSports.Sdk.Baseball.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+        <Content Include="..\..\api-specs\baseball\status.json">
+            <Link>samples\status.json</Link>
+            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        </Content>
+        <Content Include="..\..\api-specs\baseball\timezone.json">
+            <Link>samples\timezone.json</Link>
+            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        </Content>
+        <Content Include="..\..\api-specs\baseball\seasons.json">
+            <Link>samples\seasons.json</Link>
+            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        </Content>
+        <Content Include="..\..\api-specs\baseball\countries.json">
+            <Link>samples\countries.json</Link>
+            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        </Content>
+        <Content Include="..\..\api-specs\baseball\leagues.json">
+            <Link>samples\leagues.json</Link>
+            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        </Content>
+        <Content Include="..\..\api-specs\baseball\teams\teams.json">
+            <Link>samples\teams\teams.json</Link>
+            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        </Content>
+        <Content Include="..\..\api-specs\baseball\teams\statistics.json">
+            <Link>samples\teams\statistics.json</Link>
+            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        </Content>
+        <Content Include="..\..\api-specs\baseball\standings\standings.json">
+            <Link>samples\standings\standings.json</Link>
+            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        </Content>
+        <Content Include="..\..\api-specs\baseball\standings\stages.json">
+            <Link>samples\standings\stages.json</Link>
+            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        </Content>
+        <Content Include="..\..\api-specs\baseball\standings\groups.json">
+            <Link>samples\standings\groups.json</Link>
+            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        </Content>
+        <Content Include="..\..\api-specs\baseball\games\games.json">
+            <Link>samples\games\games.json</Link>
+            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        </Content>
+        <Content Include="..\..\api-specs\baseball\games\h2h.json">
+            <Link>samples\games\h2h.json</Link>
+            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        </Content>
+        <Content Include="..\..\api-specs\baseball\odds\odds.json">
+            <Link>samples\odds\odds.json</Link>
+            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        </Content>
+        <Content Include="..\..\api-specs\baseball\odds\bets.json">
+            <Link>samples\odds\bets.json</Link>
+            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        </Content>
+        <Content Include="..\..\api-specs\baseball\odds\bookmakers.json">
+            <Link>samples\odds\bookmakers.json</Link>
+            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        </Content>
+    </ItemGroup>
+</Project>
