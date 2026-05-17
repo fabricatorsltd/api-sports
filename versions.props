@@ -8,6 +8,7 @@
     <ApiSportsSdkFootballVersion>1.0.4</ApiSportsSdkFootballVersion>
     <ApiSportsSdkFormula1Version>1.0.3</ApiSportsSdkFormula1Version>
     <ApiSportsSdkHandballVersion>0.1.0</ApiSportsSdkHandballVersion>
+    <ApiSportsSdkHockeyVersion>0.1.0</ApiSportsSdkHockeyVersion>
     <ApiSportsSdkLoggingMicrosoftVersion>1.0.0</ApiSportsSdkLoggingMicrosoftVersion>
   </PropertyGroup>
 </Project>
