@@ -1,19 +1,19 @@
 <Project>
   <PropertyGroup>
-    <ApiSportsSdkAbstractionsVersion>1.0.4</ApiSportsSdkAbstractionsVersion>
-    <ApiSportsSdkCoreVersion>1.0.4</ApiSportsSdkCoreVersion>
-    <ApiSportsSdkAflVersion>0.1.0</ApiSportsSdkAflVersion>
-    <ApiSportsSdkBaseballVersion>0.1.0</ApiSportsSdkBaseballVersion>
-    <ApiSportsSdkBasketballVersion>0.1.0</ApiSportsSdkBasketballVersion>
+    <ApiSportsSdkAbstractionsVersion>1.0.5</ApiSportsSdkAbstractionsVersion>
+    <ApiSportsSdkCoreVersion>1.0.5</ApiSportsSdkCoreVersion>
+    <ApiSportsSdkAflVersion>1.0.0</ApiSportsSdkAflVersion>
+    <ApiSportsSdkBaseballVersion>1.0.0</ApiSportsSdkBaseballVersion>
+    <ApiSportsSdkBasketballVersion>1.0.0</ApiSportsSdkBasketballVersion>
     <ApiSportsSdkFootballVersion>1.0.4</ApiSportsSdkFootballVersion>
     <ApiSportsSdkFormula1Version>1.0.3</ApiSportsSdkFormula1Version>
-    <ApiSportsSdkHandballVersion>0.1.0</ApiSportsSdkHandballVersion>
-    <ApiSportsSdkHockeyVersion>0.1.0</ApiSportsSdkHockeyVersion>
-    <ApiSportsSdkMmaVersion>0.1.0</ApiSportsSdkMmaVersion>
-    <ApiSportsSdkNbaVersion>0.1.0</ApiSportsSdkNbaVersion>
-    <ApiSportsSdkNflVersion>0.1.0</ApiSportsSdkNflVersion>
-    <ApiSportsSdkRugbyVersion>0.1.0</ApiSportsSdkRugbyVersion>
-    <ApiSportsSdkVolleyballVersion>0.1.0</ApiSportsSdkVolleyballVersion>
+    <ApiSportsSdkHandballVersion>1.0.0</ApiSportsSdkHandballVersion>
+    <ApiSportsSdkHockeyVersion>1.0.0</ApiSportsSdkHockeyVersion>
+    <ApiSportsSdkMmaVersion>1.0.0</ApiSportsSdkMmaVersion>
+    <ApiSportsSdkNbaVersion>1.0.0</ApiSportsSdkNbaVersion>
+    <ApiSportsSdkNflVersion>1.0.0</ApiSportsSdkNflVersion>
+    <ApiSportsSdkRugbyVersion>1.0.0</ApiSportsSdkRugbyVersion>
+    <ApiSportsSdkVolleyballVersion>1.0.0</ApiSportsSdkVolleyballVersion>
     <ApiSportsSdkLoggingMicrosoftVersion>1.0.0</ApiSportsSdkLoggingMicrosoftVersion>
   </PropertyGroup>
 </Project>
