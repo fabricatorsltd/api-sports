@@ -13,6 +13,7 @@
     <ApiSportsSdkNbaVersion>0.1.0</ApiSportsSdkNbaVersion>
     <ApiSportsSdkNflVersion>0.1.0</ApiSportsSdkNflVersion>
     <ApiSportsSdkRugbyVersion>0.1.0</ApiSportsSdkRugbyVersion>
+    <ApiSportsSdkVolleyballVersion>0.1.0</ApiSportsSdkVolleyballVersion>
     <ApiSportsSdkLoggingMicrosoftVersion>1.0.0</ApiSportsSdkLoggingMicrosoftVersion>
   </PropertyGroup>
 </Project>
