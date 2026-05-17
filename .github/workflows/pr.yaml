@@ -40,4 +40,5 @@ jobs:
           dotnet pack src/ApiSports.Sdk.Mma/ApiSports.Sdk.Mma.csproj -c Release --no-build -o artifacts
           dotnet pack src/ApiSports.Sdk.Nba/ApiSports.Sdk.Nba.csproj -c Release --no-build -o artifacts
           dotnet pack src/ApiSports.Sdk.Nfl/ApiSports.Sdk.Nfl.csproj -c Release --no-build -o artifacts
+          dotnet pack src/ApiSports.Sdk.Rugby/ApiSports.Sdk.Rugby.csproj -c Release --no-build -o artifacts
           dotnet pack src/ApiSports.Sdk.Logging.Microsoft/ApiSports.Sdk.Logging.Microsoft.csproj -c Release --no-build -o artifacts
