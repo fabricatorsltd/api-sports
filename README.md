@@ -48,6 +48,14 @@
     </td>
   </tr>
   <tr>
+    <td style="vertical-align: middle;">ApiSports.Sdk.Baseball</td>
+    <td>
+      <a href="https://www.nuget.org/packages/ApiSports.Sdk.Baseball">
+        <img src="https://img.shields.io/nuget/v/ApiSports.Sdk.Baseball?label=%20&logo=nuget&style=flat-square" />
+      </a>
+    </td>
+  </tr>
+  <tr>
     <td style="vertical-align: middle;">ApiSports.Sdk.Basketball</td>
     <td>
       <a href="https://www.nuget.org/packages/ApiSports.Sdk.Basketball">
@@ -530,22 +538,6 @@ Behavior is explicit and predictable.
 ---
 
 ## Roadmap
-
-The project evolves in **small, controlled steps**.
-
-Current focus:
-
-* completing Football API coverage
-* keeping the public API stable
-* validating the architecture in real-world usage
-
-Planned next steps:
-
-* add a second sport module
-* improve documentation and examples
-* evaluate optional performance benchmarks
-
-The roadmap is **directional, not contractual**.
 
 - [x] ⚽ API Football
 - [x] 🏎 API Formula 1
