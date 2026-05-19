@@ -40,6 +40,86 @@
     </td>
   </tr>
   <tr>
+    <td style="vertical-align: middle;">ApiSports.Sdk.Afl</td>
+    <td>
+      <a href="https://www.nuget.org/packages/ApiSports.Sdk.Afl">
+        <img src="https://img.shields.io/nuget/v/ApiSports.Sdk.Afl?label=%20&logo=nuget&style=flat-square" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td style="vertical-align: middle;">ApiSports.Sdk.Basketball</td>
+    <td>
+      <a href="https://www.nuget.org/packages/ApiSports.Sdk.Basketball">
+        <img src="https://img.shields.io/nuget/v/ApiSports.Sdk.Basketball?label=%20&logo=nuget&style=flat-square" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td style="vertical-align: middle;">ApiSports.Sdk.Handball</td>
+    <td>
+      <a href="https://www.nuget.org/packages/ApiSports.Sdk.Handball">
+        <img src="https://img.shields.io/nuget/v/ApiSports.Sdk.Handball?label=%20&logo=nuget&style=flat-square" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td style="vertical-align: middle;">ApiSports.Sdk.Hockey</td>
+    <td>
+      <a href="https://www.nuget.org/packages/ApiSports.Sdk.Hockey">
+        <img src="https://img.shields.io/nuget/v/ApiSports.Sdk.Hockey?label=%20&logo=nuget&style=flat-square" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td style="vertical-align: middle;">ApiSports.Sdk.Mma</td>
+    <td>
+      <a href="https://www.nuget.org/packages/ApiSports.Sdk.Mma">
+        <img src="https://img.shields.io/nuget/v/ApiSports.Sdk.Mma?label=%20&logo=nuget&style=flat-square" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td style="vertical-align: middle;">ApiSports.Sdk.Nba</td>
+    <td>
+      <a href="https://www.nuget.org/packages/ApiSports.Sdk.Nba">
+        <img src="https://img.shields.io/nuget/v/ApiSports.Sdk.Nba?label=%20&logo=nuget&style=flat-square" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td style="vertical-align: middle;">ApiSports.Sdk.Nba</td>
+    <td>
+      <a href="https://www.nuget.org/packages/ApiSports.Sdk.Nba">
+        <img src="https://img.shields.io/nuget/v/ApiSports.Sdk.Nba?label=%20&logo=nuget&style=flat-square" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td style="vertical-align: middle;">ApiSports.Sdk.Nfl</td>
+    <td>
+      <a href="https://www.nuget.org/packages/ApiSports.Sdk.Nfl">
+        <img src="https://img.shields.io/nuget/v/ApiSports.Sdk.Nfl?label=%20&logo=nuget&style=flat-square" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td style="vertical-align: middle;">ApiSports.Sdk.Rugby</td>
+    <td>
+      <a href="https://www.nuget.org/packages/ApiSports.Sdk.Rugby">
+        <img src="https://img.shields.io/nuget/v/ApiSports.Sdk.Rugby?label=%20&logo=nuget&style=flat-square" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td style="vertical-align: middle;">ApiSports.Sdk.Volleyball</td>
+    <td>
+      <a href="https://www.nuget.org/packages/ApiSports.Sdk.Volleyball">
+        <img src="https://img.shields.io/nuget/v/ApiSports.Sdk.Volleyball?label=%20&logo=nuget&style=flat-square" />
+      </a>
+    </td>
+  </tr>
+  <tr>
     <td style="vertical-align: middle;">ApiSports.Sdk.Logging.Microsoft</td>
     <td>
       <a href="https://www.nuget.org/packages/ApiSports.Sdk.Logging.Microsoft">
