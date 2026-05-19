@@ -549,15 +549,15 @@ The roadmap is **directional, not contractual**.
 
 - [x] ⚽ API Football
 - [x] 🏎 API Formula 1
-- [ ] 🏀 API Basketball
-- [ ] 🏀 API NBA
-- [ ] ⚾ API Baseball
-- [ ] 🏐️ API Volleyball
-- [ ] 🤾‍♂️ API Handball
-- [ ] 🏒 API Hockey
-- [ ] 🏉 API Rugby
-- [ ] 🏈 API Football (NFL)
-- [ ] 🥋 API MMA
+- [x] 🏀 API Basketball
+- [x] 🏀 API NBA
+- [x] ⚾ API Baseball
+- [x] 🏐️ API Volleyball
+- [x] 🤾‍♂️ API Handball
+- [x] 🏒 API Hockey
+- [x] 🏉 API Rugby
+- [x] 🏈 API Football (NFL)
+- [x] 🥋 API MMA
 
 ---
 
