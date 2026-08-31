@@ -1,0 +1,20 @@
+<Project>
+    <Target Name="CopyXunitVisualStudioAdapter"
+            BeforeTargets="VSTest"
+            AfterTargets="Build">
+        <ItemGroup>
+            <_XunitVisualStudioAdapterPackage Include="@(PackageReference)"
+                                               Condition="'%(Identity)' == 'xunit.runner.visualstudio'" />
+        </ItemGroup>
+
+        <PropertyGroup>
+            <XunitVisualStudioAdapterPath>$(NuGetPackageRoot)xunit.runner.visualstudio/%(_XunitVisualStudioAdapterPackage.Version)/build/net8.0/xunit.runner.visualstudio.testadapter.dll</XunitVisualStudioAdapterPath>
+        </PropertyGroup>
+
+        <Error Condition="!Exists('$(XunitVisualStudioAdapterPath)')"
+               Text="The xUnit VSTest adapter was not restored at $(XunitVisualStudioAdapterPath)." />
+        <Copy SourceFiles="$(XunitVisualStudioAdapterPath)"
+              DestinationFolder="$(TargetDir)"
+              SkipUnchangedFiles="true" />
+    </Target>
+</Project>

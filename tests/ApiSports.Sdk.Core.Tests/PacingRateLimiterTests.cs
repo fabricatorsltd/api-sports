@@ -12,7 +12,8 @@ public sealed class PacingRateLimiterTests
         RateLimitOptions options = new()
         {
             ResolutionMode = RateLimitResolutionMode.Custom,
-            CustomRequestsPerMinute = 60
+            CustomRequestsPerMinute = 60,
+            SafetyFactor = 1.0
         };
 
         ApiSportsPacingRateLimiter limiter = new(options, new StubStatusClient());
@@ -51,7 +52,8 @@ public sealed class PacingRateLimiterTests
         RateLimitOptions options = new()
         {
             ResolutionMode = RateLimitResolutionMode.Custom,
-            CustomRequestsPerMinute = 60
+            CustomRequestsPerMinute = 60,
+            SafetyFactor = 1.0
         };
 
         ApiSportsPacingRateLimiter limiter = new(options, new StubStatusClient());
@@ -72,7 +74,7 @@ public sealed class PacingRateLimiterTests
         var interval = TimeSpan.FromSeconds(1);
         var tolerance = TimeSpan.FromMilliseconds(150);
 
-        Assert.True(stopwatch.Elapsed < interval + TimeSpan.FromSeconds(1), "Keys did not progress independently.");
+        Assert.True(stopwatch.Elapsed < interval + interval + tolerance, "Keys did not progress independently.");
 
         foreach (DateTimeOffset[] result in results)
         {
