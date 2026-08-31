@@ -6,11 +6,14 @@ namespace ApiSports.Sdk.Football.Models
     {
         [JsonPropertyName("long")]
         public string? Long { get; set; }
-        
+
         [JsonPropertyName("short")]
         public string? Short { get; set; }
-        
+
         [JsonPropertyName("elapsed")]
         public ushort? Elapsed { get; set; }
+
+        [JsonPropertyName("extra")]
+        public ushort? Extra { get; set; }
     }
 }

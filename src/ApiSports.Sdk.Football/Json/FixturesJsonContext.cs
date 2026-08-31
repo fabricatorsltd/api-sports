@@ -9,6 +9,7 @@ namespace ApiSports.Sdk.Football.Json;
     GenerationMode = JsonSourceGenerationMode.Default)]
 [JsonSerializable(typeof(ApiResponse<FixtureResponse[]>))]
 [JsonSerializable(typeof(ApiResponse<string[]>))]
+[JsonSerializable(typeof(ApiResponse<FixtureRound[]>))]
 [JsonSerializable(typeof(ApiResponse<HeadToHead[]>))]
 [JsonSerializable(typeof(ApiResponse<FixtureStatisticsResponse[]>))]
 [JsonSerializable(typeof(ApiResponse<FixtureEvent[]>))]

@@ -255,6 +255,9 @@ Currently supported:
 
 * **Football** (ApiSports Football v3)
 
+Provider contract baselines and changelog coverage are recorded in
+[the provider compatibility matrix](docs/provider-compatibility.md).
+
 The public API already reflects a multi-sport design:
 
 ```csharp

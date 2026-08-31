@@ -15,6 +15,7 @@ namespace ApiSports.Sdk.Football.Tests.Serialization;
 [JsonSerializable(typeof(ApiResponse<Country[]>))]
 [JsonSerializable(typeof(ApiResponse<FixtureResponse[]>))]
 [JsonSerializable(typeof(ApiResponse<string[]>))]
+[JsonSerializable(typeof(ApiResponse<FixtureRound[]>))]
 [JsonSerializable(typeof(ApiResponse<HeadToHead[]>))]
 [JsonSerializable(typeof(ApiResponse<FixtureStatisticsResponse[]>))]
 [JsonSerializable(typeof(ApiResponse<FixtureEvent[]>))]

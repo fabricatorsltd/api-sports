@@ -37,6 +37,60 @@ public sealed class FootballSampleResponseTests
         Assert.Equal("LAZ", parsed?.Response?.FirstOrDefault()?.Team.Code);
     }
 
+    [Fact]
+    public void FixtureExtraAndStandingsAreDeserializedFromTheOfficialSample()
+    {
+        (bool found, string? json) = SampleJsonLoader.TryLoadFootballSample("fixtures/fixtures.json");
+        Assert.True(found, "Missing concrete sample json for /fixtures.");
+
+        ApiResponse<FixtureResponse[]>? parsed = JsonSerializer.Deserialize(
+            json ?? string.Empty,
+            FootballJsonContext.Default.ApiResponseFixtureResponseArray);
+
+        FixtureResponse fixture = Assert.IsType<FixtureResponse>(parsed?.Response?.FirstOrDefault());
+        Assert.Equal((ushort)1, fixture.Fixture.Status?.Extra);
+        Assert.True(fixture.League.Standings);
+    }
+
+    [Fact]
+    public void DatedRoundsAreDeserializedFromTheOfficialExample()
+    {
+        (bool found, string? json) = SampleJsonLoader.TryLoadFootballSample("fixtures/rounds-with-dates.json");
+        Assert.True(found, "Missing concrete sample json for /fixtures/rounds?dates=true.");
+
+        ApiResponse<FixtureRound[]>? parsed = JsonSerializer.Deserialize(
+            json ?? string.Empty,
+            FootballJsonContext.Default.ApiResponseFixtureRoundArray);
+
+        FixtureRound first = Assert.IsType<FixtureRound>(parsed?.Response?.FirstOrDefault());
+        Assert.Equal("Regular Season - 1", first.Round);
+        Assert.Equal(new DateOnly(2024, 8, 16), first.Dates[0]);
+    }
+
+    [Fact]
+    public void ApiFootball393EndpointAndStatisticsAdditionsAreDeserialized()
+    {
+        (bool profileFound, string? profileJson) = SampleJsonLoader.TryLoadFootballSample("players/profiles.json");
+        (bool teamsFound, string? teamsJson) = SampleJsonLoader.TryLoadFootballSample("players/teams.json");
+        (bool statisticsFound, string? statisticsJson) = SampleJsonLoader.TryLoadFootballSample("teams/statistics.json");
+        Assert.True(profileFound && teamsFound && statisticsFound, "Missing API-Football 3.9.3 response examples.");
+
+        ApiResponse<PlayerProfileResponse[]>? profiles = JsonSerializer.Deserialize(
+            profileJson ?? string.Empty,
+            FootballJsonContext.Default.ApiResponsePlayerProfileResponseArray);
+        ApiResponse<PlayerTeamResponse[]>? teams = JsonSerializer.Deserialize(
+            teamsJson ?? string.Empty,
+            FootballJsonContext.Default.ApiResponsePlayerTeamResponseArray);
+        ApiResponse<TeamStatisticsResponse>? statistics = JsonSerializer.Deserialize(
+            statisticsJson ?? string.Empty,
+            FootballJsonContext.Default.ApiResponseTeamStatisticsResponse);
+
+        Assert.Equal((uint)276, profiles?.Response?.FirstOrDefault()?.Player.Id);
+        Assert.Contains(2018, teams?.Response?.FirstOrDefault()?.Seasons ?? []);
+        Assert.Equal(12, statistics?.Response?.Goals.For.UnderOver["0.5"].Over);
+        Assert.Equal(6, statistics?.Response?.Goals.For.UnderOver["0.5"].Under);
+    }
+
     private static IEnumerable<ISampleEndpoint> BuildSampleEndpoints()
     {
         FootballJsonContext context = FootballJsonContext.Default;
@@ -46,6 +100,7 @@ public sealed class FootballSampleResponseTests
             new SampleEndpoint<Status>(GetDefinition(typeof(StatusClient), nameof(StatusClient.GetAsync)), context.ApiResponseStatus),
             new SampleEndpoint<FixtureResponse[]>(GetDefinition(typeof(FixturesClient), nameof(FixturesClient.GetAsync)), context.ApiResponseFixtureResponseArray),
             new SampleEndpoint<string[]>(GetDefinition(typeof(FixturesClient), nameof(FixturesClient.GetRoundsAsync)), context.ApiResponseStringArray),
+            new SampleEndpoint<FixtureRound[]>(GetDefinition(typeof(FixturesClient), nameof(FixturesClient.GetRoundsWithDatesAsync)), context.ApiResponseFixtureRoundArray),
             new SampleEndpoint<HeadToHead[]>(GetDefinition(typeof(FixturesClient), nameof(FixturesClient.GetHeadToHeadAsync)), context.ApiResponseHeadToHeadArray),
             new SampleEndpoint<FixtureStatisticsResponse[]>(GetDefinition(typeof(FixturesClient), nameof(FixturesClient.GetStatisticsAsync)), context.ApiResponseFixtureStatisticsResponseArray),
             new SampleEndpoint<FixtureEvent[]>(GetDefinition(typeof(FixturesClient), nameof(FixturesClient.GetEventsAsync)), context.ApiResponseFixtureEventArray),
@@ -88,8 +143,8 @@ public sealed class FootballSampleResponseTests
     private static EndpointDefinition GetDefinition(Type clientType, string methodName)
     {
         MethodKey key = new(clientType, methodName);
-        return !FootballEndpointCatalog.EndpointByMethod.TryGetValue(key, out EndpointDefinition? definition) ? 
-            throw new InvalidOperationException($"Missing endpoint definition for {clientType.Name}.{methodName}.") : 
+        return !FootballEndpointCatalog.EndpointByMethod.TryGetValue(key, out EndpointDefinition? definition) ?
+            throw new InvalidOperationException($"Missing endpoint definition for {clientType.Name}.{methodName}.") :
             definition;
     }
 

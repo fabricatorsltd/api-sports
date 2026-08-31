@@ -1,0 +1,32 @@
+{
+  "get": "fixtures/rounds",
+  "parameters": {
+    "league": "39",
+    "season": "2024",
+    "dates": "true"
+  },
+  "errors": [],
+  "results": 2,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "round": "Regular Season - 1",
+      "dates": [
+        "2024-08-16",
+        "2024-08-17",
+        "2024-08-18",
+        "2024-08-19"
+      ]
+    },
+    {
+      "round": "Regular Season - 2",
+      "dates": [
+        "2024-08-24",
+        "2024-08-25"
+      ]
+    }
+  ]
+}

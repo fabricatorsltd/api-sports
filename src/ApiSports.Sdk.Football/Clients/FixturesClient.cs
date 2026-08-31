@@ -18,7 +18,7 @@ public sealed class FixturesClient(ApiSportsHttpClient http)
             FixturesJsonContext.Default.ApiResponseFixtureResponseArray,
             cancellationToken);
     }
-    
+
     public Task<ApiResponse<string[]>> GetRoundsAsync(
         FixturesRoundsQuery query,
         CancellationToken cancellationToken = default)
@@ -29,7 +29,18 @@ public sealed class FixturesClient(ApiSportsHttpClient http)
             FixturesJsonContext.Default.ApiResponseStringArray,
             cancellationToken);
     }
-    
+
+    public Task<ApiResponse<FixtureRound[]>> GetRoundsWithDatesAsync(
+        FixturesRoundsWithDatesQuery query,
+        CancellationToken cancellationToken = default)
+    {
+        return http.GetAsync(
+            "/fixtures/rounds",
+            query,
+            FixturesJsonContext.Default.ApiResponseFixtureRoundArray,
+            cancellationToken);
+    }
+
     public Task<ApiResponse<HeadToHead[]>> GetHeadToHeadAsync(
         FixturesHeadToHeadQuery query,
         CancellationToken cancellationToken = default)
@@ -40,7 +51,7 @@ public sealed class FixturesClient(ApiSportsHttpClient http)
             FixturesJsonContext.Default.ApiResponseHeadToHeadArray,
             cancellationToken);
     }
-    
+
     public Task<ApiResponse<FixtureStatisticsResponse[]>> GetStatisticsAsync(
         FixturesStatisticsQuery query,
         CancellationToken cancellationToken = default)
@@ -51,7 +62,7 @@ public sealed class FixturesClient(ApiSportsHttpClient http)
             FixturesJsonContext.Default.ApiResponseFixtureStatisticsResponseArray,
             cancellationToken);
     }
-    
+
     public Task<ApiResponse<FixtureEvent[]>> GetEventsAsync(
         FixturesEventsQuery query,
         CancellationToken cancellationToken = default)
@@ -62,7 +73,7 @@ public sealed class FixturesClient(ApiSportsHttpClient http)
             FixturesJsonContext.Default.ApiResponseFixtureEventArray,
             cancellationToken);
     }
-    
+
     public Task<ApiResponse<FixtureLineupResponse[]>> GetLineupsAsync(
         FixturesLineupsQuery query,
         CancellationToken cancellationToken = default)
@@ -73,7 +84,7 @@ public sealed class FixturesClient(ApiSportsHttpClient http)
             FixturesJsonContext.Default.ApiResponseFixtureLineupResponseArray,
             cancellationToken);
     }
-    
+
     public Task<ApiResponse<FixturePlayerResponse[]>> GetPlayersAsync(
         FixturesPlayersQuery query,
         CancellationToken cancellationToken = default)

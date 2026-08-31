@@ -1,18 +1,12 @@
-﻿using ApiSports.Sdk.Abstractions;
+using ApiSports.Sdk.Abstractions;
 
 namespace ApiSports.Sdk.Football.QueryParams;
 
-public class FixturesRoundsQuery : IQueryString
+public sealed class FixturesRoundsWithDatesQuery : IQueryString
 {
     public bool? Current { get; init; }
     public required int League { get; init; }
     public required int Season { get; init; }
-    /// <summary>
-    /// Use <see cref="FixturesRoundsWithDatesQuery"/> with
-    /// <c>FixturesClient.GetRoundsWithDatesAsync</c> when this value is true,
-    /// because the provider returns a different response shape.
-    /// </summary>
-    public bool? Dates { get; init; }
     public string? Timezone { get; init; }
 
     public IReadOnlyDictionary<string, string?> ToQueryParameters()
@@ -22,7 +16,7 @@ public class FixturesRoundsQuery : IQueryString
             ["current"] = Current?.ToString()?.ToLowerInvariant(),
             ["league"] = League.ToString(),
             ["season"] = Season.ToString(),
-            ["dates"] = Dates?.ToString().ToLowerInvariant(),
+            ["dates"] = "true",
             ["timezone"] = Timezone
         };
     }
