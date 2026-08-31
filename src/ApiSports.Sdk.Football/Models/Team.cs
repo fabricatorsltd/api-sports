@@ -9,6 +9,9 @@ namespace ApiSports.Sdk.Football.Models
         
         [JsonPropertyName("name")]
         public string Name { get; set; }
+
+        [JsonPropertyName("code")]
+        public string? Code { get; set; }
         
         [JsonPropertyName("country")]
         public string Country { get; set; }

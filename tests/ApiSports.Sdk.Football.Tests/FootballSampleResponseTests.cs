@@ -24,6 +24,19 @@ public sealed class FootballSampleResponseTests
         endpoint.AssertSample(json ?? string.Empty);
     }
 
+    [SkippableFact]
+    public void TeamCodeIsDeserializedFromTheOfficialSample()
+    {
+        (bool found, string? json) = SampleJsonLoader.TryLoadFootballSample("teams/teams.json");
+        Skip.If(!found, "Missing concrete sample json for /teams.");
+
+        ApiResponse<ApiTeamResponse[]>? parsed = JsonSerializer.Deserialize(
+            json ?? string.Empty,
+            FootballJsonContext.Default.ApiResponseApiTeamResponseArray);
+
+        Assert.Equal("LAZ", parsed?.Response?.FirstOrDefault()?.Team.Code);
+    }
+
     private static IEnumerable<ISampleEndpoint> BuildSampleEndpoints()
     {
         FootballJsonContext context = FootballJsonContext.Default;
