@@ -14,7 +14,7 @@ namespace ApiSports.Sdk.Football.Models
         public string? Code { get; set; }
         
         [JsonPropertyName("country")]
-        public string Country { get; set; }
+        public string? Country { get; set; }
         
         [JsonPropertyName("founded")]
         public ushort? Founded { get; set; }

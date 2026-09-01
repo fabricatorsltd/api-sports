@@ -38,6 +38,41 @@ public sealed class FootballSampleResponseTests
     }
 
     [Fact]
+    public void TeamCountryCanBeNullInAProviderResponse()
+    {
+        const string json =
+            """
+            {
+              "get": "teams",
+              "parameters": { "league": "1", "season": "2026" },
+              "errors": [],
+              "results": 1,
+              "paging": { "current": 1, "total": 1 },
+              "response": [
+                {
+                  "team": {
+                    "id": 1,
+                    "name": "Provider team",
+                    "code": null,
+                    "country": null,
+                    "founded": null,
+                    "national": false,
+                    "logo": "https://media.api-sports.io/football/teams/1.png"
+                  },
+                  "venue": null
+                }
+              ]
+            }
+            """;
+
+        ApiResponse<ApiTeamResponse[]>? parsed = JsonSerializer.Deserialize(
+            json,
+            FootballJsonContext.Default.ApiResponseApiTeamResponseArray);
+
+        Assert.Null(Assert.Single(parsed?.Response ?? []).Team.Country);
+    }
+
+    [Fact]
     public void FixtureExtraAndStandingsAreDeserializedFromTheOfficialSample()
     {
         (bool found, string? json) = SampleJsonLoader.TryLoadFootballSample("fixtures/fixtures.json");

@@ -8,6 +8,7 @@ the provider version and SDK version must be tracked independently.
 
 | SDK package | Provider product | Provider contract | Last reviewed | Review status |
 | --- | --- | --- | --- | --- |
+| `ApiSports.Sdk.Football` 1.1.1 | API-Football v3 | 3.9.3 | 2026-09-01 | `Team.Country` corrected to nullable from observed provider data |
 | `ApiSports.Sdk.Football` 1.1.0 | API-Football v3 | 3.9.3 | 2026-08-31 | All 3.9.3 changelog entries reviewed |
 
 The provider documentation and the bundled specification both identify the
